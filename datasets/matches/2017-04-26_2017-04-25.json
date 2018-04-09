@@ -1,0 +1,53 @@
+[
+  {
+    "match_id": 3139849017,
+    "avg": "1930.0000000000000000",
+    "count": 1,
+    "winrate": 0.5,
+    "winrate_wilson": 0.236589593615487,
+    "sum": 19300,
+    "min": 1930,
+    "max": 1930,
+    "match_patch": "(3139849017,7.05)",
+    "radiant_team_id": 3971206,
+    "dire_team_id": 4258635,
+    "radiant_win": true,
+    "radiant_score": 20,
+    "dire_score": 26,
+    "League": "CZ-SK Dota 2 League Season 9"
+  },
+  {
+    "match_id": 3139792068,
+    "avg": "1514.0000000000000000",
+    "count": 1,
+    "winrate": 0.5,
+    "winrate_wilson": 0.236589593615487,
+    "sum": 15140,
+    "min": 1514,
+    "max": 1514,
+    "match_patch": "(3139792068,7.05)",
+    "radiant_team_id": 4258635,
+    "dire_team_id": 3971206,
+    "radiant_win": false,
+    "radiant_score": 20,
+    "dire_score": 32,
+    "League": "CZ-SK Dota 2 League Season 9"
+  },
+  {
+    "match_id": 3140076514,
+    "avg": "1203.0000000000000000",
+    "count": 1,
+    "winrate": 0.5,
+    "winrate_wilson": 0.236589593615487,
+    "sum": 12030,
+    "min": 1203,
+    "max": 1203,
+    "match_patch": "(3140076514,7.05)",
+    "radiant_team_id": null,
+    "dire_team_id": null,
+    "radiant_win": true,
+    "radiant_score": 34,
+    "dire_score": 16,
+    "League": "CZ-SK Dota 2 League Season 9"
+  }
+]

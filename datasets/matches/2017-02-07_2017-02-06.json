@@ -1,0 +1,36 @@
+[
+  {
+    "match_id": 2980043002,
+    "avg": "2330.0000000000000000",
+    "count": 1,
+    "winrate": 0.5,
+    "winrate_wilson": 0.236589593615487,
+    "sum": 23300,
+    "min": 2330,
+    "max": 2330,
+    "match_patch": "(2980043002,7.01)",
+    "radiant_team_id": 3706823,
+    "dire_team_id": 3444994,
+    "radiant_win": false,
+    "radiant_score": 3,
+    "dire_score": 22,
+    "League": "AEF Season 1 Qualifiers"
+  },
+  {
+    "match_id": 2980205424,
+    "avg": "1458.0000000000000000",
+    "count": 1,
+    "winrate": 0.5,
+    "winrate_wilson": 0.236589593615487,
+    "sum": 14580,
+    "min": 1458,
+    "max": 1458,
+    "match_patch": "(2980205424,7.01)",
+    "radiant_team_id": 3444994,
+    "dire_team_id": 3706823,
+    "radiant_win": true,
+    "radiant_score": 23,
+    "dire_score": 14,
+    "League": "AEF Season 1 Qualifiers"
+  }
+]
