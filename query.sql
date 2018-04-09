@@ -1,37 +1,21 @@
 SELECT
-matches.match_id ,
-avg(duration) avg,
-count(distinct matches.match_id) count,
-sum(case when (player_matches.player_slot < 128) = radiant_win then 1 else 0 end)::float/count(1) winrate,
-((sum(case when (player_matches.player_slot < 128) = radiant_win then 1 else 0 end)::float/count(1)) 
-  + 1.96 * 1.96 / (2 * count(1)) 
-  - 1.96 * sqrt((((sum(case when (player_matches.player_slot < 128) = radiant_win then 1 else 0 end)::float/count(1)) * (1 - (sum(case when (player_matches.player_slot < 128) = radiant_win then 1 else 0 end)::float/count(1))) + 1.96 * 1.96 / (4 * count(1))) / count(1))))
-  / (1 + 1.96 * 1.96 / count(1)) winrate_wilson,
-sum(duration) sum,
-min(duration) min,
-max(duration) max,
+date_trunc('day', to_timestamp(start_time)) AS "date",
+matches.match_id,
+matches.duration AS "duration (seconds)",
 match_patch,
-radiant_team_id,
-dire_team_id,
-radiant_win,
+r.name AS "Radiant Team",
 radiant_score,
+d.name AS "Dire Team",
 dire_score,
-matches.start_time,
-leagues.name as "League"
+CASE WHEN radiant_win THEN 'Radiant' ELSE 'Dire' end AS "Winner"
 FROM matches
-JOIN match_patch using(match_id)
-JOIN leagues using(leagueid)
-JOIN player_matches using(match_id)
-JOIN heroes on heroes.id = player_matches.hero_id
-LEFT JOIN notable_players ON notable_players.account_id = player_matches.account_id AND notable_players.locked_until = (SELECT MAX(locked_until) FROM notable_players)
-LEFT JOIN teams using(team_id)
-WHERE TRUE
-AND duration IS NOT NULL
+LEFT JOIN match_patch ON match_patch.match_id = matches.match_id
+LEFT JOIN leagues ON leagues.leagueid = matches.leagueid
+LEFT JOIN teams r ON r.team_id = matches.radiant_team_id 
+LEFT JOIN teams d ON d.team_id = matches.dire_team_id 
+WHERE duration IS NOT NULL
+AND tier = 'professional'
 AND matches.start_time >= extract(epoch from timestamp '__BOTTOM_DATE__')
 AND matches.start_time <= extract(epoch from timestamp '__TOP_DATE__')
-AND leagues.tier = 'professional'
-
-GROUP BY matches.match_id, leagues.name,  match_patch
-HAVING count(distinct matches.match_id) >= 1
-ORDER BY avg DESC,count DESC NULLS LAST
-LIMIT 200
+ORDER BY date_trunc('day', to_timestamp(start_time)) 
+LIMIT 200;
