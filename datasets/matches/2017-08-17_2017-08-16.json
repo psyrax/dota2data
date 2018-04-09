@@ -14,6 +14,7 @@
     "radiant_win": false,
     "radiant_score": 57,
     "dire_score": 59,
+    "start_time": 1502907425,
     "League": "ProDotA Cup Series by Azubu.tv"
   },
   {
@@ -31,6 +32,7 @@
     "radiant_win": true,
     "radiant_score": 43,
     "dire_score": 51,
+    "start_time": 1502912658,
     "League": "ProDotA Cup by Azubu"
   },
   {
@@ -48,6 +50,7 @@
     "radiant_win": false,
     "radiant_score": 51,
     "dire_score": 38,
+    "start_time": 1502888239,
     "League": "ProDotA Cup by Azubu"
   },
   {
@@ -65,6 +68,7 @@
     "radiant_win": false,
     "radiant_score": 23,
     "dire_score": 42,
+    "start_time": 1502872948,
     "League": "ProDotA Cup by Azubu"
   },
   {
@@ -82,6 +86,7 @@
     "radiant_win": false,
     "radiant_score": 12,
     "dire_score": 37,
+    "start_time": 1502895424,
     "League": "ProDotA Cup by Azubu"
   },
   {
@@ -99,6 +104,7 @@
     "radiant_win": true,
     "radiant_score": 37,
     "dire_score": 16,
+    "start_time": 1502882759,
     "League": "ProDotA Cup by Azubu"
   },
   {
@@ -116,6 +122,7 @@
     "radiant_win": true,
     "radiant_score": 31,
     "dire_score": 8,
+    "start_time": 1502892058,
     "League": "ProDotA Cup by Azubu"
   },
   {
@@ -133,6 +140,7 @@
     "radiant_win": false,
     "radiant_score": 15,
     "dire_score": 35,
+    "start_time": 1502893375,
     "League": "ProDotA Cup by Azubu"
   },
   {
@@ -150,6 +158,7 @@
     "radiant_win": false,
     "radiant_score": 17,
     "dire_score": 26,
+    "start_time": 1502904452,
     "League": "ProDotA Cup Series by Azubu.tv"
   },
   {
@@ -167,6 +176,7 @@
     "radiant_win": false,
     "radiant_score": 15,
     "dire_score": 23,
+    "start_time": 1502870683,
     "League": "ProDotA Cup by Azubu"
   },
   {
@@ -184,6 +194,7 @@
     "radiant_win": false,
     "radiant_score": 9,
     "dire_score": 43,
+    "start_time": 1502879856,
     "League": "ProDotA Cup by Azubu"
   },
   {
@@ -201,6 +212,7 @@
     "radiant_win": true,
     "radiant_score": 33,
     "dire_score": 12,
+    "start_time": 1502894143,
     "League": "ESL India Premiership - 2017 Edition"
   },
   {
@@ -218,6 +230,7 @@
     "radiant_win": false,
     "radiant_score": 5,
     "dire_score": 31,
+    "start_time": 1502894837,
     "League": "ESL India Premiership - 2017 Edition"
   }
 ]

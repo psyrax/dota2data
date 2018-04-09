@@ -1,0 +1,38 @@
+[
+  {
+    "match_id": 2328032383,
+    "avg": "2230.0000000000000000",
+    "count": 1,
+    "winrate": 0.5,
+    "winrate_wilson": 0.236589593615487,
+    "sum": 22300,
+    "min": 2230,
+    "max": 2230,
+    "match_patch": "(2328032383,6.87)",
+    "radiant_team_id": null,
+    "dire_team_id": null,
+    "radiant_win": true,
+    "radiant_score": 35,
+    "dire_score": 20,
+    "start_time": 1461937254,
+    "League": "Mineski Pro Gaming League Season 8"
+  },
+  {
+    "match_id": 2327857490,
+    "avg": "1483.0000000000000000",
+    "count": 1,
+    "winrate": 0.5,
+    "winrate_wilson": 0.236589593615487,
+    "sum": 14830,
+    "min": 1483,
+    "max": 1483,
+    "match_patch": "(2327857490,6.87)",
+    "radiant_team_id": null,
+    "dire_team_id": null,
+    "radiant_win": true,
+    "radiant_score": 29,
+    "dire_score": 6,
+    "start_time": 1461933070,
+    "League": "Mineski Pro Gaming League Season 8"
+  }
+]

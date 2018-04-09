@@ -14,6 +14,7 @@
     "radiant_win": true,
     "radiant_score": 54,
     "dire_score": 33,
+    "start_time": 1517781480,
     "League": "Polupro ladder league season 1"
   },
   {
@@ -31,6 +32,7 @@
     "radiant_win": false,
     "radiant_score": 32,
     "dire_score": 47,
+    "start_time": 1517772859,
     "League": "Polupro ladder league season 1"
   },
   {
@@ -48,6 +50,7 @@
     "radiant_win": false,
     "radiant_score": 20,
     "dire_score": 30,
+    "start_time": 1517778776,
     "League": "Polupro ladder league season 1"
   }
 ]

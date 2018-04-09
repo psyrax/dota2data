@@ -14,6 +14,7 @@
     "radiant_win": false,
     "radiant_score": 28,
     "dire_score": 57,
+    "start_time": 1508867123,
     "League": "Polupro ladder league season 1"
   },
   {
@@ -31,6 +32,7 @@
     "radiant_win": false,
     "radiant_score": 33,
     "dire_score": 55,
+    "start_time": 1508826094,
     "League": "Dota 2 Professional League 2016"
   },
   {
@@ -48,6 +50,7 @@
     "radiant_win": false,
     "radiant_score": 46,
     "dire_score": 41,
+    "start_time": 1508821541,
     "League": "Dota 2 Professional League 2016"
   },
   {
@@ -65,6 +68,7 @@
     "radiant_win": false,
     "radiant_score": 46,
     "dire_score": 36,
+    "start_time": 1508839250,
     "League": "Dota 2 Professional League 2016"
   },
   {
@@ -82,6 +86,7 @@
     "radiant_win": false,
     "radiant_score": 19,
     "dire_score": 38,
+    "start_time": 1508846063,
     "League": "Dota 2 Professional League 2016"
   },
   {
@@ -99,6 +104,7 @@
     "radiant_win": false,
     "radiant_score": 37,
     "dire_score": 53,
+    "start_time": 1508837397,
     "League": "ProDotA Cup Series"
   },
   {
@@ -116,6 +122,7 @@
     "radiant_win": true,
     "radiant_score": 17,
     "dire_score": 24,
+    "start_time": 1508834709,
     "League": "Dota 2 Professional League 2016"
   },
   {
@@ -133,6 +140,7 @@
     "radiant_win": false,
     "radiant_score": 23,
     "dire_score": 38,
+    "start_time": 1508856229,
     "League": "ESL India Premiership - 2017 Edition"
   },
   {
@@ -150,6 +158,7 @@
     "radiant_win": true,
     "radiant_score": 37,
     "dire_score": 10,
+    "start_time": 1508830669,
     "League": "Dota 2 Professional League 2016"
   },
   {
@@ -167,6 +176,7 @@
     "radiant_win": false,
     "radiant_score": 14,
     "dire_score": 36,
+    "start_time": 1508858256,
     "League": "D2CL Season 7"
   },
   {
@@ -184,6 +194,7 @@
     "radiant_win": true,
     "radiant_score": 38,
     "dire_score": 29,
+    "start_time": 1508874131,
     "League": "Polupro ladder league season 1"
   },
   {
@@ -201,6 +212,7 @@
     "radiant_win": true,
     "radiant_score": 32,
     "dire_score": 15,
+    "start_time": 1508850211,
     "League": "Dota 2 Professional League 2016"
   },
   {
@@ -218,6 +230,7 @@
     "radiant_win": true,
     "radiant_score": 32,
     "dire_score": 15,
+    "start_time": 1508837852,
     "League": "AEF Season 2"
   },
   {
@@ -235,6 +248,7 @@
     "radiant_win": true,
     "radiant_score": 41,
     "dire_score": 22,
+    "start_time": 1508853769,
     "League": "Dota 2 Professional League 2016"
   },
   {
@@ -252,6 +266,7 @@
     "radiant_win": true,
     "radiant_score": 44,
     "dire_score": 15,
+    "start_time": 1508833973,
     "League": "ProDotA Cup Series"
   },
   {
@@ -269,6 +284,7 @@
     "radiant_win": false,
     "radiant_score": 23,
     "dire_score": 28,
+    "start_time": 1508868265,
     "League": "D2CL Season 7"
   },
   {
@@ -286,6 +302,7 @@
     "radiant_win": false,
     "radiant_score": 19,
     "dire_score": 38,
+    "start_time": 1508861534,
     "League": "D2CL Season 7"
   },
   {
@@ -303,6 +320,7 @@
     "radiant_win": false,
     "radiant_score": 18,
     "dire_score": 40,
+    "start_time": 1508864309,
     "League": "Polupro ladder league season 1"
   },
   {
@@ -320,6 +338,7 @@
     "radiant_win": false,
     "radiant_score": 17,
     "dire_score": 25,
+    "start_time": 1508871364,
     "League": "D2CL Season 7"
   },
   {
@@ -337,6 +356,7 @@
     "radiant_win": false,
     "radiant_score": 9,
     "dire_score": 22,
+    "start_time": 1508843279,
     "League": "Dota 2 Professional League 2016"
   },
   {
@@ -354,6 +374,7 @@
     "radiant_win": false,
     "radiant_score": 17,
     "dire_score": 32,
+    "start_time": 1508856722,
     "League": "Dota 2 Professional League 2016"
   },
   {
@@ -371,6 +392,7 @@
     "radiant_win": false,
     "radiant_score": 8,
     "dire_score": 32,
+    "start_time": 1508856891,
     "League": "ESL India Premiership - 2017 Edition"
   },
   {
@@ -388,6 +410,7 @@
     "radiant_win": false,
     "radiant_score": 5,
     "dire_score": 16,
+    "start_time": 1508857876,
     "League": "ProDotA Cup Series"
   },
   {
@@ -405,6 +428,7 @@
     "radiant_win": true,
     "radiant_score": 22,
     "dire_score": 17,
+    "start_time": 1508835657,
     "League": "AEF Season 2"
   },
   {
@@ -422,6 +446,7 @@
     "radiant_win": true,
     "radiant_score": 24,
     "dire_score": 2,
+    "start_time": 1508860495,
     "League": "ProDotA Cup Series"
   },
   {
@@ -439,6 +464,7 @@
     "radiant_win": false,
     "radiant_score": 14,
     "dire_score": 39,
+    "start_time": 1508835730,
     "League": "AEF Season 2"
   },
   {
@@ -456,6 +482,7 @@
     "radiant_win": true,
     "radiant_score": 24,
     "dire_score": 17,
+    "start_time": 1508871514,
     "League": "Polupro ladder league season 1"
   }
 ]

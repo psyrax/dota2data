@@ -14,6 +14,7 @@
     "radiant_win": false,
     "radiant_score": 63,
     "dire_score": 58,
+    "start_time": 1513579808,
     "League": "ProDotA Cup Series"
   },
   {
@@ -31,6 +32,7 @@
     "radiant_win": true,
     "radiant_score": 32,
     "dire_score": 26,
+    "start_time": 1513602833,
     "League": "D2CL Season 7"
   },
   {
@@ -48,6 +50,7 @@
     "radiant_win": false,
     "radiant_score": 34,
     "dire_score": 30,
+    "start_time": 1513592898,
     "League": "ProDotA Cup Series"
   },
   {
@@ -65,6 +68,7 @@
     "radiant_win": false,
     "radiant_score": 37,
     "dire_score": 52,
+    "start_time": 1513608251,
     "League": "D2CL Season 7"
   },
   {
@@ -82,6 +86,7 @@
     "radiant_win": false,
     "radiant_score": 13,
     "dire_score": 32,
+    "start_time": 1513597883,
     "League": "ProDotA Cup Series"
   },
   {
@@ -99,6 +104,7 @@
     "radiant_win": false,
     "radiant_score": 32,
     "dire_score": 39,
+    "start_time": 1513633220,
     "League": "Polupro ladder league season 1"
   },
   {
@@ -116,6 +122,7 @@
     "radiant_win": false,
     "radiant_score": 26,
     "dire_score": 50,
+    "start_time": 1513629984,
     "League": "Polupro ladder league season 1"
   },
   {
@@ -133,6 +140,7 @@
     "radiant_win": false,
     "radiant_score": 37,
     "dire_score": 48,
+    "start_time": 1513621172,
     "League": "Polupro ladder league season 1"
   },
   {
@@ -150,6 +158,7 @@
     "radiant_win": true,
     "radiant_score": 28,
     "dire_score": 7,
+    "start_time": 1513615061,
     "League": "D2CL Season 7"
   },
   {
@@ -167,6 +176,7 @@
     "radiant_win": false,
     "radiant_score": 28,
     "dire_score": 32,
+    "start_time": 1513624221,
     "League": "Polupro ladder league season 1"
   },
   {
@@ -184,6 +194,7 @@
     "radiant_win": true,
     "radiant_score": 28,
     "dire_score": 15,
+    "start_time": 1513619595,
     "League": "D2CL Season 7"
   },
   {
@@ -201,6 +212,7 @@
     "radiant_win": true,
     "radiant_score": 36,
     "dire_score": 33,
+    "start_time": 1513589313,
     "League": "ProDotA Cup Series"
   },
   {
@@ -218,6 +230,7 @@
     "radiant_win": false,
     "radiant_score": 13,
     "dire_score": 34,
+    "start_time": 1513618286,
     "League": "Polupro ladder league season 1"
   },
   {
@@ -235,6 +248,7 @@
     "radiant_win": true,
     "radiant_score": 24,
     "dire_score": 14,
+    "start_time": 1513623722,
     "League": "ProDotA Cup Series"
   },
   {
@@ -252,6 +266,7 @@
     "radiant_win": true,
     "radiant_score": 40,
     "dire_score": 19,
+    "start_time": 1513576742,
     "League": "ProDotA Cup Series"
   },
   {
@@ -269,6 +284,7 @@
     "radiant_win": false,
     "radiant_score": 13,
     "dire_score": 25,
+    "start_time": 1513586107,
     "League": "ProDotA Cup Series"
   },
   {
@@ -286,6 +302,7 @@
     "radiant_win": false,
     "radiant_score": 17,
     "dire_score": 40,
+    "start_time": 1513627548,
     "League": "Polupro ladder league season 1"
   }
 ]

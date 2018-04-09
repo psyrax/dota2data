@@ -14,6 +14,7 @@
     "radiant_win": true,
     "radiant_score": 42,
     "dire_score": 23,
+    "start_time": 1500200104,
     "League": "V Asian Indoor & Martial Arts Games National Qualifications"
   },
   {
@@ -31,6 +32,7 @@
     "radiant_win": true,
     "radiant_score": 35,
     "dire_score": 41,
+    "start_time": 1500217680,
     "League": "ProDotA Cup by Azubu"
   },
   {
@@ -48,6 +50,7 @@
     "radiant_win": true,
     "radiant_score": 41,
     "dire_score": 17,
+    "start_time": 1500212595,
     "League": "V Asian Indoor & Martial Arts Games National Qualifications"
   },
   {
@@ -65,6 +68,7 @@
     "radiant_win": true,
     "radiant_score": 47,
     "dire_score": 23,
+    "start_time": 1500247219,
     "League": "ProDotA Cup by Azubu"
   },
   {
@@ -82,6 +86,7 @@
     "radiant_win": false,
     "radiant_score": 5,
     "dire_score": 36,
+    "start_time": 1500208648,
     "League": "V Asian Indoor & Martial Arts Games National Qualifications"
   },
   {
@@ -99,6 +104,7 @@
     "radiant_win": false,
     "radiant_score": 9,
     "dire_score": 26,
+    "start_time": 1500244212,
     "League": "ProDotA Cup by Azubu"
   },
   {
@@ -116,6 +122,7 @@
     "radiant_win": true,
     "radiant_score": 23,
     "dire_score": 7,
+    "start_time": 1500221567,
     "League": "ProDotA Cup by Azubu"
   }
 ]

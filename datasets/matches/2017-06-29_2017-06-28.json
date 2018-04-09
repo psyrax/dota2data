@@ -14,6 +14,7 @@
     "radiant_win": true,
     "radiant_score": 52,
     "dire_score": 26,
+    "start_time": 1498660352,
     "League": "Dota 2 The Open Tournament "
   },
   {
@@ -31,6 +32,7 @@
     "radiant_win": false,
     "radiant_score": 15,
     "dire_score": 28,
+    "start_time": 1498656392,
     "League": "CONQUERORS INSIGNIA MINI (Season 1) Online qualifiers"
   },
   {
@@ -48,6 +50,7 @@
     "radiant_win": false,
     "radiant_score": 37,
     "dire_score": 46,
+    "start_time": 1498648205,
     "League": "CONQUERORS INSIGNIA MINI (Season 1) Online qualifiers"
   },
   {
@@ -65,6 +68,7 @@
     "radiant_win": false,
     "radiant_score": 23,
     "dire_score": 28,
+    "start_time": 1498657087,
     "League": "Dota 2 The Open Tournament "
   },
   {
@@ -82,6 +86,7 @@
     "radiant_win": true,
     "radiant_score": 33,
     "dire_score": 20,
+    "start_time": 1498656629,
     "League": "Dota 2 The Open Tournament "
   },
   {
@@ -99,6 +104,7 @@
     "radiant_win": false,
     "radiant_score": 10,
     "dire_score": 27,
+    "start_time": 1498660809,
     "League": "Dota 2 The Open Tournament "
   },
   {
@@ -116,6 +122,7 @@
     "radiant_win": false,
     "radiant_score": 3,
     "dire_score": 28,
+    "start_time": 1498642573,
     "League": "CONQUERORS INSIGNIA MINI (Season 1) Online qualifiers"
   }
 ]

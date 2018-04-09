@@ -14,6 +14,7 @@
     "radiant_win": true,
     "radiant_score": 40,
     "dire_score": 34,
+    "start_time": 1493753180,
     "League": "CZ-SK Dota 2 League Season 9"
   },
   {
@@ -31,6 +32,7 @@
     "radiant_win": true,
     "radiant_score": 37,
     "dire_score": 37,
+    "start_time": 1493687530,
     "League": "Dota 2 Challenge Mexico"
   },
   {
@@ -48,6 +50,7 @@
     "radiant_win": true,
     "radiant_score": 37,
     "dire_score": 27,
+    "start_time": 1493731404,
     "League": "ESL India Premiership - Season One"
   },
   {
@@ -65,6 +68,7 @@
     "radiant_win": true,
     "radiant_score": 42,
     "dire_score": 44,
+    "start_time": 1493693758,
     "League": "Dota 2 Challenge Mexico"
   },
   {
@@ -82,6 +86,7 @@
     "radiant_win": true,
     "radiant_score": 32,
     "dire_score": 3,
+    "start_time": 1493733263,
     "League": "Dota 2 The Open Tournament "
   },
   {
@@ -99,6 +104,7 @@
     "radiant_win": true,
     "radiant_score": 23,
     "dire_score": 9,
+    "start_time": 1493744850,
     "League": "CZ-SK Dota 2 League Season 9"
   },
   {
@@ -116,6 +122,7 @@
     "radiant_win": true,
     "radiant_score": 24,
     "dire_score": 14,
+    "start_time": 1493690687,
     "League": "Dota 2 Challenge Mexico"
   },
   {
@@ -133,6 +140,7 @@
     "radiant_win": false,
     "radiant_score": 16,
     "dire_score": 27,
+    "start_time": 1493694935,
     "League": "Dota 2 Challenge Mexico"
   },
   {
@@ -150,6 +158,7 @@
     "radiant_win": true,
     "radiant_score": 30,
     "dire_score": 10,
+    "start_time": 1493747814,
     "League": "CZ-SK Dota 2 League Season 9"
   },
   {
@@ -167,6 +176,7 @@
     "radiant_win": false,
     "radiant_score": 19,
     "dire_score": 23,
+    "start_time": 1493750522,
     "League": "CZ-SK Dota 2 League Season 9"
   },
   {
@@ -184,6 +194,7 @@
     "radiant_win": false,
     "radiant_score": 16,
     "dire_score": 27,
+    "start_time": 1493731527,
     "League": "ESL India Premiership - Season One"
   }
 ]

@@ -14,6 +14,7 @@
     "radiant_win": false,
     "radiant_score": 56,
     "dire_score": 50,
+    "start_time": 1510159529,
     "League": "ProDotA Cup Series"
   },
   {
@@ -31,6 +32,7 @@
     "radiant_win": false,
     "radiant_score": 22,
     "dire_score": 39,
+    "start_time": 1510135479,
     "League": "AEF Season 2"
   },
   {
@@ -48,6 +50,7 @@
     "radiant_win": false,
     "radiant_score": 15,
     "dire_score": 30,
+    "start_time": 1510168959,
     "League": "The Summit 5"
   },
   {
@@ -65,6 +68,7 @@
     "radiant_win": true,
     "radiant_score": 32,
     "dire_score": 26,
+    "start_time": 1510135834,
     "League": "The Summit 5"
   },
   {
@@ -82,6 +86,7 @@
     "radiant_win": false,
     "radiant_score": 24,
     "dire_score": 30,
+    "start_time": 1510135594,
     "League": "AEF Season 2"
   },
   {
@@ -99,6 +104,7 @@
     "radiant_win": false,
     "radiant_score": 18,
     "dire_score": 31,
+    "start_time": 1510140599,
     "League": "The Summit 5"
   },
   {
@@ -116,6 +122,7 @@
     "radiant_win": false,
     "radiant_score": 26,
     "dire_score": 32,
+    "start_time": 1510131656,
     "League": "The Summit 5"
   },
   {
@@ -133,6 +140,7 @@
     "radiant_win": false,
     "radiant_score": 23,
     "dire_score": 40,
+    "start_time": 1510164978,
     "League": "The Summit 5"
   },
   {
@@ -150,6 +158,7 @@
     "radiant_win": true,
     "radiant_score": 37,
     "dire_score": 21,
+    "start_time": 1510131634,
     "League": "AEF Season 2"
   },
   {
@@ -167,6 +176,7 @@
     "radiant_win": false,
     "radiant_score": 15,
     "dire_score": 36,
+    "start_time": 1510164448,
     "League": "ProDotA Cup Series"
   },
   {
@@ -184,6 +194,7 @@
     "radiant_win": true,
     "radiant_score": 25,
     "dire_score": 6,
+    "start_time": 1510131655,
     "League": "AEF Season 2"
   },
   {
@@ -201,6 +212,7 @@
     "radiant_win": true,
     "radiant_score": 34,
     "dire_score": 23,
+    "start_time": 1510150120,
     "League": "The Summit 5"
   },
   {
@@ -218,6 +230,7 @@
     "radiant_win": true,
     "radiant_score": 28,
     "dire_score": 18,
+    "start_time": 1510135050,
     "League": "AEF Season 2"
   },
   {
@@ -235,6 +248,7 @@
     "radiant_win": true,
     "radiant_score": 32,
     "dire_score": 16,
+    "start_time": 1510161232,
     "League": "The Summit 5"
   },
   {
@@ -252,6 +266,7 @@
     "radiant_win": true,
     "radiant_score": 25,
     "dire_score": 12,
+    "start_time": 1510153625,
     "League": "The Summit 5"
   },
   {
@@ -269,6 +284,7 @@
     "radiant_win": true,
     "radiant_score": 35,
     "dire_score": 14,
+    "start_time": 1510150236,
     "League": "The Summit 5"
   },
   {
@@ -286,6 +302,7 @@
     "radiant_win": false,
     "radiant_score": 11,
     "dire_score": 29,
+    "start_time": 1510132010,
     "League": "AEF Season 2"
   },
   {
@@ -303,6 +320,7 @@
     "radiant_win": true,
     "radiant_score": 25,
     "dire_score": 18,
+    "start_time": 1510146888,
     "League": "The Summit 5"
   },
   {
@@ -320,6 +338,7 @@
     "radiant_win": true,
     "radiant_score": 39,
     "dire_score": 8,
+    "start_time": 1510139578,
     "League": "AEF Season 2"
   },
   {
@@ -337,6 +356,7 @@
     "radiant_win": false,
     "radiant_score": 10,
     "dire_score": 25,
+    "start_time": 1510156807,
     "League": "ProDotA Cup Series"
   },
   {
@@ -354,6 +374,7 @@
     "radiant_win": true,
     "radiant_score": 26,
     "dire_score": 2,
+    "start_time": 1510134787,
     "League": "AEF Season 2"
   }
 ]

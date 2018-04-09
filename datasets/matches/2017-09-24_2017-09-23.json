@@ -14,6 +14,7 @@
     "radiant_win": false,
     "radiant_score": 21,
     "dire_score": 49,
+    "start_time": 1506176298,
     "League": "ProDotA Cup by Azubu"
   },
   {
@@ -31,6 +32,7 @@
     "radiant_win": false,
     "radiant_score": 14,
     "dire_score": 31,
+    "start_time": 1506172154,
     "League": "ProDotA Cup by Azubu"
   },
   {
@@ -48,6 +50,7 @@
     "radiant_win": true,
     "radiant_score": 35,
     "dire_score": 24,
+    "start_time": 1506150280,
     "League": "ProDotA Cup by Azubu"
   },
   {
@@ -65,6 +68,7 @@
     "radiant_win": true,
     "radiant_score": 44,
     "dire_score": 15,
+    "start_time": 1506146454,
     "League": "ProDotA Cup by Azubu"
   },
   {
@@ -82,6 +86,7 @@
     "radiant_win": true,
     "radiant_score": 37,
     "dire_score": 14,
+    "start_time": 1506181081,
     "League": "ProDotA Cup by Azubu"
   },
   {
@@ -99,6 +104,7 @@
     "radiant_win": true,
     "radiant_score": 28,
     "dire_score": 18,
+    "start_time": 1506143443,
     "League": "ProDotA Cup by Azubu"
   },
   {
@@ -116,6 +122,7 @@
     "radiant_win": true,
     "radiant_score": 24,
     "dire_score": 4,
+    "start_time": 1506188787,
     "League": "D2CL Season 6"
   }
 ]

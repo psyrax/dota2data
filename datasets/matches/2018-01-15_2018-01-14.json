@@ -14,6 +14,7 @@
     "radiant_win": false,
     "radiant_score": 39,
     "dire_score": 60,
+    "start_time": 1515899162,
     "League": "World Electronic Sports Games 2017"
   },
   {
@@ -31,6 +32,7 @@
     "radiant_win": true,
     "radiant_score": 32,
     "dire_score": 5,
+    "start_time": 1515927010,
     "League": "World Electronic Sports Games 2017"
   },
   {
@@ -48,6 +50,7 @@
     "radiant_win": true,
     "radiant_score": 39,
     "dire_score": 13,
+    "start_time": 1515900064,
     "League": "World Electronic Sports Games 2017"
   },
   {
@@ -65,6 +68,7 @@
     "radiant_win": false,
     "radiant_score": 19,
     "dire_score": 31,
+    "start_time": 1515904685,
     "League": "World Electronic Sports Games 2017"
   },
   {
@@ -82,6 +86,7 @@
     "radiant_win": true,
     "radiant_score": 28,
     "dire_score": 18,
+    "start_time": 1515917766,
     "League": "World Electronic Sports Games 2017"
   },
   {
@@ -99,6 +104,7 @@
     "radiant_win": true,
     "radiant_score": 42,
     "dire_score": 22,
+    "start_time": 1515918301,
     "League": "World Electronic Sports Games 2017"
   },
   {
@@ -116,6 +122,7 @@
     "radiant_win": false,
     "radiant_score": 26,
     "dire_score": 30,
+    "start_time": 1515934618,
     "League": "ProDotA Cup Series"
   },
   {
@@ -133,6 +140,7 @@
     "radiant_win": false,
     "radiant_score": 20,
     "dire_score": 17,
+    "start_time": 1515923083,
     "League": "World Electronic Sports Games 2017"
   },
   {
@@ -150,6 +158,7 @@
     "radiant_win": false,
     "radiant_score": 22,
     "dire_score": 42,
+    "start_time": 1515945946,
     "League": "ProDotA Cup Series"
   },
   {
@@ -167,6 +176,7 @@
     "radiant_win": true,
     "radiant_score": 28,
     "dire_score": 22,
+    "start_time": 1515956529,
     "League": "Polupro ladder league season 1"
   },
   {
@@ -184,6 +194,7 @@
     "radiant_win": true,
     "radiant_score": 39,
     "dire_score": 16,
+    "start_time": 1515904385,
     "League": "World Electronic Sports Games 2017"
   },
   {
@@ -201,6 +212,7 @@
     "radiant_win": false,
     "radiant_score": 21,
     "dire_score": 40,
+    "start_time": 1515907849,
     "League": "World Electronic Sports Games 2017"
   },
   {
@@ -218,6 +230,7 @@
     "radiant_win": false,
     "radiant_score": 13,
     "dire_score": 46,
+    "start_time": 1515914651,
     "League": "World Electronic Sports Games 2017"
   },
   {
@@ -235,6 +248,7 @@
     "radiant_win": false,
     "radiant_score": 17,
     "dire_score": 39,
+    "start_time": 1515949070,
     "League": "ProDotA Cup Series"
   },
   {
@@ -252,6 +266,7 @@
     "radiant_win": true,
     "radiant_score": 30,
     "dire_score": 12,
+    "start_time": 1515937655,
     "League": "ProDotA Cup Series"
   },
   {
@@ -269,6 +284,7 @@
     "radiant_win": false,
     "radiant_score": 11,
     "dire_score": 32,
+    "start_time": 1515951529,
     "League": "ProDotA Cup Series"
   }
 ]

@@ -14,6 +14,7 @@
     "radiant_win": false,
     "radiant_score": 16,
     "dire_score": 35,
+    "start_time": 1505581541,
     "League": "The Summit 5"
   },
   {
@@ -31,6 +32,7 @@
     "radiant_win": true,
     "radiant_score": 23,
     "dire_score": 18,
+    "start_time": 1505599457,
     "League": "The Summit 5"
   },
   {
@@ -48,6 +50,7 @@
     "radiant_win": false,
     "radiant_score": 23,
     "dire_score": 23,
+    "start_time": 1505586339,
     "League": "The Summit 5"
   },
   {
@@ -65,6 +68,7 @@
     "radiant_win": true,
     "radiant_score": 30,
     "dire_score": 15,
+    "start_time": 1505585385,
     "League": "ProDotA Cup by Azubu"
   },
   {
@@ -82,6 +86,7 @@
     "radiant_win": false,
     "radiant_score": 14,
     "dire_score": 21,
+    "start_time": 1505603350,
     "League": "The Summit 5"
   }
 ]

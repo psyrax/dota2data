@@ -14,6 +14,7 @@
     "radiant_win": false,
     "radiant_score": 29,
     "dire_score": 48,
+    "start_time": 1483668437,
     "League": "KOD League Season 2"
   },
   {
@@ -31,6 +32,7 @@
     "radiant_win": false,
     "radiant_score": 30,
     "dire_score": 42,
+    "start_time": 1483673031,
     "League": "KOD League Season 2"
   },
   {
@@ -48,6 +50,7 @@
     "radiant_win": true,
     "radiant_score": 19,
     "dire_score": 16,
+    "start_time": 1483735216,
     "League": "SL i-League StarSeries S3"
   },
   {
@@ -65,6 +68,7 @@
     "radiant_win": true,
     "radiant_score": 30,
     "dire_score": 9,
+    "start_time": 1483729178,
     "League": "SL i-League StarSeries S3"
   },
   {
@@ -82,6 +86,7 @@
     "radiant_win": true,
     "radiant_score": 20,
     "dire_score": 5,
+    "start_time": 1483732512,
     "League": "SL i-League StarSeries S3"
   }
 ]

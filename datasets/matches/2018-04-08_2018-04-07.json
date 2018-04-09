@@ -14,6 +14,7 @@
     "radiant_win": false,
     "radiant_score": 27,
     "dire_score": 36,
+    "start_time": 1523077391,
     "League": "Dota 2 Professional League 2016"
   },
   {
@@ -31,6 +32,7 @@
     "radiant_win": false,
     "radiant_score": 22,
     "dire_score": 26,
+    "start_time": 1523084627,
     "League": "Dota 2 Professional League 2016"
   },
   {
@@ -48,6 +50,7 @@
     "radiant_win": true,
     "radiant_score": 32,
     "dire_score": 20,
+    "start_time": 1523098448,
     "League": "Dota 2 Professional League 2016"
   },
   {
@@ -65,6 +68,7 @@
     "radiant_win": false,
     "radiant_score": 16,
     "dire_score": 35,
+    "start_time": 1523095048,
     "League": "Dota 2 Professional League 2016"
   },
   {
@@ -82,6 +86,7 @@
     "radiant_win": true,
     "radiant_score": 26,
     "dire_score": 13,
+    "start_time": 1523102278,
     "League": "Dota 2 Professional League 2016"
   },
   {
@@ -99,6 +104,7 @@
     "radiant_win": false,
     "radiant_score": 21,
     "dire_score": 26,
+    "start_time": 1523081739,
     "League": "Dota 2 Professional League 2016"
   },
   {
@@ -116,6 +122,7 @@
     "radiant_win": true,
     "radiant_score": 25,
     "dire_score": 12,
+    "start_time": 1523092290,
     "League": "Dota 2 Professional League 2016"
   },
   {
@@ -133,6 +140,7 @@
     "radiant_win": false,
     "radiant_score": 9,
     "dire_score": 31,
+    "start_time": 1523111715,
     "League": "ESL India Premiership - 2017 Edition"
   },
   {
@@ -150,6 +158,7 @@
     "radiant_win": false,
     "radiant_score": 22,
     "dire_score": 25,
+    "start_time": 1523089068,
     "League": "Dota 2 Professional League 2016"
   }
 ]

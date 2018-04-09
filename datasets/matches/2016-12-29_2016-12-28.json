@@ -14,6 +14,7 @@
     "radiant_win": false,
     "radiant_score": 37,
     "dire_score": 39,
+    "start_time": 1482951955,
     "League": "Royal Arena"
   },
   {
@@ -31,6 +32,7 @@
     "radiant_win": true,
     "radiant_score": 34,
     "dire_score": 33,
+    "start_time": 1482948028,
     "League": "Royal Arena"
   },
   {
@@ -48,6 +50,7 @@
     "radiant_win": true,
     "radiant_score": 39,
     "dire_score": 31,
+    "start_time": 1482912408,
     "League": "SL i-League StarSeries S3"
   },
   {
@@ -65,6 +68,7 @@
     "radiant_win": false,
     "radiant_score": 9,
     "dire_score": 23,
+    "start_time": 1482941152,
     "League": "Royal Arena"
   },
   {
@@ -82,6 +86,7 @@
     "radiant_win": true,
     "radiant_score": 30,
     "dire_score": 17,
+    "start_time": 1482925750,
     "League": "SL i-League StarSeries S3"
   },
   {
@@ -99,6 +104,7 @@
     "radiant_win": true,
     "radiant_score": 20,
     "dire_score": 23,
+    "start_time": 1482915208,
     "League": "SL i-League StarSeries S3"
   },
   {
@@ -116,6 +122,7 @@
     "radiant_win": true,
     "radiant_score": 37,
     "dire_score": 17,
+    "start_time": 1482923007,
     "League": "SL i-League StarSeries S3"
   },
   {
@@ -133,6 +140,7 @@
     "radiant_win": false,
     "radiant_score": 19,
     "dire_score": 31,
+    "start_time": 1482912243,
     "League": "SL i-League StarSeries S3"
   },
   {
@@ -150,6 +158,7 @@
     "radiant_win": false,
     "radiant_score": 4,
     "dire_score": 24,
+    "start_time": 1482960838,
     "League": "Royal Arena"
   },
   {
@@ -167,6 +176,7 @@
     "radiant_win": false,
     "radiant_score": 15,
     "dire_score": 40,
+    "start_time": 1482918631,
     "League": "SL i-League StarSeries S3"
   },
   {
@@ -184,6 +194,7 @@
     "radiant_win": true,
     "radiant_score": 14,
     "dire_score": 5,
+    "start_time": 1482916180,
     "League": "SL i-League StarSeries S3"
   },
   {
@@ -201,6 +212,7 @@
     "radiant_win": true,
     "radiant_score": 26,
     "dire_score": 9,
+    "start_time": 1482929222,
     "League": "SL i-League StarSeries S3"
   },
   {
@@ -218,6 +230,7 @@
     "radiant_win": true,
     "radiant_score": 14,
     "dire_score": 3,
+    "start_time": 1482944627,
     "League": "Royal Arena"
   }
 ]

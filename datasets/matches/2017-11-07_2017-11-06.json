@@ -14,6 +14,7 @@
     "radiant_win": true,
     "radiant_score": 44,
     "dire_score": 23,
+    "start_time": 1509966061,
     "League": "Dota 2 Professional League 2016"
   },
   {
@@ -31,6 +32,7 @@
     "radiant_win": false,
     "radiant_score": 24,
     "dire_score": 30,
+    "start_time": 1509974182,
     "League": "Dota 2 Professional League 2016"
   },
   {
@@ -48,6 +50,7 @@
     "radiant_win": true,
     "radiant_score": 36,
     "dire_score": 10,
+    "start_time": 1509977401,
     "League": "Dota 2 Professional League 2016"
   },
   {
@@ -65,6 +68,7 @@
     "radiant_win": false,
     "radiant_score": 16,
     "dire_score": 36,
+    "start_time": 1509971120,
     "League": "Dota 2 Professional League 2016"
   },
   {
@@ -82,6 +86,7 @@
     "radiant_win": false,
     "radiant_score": 8,
     "dire_score": 31,
+    "start_time": 1509962837,
     "League": "AEF Season 2"
   }
 ]

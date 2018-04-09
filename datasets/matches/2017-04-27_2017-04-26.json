@@ -14,6 +14,7 @@
     "radiant_win": false,
     "radiant_score": 19,
     "dire_score": 52,
+    "start_time": 1493229664,
     "League": "ProDotA Cup by Azubu"
   },
   {
@@ -31,6 +32,7 @@
     "radiant_win": true,
     "radiant_score": 32,
     "dire_score": 34,
+    "start_time": 1493203367,
     "League": "SEA Kappa Invitationals"
   },
   {
@@ -48,6 +50,7 @@
     "radiant_win": false,
     "radiant_score": 46,
     "dire_score": 35,
+    "start_time": 1493233968,
     "League": "WellPlay Invitational by VitalBet"
   },
   {
@@ -65,6 +68,7 @@
     "radiant_win": true,
     "radiant_score": 43,
     "dire_score": 29,
+    "start_time": 1493230277,
     "League": "CZ-SK Dota 2 League Season 9"
   },
   {
@@ -82,6 +86,7 @@
     "radiant_win": true,
     "radiant_score": 64,
     "dire_score": 28,
+    "start_time": 1493238189,
     "League": "ProDotA Cup by Azubu"
   },
   {
@@ -99,6 +104,7 @@
     "radiant_win": false,
     "radiant_score": 22,
     "dire_score": 41,
+    "start_time": 1493229679,
     "League": "WellPlay Invitational by VitalBet"
   },
   {
@@ -116,6 +122,7 @@
     "radiant_win": false,
     "radiant_score": 25,
     "dire_score": 46,
+    "start_time": 1493208226,
     "League": "SEA Kappa Invitationals"
   },
   {
@@ -133,6 +140,7 @@
     "radiant_win": true,
     "radiant_score": 33,
     "dire_score": 26,
+    "start_time": 1493223289,
     "League": "WellPlay Invitational by VitalBet"
   },
   {
@@ -150,6 +158,7 @@
     "radiant_win": true,
     "radiant_score": 33,
     "dire_score": 19,
+    "start_time": 1493234346,
     "League": "ProDotA Cup by Azubu"
   },
   {
@@ -167,6 +176,7 @@
     "radiant_win": false,
     "radiant_score": 23,
     "dire_score": 24,
+    "start_time": 1493235254,
     "League": "CZ-SK Dota 2 League Season 9"
   },
   {
@@ -184,6 +194,7 @@
     "radiant_win": true,
     "radiant_score": 27,
     "dire_score": 6,
+    "start_time": 1493174709,
     "League": "Dota 2 Challenge Mexico"
   },
   {
@@ -201,6 +212,7 @@
     "radiant_win": true,
     "radiant_score": 17,
     "dire_score": 10,
+    "start_time": 1493219271,
     "League": "WellPlay Invitational by VitalBet"
   },
   {
@@ -218,6 +230,7 @@
     "radiant_win": false,
     "radiant_score": 12,
     "dire_score": 23,
+    "start_time": 1493238469,
     "League": "WellPlay Invitational by VitalBet"
   },
   {
@@ -235,6 +248,7 @@
     "radiant_win": true,
     "radiant_score": 30,
     "dire_score": 16,
+    "start_time": 1493211739,
     "League": "SEA Kappa Invitationals"
   },
   {
@@ -252,6 +266,7 @@
     "radiant_win": true,
     "radiant_score": 39,
     "dire_score": 12,
+    "start_time": 1493200316,
     "League": "SEA Kappa Invitationals"
   },
   {
@@ -269,6 +284,7 @@
     "radiant_win": false,
     "radiant_score": 15,
     "dire_score": 29,
+    "start_time": 1493227292,
     "League": "ProDotA Cup by Azubu"
   },
   {
@@ -286,6 +302,7 @@
     "radiant_win": false,
     "radiant_score": 10,
     "dire_score": 35,
+    "start_time": 1493213768,
     "League": "ESL India Premiership - Season One"
   },
   {
@@ -303,6 +320,7 @@
     "radiant_win": false,
     "radiant_score": 16,
     "dire_score": 36,
+    "start_time": 1493172247,
     "League": "Dota 2 Challenge Mexico"
   }
 ]

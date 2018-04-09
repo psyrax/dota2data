@@ -1,0 +1,20 @@
+[
+  {
+    "match_id": 2744621230,
+    "avg": "989.0000000000000000",
+    "count": 1,
+    "winrate": 0.5,
+    "winrate_wilson": 0.236589593615487,
+    "sum": 9890,
+    "min": 989,
+    "max": 989,
+    "match_patch": "(2744621230,6.88)",
+    "radiant_team_id": 2740064,
+    "dire_team_id": 2524677,
+    "radiant_win": true,
+    "radiant_score": 26,
+    "dire_score": 6,
+    "start_time": 1477829491,
+    "League": "DafaeSports Indonesia Series Presented by Eternal Gaming"
+  }
+]

@@ -14,6 +14,7 @@
     "radiant_win": true,
     "radiant_score": 49,
     "dire_score": 45,
+    "start_time": 1507540461,
     "League": "AEF Season 2"
   },
   {
@@ -31,6 +32,7 @@
     "radiant_win": true,
     "radiant_score": 27,
     "dire_score": 27,
+    "start_time": 1507574165,
     "League": "ProDotA Cup Series"
   },
   {
@@ -48,6 +50,7 @@
     "radiant_win": true,
     "radiant_score": 35,
     "dire_score": 16,
+    "start_time": 1507583095,
     "League": "ProDotA Cup Series"
   },
   {
@@ -65,6 +68,7 @@
     "radiant_win": false,
     "radiant_score": 28,
     "dire_score": 36,
+    "start_time": 1507528970,
     "League": "Dota 2 Professional League 2016"
   },
   {
@@ -82,6 +86,7 @@
     "radiant_win": true,
     "radiant_score": 32,
     "dire_score": 21,
+    "start_time": 1507556365,
     "League": "Dota 2 Professional League 2016"
   },
   {
@@ -99,6 +104,7 @@
     "radiant_win": true,
     "radiant_score": 21,
     "dire_score": 11,
+    "start_time": 1507552132,
     "League": "Dota 2 Professional League 2016"
   },
   {
@@ -116,6 +122,7 @@
     "radiant_win": true,
     "radiant_score": 34,
     "dire_score": 30,
+    "start_time": 1507578689,
     "League": "DreamLeague season 7"
   },
   {
@@ -133,6 +140,7 @@
     "radiant_win": false,
     "radiant_score": 37,
     "dire_score": 49,
+    "start_time": 1507565595,
     "League": "ProDotA Cup Series"
   },
   {
@@ -150,6 +158,7 @@
     "radiant_win": false,
     "radiant_score": 22,
     "dire_score": 51,
+    "start_time": 1507544679,
     "League": "Dota 2 Professional League 2016"
   },
   {
@@ -167,6 +176,7 @@
     "radiant_win": true,
     "radiant_score": 25,
     "dire_score": 18,
+    "start_time": 1507548391,
     "League": "Dota 2 Professional League 2016"
   },
   {
@@ -184,6 +194,7 @@
     "radiant_win": true,
     "radiant_score": 40,
     "dire_score": 24,
+    "start_time": 1507561899,
     "League": "ProDotA Cup Series"
   },
   {
@@ -201,6 +212,7 @@
     "radiant_win": true,
     "radiant_score": 35,
     "dire_score": 8,
+    "start_time": 1507525285,
     "League": "Dota 2 Professional League 2016"
   },
   {
@@ -218,6 +230,7 @@
     "radiant_win": false,
     "radiant_score": 14,
     "dire_score": 36,
+    "start_time": 1507579119,
     "League": "ProDotA Cup Series"
   },
   {
@@ -235,6 +248,7 @@
     "radiant_win": false,
     "radiant_score": 14,
     "dire_score": 33,
+    "start_time": 1507541251,
     "League": "Dota 2 Professional League 2016"
   },
   {
@@ -252,6 +266,7 @@
     "radiant_win": false,
     "radiant_score": 26,
     "dire_score": 32,
+    "start_time": 1507534479,
     "League": "Dota 2 Professional League 2016"
   },
   {
@@ -269,6 +284,7 @@
     "radiant_win": true,
     "radiant_score": 45,
     "dire_score": 20,
+    "start_time": 1507570202,
     "League": "DreamLeague season 7"
   },
   {
@@ -286,6 +302,7 @@
     "radiant_win": true,
     "radiant_score": 56,
     "dire_score": 30,
+    "start_time": 1507558058,
     "League": "ProDotA Cup Series"
   },
   {
@@ -303,6 +320,7 @@
     "radiant_win": true,
     "radiant_score": 27,
     "dire_score": 16,
+    "start_time": 1507575002,
     "League": "DreamLeague season 7"
   },
   {
@@ -320,6 +338,7 @@
     "radiant_win": false,
     "radiant_score": 27,
     "dire_score": 30,
+    "start_time": 1507541174,
     "League": "World Cyber Arena 2017 China Qualifiers"
   },
   {
@@ -337,6 +356,7 @@
     "radiant_win": true,
     "radiant_score": 37,
     "dire_score": 22,
+    "start_time": 1507544067,
     "League": "AEF Season 2"
   },
   {
@@ -354,6 +374,7 @@
     "radiant_win": false,
     "radiant_score": 9,
     "dire_score": 29,
+    "start_time": 1507553803,
     "League": "World Cyber Arena 2017 China Qualifiers"
   },
   {
@@ -371,6 +392,7 @@
     "radiant_win": false,
     "radiant_score": 15,
     "dire_score": 35,
+    "start_time": 1507550494,
     "League": "World Cyber Arena 2017 China Qualifiers"
   },
   {
@@ -388,6 +410,7 @@
     "radiant_win": true,
     "radiant_score": 29,
     "dire_score": 13,
+    "start_time": 1507545560,
     "League": "AEF Season 2"
   },
   {
@@ -405,6 +428,7 @@
     "radiant_win": false,
     "radiant_score": 10,
     "dire_score": 27,
+    "start_time": 1507566791,
     "League": "DreamLeague season 7"
   },
   {
@@ -422,6 +446,7 @@
     "radiant_win": false,
     "radiant_score": 22,
     "dire_score": 35,
+    "start_time": 1507560631,
     "League": "Dota 2 Professional League 2016"
   },
   {
@@ -439,6 +464,7 @@
     "radiant_win": false,
     "radiant_score": 12,
     "dire_score": 35,
+    "start_time": 1507548577,
     "League": "ProDotA Cup Series"
   },
   {
@@ -456,6 +482,7 @@
     "radiant_win": false,
     "radiant_score": 17,
     "dire_score": 37,
+    "start_time": 1507537217,
     "League": "ProDotA Cup Series"
   },
   {
@@ -473,6 +500,7 @@
     "radiant_win": true,
     "radiant_score": 36,
     "dire_score": 9,
+    "start_time": 1507541490,
     "League": "AEF Season 2"
   },
   {
@@ -490,6 +518,7 @@
     "radiant_win": true,
     "radiant_score": 40,
     "dire_score": 10,
+    "start_time": 1507545407,
     "League": "ProDotA Cup Series"
   },
   {
@@ -507,6 +536,7 @@
     "radiant_win": true,
     "radiant_score": 25,
     "dire_score": 17,
+    "start_time": 1507540432,
     "League": "ProDotA Cup Series"
   },
   {
@@ -524,6 +554,7 @@
     "radiant_win": true,
     "radiant_score": 22,
     "dire_score": 7,
+    "start_time": 1507538001,
     "League": "Dota 2 Professional League 2016"
   }
 ]

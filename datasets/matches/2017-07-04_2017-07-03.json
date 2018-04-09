@@ -14,6 +14,7 @@
     "radiant_win": false,
     "radiant_score": 47,
     "dire_score": 52,
+    "start_time": 1499101539,
     "League": "CZ-SK Dota 2 League Season 10"
   },
   {
@@ -31,6 +32,7 @@
     "radiant_win": true,
     "radiant_score": 35,
     "dire_score": 48,
+    "start_time": 1499075234,
     "League": "AEF Season 2"
   },
   {
@@ -48,6 +50,7 @@
     "radiant_win": true,
     "radiant_score": 34,
     "dire_score": 27,
+    "start_time": 1499101832,
     "League": "CZ-SK Dota 2 League Season 10"
   },
   {
@@ -65,6 +68,7 @@
     "radiant_win": true,
     "radiant_score": 24,
     "dire_score": 18,
+    "start_time": 1499122197,
     "League": "KOD League 2017"
   },
   {
@@ -82,6 +86,7 @@
     "radiant_win": false,
     "radiant_score": 20,
     "dire_score": 40,
+    "start_time": 1499106870,
     "League": "ProDotA Cup Series by Azubu.tv"
   },
   {
@@ -99,6 +104,7 @@
     "radiant_win": true,
     "radiant_score": 33,
     "dire_score": 21,
+    "start_time": 1499106580,
     "League": "CZ-SK Dota 2 League Season 10"
   },
   {
@@ -116,6 +122,7 @@
     "radiant_win": true,
     "radiant_score": 37,
     "dire_score": 24,
+    "start_time": 1499106224,
     "League": "CZ-SK Dota 2 League Season 10"
   },
   {
@@ -133,6 +140,7 @@
     "radiant_win": false,
     "radiant_score": 28,
     "dire_score": 37,
+    "start_time": 1499110684,
     "League": "ProDotA Cup Series by Azubu.tv"
   },
   {
@@ -150,6 +158,7 @@
     "radiant_win": false,
     "radiant_score": 16,
     "dire_score": 30,
+    "start_time": 1499090560,
     "League": "ProDotA Cup Series by Azubu.tv"
   },
   {
@@ -167,6 +176,7 @@
     "radiant_win": false,
     "radiant_score": 11,
     "dire_score": 33,
+    "start_time": 1499094300,
     "League": "ProDotA Cup Series by Azubu.tv"
   },
   {
@@ -184,6 +194,7 @@
     "radiant_win": false,
     "radiant_score": 12,
     "dire_score": 39,
+    "start_time": 1499103189,
     "League": "ProDotA Cup Series by Azubu.tv"
   },
   {
@@ -201,6 +212,7 @@
     "radiant_win": true,
     "radiant_score": 23,
     "dire_score": 15,
+    "start_time": 1499072561,
     "League": "AEF Season 2"
   },
   {
@@ -218,6 +230,7 @@
     "radiant_win": true,
     "radiant_score": 28,
     "dire_score": 16,
+    "start_time": 1499097320,
     "League": "ProDotA Cup Series by Azubu.tv"
   },
   {
@@ -235,6 +248,7 @@
     "radiant_win": false,
     "radiant_score": 4,
     "dire_score": 24,
+    "start_time": 1499091001,
     "League": "CONQUERORS INSIGNIA MINI (Season 1) Online qualifiers"
   },
   {
@@ -252,6 +266,7 @@
     "radiant_win": false,
     "radiant_score": 5,
     "dire_score": 24,
+    "start_time": 1499109855,
     "League": "CZ-SK Dota 2 League Season 10"
   }
 ]

@@ -14,6 +14,7 @@
     "radiant_win": true,
     "radiant_score": 52,
     "dire_score": 47,
+    "start_time": 1503084857,
     "League": "ProDotA Cup by Azubu"
   },
   {
@@ -31,6 +32,7 @@
     "radiant_win": false,
     "radiant_score": 52,
     "dire_score": 57,
+    "start_time": 1503066333,
     "League": "ProDotA Cup Series by Azubu.tv"
   },
   {
@@ -48,6 +50,7 @@
     "radiant_win": true,
     "radiant_score": 53,
     "dire_score": 46,
+    "start_time": 1503064569,
     "League": "ProDotA Cup by Azubu"
   },
   {
@@ -65,6 +68,7 @@
     "radiant_win": false,
     "radiant_score": 37,
     "dire_score": 30,
+    "start_time": 1503076134,
     "League": "ProDotA Cup by Azubu"
   },
   {
@@ -82,6 +86,7 @@
     "radiant_win": false,
     "radiant_score": 12,
     "dire_score": 26,
+    "start_time": 1503071135,
     "League": "ProDotA Cup by Azubu"
   },
   {
@@ -99,6 +104,7 @@
     "radiant_win": true,
     "radiant_score": 28,
     "dire_score": 11,
+    "start_time": 1503081408,
     "League": "ProDotA Cup by Azubu"
   },
   {
@@ -116,6 +122,7 @@
     "radiant_win": true,
     "radiant_score": 41,
     "dire_score": 19,
+    "start_time": 1503061155,
     "League": "ProDotA Cup by Azubu"
   },
   {
@@ -133,6 +140,7 @@
     "radiant_win": true,
     "radiant_score": 37,
     "dire_score": 23,
+    "start_time": 1503043315,
     "League": "ProDotA Cup by Azubu"
   },
   {
@@ -150,6 +158,7 @@
     "radiant_win": false,
     "radiant_score": 12,
     "dire_score": 31,
+    "start_time": 1503046624,
     "League": "ProDotA Cup by Azubu"
   },
   {
@@ -167,6 +176,7 @@
     "radiant_win": true,
     "radiant_score": 32,
     "dire_score": 6,
+    "start_time": 1503066315,
     "League": "ESL India Premiership - 2017 Edition"
   }
 ]

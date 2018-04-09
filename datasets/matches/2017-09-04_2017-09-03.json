@@ -14,6 +14,7 @@
     "radiant_win": true,
     "radiant_score": 34,
     "dire_score": 17,
+    "start_time": 1504469542,
     "League": "LNEe-WCA America 2017"
   },
   {
@@ -31,6 +32,7 @@
     "radiant_win": false,
     "radiant_score": 18,
     "dire_score": 22,
+    "start_time": 1504466093,
     "League": "LNEe-WCA America 2017"
   },
   {
@@ -48,6 +50,7 @@
     "radiant_win": true,
     "radiant_score": 12,
     "dire_score": 5,
+    "start_time": 1504451339,
     "League": "ESL India Premiership - 2017 Edition"
   }
 ]

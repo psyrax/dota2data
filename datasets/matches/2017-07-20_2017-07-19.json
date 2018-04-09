@@ -14,6 +14,7 @@
     "radiant_win": true,
     "radiant_score": 35,
     "dire_score": 33,
+    "start_time": 1500454955,
     "League": "AEF Season 2"
   },
   {
@@ -31,6 +32,7 @@
     "radiant_win": true,
     "radiant_score": 38,
     "dire_score": 27,
+    "start_time": 1500483880,
     "League": "ProDotA Cup by Azubu"
   },
   {
@@ -48,6 +50,7 @@
     "radiant_win": false,
     "radiant_score": 32,
     "dire_score": 40,
+    "start_time": 1500429372,
     "League": "ProDotA Cup by Azubu"
   },
   {
@@ -65,6 +68,7 @@
     "radiant_win": false,
     "radiant_score": 26,
     "dire_score": 44,
+    "start_time": 1500479907,
     "League": "ProDotA Cup by Azubu"
   },
   {
@@ -82,6 +86,7 @@
     "radiant_win": true,
     "radiant_score": 41,
     "dire_score": 16,
+    "start_time": 1500508635,
     "League": "ProDotA Cup by Azubu"
   },
   {
@@ -99,6 +104,7 @@
     "radiant_win": true,
     "radiant_score": 35,
     "dire_score": 14,
+    "start_time": 1500422880,
     "League": "ProDotA Cup by Azubu"
   },
   {
@@ -116,6 +122,7 @@
     "radiant_win": true,
     "radiant_score": 13,
     "dire_score": 10,
+    "start_time": 1500474728,
     "League": "ESL India Premiership - 2017 Edition"
   },
   {
@@ -133,6 +140,7 @@
     "radiant_win": true,
     "radiant_score": 35,
     "dire_score": 19,
+    "start_time": 1500476629,
     "League": "ProDotA Cup by Azubu"
   },
   {
@@ -150,6 +158,7 @@
     "radiant_win": true,
     "radiant_score": 33,
     "dire_score": 8,
+    "start_time": 1500477407,
     "League": "ESL India Premiership - 2017 Edition"
   },
   {
@@ -167,6 +176,7 @@
     "radiant_win": false,
     "radiant_score": 9,
     "dire_score": 24,
+    "start_time": 1500426497,
     "League": "ProDotA Cup by Azubu"
   },
   {
@@ -184,6 +194,7 @@
     "radiant_win": false,
     "radiant_score": 6,
     "dire_score": 36,
+    "start_time": 1500505827,
     "League": "ProDotA Cup by Azubu"
   },
   {
@@ -201,6 +212,7 @@
     "radiant_win": true,
     "radiant_score": 23,
     "dire_score": 11,
+    "start_time": 1500460136,
     "League": "AEF Season 2"
   }
 ]

@@ -14,6 +14,7 @@
     "radiant_win": true,
     "radiant_score": 41,
     "dire_score": 27,
+    "start_time": 1521878287,
     "League": "Dota 2 Professional League 2016"
   },
   {
@@ -31,6 +32,7 @@
     "radiant_win": false,
     "radiant_score": 17,
     "dire_score": 34,
+    "start_time": 1521873679,
     "League": "Dota 2 Professional League 2016"
   },
   {
@@ -48,6 +50,7 @@
     "radiant_win": false,
     "radiant_score": 25,
     "dire_score": 42,
+    "start_time": 1521903077,
     "League": "Dota 2 Professional League 2016"
   },
   {
@@ -65,6 +68,7 @@
     "radiant_win": true,
     "radiant_score": 19,
     "dire_score": 18,
+    "start_time": 1521927307,
     "League": "2017 Mars Dota 2 League"
   },
   {
@@ -82,6 +86,7 @@
     "radiant_win": true,
     "radiant_score": 30,
     "dire_score": 26,
+    "start_time": 1521931344,
     "League": "2017 Mars Dota 2 League"
   },
   {
@@ -99,6 +104,7 @@
     "radiant_win": false,
     "radiant_score": 17,
     "dire_score": 21,
+    "start_time": 1521934835,
     "League": "2017 Mars Dota 2 League"
   },
   {
@@ -116,6 +122,7 @@
     "radiant_win": false,
     "radiant_score": 19,
     "dire_score": 27,
+    "start_time": 1521899665,
     "League": "Dota 2 Professional League 2016"
   },
   {
@@ -133,6 +140,7 @@
     "radiant_win": false,
     "radiant_score": 22,
     "dire_score": 30,
+    "start_time": 1521888737,
     "League": "Dota 2 Professional League 2016"
   },
   {
@@ -150,6 +158,7 @@
     "radiant_win": false,
     "radiant_score": 12,
     "dire_score": 28,
+    "start_time": 1521885737,
     "League": "Dota 2 Professional League 2016"
   },
   {
@@ -167,6 +176,7 @@
     "radiant_win": true,
     "radiant_score": 16,
     "dire_score": 2,
+    "start_time": 1521871060,
     "League": "Dota 2 Professional League 2016"
   },
   {
@@ -184,6 +194,7 @@
     "radiant_win": false,
     "radiant_score": 4,
     "dire_score": 13,
+    "start_time": 1521882417,
     "League": "Dota 2 Professional League 2016"
   }
 ]

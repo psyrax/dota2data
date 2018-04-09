@@ -14,6 +14,7 @@
     "radiant_win": true,
     "radiant_score": 47,
     "dire_score": 47,
+    "start_time": 1482268530,
     "League": "ProDotA Cup Series by Azubu.tv"
   },
   {
@@ -31,6 +32,7 @@
     "radiant_win": false,
     "radiant_score": 43,
     "dire_score": 38,
+    "start_time": 1482258805,
     "League": "ProDotA Cup Series by Azubu.tv"
   },
   {
@@ -48,6 +50,7 @@
     "radiant_win": false,
     "radiant_score": 31,
     "dire_score": 23,
+    "start_time": 1482263984,
     "League": "ProDotA Cup Series by Azubu.tv"
   },
   {
@@ -65,6 +68,7 @@
     "radiant_win": true,
     "radiant_score": 39,
     "dire_score": 40,
+    "start_time": 1482273093,
     "League": "ProDotA Cup Series by Azubu.tv"
   },
   {
@@ -82,6 +86,7 @@
     "radiant_win": true,
     "radiant_score": 29,
     "dire_score": 30,
+    "start_time": 1482249975,
     "League": "ProDotA Cup Series by Azubu.tv"
   },
   {
@@ -99,6 +104,7 @@
     "radiant_win": true,
     "radiant_score": 34,
     "dire_score": 23,
+    "start_time": 1482231987,
     "League": "AEF Season 1 Qualifiers"
   },
   {
@@ -116,6 +122,7 @@
     "radiant_win": true,
     "radiant_score": 36,
     "dire_score": 27,
+    "start_time": 1482226537,
     "League": "SEA Kappa Invitationals"
   },
   {
@@ -133,6 +140,7 @@
     "radiant_win": true,
     "radiant_score": 27,
     "dire_score": 24,
+    "start_time": 1482221100,
     "League": "Dota 2 Professional League 2016"
   },
   {
@@ -150,6 +158,7 @@
     "radiant_win": false,
     "radiant_score": 16,
     "dire_score": 34,
+    "start_time": 1482222036,
     "League": "SEA Kappa Invitationals"
   },
   {
@@ -167,6 +176,7 @@
     "radiant_win": false,
     "radiant_score": 26,
     "dire_score": 41,
+    "start_time": 1482218914,
     "League": "DafaeSports Indonesia Series Presented by Eternal Gaming"
   },
   {
@@ -184,6 +194,7 @@
     "radiant_win": false,
     "radiant_score": 14,
     "dire_score": 24,
+    "start_time": 1482228468,
     "League": "AEF Season 1 Qualifiers"
   },
   {
@@ -201,6 +212,7 @@
     "radiant_win": false,
     "radiant_score": 8,
     "dire_score": 29,
+    "start_time": 1482226372,
     "League": "Dota 2 Professional League 2016"
   },
   {
@@ -218,6 +230,7 @@
     "radiant_win": false,
     "radiant_score": 14,
     "dire_score": 24,
+    "start_time": 1482238938,
     "League": "Dota 2 Professional League 2016"
   },
   {
@@ -235,6 +248,7 @@
     "radiant_win": true,
     "radiant_score": 18,
     "dire_score": 13,
+    "start_time": 1482249857,
     "League": "WellPlay Invitational by VitalBet"
   },
   {
@@ -252,6 +266,7 @@
     "radiant_win": true,
     "radiant_score": 27,
     "dire_score": 2,
+    "start_time": 1482255892,
     "League": "WellPlay Invitational by VitalBet"
   },
   {
@@ -269,6 +284,7 @@
     "radiant_win": false,
     "radiant_score": 9,
     "dire_score": 20,
+    "start_time": 1482232481,
     "League": "Dota 2 Professional League 2016"
   },
   {
@@ -286,6 +302,7 @@
     "radiant_win": false,
     "radiant_score": 13,
     "dire_score": 28,
+    "start_time": 1482246739,
     "League": "ProDotA Cup Series by Azubu.tv"
   },
   {
@@ -303,6 +320,7 @@
     "radiant_win": false,
     "radiant_score": 15,
     "dire_score": 31,
+    "start_time": 1482276911,
     "League": "ProDotA Cup Series by Azubu.tv"
   },
   {
@@ -320,6 +338,7 @@
     "radiant_win": false,
     "radiant_score": 4,
     "dire_score": 17,
+    "start_time": 1482229912,
     "League": "Dota 2 Professional League 2016"
   },
   {
@@ -337,6 +356,7 @@
     "radiant_win": false,
     "radiant_score": 13,
     "dire_score": 27,
+    "start_time": 1482236498,
     "League": "Dota 2 Professional League 2016"
   },
   {
@@ -354,6 +374,7 @@
     "radiant_win": true,
     "radiant_score": 19,
     "dire_score": 5,
+    "start_time": 1482254116,
     "League": "WellPlay Invitational by VitalBet"
   }
 ]

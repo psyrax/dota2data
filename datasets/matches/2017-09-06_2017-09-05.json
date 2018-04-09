@@ -14,6 +14,7 @@
     "radiant_win": true,
     "radiant_score": 30,
     "dire_score": 24,
+    "start_time": 1504643900,
     "League": "WellPlay Invitational by VitalBet"
   },
   {
@@ -31,6 +32,7 @@
     "radiant_win": false,
     "radiant_score": 32,
     "dire_score": 42,
+    "start_time": 1504621630,
     "League": "ESL India Premiership - 2017 Edition"
   },
   {
@@ -48,6 +50,7 @@
     "radiant_win": false,
     "radiant_score": 23,
     "dire_score": 34,
+    "start_time": 1504636166,
     "League": "WellPlay Invitational by VitalBet"
   },
   {
@@ -65,6 +68,7 @@
     "radiant_win": true,
     "radiant_score": 36,
     "dire_score": 24,
+    "start_time": 1504640042,
     "League": "WellPlay Invitational by VitalBet"
   },
   {
@@ -82,6 +86,7 @@
     "radiant_win": true,
     "radiant_score": 31,
     "dire_score": 13,
+    "start_time": 1504628098,
     "League": "DafaeSports Indonesia Series Presented by Eternal Gaming"
   }
 ]

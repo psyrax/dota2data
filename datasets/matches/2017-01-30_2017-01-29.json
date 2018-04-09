@@ -14,6 +14,7 @@
     "radiant_win": true,
     "radiant_score": 63,
     "dire_score": 35,
+    "start_time": 1485712507,
     "League": "SL i-League StarSeries S3"
   },
   {
@@ -31,6 +32,7 @@
     "radiant_win": false,
     "radiant_score": 22,
     "dire_score": 38,
+    "start_time": 1485706555,
     "League": "SL i-League StarSeries S3"
   },
   {
@@ -48,6 +50,7 @@
     "radiant_win": false,
     "radiant_score": 36,
     "dire_score": 49,
+    "start_time": 1485655263,
     "League": "SL i-League StarSeries S3"
   },
   {
@@ -65,6 +68,7 @@
     "radiant_win": true,
     "radiant_score": 39,
     "dire_score": 44,
+    "start_time": 1485676749,
     "League": "VivaWin Grand Slam Dota 2 Tournament"
   },
   {
@@ -82,6 +86,7 @@
     "radiant_win": false,
     "radiant_score": 29,
     "dire_score": 34,
+    "start_time": 1485732767,
     "League": "SL i-League StarSeries S3"
   },
   {
@@ -99,6 +104,7 @@
     "radiant_win": true,
     "radiant_score": 35,
     "dire_score": 22,
+    "start_time": 1485702266,
     "League": "SL i-League StarSeries S3"
   },
   {
@@ -116,6 +122,7 @@
     "radiant_win": false,
     "radiant_score": 28,
     "dire_score": 32,
+    "start_time": 1485718975,
     "League": "SL i-League StarSeries S3"
   },
   {
@@ -133,6 +140,7 @@
     "radiant_win": false,
     "radiant_score": 9,
     "dire_score": 19,
+    "start_time": 1485712086,
     "League": "ProDotA Cup Series by Azubu.tv"
   },
   {
@@ -150,6 +158,7 @@
     "radiant_win": false,
     "radiant_score": 24,
     "dire_score": 32,
+    "start_time": 1485660256,
     "League": "SL i-League StarSeries S3"
   },
   {
@@ -167,6 +176,7 @@
     "radiant_win": true,
     "radiant_score": 33,
     "dire_score": 30,
+    "start_time": 1485681482,
     "League": "VivaWin Grand Slam Dota 2 Tournament"
   },
   {
@@ -184,6 +194,7 @@
     "radiant_win": false,
     "radiant_score": 18,
     "dire_score": 46,
+    "start_time": 1485708757,
     "League": "ProDotA Cup Series by Azubu.tv"
   },
   {
@@ -201,6 +212,7 @@
     "radiant_win": false,
     "radiant_score": 12,
     "dire_score": 25,
+    "start_time": 1485725322,
     "League": "SL i-League StarSeries S3"
   },
   {
@@ -218,6 +230,7 @@
     "radiant_win": false,
     "radiant_score": 13,
     "dire_score": 37,
+    "start_time": 1485705715,
     "League": "ProDotA Cup Series by Azubu.tv"
   },
   {
@@ -235,6 +248,7 @@
     "radiant_win": false,
     "radiant_score": 7,
     "dire_score": 16,
+    "start_time": 1485726252,
     "League": "SL i-League StarSeries S3"
   },
   {
@@ -252,6 +266,7 @@
     "radiant_win": true,
     "radiant_score": 31,
     "dire_score": 16,
+    "start_time": 1485650029,
     "League": "SL i-League StarSeries S3"
   },
   {
@@ -269,6 +284,7 @@
     "radiant_win": true,
     "radiant_score": 28,
     "dire_score": 14,
+    "start_time": 1485669574,
     "League": "VivaWin Grand Slam Dota 2 Tournament"
   },
   {
@@ -286,6 +302,7 @@
     "radiant_win": false,
     "radiant_score": 12,
     "dire_score": 29,
+    "start_time": 1485673938,
     "League": "VivaWin Grand Slam Dota 2 Tournament"
   },
   {
@@ -303,6 +320,7 @@
     "radiant_win": false,
     "radiant_score": 5,
     "dire_score": 26,
+    "start_time": 1485722799,
     "League": "SL i-League StarSeries S3"
   },
   {
@@ -320,6 +338,7 @@
     "radiant_win": true,
     "radiant_score": 15,
     "dire_score": 3,
+    "start_time": 1485723997,
     "League": "SL i-League StarSeries S3"
   }
 ]

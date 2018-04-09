@@ -14,6 +14,7 @@
     "radiant_win": false,
     "radiant_score": 32,
     "dire_score": 53,
+    "start_time": 1503511763,
     "League": "CZ-SK Dota 2 League Season 10"
   },
   {
@@ -31,6 +32,7 @@
     "radiant_win": true,
     "radiant_score": 33,
     "dire_score": 39,
+    "start_time": 1503482159,
     "League": "ProDotA Cup by Azubu"
   },
   {
@@ -48,6 +50,7 @@
     "radiant_win": true,
     "radiant_score": 48,
     "dire_score": 29,
+    "start_time": 1503490762,
     "League": "ProDotA Cup by Azubu"
   },
   {
@@ -65,6 +68,7 @@
     "radiant_win": false,
     "radiant_score": 26,
     "dire_score": 32,
+    "start_time": 1503501652,
     "League": "ProDotA Cup by Azubu"
   },
   {
@@ -82,6 +86,7 @@
     "radiant_win": true,
     "radiant_score": 30,
     "dire_score": 29,
+    "start_time": 1503496477,
     "League": "ProDotA Cup by Azubu"
   },
   {
@@ -99,6 +104,7 @@
     "radiant_win": false,
     "radiant_score": 27,
     "dire_score": 30,
+    "start_time": 1503509344,
     "League": "D2CL Season 7"
   },
   {
@@ -116,6 +122,7 @@
     "radiant_win": false,
     "radiant_score": 32,
     "dire_score": 41,
+    "start_time": 1503517757,
     "League": "CZ-SK Dota 2 League Season 10"
   },
   {
@@ -133,6 +140,7 @@
     "radiant_win": true,
     "radiant_score": 39,
     "dire_score": 23,
+    "start_time": 1503507756,
     "League": "CZ-SK Dota 2 League Season 10"
   },
   {
@@ -150,6 +158,7 @@
     "radiant_win": true,
     "radiant_score": 44,
     "dire_score": 26,
+    "start_time": 1503506353,
     "League": "D2CL Season 7"
   },
   {
@@ -167,6 +176,7 @@
     "radiant_win": true,
     "radiant_score": 25,
     "dire_score": 9,
+    "start_time": 1503516965,
     "League": "D2CL Season 7"
   },
   {
@@ -184,6 +194,7 @@
     "radiant_win": false,
     "radiant_score": 11,
     "dire_score": 32,
+    "start_time": 1503520188,
     "League": "D2CL Season 7"
   },
   {
@@ -201,6 +212,7 @@
     "radiant_win": true,
     "radiant_score": 26,
     "dire_score": 28,
+    "start_time": 1503514795,
     "League": "ProDotA Cup by Azubu"
   },
   {
@@ -218,6 +230,7 @@
     "radiant_win": false,
     "radiant_score": 13,
     "dire_score": 27,
+    "start_time": 1503507745,
     "League": "ProDotA Cup by Azubu"
   },
   {
@@ -235,6 +248,7 @@
     "radiant_win": true,
     "radiant_score": 32,
     "dire_score": 12,
+    "start_time": 1503487718,
     "League": "ProDotA Cup by Azubu"
   }
 ]

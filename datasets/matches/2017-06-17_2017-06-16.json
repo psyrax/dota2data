@@ -14,6 +14,7 @@
     "radiant_win": true,
     "radiant_score": 52,
     "dire_score": 32,
+    "start_time": 1497606004,
     "League": "NESO 4th National E-Sports ShenZhen Open Tournament- Galaxy Battles"
   },
   {
@@ -31,6 +32,7 @@
     "radiant_win": false,
     "radiant_score": 32,
     "dire_score": 45,
+    "start_time": 1497640498,
     "League": "The Summit 5"
   },
   {
@@ -48,6 +50,7 @@
     "radiant_win": true,
     "radiant_score": 27,
     "dire_score": 32,
+    "start_time": 1497613049,
     "League": "NESO 4th National E-Sports ShenZhen Open Tournament- Galaxy Battles"
   },
   {
@@ -65,6 +68,7 @@
     "radiant_win": true,
     "radiant_score": 34,
     "dire_score": 23,
+    "start_time": 1497621804,
     "League": "Blood In The Streets (BITS)"
   },
   {
@@ -82,6 +86,7 @@
     "radiant_win": false,
     "radiant_score": 5,
     "dire_score": 2,
+    "start_time": 1497581992,
     "League": "NESO 4th National E-Sports ShenZhen Open Tournament- Galaxy Battles"
   },
   {
@@ -99,6 +104,7 @@
     "radiant_win": true,
     "radiant_score": 40,
     "dire_score": 22,
+    "start_time": 1497593198,
     "League": "NESO 4th National E-Sports ShenZhen Open Tournament- Galaxy Battles"
   },
   {
@@ -116,6 +122,7 @@
     "radiant_win": false,
     "radiant_score": 20,
     "dire_score": 32,
+    "start_time": 1497592228,
     "League": "NESO 4th National E-Sports ShenZhen Open Tournament- Galaxy Battles"
   },
   {
@@ -133,6 +140,7 @@
     "radiant_win": true,
     "radiant_score": 36,
     "dire_score": 14,
+    "start_time": 1497626151,
     "League": "Blood In The Streets (BITS)"
   },
   {
@@ -150,6 +158,7 @@
     "radiant_win": false,
     "radiant_score": 13,
     "dire_score": 28,
+    "start_time": 1497632471,
     "League": "The Summit 5"
   },
   {
@@ -167,6 +176,7 @@
     "radiant_win": true,
     "radiant_score": 33,
     "dire_score": 11,
+    "start_time": 1497647371,
     "League": "The Summit 5"
   },
   {
@@ -184,6 +194,7 @@
     "radiant_win": true,
     "radiant_score": 30,
     "dire_score": 10,
+    "start_time": 1497636480,
     "League": "The Summit 5"
   },
   {
@@ -201,6 +212,7 @@
     "radiant_win": false,
     "radiant_score": 10,
     "dire_score": 35,
+    "start_time": 1497588069,
     "League": "NESO 4th National E-Sports ShenZhen Open Tournament- Galaxy Battles"
   },
   {
@@ -218,6 +230,7 @@
     "radiant_win": false,
     "radiant_score": 14,
     "dire_score": 28,
+    "start_time": 1497583848,
     "League": "NESO 4th National E-Sports ShenZhen Open Tournament- Galaxy Battles"
   },
   {
@@ -235,6 +248,7 @@
     "radiant_win": true,
     "radiant_score": 29,
     "dire_score": 21,
+    "start_time": 1497625286,
     "League": "ESL India Premiership - 2017 Edition"
   },
   {
@@ -252,6 +266,7 @@
     "radiant_win": true,
     "radiant_score": 28,
     "dire_score": 28,
+    "start_time": 1497589246,
     "League": "NESO 4th National E-Sports ShenZhen Open Tournament- Galaxy Battles"
   },
   {
@@ -269,6 +284,7 @@
     "radiant_win": false,
     "radiant_score": 34,
     "dire_score": 46,
+    "start_time": 1497624596,
     "League": "ESL India Premiership - 2017 Edition"
   },
   {
@@ -286,6 +302,7 @@
     "radiant_win": true,
     "radiant_score": 26,
     "dire_score": 11,
+    "start_time": 1497596544,
     "League": "NESO 4th National E-Sports ShenZhen Open Tournament- Galaxy Battles"
   },
   {
@@ -303,6 +320,7 @@
     "radiant_win": true,
     "radiant_score": 16,
     "dire_score": 3,
+    "start_time": 1497655391,
     "League": "The Summit 5"
   },
   {
@@ -320,6 +338,7 @@
     "radiant_win": true,
     "radiant_score": 23,
     "dire_score": 9,
+    "start_time": 1497651220,
     "League": "The Summit 5"
   },
   {
@@ -337,6 +356,7 @@
     "radiant_win": true,
     "radiant_score": 33,
     "dire_score": 6,
+    "start_time": 1497586035,
     "League": "NESO 4th National E-Sports ShenZhen Open Tournament- Galaxy Battles"
   },
   {
@@ -354,6 +374,7 @@
     "radiant_win": false,
     "radiant_score": 5,
     "dire_score": 19,
+    "start_time": 1497581409,
     "League": "NESO 4th National E-Sports ShenZhen Open Tournament- Galaxy Battles"
   },
   {
@@ -371,6 +392,7 @@
     "radiant_win": true,
     "radiant_score": 23,
     "dire_score": 5,
+    "start_time": 1497621540,
     "League": "ProDotA Cup Series by Azubu.tv"
   }
 ]

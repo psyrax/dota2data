@@ -1,0 +1,38 @@
+[
+  {
+    "match_id": 2557619736,
+    "avg": "2954.0000000000000000",
+    "count": 1,
+    "winrate": 0.5,
+    "winrate_wilson": 0.236589593615487,
+    "sum": 29540,
+    "min": 2954,
+    "max": 2954,
+    "match_patch": "(2557619736,6.88)",
+    "radiant_team_id": null,
+    "dire_team_id": 2854237,
+    "radiant_win": false,
+    "radiant_score": 19,
+    "dire_score": 49,
+    "start_time": 1470667922,
+    "League": "ESL India Premiership - Season One"
+  },
+  {
+    "match_id": 2556270379,
+    "avg": "1135.0000000000000000",
+    "count": 1,
+    "winrate": 0.5,
+    "winrate_wilson": 0.236589593615487,
+    "sum": 11350,
+    "min": 1135,
+    "max": 1135,
+    "match_patch": "(2556270379,6.88)",
+    "radiant_team_id": 2052867,
+    "dire_team_id": 2289950,
+    "radiant_win": true,
+    "radiant_score": 19,
+    "dire_score": 3,
+    "start_time": 1470616054,
+    "League": "D2CL Season 6"
+  }
+]

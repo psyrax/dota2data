@@ -14,6 +14,7 @@
     "radiant_win": true,
     "radiant_score": 41,
     "dire_score": 33,
+    "start_time": 1495949769,
     "League": "Masters Manila 2017"
   },
   {
@@ -31,6 +32,7 @@
     "radiant_win": true,
     "radiant_score": 30,
     "dire_score": 39,
+    "start_time": 1495990617,
     "League": "D2CL Season 6"
   },
   {
@@ -48,6 +50,7 @@
     "radiant_win": true,
     "radiant_score": 38,
     "dire_score": 29,
+    "start_time": 1495976000,
     "League": "Masters Manila 2017"
   },
   {
@@ -65,6 +68,7 @@
     "radiant_win": true,
     "radiant_score": 28,
     "dire_score": 16,
+    "start_time": 1496002626,
     "League": "D2CL Season 6"
   },
   {
@@ -82,6 +86,7 @@
     "radiant_win": true,
     "radiant_score": 38,
     "dire_score": 26,
+    "start_time": 1495965359,
     "League": "WCA Tournament Platform Classic"
   },
   {
@@ -99,6 +104,7 @@
     "radiant_win": true,
     "radiant_score": 36,
     "dire_score": 22,
+    "start_time": 1495970747,
     "League": "Masters Manila 2017"
   },
   {
@@ -116,6 +122,7 @@
     "radiant_win": true,
     "radiant_score": 31,
     "dire_score": 37,
+    "start_time": 1495989807,
     "League": "ESL India Premiership - 2017 Edition"
   },
   {
@@ -133,6 +140,7 @@
     "radiant_win": false,
     "radiant_score": 30,
     "dire_score": 35,
+    "start_time": 1496011958,
     "League": "D2CL Season 6"
   },
   {
@@ -150,6 +158,7 @@
     "radiant_win": false,
     "radiant_score": 19,
     "dire_score": 30,
+    "start_time": 1495982581,
     "League": "Masters Manila 2017"
   },
   {
@@ -167,6 +176,7 @@
     "radiant_win": false,
     "radiant_score": 23,
     "dire_score": 46,
+    "start_time": 1495979928,
     "League": "ESL India Premiership - 2017 Edition"
   },
   {
@@ -184,6 +194,7 @@
     "radiant_win": true,
     "radiant_score": 34,
     "dire_score": 40,
+    "start_time": 1495978199,
     "League": "DafaeSports Indonesia Series Presented by Eternal Gaming"
   },
   {
@@ -201,6 +212,7 @@
     "radiant_win": false,
     "radiant_score": 19,
     "dire_score": 39,
+    "start_time": 1495984469,
     "League": "DafaeSports Indonesia Series Presented by Eternal Gaming"
   },
   {
@@ -218,6 +230,7 @@
     "radiant_win": true,
     "radiant_score": 32,
     "dire_score": 29,
+    "start_time": 1495997232,
     "League": "D2CL Season 6"
   },
   {
@@ -235,6 +248,7 @@
     "radiant_win": false,
     "radiant_score": 17,
     "dire_score": 36,
+    "start_time": 1495951252,
     "League": "WCA Tournament Platform Classic"
   },
   {
@@ -252,6 +266,7 @@
     "radiant_win": true,
     "radiant_score": 28,
     "dire_score": 11,
+    "start_time": 1495957773,
     "League": "Masters Manila 2017"
   },
   {
@@ -269,6 +284,7 @@
     "radiant_win": false,
     "radiant_score": 11,
     "dire_score": 26,
+    "start_time": 1495944913,
     "League": "Masters Manila 2017"
   },
   {
@@ -286,6 +302,7 @@
     "radiant_win": true,
     "radiant_score": 34,
     "dire_score": 10,
+    "start_time": 1495997648,
     "League": "Uprise Champions Cup: Special"
   },
   {
@@ -303,6 +320,7 @@
     "radiant_win": true,
     "radiant_score": 38,
     "dire_score": 21,
+    "start_time": 1496007870,
     "League": "D2CL Season 6"
   },
   {
@@ -320,6 +338,7 @@
     "radiant_win": false,
     "radiant_score": 19,
     "dire_score": 33,
+    "start_time": 1495983892,
     "League": "WellPlay Invitational by VitalBet"
   },
   {
@@ -337,6 +356,7 @@
     "radiant_win": true,
     "radiant_score": 23,
     "dire_score": 18,
+    "start_time": 1495962014,
     "League": "WCA Tournament Platform Classic"
   },
   {
@@ -354,6 +374,7 @@
     "radiant_win": false,
     "radiant_score": 18,
     "dire_score": 29,
+    "start_time": 1495955681,
     "League": "WCA Tournament Platform Classic"
   },
   {
@@ -371,6 +392,7 @@
     "radiant_win": false,
     "radiant_score": 13,
     "dire_score": 15,
+    "start_time": 1495987204,
     "League": "WellPlay Invitational by VitalBet"
   },
   {
@@ -388,6 +410,7 @@
     "radiant_win": true,
     "radiant_score": 23,
     "dire_score": 12,
+    "start_time": 1495994457,
     "League": "Uprise Champions Cup: Special"
   },
   {
@@ -405,6 +428,7 @@
     "radiant_win": true,
     "radiant_score": 18,
     "dire_score": 5,
+    "start_time": 1495966956,
     "League": "Masters Manila 2017"
   }
 ]

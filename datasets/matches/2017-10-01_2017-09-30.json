@@ -14,6 +14,7 @@
     "radiant_win": false,
     "radiant_score": 29,
     "dire_score": 42,
+    "start_time": 1506784360,
     "League": "D2CL Season 7"
   },
   {
@@ -31,6 +32,7 @@
     "radiant_win": false,
     "radiant_score": 41,
     "dire_score": 63,
+    "start_time": 1506804585,
     "League": "D2CL Season 6"
   },
   {
@@ -48,6 +50,7 @@
     "radiant_win": false,
     "radiant_score": 39,
     "dire_score": 41,
+    "start_time": 1506789591,
     "League": "D2CL Season 7"
   },
   {
@@ -65,6 +68,7 @@
     "radiant_win": false,
     "radiant_score": 28,
     "dire_score": 46,
+    "start_time": 1506794365,
     "League": "D2CL Season 7"
   },
   {
@@ -82,6 +86,7 @@
     "radiant_win": true,
     "radiant_score": 40,
     "dire_score": 16,
+    "start_time": 1506813237,
     "League": "D2CL Season 6"
   },
   {
@@ -99,6 +104,7 @@
     "radiant_win": true,
     "radiant_score": 39,
     "dire_score": 19,
+    "start_time": 1506809689,
     "League": "D2CL Season 6"
   },
   {
@@ -116,6 +122,7 @@
     "radiant_win": false,
     "radiant_score": 26,
     "dire_score": 28,
+    "start_time": 1506798828,
     "League": "D2CL Season 7"
   },
   {
@@ -133,6 +140,7 @@
     "radiant_win": false,
     "radiant_score": 14,
     "dire_score": 33,
+    "start_time": 1506737760,
     "League": "DreamLeague season 7"
   },
   {
@@ -150,6 +158,7 @@
     "radiant_win": true,
     "radiant_score": 47,
     "dire_score": 19,
+    "start_time": 1506801169,
     "League": "D2CL Season 6"
   },
   {
@@ -167,6 +176,7 @@
     "radiant_win": false,
     "radiant_score": 22,
     "dire_score": 51,
+    "start_time": 1506798404,
     "League": "D2CL Season 6"
   },
   {
@@ -184,6 +194,7 @@
     "radiant_win": true,
     "radiant_score": 24,
     "dire_score": 9,
+    "start_time": 1506802517,
     "League": "D2CL Season 7"
   },
   {
@@ -201,6 +212,7 @@
     "radiant_win": false,
     "radiant_score": 9,
     "dire_score": 20,
+    "start_time": 1506733528,
     "League": "DreamLeague season 7"
   }
 ]

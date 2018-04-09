@@ -14,6 +14,7 @@
     "radiant_win": false,
     "radiant_score": 28,
     "dire_score": 40,
+    "start_time": 1522828261,
     "League": "Dota 2 Professional League 2016"
   },
   {
@@ -31,6 +32,7 @@
     "radiant_win": false,
     "radiant_score": 30,
     "dire_score": 41,
+    "start_time": 1522861897,
     "League": "CZ-SK Dota 2 League Season 10"
   },
   {
@@ -48,6 +50,7 @@
     "radiant_win": false,
     "radiant_score": 29,
     "dire_score": 41,
+    "start_time": 1522853659,
     "League": "ESL India Premiership - 2017 Edition"
   },
   {
@@ -65,6 +68,7 @@
     "radiant_win": false,
     "radiant_score": 13,
     "dire_score": 45,
+    "start_time": 1522865282,
     "League": "CZ-SK Dota 2 League Season 10"
   },
   {
@@ -82,6 +86,7 @@
     "radiant_win": false,
     "radiant_score": 21,
     "dire_score": 26,
+    "start_time": 1522866096,
     "League": "CZ-SK Dota 2 League Season 10"
   },
   {
@@ -99,6 +104,7 @@
     "radiant_win": false,
     "radiant_score": 24,
     "dire_score": 34,
+    "start_time": 1522840177,
     "League": "Dota 2 Professional League 2016"
   },
   {
@@ -116,6 +122,7 @@
     "radiant_win": true,
     "radiant_score": 28,
     "dire_score": 17,
+    "start_time": 1522862086,
     "League": "CZ-SK Dota 2 League Season 10"
   },
   {
@@ -133,6 +140,7 @@
     "radiant_win": false,
     "radiant_score": 15,
     "dire_score": 31,
+    "start_time": 1522818179,
     "League": "Dota 2 Professional League 2016"
   },
   {
@@ -150,6 +158,7 @@
     "radiant_win": false,
     "radiant_score": 10,
     "dire_score": 22,
+    "start_time": 1522825158,
     "League": "Dota 2 Professional League 2016"
   },
   {
@@ -167,6 +176,7 @@
     "radiant_win": true,
     "radiant_score": 31,
     "dire_score": 13,
+    "start_time": 1522836062,
     "League": "Dota 2 Professional League 2016"
   },
   {
@@ -184,6 +194,7 @@
     "radiant_win": false,
     "radiant_score": 14,
     "dire_score": 43,
+    "start_time": 1522853691,
     "League": "ESL India Premiership - 2017 Edition"
   },
   {
@@ -201,6 +212,7 @@
     "radiant_win": true,
     "radiant_score": 25,
     "dire_score": 7,
+    "start_time": 1522843934,
     "League": "Dota 2 Professional League 2016"
   },
   {
@@ -218,6 +230,7 @@
     "radiant_win": false,
     "radiant_score": 16,
     "dire_score": 17,
+    "start_time": 1522833250,
     "League": "Dota 2 Professional League 2016"
   }
 ]

@@ -14,6 +14,7 @@
     "radiant_win": true,
     "radiant_score": 43,
     "dire_score": 26,
+    "start_time": 1513244512,
     "League": "ProDotA Cup Series"
   },
   {
@@ -31,6 +32,7 @@
     "radiant_win": true,
     "radiant_score": 44,
     "dire_score": 45,
+    "start_time": 1513286110,
     "League": "Polupro ladder league season 1"
   },
   {
@@ -48,6 +50,7 @@
     "radiant_win": false,
     "radiant_score": 33,
     "dire_score": 44,
+    "start_time": 1513240670,
     "League": "ProDotA Cup Series"
   },
   {
@@ -65,6 +68,7 @@
     "radiant_win": false,
     "radiant_score": 22,
     "dire_score": 34,
+    "start_time": 1513250247,
     "League": "ProDotA Cup Series"
   },
   {
@@ -82,6 +86,7 @@
     "radiant_win": true,
     "radiant_score": 37,
     "dire_score": 18,
+    "start_time": 1513253861,
     "League": "ProDotA Cup Series"
   },
   {
@@ -99,6 +104,7 @@
     "radiant_win": false,
     "radiant_score": 33,
     "dire_score": 36,
+    "start_time": 1513234342,
     "League": "ProDotA Cup Series"
   },
   {
@@ -116,6 +122,7 @@
     "radiant_win": true,
     "radiant_score": 34,
     "dire_score": 15,
+    "start_time": 1513231474,
     "League": "ProDotA Cup Series"
   },
   {
@@ -133,6 +140,7 @@
     "radiant_win": false,
     "radiant_score": 28,
     "dire_score": 40,
+    "start_time": 1513289570,
     "League": "Polupro ladder league season 1"
   },
   {
@@ -150,6 +158,7 @@
     "radiant_win": true,
     "radiant_score": 36,
     "dire_score": 20,
+    "start_time": 1513249055,
     "League": "World Electronic Sports Games 2017"
   },
   {
@@ -167,6 +176,7 @@
     "radiant_win": true,
     "radiant_score": 35,
     "dire_score": 10,
+    "start_time": 1513246853,
     "League": "World Electronic Sports Games 2017"
   }
 ]

@@ -14,6 +14,7 @@
     "radiant_win": false,
     "radiant_score": 28,
     "dire_score": 38,
+    "start_time": 1497043309,
     "League": "ProDotA Cup Series by Azubu.tv"
   },
   {
@@ -31,6 +32,7 @@
     "radiant_win": false,
     "radiant_score": 40,
     "dire_score": 38,
+    "start_time": 1496999008,
     "League": "WCA Tournament Platform Classic"
   },
   {
@@ -48,6 +50,7 @@
     "radiant_win": false,
     "radiant_score": 30,
     "dire_score": 26,
+    "start_time": 1497038980,
     "League": "ProDotA Cup Series by Azubu.tv"
   },
   {
@@ -65,6 +68,7 @@
     "radiant_win": true,
     "radiant_score": 41,
     "dire_score": 16,
+    "start_time": 1496981971,
     "League": "Dota 2 Challenge Mexico"
   },
   {
@@ -82,6 +86,7 @@
     "radiant_win": false,
     "radiant_score": 22,
     "dire_score": 29,
+    "start_time": 1496976411,
     "League": "ProDotA Cup Series by Azubu.tv"
   },
   {
@@ -99,6 +104,7 @@
     "radiant_win": false,
     "radiant_score": 20,
     "dire_score": 29,
+    "start_time": 1497019281,
     "League": "ESL India Premiership - 2017 Edition"
   },
   {
@@ -116,6 +122,7 @@
     "radiant_win": true,
     "radiant_score": 32,
     "dire_score": 17,
+    "start_time": 1496977966,
     "League": "Dota 2 Challenge Mexico"
   },
   {
@@ -133,6 +140,7 @@
     "radiant_win": true,
     "radiant_score": 27,
     "dire_score": 10,
+    "start_time": 1496973982,
     "League": "Dota 2 Challenge Mexico"
   },
   {
@@ -150,6 +158,7 @@
     "radiant_win": false,
     "radiant_score": 11,
     "dire_score": 34,
+    "start_time": 1497052583,
     "League": "ProDotA Cup Series by Azubu.tv"
   },
   {
@@ -167,6 +176,7 @@
     "radiant_win": true,
     "radiant_score": 45,
     "dire_score": 24,
+    "start_time": 1497048775,
     "League": "ProDotA Cup Series by Azubu.tv"
   },
   {
@@ -184,6 +194,7 @@
     "radiant_win": false,
     "radiant_score": 24,
     "dire_score": 26,
+    "start_time": 1496969387,
     "League": "ProDotA Cup Series by Azubu.tv"
   },
   {
@@ -201,6 +212,7 @@
     "radiant_win": true,
     "radiant_score": 50,
     "dire_score": 17,
+    "start_time": 1497006875,
     "League": "WCA Tournament Platform Classic"
   },
   {
@@ -218,6 +230,7 @@
     "radiant_win": false,
     "radiant_score": 22,
     "dire_score": 37,
+    "start_time": 1497003698,
     "League": "WCA Tournament Platform Classic"
   },
   {
@@ -235,6 +248,7 @@
     "radiant_win": false,
     "radiant_score": 6,
     "dire_score": 19,
+    "start_time": 1496974307,
     "League": "ProDotA Cup Series by Azubu.tv"
   }
 ]

@@ -14,6 +14,7 @@
     "radiant_win": false,
     "radiant_score": 24,
     "dire_score": 42,
+    "start_time": 1483512599,
     "League": "SL i-League StarSeries S3"
   },
   {
@@ -31,6 +32,7 @@
     "radiant_win": true,
     "radiant_score": 32,
     "dire_score": 26,
+    "start_time": 1483508598,
     "League": "SL i-League StarSeries S3"
   },
   {
@@ -48,6 +50,7 @@
     "radiant_win": false,
     "radiant_score": 27,
     "dire_score": 30,
+    "start_time": 1483553899,
     "League": "Royal Arena"
   },
   {
@@ -65,6 +68,7 @@
     "radiant_win": false,
     "radiant_score": 17,
     "dire_score": 29,
+    "start_time": 1483545996,
     "League": "Royal Arena"
   },
   {
@@ -82,6 +86,7 @@
     "radiant_win": false,
     "radiant_score": 37,
     "dire_score": 44,
+    "start_time": 1483519668,
     "League": "SL i-League StarSeries S3"
   },
   {
@@ -99,6 +104,7 @@
     "radiant_win": true,
     "radiant_score": 26,
     "dire_score": 23,
+    "start_time": 1483545612,
     "League": "NFCups Season 5"
   },
   {
@@ -116,6 +122,7 @@
     "radiant_win": false,
     "radiant_score": 23,
     "dire_score": 32,
+    "start_time": 1483564197,
     "League": "KOD League Season 2"
   },
   {
@@ -133,6 +140,7 @@
     "radiant_win": true,
     "radiant_score": 27,
     "dire_score": 11,
+    "start_time": 1483550530,
     "League": "Royal Arena"
   },
   {
@@ -150,6 +158,7 @@
     "radiant_win": false,
     "radiant_score": 22,
     "dire_score": 34,
+    "start_time": 1483554466,
     "League": "NFCups Season 5"
   },
   {
@@ -167,6 +176,7 @@
     "radiant_win": false,
     "radiant_score": 17,
     "dire_score": 40,
+    "start_time": 1483527694,
     "League": "SL i-League StarSeries S3"
   },
   {
@@ -184,6 +194,7 @@
     "radiant_win": true,
     "radiant_score": 31,
     "dire_score": 18,
+    "start_time": 1483531183,
     "League": "SL i-League StarSeries S3"
   },
   {
@@ -201,6 +212,7 @@
     "radiant_win": true,
     "radiant_score": 23,
     "dire_score": 27,
+    "start_time": 1483523550,
     "League": "SL i-League StarSeries S3"
   },
   {
@@ -218,6 +230,7 @@
     "radiant_win": true,
     "radiant_score": 32,
     "dire_score": 9,
+    "start_time": 1483542755,
     "League": "NFCups Season 5"
   },
   {
@@ -235,6 +248,7 @@
     "radiant_win": true,
     "radiant_score": 17,
     "dire_score": 4,
+    "start_time": 1483506457,
     "League": "SL i-League StarSeries S3"
   },
   {
@@ -252,6 +266,7 @@
     "radiant_win": true,
     "radiant_score": 12,
     "dire_score": 2,
+    "start_time": 1483568048,
     "League": "KOD League Season 2"
   },
   {
@@ -269,6 +284,7 @@
     "radiant_win": false,
     "radiant_score": 3,
     "dire_score": 13,
+    "start_time": 1483573975,
     "League": "KOD League Season 2"
   }
 ]

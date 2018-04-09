@@ -14,6 +14,7 @@
     "radiant_win": false,
     "radiant_score": 51,
     "dire_score": 74,
+    "start_time": 1493065797,
     "League": "CZ-SK Dota 2 League Season 9"
   },
   {
@@ -31,6 +32,7 @@
     "radiant_win": false,
     "radiant_score": 36,
     "dire_score": 50,
+    "start_time": 1493055428,
     "League": "CZ-SK Dota 2 League Season 9"
   },
   {
@@ -48,6 +50,7 @@
     "radiant_win": true,
     "radiant_score": 20,
     "dire_score": 19,
+    "start_time": 1493060137,
     "League": "CZ-SK Dota 2 League Season 9"
   }
 ]

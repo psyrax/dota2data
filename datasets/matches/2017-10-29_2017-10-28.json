@@ -14,6 +14,7 @@
     "radiant_win": true,
     "radiant_score": 31,
     "dire_score": 20,
+    "start_time": 1509175643,
     "League": "ESL India Premiership - Season One"
   },
   {
@@ -31,6 +32,7 @@
     "radiant_win": false,
     "radiant_score": 16,
     "dire_score": 30,
+    "start_time": 1509206634,
     "League": "D2CL Season 7"
   },
   {
@@ -48,6 +50,7 @@
     "radiant_win": true,
     "radiant_score": 26,
     "dire_score": 17,
+    "start_time": 1509210261,
     "League": "D2CL Season 7"
   }
 ]

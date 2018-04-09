@@ -14,6 +14,7 @@
     "radiant_win": true,
     "radiant_score": 55,
     "dire_score": 48,
+    "start_time": 1512225488,
     "League": "ESL India Premiership - 2017 Edition"
   },
   {
@@ -31,6 +32,7 @@
     "radiant_win": true,
     "radiant_score": 37,
     "dire_score": 43,
+    "start_time": 1512177617,
     "League": "Polupro ladder league season 1"
   },
   {
@@ -48,6 +50,7 @@
     "radiant_win": true,
     "radiant_score": 37,
     "dire_score": 12,
+    "start_time": 1512172923,
     "League": "Polupro ladder league season 1"
   }
 ]

@@ -14,6 +14,7 @@
     "radiant_win": false,
     "radiant_score": 20,
     "dire_score": 23,
+    "start_time": 1496137878,
     "League": "WCA Tournament Platform Classic"
   },
   {
@@ -31,6 +32,7 @@
     "radiant_win": true,
     "radiant_score": 41,
     "dire_score": 36,
+    "start_time": 1496110687,
     "League": "Dota 2 Challenge Mexico"
   },
   {
@@ -48,6 +50,7 @@
     "radiant_win": false,
     "radiant_score": 23,
     "dire_score": 31,
+    "start_time": 1496164498,
     "League": "Uprise Champions Cup: Special"
   },
   {
@@ -65,6 +68,7 @@
     "radiant_win": false,
     "radiant_score": 15,
     "dire_score": 35,
+    "start_time": 1496172570,
     "League": "Uprise Champions Cup: Special"
   },
   {
@@ -82,6 +86,7 @@
     "radiant_win": false,
     "radiant_score": 30,
     "dire_score": 34,
+    "start_time": 1496161797,
     "League": "DreamLeague season 7"
   },
   {
@@ -99,6 +104,7 @@
     "radiant_win": false,
     "radiant_score": 34,
     "dire_score": 43,
+    "start_time": 1496136797,
     "League": "Zotac Cup Masters"
   },
   {
@@ -116,6 +122,7 @@
     "radiant_win": false,
     "radiant_score": 23,
     "dire_score": 36,
+    "start_time": 1496171096,
     "League": "DreamLeague season 7"
   },
   {
@@ -133,6 +140,7 @@
     "radiant_win": true,
     "radiant_score": 32,
     "dire_score": 26,
+    "start_time": 1496116837,
     "League": "Dota 2 Challenge Mexico"
   },
   {
@@ -150,6 +158,7 @@
     "radiant_win": true,
     "radiant_score": 39,
     "dire_score": 35,
+    "start_time": 1496118707,
     "League": "Zotac Cup Masters"
   },
   {
@@ -167,6 +176,7 @@
     "radiant_win": false,
     "radiant_score": 32,
     "dire_score": 33,
+    "start_time": 1496130839,
     "League": "Zotac Cup Masters"
   },
   {
@@ -184,6 +194,7 @@
     "radiant_win": false,
     "radiant_score": 23,
     "dire_score": 22,
+    "start_time": 1496156540,
     "League": "Uprise Champions Cup: Special"
   },
   {
@@ -201,6 +212,7 @@
     "radiant_win": true,
     "radiant_score": 23,
     "dire_score": 16,
+    "start_time": 1496160525,
     "League": "Uprise Champions Cup: Special"
   },
   {
@@ -218,6 +230,7 @@
     "radiant_win": true,
     "radiant_score": 25,
     "dire_score": 15,
+    "start_time": 1496183696,
     "League": "DreamLeague season 7"
   },
   {
@@ -235,6 +248,7 @@
     "radiant_win": false,
     "radiant_score": 23,
     "dire_score": 42,
+    "start_time": 1496179796,
     "League": "DreamLeague season 7"
   },
   {
@@ -252,6 +266,7 @@
     "radiant_win": false,
     "radiant_score": 17,
     "dire_score": 27,
+    "start_time": 1496166597,
     "League": "DreamLeague season 7"
   },
   {
@@ -269,6 +284,7 @@
     "radiant_win": true,
     "radiant_score": 27,
     "dire_score": 17,
+    "start_time": 1496128562,
     "League": "WCA Tournament Platform Classic"
   },
   {
@@ -286,6 +302,7 @@
     "radiant_win": false,
     "radiant_score": 19,
     "dire_score": 21,
+    "start_time": 1496124532,
     "League": "WCA Tournament Platform Classic"
   },
   {
@@ -303,6 +320,7 @@
     "radiant_win": false,
     "radiant_score": 21,
     "dire_score": 28,
+    "start_time": 1496169171,
     "League": "Uprise Champions Cup: Special"
   },
   {
@@ -320,6 +338,7 @@
     "radiant_win": true,
     "radiant_score": 23,
     "dire_score": 13,
+    "start_time": 1496113819,
     "League": "Zotac Cup Masters"
   },
   {
@@ -337,6 +356,7 @@
     "radiant_win": true,
     "radiant_score": 40,
     "dire_score": 9,
+    "start_time": 1496124784,
     "League": "Zotac Cup Masters"
   },
   {
@@ -354,6 +374,7 @@
     "radiant_win": false,
     "radiant_score": 3,
     "dire_score": 32,
+    "start_time": 1496121210,
     "League": "Dota 2 Challenge Mexico"
   },
   {
@@ -371,6 +392,7 @@
     "radiant_win": false,
     "radiant_score": 6,
     "dire_score": 24,
+    "start_time": 1496134898,
     "League": "WCA Tournament Platform Classic"
   },
   {
@@ -388,6 +410,7 @@
     "radiant_win": false,
     "radiant_score": 11,
     "dire_score": 24,
+    "start_time": 1496176684,
     "League": "DreamLeague season 7"
   }
 ]

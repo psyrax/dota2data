@@ -14,6 +14,7 @@
     "radiant_win": false,
     "radiant_score": 12,
     "dire_score": 28,
+    "start_time": 1517082775,
     "League": "D2CL Season 6"
   },
   {
@@ -31,6 +32,7 @@
     "radiant_win": false,
     "radiant_score": 4,
     "dire_score": 24,
+    "start_time": 1517079564,
     "League": "D2CL Season 6"
   },
   {
@@ -48,6 +50,7 @@
     "radiant_win": true,
     "radiant_score": 25,
     "dire_score": 0,
+    "start_time": 1517077645,
     "League": "D2CL Season 6"
   }
 ]

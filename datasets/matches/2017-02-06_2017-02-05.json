@@ -14,6 +14,7 @@
     "radiant_win": false,
     "radiant_score": 44,
     "dire_score": 31,
+    "start_time": 1486321083,
     "League": "CZ-SK Dota 2 League Season 8"
   },
   {
@@ -31,6 +32,7 @@
     "radiant_win": false,
     "radiant_score": 42,
     "dire_score": 51,
+    "start_time": 1486283423,
     "League": "AES Summer League S1"
   },
   {
@@ -48,6 +50,7 @@
     "radiant_win": false,
     "radiant_score": 42,
     "dire_score": 44,
+    "start_time": 1486268202,
     "League": "AEF Season 1 Qualifiers"
   },
   {
@@ -65,6 +68,7 @@
     "radiant_win": false,
     "radiant_score": 22,
     "dire_score": 42,
+    "start_time": 1486257822,
     "League": "D2CL Season 6"
   },
   {
@@ -82,6 +86,7 @@
     "radiant_win": true,
     "radiant_score": 37,
     "dire_score": 23,
+    "start_time": 1486265028,
     "League": "AEF Season 1 Qualifiers"
   },
   {
@@ -99,6 +104,7 @@
     "radiant_win": true,
     "radiant_score": 24,
     "dire_score": 10,
+    "start_time": 1486318159,
     "League": "CZ-SK Dota 2 League Season 8"
   },
   {
@@ -116,6 +122,7 @@
     "radiant_win": true,
     "radiant_score": 15,
     "dire_score": 7,
+    "start_time": 1486255318,
     "League": "D2CL Season 6"
   },
   {
@@ -133,6 +140,7 @@
     "radiant_win": false,
     "radiant_score": 3,
     "dire_score": 26,
+    "start_time": 1486282301,
     "League": "AES Summer League S1"
   },
   {
@@ -150,6 +158,7 @@
     "radiant_win": true,
     "radiant_score": 27,
     "dire_score": 6,
+    "start_time": 1486279301,
     "League": "AES Summer League S1"
   }
 ]

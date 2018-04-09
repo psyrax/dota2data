@@ -14,6 +14,7 @@
     "radiant_win": false,
     "radiant_score": 22,
     "dire_score": 44,
+    "start_time": 1503419616,
     "League": "ProDotA Cup by Azubu"
   },
   {
@@ -31,6 +32,7 @@
     "radiant_win": false,
     "radiant_score": 34,
     "dire_score": 36,
+    "start_time": 1503423091,
     "League": "D2CL Season 7"
   },
   {
@@ -48,6 +50,7 @@
     "radiant_win": true,
     "radiant_score": 45,
     "dire_score": 19,
+    "start_time": 1503418880,
     "League": "D2CL Season 7"
   },
   {
@@ -65,6 +68,7 @@
     "radiant_win": false,
     "radiant_score": 24,
     "dire_score": 36,
+    "start_time": 1503408406,
     "League": "D2CL Season 7"
   },
   {
@@ -82,6 +86,7 @@
     "radiant_win": false,
     "radiant_score": 40,
     "dire_score": 27,
+    "start_time": 1503406902,
     "League": "ProDotA Cup by Azubu"
   },
   {
@@ -99,6 +104,7 @@
     "radiant_win": false,
     "radiant_score": 23,
     "dire_score": 37,
+    "start_time": 1503414826,
     "League": "ProDotA Cup by Azubu"
   },
   {
@@ -116,6 +122,7 @@
     "radiant_win": false,
     "radiant_score": 46,
     "dire_score": 48,
+    "start_time": 1503431663,
     "League": "ProDotA Cup by Azubu"
   },
   {
@@ -133,6 +140,7 @@
     "radiant_win": true,
     "radiant_score": 51,
     "dire_score": 30,
+    "start_time": 1503424539,
     "League": "ProDotA Cup by Azubu"
   },
   {
@@ -150,6 +158,7 @@
     "radiant_win": true,
     "radiant_score": 28,
     "dire_score": 24,
+    "start_time": 1503404343,
     "League": "ProDotA Cup by Azubu"
   },
   {
@@ -167,6 +176,7 @@
     "radiant_win": false,
     "radiant_score": 14,
     "dire_score": 40,
+    "start_time": 1503388713,
     "League": "ProDotA Cup by Azubu"
   },
   {
@@ -184,6 +194,7 @@
     "radiant_win": true,
     "radiant_score": 33,
     "dire_score": 35,
+    "start_time": 1503428287,
     "League": "ProDotA Cup by Azubu"
   },
   {
@@ -201,6 +212,7 @@
     "radiant_win": true,
     "radiant_score": 28,
     "dire_score": 11,
+    "start_time": 1503399531,
     "League": "ESL India Premiership - 2017 Edition"
   },
   {
@@ -218,6 +230,7 @@
     "radiant_win": true,
     "radiant_score": 45,
     "dire_score": 23,
+    "start_time": 1503392387,
     "League": "ProDotA Cup by Azubu"
   },
   {
@@ -235,6 +248,7 @@
     "radiant_win": false,
     "radiant_score": 13,
     "dire_score": 32,
+    "start_time": 1503411303,
     "League": "ProDotA Cup by Azubu"
   },
   {
@@ -252,6 +266,7 @@
     "radiant_win": true,
     "radiant_score": 28,
     "dire_score": 13,
+    "start_time": 1503401423,
     "League": "ProDotA Cup by Azubu"
   },
   {
@@ -269,6 +284,7 @@
     "radiant_win": true,
     "radiant_score": 28,
     "dire_score": 8,
+    "start_time": 1503412318,
     "League": "D2CL Season 7"
   },
   {
@@ -286,6 +302,7 @@
     "radiant_win": true,
     "radiant_score": 30,
     "dire_score": 10,
+    "start_time": 1503399093,
     "League": "ESL India Premiership - 2017 Edition"
   },
   {
@@ -303,6 +320,7 @@
     "radiant_win": true,
     "radiant_score": 28,
     "dire_score": 6,
+    "start_time": 1503421837,
     "League": "CZ-SK Dota 2 League Season 10"
   },
   {
@@ -320,6 +338,7 @@
     "radiant_win": false,
     "radiant_score": 8,
     "dire_score": 24,
+    "start_time": 1503424223,
     "League": "CZ-SK Dota 2 League Season 10"
   }
 ]

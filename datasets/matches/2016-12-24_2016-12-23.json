@@ -14,6 +14,7 @@
     "radiant_win": true,
     "radiant_score": 34,
     "dire_score": 26,
+    "start_time": 1482505867,
     "League": "ProDotA Cup Series by Azubu.tv"
   },
   {
@@ -31,6 +32,7 @@
     "radiant_win": false,
     "radiant_score": 29,
     "dire_score": 29,
+    "start_time": 1482535585,
     "League": "ProDotA Cup Series by Azubu.tv"
   },
   {
@@ -48,6 +50,7 @@
     "radiant_win": false,
     "radiant_score": 22,
     "dire_score": 26,
+    "start_time": 1482519649,
     "League": "ProDotA Cup Series by Azubu.tv"
   },
   {
@@ -65,6 +68,7 @@
     "radiant_win": false,
     "radiant_score": 38,
     "dire_score": 48,
+    "start_time": 1482523994,
     "League": "ProDotA Cup Series by Azubu.tv"
   },
   {
@@ -82,6 +86,7 @@
     "radiant_win": false,
     "radiant_score": 14,
     "dire_score": 37,
+    "start_time": 1482459926,
     "League": "ProDotA Cup Series by Azubu.tv"
   },
   {
@@ -99,6 +104,7 @@
     "radiant_win": true,
     "radiant_score": 22,
     "dire_score": 6,
+    "start_time": 1482533075,
     "League": "ProDotA Cup Series by Azubu.tv"
   },
   {
@@ -116,6 +122,7 @@
     "radiant_win": true,
     "radiant_score": 26,
     "dire_score": 10,
+    "start_time": 1482456750,
     "League": "ProDotA Cup Series by Azubu.tv"
   }
 ]

@@ -14,6 +14,7 @@
     "radiant_win": false,
     "radiant_score": 68,
     "dire_score": 97,
+    "start_time": 1482990254,
     "League": "DafaeSports Indonesia Series Presented by Eternal Gaming"
   },
   {
@@ -31,6 +32,7 @@
     "radiant_win": true,
     "radiant_score": 41,
     "dire_score": 41,
+    "start_time": 1483002536,
     "League": "SL i-League StarSeries S3"
   },
   {
@@ -48,6 +50,7 @@
     "radiant_win": false,
     "radiant_score": 22,
     "dire_score": 19,
+    "start_time": 1483052085,
     "League": "ProDotA Cup Series by Azubu.tv"
   },
   {
@@ -65,6 +68,7 @@
     "radiant_win": true,
     "radiant_score": 21,
     "dire_score": 26,
+    "start_time": 1483030762,
     "League": "Royal Arena"
   },
   {
@@ -82,6 +86,7 @@
     "radiant_win": false,
     "radiant_score": 27,
     "dire_score": 43,
+    "start_time": 1483014928,
     "League": "SL i-League StarSeries S3"
   },
   {
@@ -99,6 +104,7 @@
     "radiant_win": true,
     "radiant_score": 45,
     "dire_score": 15,
+    "start_time": 1482999043,
     "League": "SL i-League StarSeries S3"
   },
   {
@@ -116,6 +122,7 @@
     "radiant_win": false,
     "radiant_score": 31,
     "dire_score": 30,
+    "start_time": 1483038466,
     "League": "Royal Arena"
   },
   {
@@ -133,6 +140,7 @@
     "radiant_win": true,
     "radiant_score": 37,
     "dire_score": 24,
+    "start_time": 1483042687,
     "League": "Royal Arena"
   },
   {
@@ -150,6 +158,7 @@
     "radiant_win": false,
     "radiant_score": 29,
     "dire_score": 56,
+    "start_time": 1482986359,
     "League": "DafaeSports Indonesia Series Presented by Eternal Gaming"
   },
   {
@@ -167,6 +176,7 @@
     "radiant_win": false,
     "radiant_score": 22,
     "dire_score": 38,
+    "start_time": 1483006605,
     "League": "SL i-League StarSeries S3"
   },
   {
@@ -184,6 +194,7 @@
     "radiant_win": false,
     "radiant_score": 17,
     "dire_score": 25,
+    "start_time": 1483010735,
     "League": "SL i-League StarSeries S3"
   },
   {
@@ -201,6 +212,7 @@
     "radiant_win": false,
     "radiant_score": 20,
     "dire_score": 27,
+    "start_time": 1483046167,
     "League": "Royal Arena"
   },
   {
@@ -218,6 +230,7 @@
     "radiant_win": true,
     "radiant_score": 59,
     "dire_score": 23,
+    "start_time": 1482997224,
     "League": "DafaeSports Indonesia Series Presented by Eternal Gaming"
   },
   {
@@ -235,6 +248,7 @@
     "radiant_win": false,
     "radiant_score": 24,
     "dire_score": 44,
+    "start_time": 1483010727,
     "League": "SL i-League StarSeries S3"
   },
   {
@@ -252,6 +266,7 @@
     "radiant_win": false,
     "radiant_score": 29,
     "dire_score": 39,
+    "start_time": 1483002462,
     "League": "SL i-League StarSeries S3"
   },
   {
@@ -269,6 +284,7 @@
     "radiant_win": false,
     "radiant_score": 14,
     "dire_score": 33,
+    "start_time": 1483035204,
     "League": "Royal Arena"
   },
   {
@@ -286,6 +302,7 @@
     "radiant_win": true,
     "radiant_score": 35,
     "dire_score": 9,
+    "start_time": 1483027536,
     "League": "Royal Arena"
   },
   {
@@ -303,6 +320,7 @@
     "radiant_win": false,
     "radiant_score": 17,
     "dire_score": 28,
+    "start_time": 1482999523,
     "League": "SL i-League StarSeries S3"
   },
   {
@@ -320,6 +338,7 @@
     "radiant_win": true,
     "radiant_score": 32,
     "dire_score": 22,
+    "start_time": 1483013924,
     "League": "SL i-League StarSeries S3"
   },
   {
@@ -337,6 +356,7 @@
     "radiant_win": true,
     "radiant_score": 32,
     "dire_score": 9,
+    "start_time": 1483018649,
     "League": "SL i-League StarSeries S3"
   },
   {
@@ -354,6 +374,7 @@
     "radiant_win": true,
     "radiant_score": 26,
     "dire_score": 7,
+    "start_time": 1483049231,
     "League": "ProDotA Cup Series by Azubu.tv"
   },
   {
@@ -371,6 +392,7 @@
     "radiant_win": false,
     "radiant_score": 4,
     "dire_score": 11,
+    "start_time": 1483007013,
     "League": "SL i-League StarSeries S3"
   }
 ]

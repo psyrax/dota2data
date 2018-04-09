@@ -14,6 +14,7 @@
     "radiant_win": false,
     "radiant_score": 45,
     "dire_score": 51,
+    "start_time": 1502978383,
     "League": "ProDotA Cup Series by Azubu.tv"
   },
   {
@@ -31,6 +32,7 @@
     "radiant_win": true,
     "radiant_score": 35,
     "dire_score": 42,
+    "start_time": 1502974938,
     "League": "ProDotA Cup by Azubu"
   },
   {
@@ -48,6 +50,7 @@
     "radiant_win": false,
     "radiant_score": 43,
     "dire_score": 44,
+    "start_time": 1502961447,
     "League": "ProDotA Cup by Azubu"
   },
   {
@@ -65,6 +68,7 @@
     "radiant_win": false,
     "radiant_score": 36,
     "dire_score": 39,
+    "start_time": 1502980221,
     "League": "ProDotA Cup by Azubu"
   },
   {
@@ -82,6 +86,7 @@
     "radiant_win": false,
     "radiant_score": 33,
     "dire_score": 40,
+    "start_time": 1502988145,
     "League": "ProDotA Cup Series by Azubu.tv"
   },
   {
@@ -99,6 +104,7 @@
     "radiant_win": false,
     "radiant_score": 38,
     "dire_score": 33,
+    "start_time": 1502969115,
     "League": "ProDotA Cup by Azubu"
   },
   {
@@ -116,6 +122,7 @@
     "radiant_win": false,
     "radiant_score": 20,
     "dire_score": 47,
+    "start_time": 1502992360,
     "League": "CZ-SK Dota 2 League Season 10"
   },
   {
@@ -133,6 +140,7 @@
     "radiant_win": false,
     "radiant_score": 26,
     "dire_score": 38,
+    "start_time": 1502998830,
     "League": "ProDotA Cup by Azubu"
   },
   {
@@ -150,6 +158,7 @@
     "radiant_win": true,
     "radiant_score": 25,
     "dire_score": 35,
+    "start_time": 1502991365,
     "League": "ProDotA Cup by Azubu"
   },
   {
@@ -167,6 +176,7 @@
     "radiant_win": false,
     "radiant_score": 29,
     "dire_score": 33,
+    "start_time": 1502984268,
     "League": "ProDotA Cup Series by Azubu.tv"
   },
   {
@@ -184,6 +194,7 @@
     "radiant_win": true,
     "radiant_score": 46,
     "dire_score": 23,
+    "start_time": 1502996034,
     "League": "CZ-SK Dota 2 League Season 10"
   },
   {
@@ -201,6 +212,7 @@
     "radiant_win": false,
     "radiant_score": 14,
     "dire_score": 37,
+    "start_time": 1502957396,
     "League": "ProDotA Cup by Azubu"
   },
   {
@@ -218,6 +230,7 @@
     "radiant_win": false,
     "radiant_score": 10,
     "dire_score": 26,
+    "start_time": 1502989552,
     "League": "CZ-SK Dota 2 League Season 10"
   },
   {
@@ -235,6 +248,7 @@
     "radiant_win": true,
     "radiant_score": 27,
     "dire_score": 8,
+    "start_time": 1502995428,
     "League": "ProDotA Cup by Azubu"
   },
   {
@@ -252,6 +266,7 @@
     "radiant_win": true,
     "radiant_score": 17,
     "dire_score": 11,
+    "start_time": 1502966413,
     "League": "ProDotA Cup by Azubu"
   }
 ]

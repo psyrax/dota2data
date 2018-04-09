@@ -14,6 +14,7 @@
     "radiant_win": true,
     "radiant_score": 35,
     "dire_score": 25,
+    "start_time": 1510423088,
     "League": "2017 Mars Dota 2 League"
   },
   {
@@ -31,6 +32,7 @@
     "radiant_win": true,
     "radiant_score": 45,
     "dire_score": 32,
+    "start_time": 1510397811,
     "League": "Dota 2 Professional League 2016"
   },
   {
@@ -48,6 +50,7 @@
     "radiant_win": true,
     "radiant_score": 35,
     "dire_score": 35,
+    "start_time": 1510401451,
     "League": "2017 Mars Dota 2 League"
   },
   {
@@ -65,6 +68,7 @@
     "radiant_win": false,
     "radiant_score": 36,
     "dire_score": 39,
+    "start_time": 1510402145,
     "League": "ProDotA Cup Series"
   },
   {
@@ -82,6 +86,7 @@
     "radiant_win": true,
     "radiant_score": 51,
     "dire_score": 33,
+    "start_time": 1510360000,
     "League": "The Summit 5"
   },
   {
@@ -99,6 +104,7 @@
     "radiant_win": true,
     "radiant_score": 43,
     "dire_score": 47,
+    "start_time": 1510390521,
     "League": "AEF Season 2"
   },
   {
@@ -116,6 +122,7 @@
     "radiant_win": true,
     "radiant_score": 39,
     "dire_score": 24,
+    "start_time": 1510408014,
     "League": "Dota 2 Professional League 2016"
   },
   {
@@ -133,6 +140,7 @@
     "radiant_win": true,
     "radiant_score": 42,
     "dire_score": 41,
+    "start_time": 1510420264,
     "League": "ProDotA Cup Series"
   },
   {
@@ -150,6 +158,7 @@
     "radiant_win": false,
     "radiant_score": 17,
     "dire_score": 45,
+    "start_time": 1510416582,
     "League": "2017 Mars Dota 2 League"
   },
   {
@@ -167,6 +176,7 @@
     "radiant_win": false,
     "radiant_score": 17,
     "dire_score": 32,
+    "start_time": 1510381268,
     "League": "Dota 2 Professional League 2016"
   },
   {
@@ -184,6 +194,7 @@
     "radiant_win": true,
     "radiant_score": 28,
     "dire_score": 24,
+    "start_time": 1510414077,
     "League": "2017 Mars Dota 2 League"
   },
   {
@@ -201,6 +212,7 @@
     "radiant_win": false,
     "radiant_score": 9,
     "dire_score": 22,
+    "start_time": 1510397926,
     "League": "ProDotA Cup Series"
   },
   {
@@ -218,6 +230,7 @@
     "radiant_win": false,
     "radiant_score": 25,
     "dire_score": 36,
+    "start_time": 1510389835,
     "League": "Dota 2 Professional League 2016"
   },
   {
@@ -235,6 +248,7 @@
     "radiant_win": true,
     "radiant_score": 30,
     "dire_score": 24,
+    "start_time": 1510406408,
     "League": "2017 Mars Dota 2 League"
   },
   {
@@ -252,6 +266,7 @@
     "radiant_win": true,
     "radiant_score": 41,
     "dire_score": 34,
+    "start_time": 1510391658,
     "League": "ProDotA Cup Series"
   },
   {
@@ -269,6 +284,7 @@
     "radiant_win": true,
     "radiant_score": 30,
     "dire_score": 15,
+    "start_time": 1510385307,
     "League": "Dota 2 Professional League 2016"
   },
   {
@@ -286,6 +302,7 @@
     "radiant_win": false,
     "radiant_score": 25,
     "dire_score": 30,
+    "start_time": 1510368629,
     "League": "The Summit 5"
   },
   {
@@ -303,6 +320,7 @@
     "radiant_win": true,
     "radiant_score": 32,
     "dire_score": 25,
+    "start_time": 1510383826,
     "League": "ProDotA Cup Series"
   },
   {
@@ -320,6 +338,7 @@
     "radiant_win": true,
     "radiant_score": 44,
     "dire_score": 25,
+    "start_time": 1510430178,
     "League": "2017 Mars Dota 2 League"
   },
   {
@@ -337,6 +356,7 @@
     "radiant_win": true,
     "radiant_score": 32,
     "dire_score": 15,
+    "start_time": 1510429141,
     "League": "ProDotA Cup Series"
   },
   {
@@ -354,6 +374,7 @@
     "radiant_win": false,
     "radiant_score": 19,
     "dire_score": 30,
+    "start_time": 1510419644,
     "League": "2017 Mars Dota 2 League"
   },
   {
@@ -371,6 +392,7 @@
     "radiant_win": false,
     "radiant_score": 18,
     "dire_score": 28,
+    "start_time": 1510417832,
     "League": "2017 Mars Dota 2 League"
   },
   {
@@ -388,6 +410,7 @@
     "radiant_win": true,
     "radiant_score": 31,
     "dire_score": 25,
+    "start_time": 1510416458,
     "League": "ProDotA Cup Series"
   },
   {
@@ -405,6 +428,7 @@
     "radiant_win": true,
     "radiant_score": 25,
     "dire_score": 21,
+    "start_time": 1510423514,
     "League": "2017 Mars Dota 2 League"
   },
   {
@@ -422,6 +446,7 @@
     "radiant_win": false,
     "radiant_score": 14,
     "dire_score": 31,
+    "start_time": 1510416689,
     "League": "2017 Mars Dota 2 League"
   },
   {
@@ -439,6 +464,7 @@
     "radiant_win": true,
     "radiant_score": 26,
     "dire_score": 11,
+    "start_time": 1510377247,
     "League": "Dota 2 Professional League 2016"
   },
   {
@@ -456,6 +482,7 @@
     "radiant_win": true,
     "radiant_score": 36,
     "dire_score": 20,
+    "start_time": 1510432638,
     "League": "ProDotA Cup Series"
   },
   {
@@ -473,6 +500,7 @@
     "radiant_win": false,
     "radiant_score": 14,
     "dire_score": 34,
+    "start_time": 1510394625,
     "League": "AEF Season 2"
   },
   {
@@ -490,6 +518,7 @@
     "radiant_win": true,
     "radiant_score": 38,
     "dire_score": 15,
+    "start_time": 1510424328,
     "League": "2017 Mars Dota 2 League"
   },
   {
@@ -507,6 +536,7 @@
     "radiant_win": false,
     "radiant_score": 23,
     "dire_score": 36,
+    "start_time": 1510359716,
     "League": "2017 Mars Dota 2 League"
   },
   {
@@ -524,6 +554,7 @@
     "radiant_win": true,
     "radiant_score": 26,
     "dire_score": 20,
+    "start_time": 1510426908,
     "League": "2017 Mars Dota 2 League"
   },
   {
@@ -541,6 +572,7 @@
     "radiant_win": true,
     "radiant_score": 27,
     "dire_score": 10,
+    "start_time": 1510412276,
     "League": "Dota 2 Professional League 2016"
   },
   {
@@ -558,6 +590,7 @@
     "radiant_win": false,
     "radiant_score": 15,
     "dire_score": 41,
+    "start_time": 1510436890,
     "League": "Polupro ladder league season 1"
   },
   {
@@ -575,6 +608,7 @@
     "radiant_win": true,
     "radiant_score": 24,
     "dire_score": 21,
+    "start_time": 1510394465,
     "League": "Dota 2 Professional League 2016"
   },
   {
@@ -592,6 +626,7 @@
     "radiant_win": false,
     "radiant_score": 18,
     "dire_score": 35,
+    "start_time": 1510420727,
     "League": "2017 Mars Dota 2 League"
   },
   {
@@ -609,6 +644,7 @@
     "radiant_win": false,
     "radiant_score": 20,
     "dire_score": 47,
+    "start_time": 1510387702,
     "League": "AEF Season 2"
   },
   {
@@ -626,6 +662,7 @@
     "radiant_win": false,
     "radiant_score": 12,
     "dire_score": 25,
+    "start_time": 1510420031,
     "League": "2017 Mars Dota 2 League"
   },
   {
@@ -643,6 +680,7 @@
     "radiant_win": true,
     "radiant_score": 35,
     "dire_score": 15,
+    "start_time": 1510404667,
     "League": "Dota 2 Professional League 2016"
   },
   {
@@ -660,6 +698,7 @@
     "radiant_win": false,
     "radiant_score": 13,
     "dire_score": 24,
+    "start_time": 1510409824,
     "League": "2017 Mars Dota 2 League"
   },
   {
@@ -677,6 +716,7 @@
     "radiant_win": false,
     "radiant_score": 13,
     "dire_score": 47,
+    "start_time": 1510439274,
     "League": "Polupro ladder league season 1"
   },
   {
@@ -694,6 +734,7 @@
     "radiant_win": true,
     "radiant_score": 23,
     "dire_score": 8,
+    "start_time": 1510365655,
     "League": "The Summit 5"
   },
   {
@@ -711,6 +752,7 @@
     "radiant_win": true,
     "radiant_score": 40,
     "dire_score": 6,
+    "start_time": 1510411949,
     "League": "ESL India Premiership - 2017 Edition"
   },
   {
@@ -728,6 +770,7 @@
     "radiant_win": false,
     "radiant_score": 9,
     "dire_score": 18,
+    "start_time": 1510389214,
     "League": "ProDotA Cup Series"
   },
   {
@@ -745,6 +788,7 @@
     "radiant_win": true,
     "radiant_score": 22,
     "dire_score": 7,
+    "start_time": 1510427904,
     "League": "2017 Mars Dota 2 League"
   }
 ]

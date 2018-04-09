@@ -14,6 +14,7 @@
     "radiant_win": true,
     "radiant_score": 66,
     "dire_score": 48,
+    "start_time": 1482423923,
     "League": "ProDotA Cup Series by Azubu.tv"
   },
   {
@@ -31,6 +32,7 @@
     "radiant_win": false,
     "radiant_score": 44,
     "dire_score": 71,
+    "start_time": 1482410739,
     "League": "AEF Season 1 Qualifiers"
   },
   {
@@ -48,6 +50,7 @@
     "radiant_win": true,
     "radiant_score": 52,
     "dire_score": 58,
+    "start_time": 1482412350,
     "League": "DafaeSports Indonesia Series Presented by Eternal Gaming"
   },
   {
@@ -65,6 +68,7 @@
     "radiant_win": true,
     "radiant_score": 25,
     "dire_score": 11,
+    "start_time": 1482403213,
     "League": "AEF Season 1 Qualifiers"
   },
   {
@@ -82,6 +86,7 @@
     "radiant_win": true,
     "radiant_score": 41,
     "dire_score": 23,
+    "start_time": 1482435365,
     "League": "ProDotA Cup Series by Azubu.tv"
   },
   {
@@ -99,6 +104,7 @@
     "radiant_win": true,
     "radiant_score": 27,
     "dire_score": 25,
+    "start_time": 1482433062,
     "League": "WellPlay Invitational by VitalBet"
   },
   {
@@ -116,6 +122,7 @@
     "radiant_win": true,
     "radiant_score": 40,
     "dire_score": 25,
+    "start_time": 1482376880,
     "League": "ProDotA Cup Series by Azubu.tv"
   },
   {
@@ -133,6 +140,7 @@
     "radiant_win": false,
     "radiant_score": 13,
     "dire_score": 31,
+    "start_time": 1482444836,
     "League": "ProDotA Cup Series by Azubu.tv"
   },
   {
@@ -150,6 +158,7 @@
     "radiant_win": true,
     "radiant_score": 41,
     "dire_score": 30,
+    "start_time": 1482449298,
     "League": "ProDotA Cup Series by Azubu.tv"
   },
   {
@@ -167,6 +176,7 @@
     "radiant_win": true,
     "radiant_score": 26,
     "dire_score": 11,
+    "start_time": 1482422710,
     "League": "WellPlay Invitational by VitalBet"
   },
   {
@@ -184,6 +194,7 @@
     "radiant_win": false,
     "radiant_score": 21,
     "dire_score": 30,
+    "start_time": 1482426428,
     "League": "WellPlay Invitational by VitalBet"
   },
   {
@@ -201,6 +212,7 @@
     "radiant_win": false,
     "radiant_score": 7,
     "dire_score": 23,
+    "start_time": 1482444519,
     "League": "ProDotA Cup Series by Azubu.tv"
   },
   {
@@ -218,6 +230,7 @@
     "radiant_win": false,
     "radiant_score": 10,
     "dire_score": 33,
+    "start_time": 1482429849,
     "League": "WellPlay Invitational by VitalBet"
   },
   {
@@ -235,6 +248,7 @@
     "radiant_win": true,
     "radiant_score": 24,
     "dire_score": 8,
+    "start_time": 1482373620,
     "League": "ProDotA Cup Series by Azubu.tv"
   },
   {
@@ -252,6 +266,7 @@
     "radiant_win": true,
     "radiant_score": 26,
     "dire_score": 23,
+    "start_time": 1482407723,
     "League": "AEF Season 1 Qualifiers"
   },
   {
@@ -269,6 +284,7 @@
     "radiant_win": false,
     "radiant_score": 20,
     "dire_score": 32,
+    "start_time": 1482393653,
     "League": "AEF Season 1 Qualifiers"
   },
   {
@@ -286,6 +302,7 @@
     "radiant_win": true,
     "radiant_score": 28,
     "dire_score": 10,
+    "start_time": 1482396957,
     "League": "AEF Season 1 Qualifiers"
   },
   {
@@ -303,6 +320,7 @@
     "radiant_win": true,
     "radiant_score": 34,
     "dire_score": 21,
+    "start_time": 1482439997,
     "League": "ProDotA Cup Series by Azubu.tv"
   },
   {
@@ -320,6 +338,7 @@
     "radiant_win": true,
     "radiant_score": 29,
     "dire_score": 8,
+    "start_time": 1482433148,
     "League": "ProDotA Cup Series by Azubu.tv"
   },
   {
@@ -337,6 +356,7 @@
     "radiant_win": false,
     "radiant_score": 12,
     "dire_score": 26,
+    "start_time": 1482418389,
     "League": "DafaeSports Indonesia Series Presented by Eternal Gaming"
   },
   {
@@ -354,6 +374,7 @@
     "radiant_win": true,
     "radiant_score": 21,
     "dire_score": 9,
+    "start_time": 1482370982,
     "League": "ProDotA Cup Series by Azubu.tv"
   }
 ]

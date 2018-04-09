@@ -14,6 +14,7 @@
     "radiant_win": true,
     "radiant_score": 44,
     "dire_score": 41,
+    "start_time": 1501584441,
     "League": "AEF Season 2"
   },
   {
@@ -31,6 +32,7 @@
     "radiant_win": false,
     "radiant_score": 25,
     "dire_score": 59,
+    "start_time": 1501589463,
     "League": "AEF Season 2"
   },
   {
@@ -48,6 +50,7 @@
     "radiant_win": false,
     "radiant_score": 50,
     "dire_score": 49,
+    "start_time": 1501578335,
     "League": "AEF Season 2"
   }
 ]

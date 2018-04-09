@@ -16,6 +16,7 @@ dire_team_id,
 radiant_win,
 radiant_score,
 dire_score,
+matches.start_time,
 leagues.name as "League"
 FROM matches
 JOIN match_patch using(match_id)

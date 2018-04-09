@@ -14,6 +14,7 @@
     "radiant_win": true,
     "radiant_score": 40,
     "dire_score": 28,
+    "start_time": 1497885273,
     "League": "ESL India Premiership - 2017 Edition"
   },
   {
@@ -31,6 +32,7 @@
     "radiant_win": false,
     "radiant_score": 30,
     "dire_score": 35,
+    "start_time": 1497891962,
     "League": "CZ-SK Dota 2 League Season 10"
   },
   {
@@ -48,6 +50,7 @@
     "radiant_win": false,
     "radiant_score": 11,
     "dire_score": 25,
+    "start_time": 1497833020,
     "League": "The Summit 5"
   },
   {
@@ -65,6 +68,7 @@
     "radiant_win": false,
     "radiant_score": 24,
     "dire_score": 35,
+    "start_time": 1497885120,
     "League": "ProDotA Cup Series by Azubu.tv"
   },
   {
@@ -82,6 +86,7 @@
     "radiant_win": false,
     "radiant_score": 16,
     "dire_score": 21,
+    "start_time": 1497902544,
     "League": "Blood In The Streets (BITS)"
   },
   {
@@ -99,6 +104,7 @@
     "radiant_win": true,
     "radiant_score": 43,
     "dire_score": 18,
+    "start_time": 1497889550,
     "League": "ProDotA Cup Series by Azubu.tv"
   },
   {
@@ -116,6 +122,7 @@
     "radiant_win": false,
     "radiant_score": 29,
     "dire_score": 43,
+    "start_time": 1497893548,
     "League": "ProDotA Cup Series by Azubu.tv"
   },
   {
@@ -133,6 +140,7 @@
     "radiant_win": false,
     "radiant_score": 29,
     "dire_score": 20,
+    "start_time": 1497835697,
     "League": "ProDotA Cup Series by Azubu.tv"
   },
   {
@@ -150,6 +158,7 @@
     "radiant_win": true,
     "radiant_score": 27,
     "dire_score": 18,
+    "start_time": 1497897598,
     "League": "ProDotA Cup Series by Azubu.tv"
   },
   {
@@ -167,6 +176,7 @@
     "radiant_win": false,
     "radiant_score": 27,
     "dire_score": 33,
+    "start_time": 1497906184,
     "League": "ProDotA Cup Series by Azubu.tv"
   },
   {
@@ -184,6 +194,7 @@
     "radiant_win": false,
     "radiant_score": 4,
     "dire_score": 31,
+    "start_time": 1497895358,
     "League": "Blood In The Streets (BITS)"
   },
   {
@@ -201,6 +212,7 @@
     "radiant_win": false,
     "radiant_score": 11,
     "dire_score": 23,
+    "start_time": 1497898757,
     "League": "Blood In The Streets (BITS)"
   },
   {
@@ -218,6 +230,7 @@
     "radiant_win": true,
     "radiant_score": 29,
     "dire_score": 9,
+    "start_time": 1497897411,
     "League": "CZ-SK Dota 2 League Season 10"
   },
   {
@@ -235,6 +248,7 @@
     "radiant_win": true,
     "radiant_score": 27,
     "dire_score": 15,
+    "start_time": 1497879433,
     "League": "Dota 2 The Open Tournament "
   },
   {
@@ -252,6 +266,7 @@
     "radiant_win": false,
     "radiant_score": 3,
     "dire_score": 29,
+    "start_time": 1497882375,
     "League": "Dota 2 The Open Tournament "
   },
   {
@@ -269,6 +284,7 @@
     "radiant_win": true,
     "radiant_score": 29,
     "dire_score": 14,
+    "start_time": 1497910054,
     "League": "ProDotA Cup Series by Azubu.tv"
   },
   {
@@ -286,6 +302,7 @@
     "radiant_win": true,
     "radiant_score": 30,
     "dire_score": 10,
+    "start_time": 1497833158,
     "League": "ProDotA Cup Series by Azubu.tv"
   }
 ]

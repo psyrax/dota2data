@@ -14,6 +14,7 @@
     "radiant_win": true,
     "radiant_score": 37,
     "dire_score": 21,
+    "start_time": 1507236585,
     "League": "Uprise Champions Cup: Special"
   },
   {
@@ -31,6 +32,7 @@
     "radiant_win": true,
     "radiant_score": 38,
     "dire_score": 28,
+    "start_time": 1507207886,
     "League": "Uprise Champions Cup: Special"
   },
   {
@@ -48,6 +50,7 @@
     "radiant_win": false,
     "radiant_score": 29,
     "dire_score": 33,
+    "start_time": 1507231815,
     "League": "Uprise Champions Cup: Special"
   },
   {
@@ -65,6 +68,7 @@
     "radiant_win": true,
     "radiant_score": 31,
     "dire_score": 23,
+    "start_time": 1507234500,
     "League": "DreamLeague season 7"
   },
   {
@@ -82,6 +86,7 @@
     "radiant_win": false,
     "radiant_score": 21,
     "dire_score": 31,
+    "start_time": 1507221366,
     "League": "DreamLeague season 7"
   },
   {
@@ -99,6 +104,7 @@
     "radiant_win": false,
     "radiant_score": 25,
     "dire_score": 38,
+    "start_time": 1507212552,
     "League": "Uprise Champions Cup: Special"
   },
   {
@@ -116,6 +122,7 @@
     "radiant_win": false,
     "radiant_score": 14,
     "dire_score": 26,
+    "start_time": 1507226100,
     "League": "DreamLeague season 7"
   },
   {
@@ -133,6 +140,7 @@
     "radiant_win": true,
     "radiant_score": 33,
     "dire_score": 6,
+    "start_time": 1507241558,
     "League": "Uprise Champions Cup: Special"
   },
   {
@@ -150,6 +158,7 @@
     "radiant_win": true,
     "radiant_score": 22,
     "dire_score": 11,
+    "start_time": 1507230896,
     "League": "DreamLeague season 7"
   },
   {
@@ -167,6 +176,7 @@
     "radiant_win": false,
     "radiant_score": 12,
     "dire_score": 35,
+    "start_time": 1507207060,
     "League": "Dota 2 Professional League 2016"
   },
   {
@@ -184,6 +194,7 @@
     "radiant_win": true,
     "radiant_score": 24,
     "dire_score": 11,
+    "start_time": 1507204392,
     "League": "Dota 2 Professional League 2016"
   }
 ]

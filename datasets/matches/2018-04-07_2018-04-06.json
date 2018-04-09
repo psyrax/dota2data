@@ -14,6 +14,7 @@
     "radiant_win": true,
     "radiant_score": 51,
     "dire_score": 52,
+    "start_time": 1523027444,
     "League": "ESL India Premiership - 2017 Edition"
   },
   {
@@ -31,6 +32,7 @@
     "radiant_win": true,
     "radiant_score": 43,
     "dire_score": 20,
+    "start_time": 1523002153,
     "League": "Dota 2 Professional League 2016"
   },
   {
@@ -48,6 +50,7 @@
     "radiant_win": true,
     "radiant_score": 39,
     "dire_score": 30,
+    "start_time": 1522994525,
     "League": "Dota 2 Professional League 2016"
   },
   {
@@ -65,6 +68,7 @@
     "radiant_win": false,
     "radiant_score": 26,
     "dire_score": 48,
+    "start_time": 1523007250,
     "League": "Dota 2 Professional League 2016"
   },
   {
@@ -82,6 +86,7 @@
     "radiant_win": false,
     "radiant_score": 41,
     "dire_score": 48,
+    "start_time": 1523018418,
     "League": "Dota 2 Professional League 2016"
   },
   {
@@ -99,6 +104,7 @@
     "radiant_win": true,
     "radiant_score": 43,
     "dire_score": 34,
+    "start_time": 1523011366,
     "League": "Dota 2 Professional League 2016"
   },
   {
@@ -116,6 +122,7 @@
     "radiant_win": true,
     "radiant_score": 40,
     "dire_score": 24,
+    "start_time": 1522998826,
     "League": "Dota 2 Professional League 2016"
   },
   {
@@ -133,6 +140,7 @@
     "radiant_win": false,
     "radiant_score": 11,
     "dire_score": 37,
+    "start_time": 1523015204,
     "League": "Dota 2 Professional League 2016"
   },
   {
@@ -150,6 +158,7 @@
     "radiant_win": true,
     "radiant_score": 39,
     "dire_score": 20,
+    "start_time": 1523040354,
     "League": "CZ-SK Dota 2 League Season 10"
   },
   {
@@ -167,6 +176,7 @@
     "radiant_win": false,
     "radiant_score": 4,
     "dire_score": 14,
+    "start_time": 1522991225,
     "League": "Dota 2 Professional League 2016"
   },
   {
@@ -184,6 +194,7 @@
     "radiant_win": false,
     "radiant_score": 16,
     "dire_score": 37,
+    "start_time": 1523037948,
     "League": "CZ-SK Dota 2 League Season 10"
   },
   {
@@ -201,6 +212,7 @@
     "radiant_win": true,
     "radiant_score": 34,
     "dire_score": 8,
+    "start_time": 1523038421,
     "League": "CZ-SK Dota 2 League Season 10"
   },
   {
@@ -218,6 +230,7 @@
     "radiant_win": false,
     "radiant_score": 6,
     "dire_score": 25,
+    "start_time": 1523025244,
     "League": "ESL India Premiership - 2017 Edition"
   },
   {
@@ -235,6 +248,7 @@
     "radiant_win": true,
     "radiant_score": 27,
     "dire_score": 6,
+    "start_time": 1523040217,
     "League": "CZ-SK Dota 2 League Season 10"
   }
 ]

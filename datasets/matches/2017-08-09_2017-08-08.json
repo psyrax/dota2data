@@ -14,6 +14,7 @@
     "radiant_win": false,
     "radiant_score": 36,
     "dire_score": 46,
+    "start_time": 1502216088,
     "League": "CZ-SK Dota 2 League Season 10"
   },
   {
@@ -31,6 +32,7 @@
     "radiant_win": false,
     "radiant_score": 25,
     "dire_score": 39,
+    "start_time": 1502220649,
     "League": "CZ-SK Dota 2 League Season 10"
   },
   {
@@ -48,6 +50,7 @@
     "radiant_win": false,
     "radiant_score": 6,
     "dire_score": 22,
+    "start_time": 1502182854,
     "League": "AEF Season 2"
   },
   {
@@ -65,6 +68,7 @@
     "radiant_win": false,
     "radiant_score": 22,
     "dire_score": 34,
+    "start_time": 1502212570,
     "League": "CZ-SK Dota 2 League Season 10"
   },
   {
@@ -82,6 +86,7 @@
     "radiant_win": true,
     "radiant_score": 20,
     "dire_score": 3,
+    "start_time": 1502186582,
     "League": "AEF Season 2"
   }
 ]

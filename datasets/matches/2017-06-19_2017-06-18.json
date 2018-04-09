@@ -14,6 +14,7 @@
     "radiant_win": true,
     "radiant_score": 50,
     "dire_score": 47,
+    "start_time": 1497805168,
     "League": "The Summit 5"
   },
   {
@@ -31,6 +32,7 @@
     "radiant_win": true,
     "radiant_score": 37,
     "dire_score": 24,
+    "start_time": 1497821194,
     "League": "The Summit 5"
   },
   {
@@ -48,6 +50,7 @@
     "radiant_win": true,
     "radiant_score": 26,
     "dire_score": 22,
+    "start_time": 1497760039,
     "League": "NESO 4th National E-Sports ShenZhen Open Tournament- Galaxy Battles"
   },
   {
@@ -65,6 +68,7 @@
     "radiant_win": true,
     "radiant_score": 36,
     "dire_score": 11,
+    "start_time": 1497816338,
     "League": "The Summit 5"
   },
   {
@@ -82,6 +86,7 @@
     "radiant_win": false,
     "radiant_score": 29,
     "dire_score": 35,
+    "start_time": 1497826012,
     "League": "The Summit 5"
   },
   {
@@ -99,6 +104,7 @@
     "radiant_win": false,
     "radiant_score": 29,
     "dire_score": 47,
+    "start_time": 1497795486,
     "League": "ProDotA Cup Series by Azubu.tv"
   },
   {
@@ -116,6 +122,7 @@
     "radiant_win": false,
     "radiant_score": 20,
     "dire_score": 32,
+    "start_time": 1497809039,
     "League": "ProDotA Cup Series by Azubu.tv"
   },
   {
@@ -133,6 +140,7 @@
     "radiant_win": false,
     "radiant_score": 15,
     "dire_score": 20,
+    "start_time": 1497755539,
     "League": "NESO 4th National E-Sports ShenZhen Open Tournament- Galaxy Battles"
   },
   {
@@ -150,6 +158,7 @@
     "radiant_win": false,
     "radiant_score": 19,
     "dire_score": 19,
+    "start_time": 1497765368,
     "League": "NESO 4th National E-Sports ShenZhen Open Tournament- Galaxy Battles"
   },
   {
@@ -167,6 +176,7 @@
     "radiant_win": true,
     "radiant_score": 28,
     "dire_score": 19,
+    "start_time": 1497798234,
     "League": "ProDotA Cup Series by Azubu.tv"
   },
   {
@@ -184,6 +194,7 @@
     "radiant_win": true,
     "radiant_score": 48,
     "dire_score": 24,
+    "start_time": 1497822538,
     "League": "ProDotA Cup Series by Azubu.tv"
   },
   {
@@ -201,6 +212,7 @@
     "radiant_win": false,
     "radiant_score": 12,
     "dire_score": 39,
+    "start_time": 1497811193,
     "League": "The Summit 5"
   },
   {
@@ -218,6 +230,7 @@
     "radiant_win": true,
     "radiant_score": 25,
     "dire_score": 11,
+    "start_time": 1497819768,
     "League": "ProDotA Cup Series by Azubu.tv"
   },
   {
@@ -235,6 +248,7 @@
     "radiant_win": false,
     "radiant_score": 12,
     "dire_score": 34,
+    "start_time": 1497801606,
     "League": "ProDotA Cup Series by Azubu.tv"
   },
   {
@@ -252,6 +266,7 @@
     "radiant_win": false,
     "radiant_score": 7,
     "dire_score": 22,
+    "start_time": 1497795802,
     "League": "ESL India Premiership - 2017 Edition"
   },
   {
@@ -269,6 +284,7 @@
     "radiant_win": true,
     "radiant_score": 25,
     "dire_score": 4,
+    "start_time": 1497829973,
     "League": "The Summit 5"
   }
 ]

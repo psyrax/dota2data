@@ -14,6 +14,7 @@
     "radiant_win": false,
     "radiant_score": 41,
     "dire_score": 64,
+    "start_time": 1500257515,
     "League": "ProDotA Cup by Azubu"
   },
   {
@@ -31,6 +32,7 @@
     "radiant_win": false,
     "radiant_score": 17,
     "dire_score": 31,
+    "start_time": 1500321674,
     "League": "ProDotA Cup by Azubu"
   },
   {
@@ -48,6 +50,7 @@
     "radiant_win": true,
     "radiant_score": 43,
     "dire_score": 14,
+    "start_time": 1500292613,
     "League": "AEF Season 2"
   },
   {
@@ -65,6 +68,7 @@
     "radiant_win": true,
     "radiant_score": 36,
     "dire_score": 21,
+    "start_time": 1500253798,
     "League": "ProDotA Cup by Azubu"
   },
   {
@@ -82,6 +86,7 @@
     "radiant_win": false,
     "radiant_score": 23,
     "dire_score": 30,
+    "start_time": 1500285338,
     "League": "AEF Season 2"
   },
   {
@@ -99,6 +104,7 @@
     "radiant_win": true,
     "radiant_score": 25,
     "dire_score": 32,
+    "start_time": 1500325899,
     "League": "ProDotA Cup by Azubu"
   },
   {
@@ -116,6 +122,7 @@
     "radiant_win": true,
     "radiant_score": 35,
     "dire_score": 20,
+    "start_time": 1500289187,
     "League": "AEF Season 2"
   },
   {
@@ -133,6 +140,7 @@
     "radiant_win": false,
     "radiant_score": 21,
     "dire_score": 24,
+    "start_time": 1500335062,
     "League": "ProDotA Cup by Azubu"
   },
   {
@@ -150,6 +158,7 @@
     "radiant_win": false,
     "radiant_score": 21,
     "dire_score": 41,
+    "start_time": 1500286067,
     "League": "AEF Season 2"
   },
   {
@@ -167,6 +176,7 @@
     "radiant_win": true,
     "radiant_score": 30,
     "dire_score": 18,
+    "start_time": 1500331309,
     "League": "ProDotA Cup by Azubu"
   },
   {
@@ -184,6 +194,7 @@
     "radiant_win": true,
     "radiant_score": 37,
     "dire_score": 10,
+    "start_time": 1500329372,
     "League": "KOD League 2017"
   },
   {
@@ -201,6 +212,7 @@
     "radiant_win": true,
     "radiant_score": 25,
     "dire_score": 7,
+    "start_time": 1500283176,
     "League": "AEF Season 2"
   }
 ]

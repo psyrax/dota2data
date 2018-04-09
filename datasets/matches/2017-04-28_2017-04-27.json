@@ -14,6 +14,7 @@
     "radiant_win": false,
     "radiant_score": 51,
     "dire_score": 35,
+    "start_time": 1493288523,
     "League": "AEF Season 1"
   },
   {
@@ -31,6 +32,7 @@
     "radiant_win": true,
     "radiant_score": 42,
     "dire_score": 21,
+    "start_time": 1493299130,
     "League": "ESL India Premiership - Season One"
   },
   {
@@ -48,6 +50,7 @@
     "radiant_win": true,
     "radiant_score": 38,
     "dire_score": 26,
+    "start_time": 1493292226,
     "League": "AEF Season 1"
   },
   {
@@ -65,6 +68,7 @@
     "radiant_win": true,
     "radiant_score": 40,
     "dire_score": 15,
+    "start_time": 1493299803,
     "League": "ESL India Premiership - Season One"
   },
   {
@@ -82,6 +86,7 @@
     "radiant_win": false,
     "radiant_score": 26,
     "dire_score": 46,
+    "start_time": 1493313257,
     "League": "CZ-SK Dota 2 League Season 9"
   },
   {
@@ -99,6 +104,7 @@
     "radiant_win": false,
     "radiant_score": 11,
     "dire_score": 36,
+    "start_time": 1493303324,
     "League": "ESL India Premiership - Season One"
   },
   {
@@ -116,6 +122,7 @@
     "radiant_win": true,
     "radiant_score": 24,
     "dire_score": 19,
+    "start_time": 1493316452,
     "League": "CZ-SK Dota 2 League Season 9"
   }
 ]

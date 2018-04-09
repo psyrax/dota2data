@@ -14,6 +14,7 @@
     "radiant_win": false,
     "radiant_score": 25,
     "dire_score": 29,
+    "start_time": 1513955125,
     "League": "ProDotA Cup Series"
   },
   {
@@ -31,6 +32,7 @@
     "radiant_win": true,
     "radiant_score": 31,
     "dire_score": 19,
+    "start_time": 1513958882,
     "League": "ProDotA Cup Series"
   },
   {
@@ -48,6 +50,7 @@
     "radiant_win": true,
     "radiant_score": 35,
     "dire_score": 6,
+    "start_time": 1513962020,
     "League": "ProDotA Cup Series"
   }
 ]

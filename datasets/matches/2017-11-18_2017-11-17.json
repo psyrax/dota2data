@@ -14,6 +14,7 @@
     "radiant_win": false,
     "radiant_score": 29,
     "dire_score": 30,
+    "start_time": 1510911246,
     "League": "ProDotA Cup Series"
   },
   {
@@ -31,6 +32,7 @@
     "radiant_win": true,
     "radiant_score": 41,
     "dire_score": 17,
+    "start_time": 1510927634,
     "League": "ProDotA Cup Series"
   },
   {
@@ -48,6 +50,7 @@
     "radiant_win": false,
     "radiant_score": 33,
     "dire_score": 27,
+    "start_time": 1510907733,
     "League": "ProDotA Cup Series"
   },
   {
@@ -65,6 +68,7 @@
     "radiant_win": true,
     "radiant_score": 33,
     "dire_score": 30,
+    "start_time": 1510930351,
     "League": "ESL India Premiership - 2017 Edition"
   },
   {
@@ -82,6 +86,7 @@
     "radiant_win": true,
     "radiant_score": 34,
     "dire_score": 23,
+    "start_time": 1510920452,
     "League": "ProDotA Cup Series"
   },
   {
@@ -99,6 +104,7 @@
     "radiant_win": false,
     "radiant_score": 15,
     "dire_score": 26,
+    "start_time": 1510924452,
     "League": "ProDotA Cup Series"
   }
 ]

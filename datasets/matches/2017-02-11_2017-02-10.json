@@ -14,6 +14,7 @@
     "radiant_win": false,
     "radiant_score": 8,
     "dire_score": 5,
+    "start_time": 1486715083,
     "League": "AEF Season 1 Qualifiers"
   },
   {
@@ -31,6 +32,7 @@
     "radiant_win": false,
     "radiant_score": 13,
     "dire_score": 34,
+    "start_time": 1486724006,
     "League": "AEF Season 1 Qualifiers"
   },
   {
@@ -48,6 +50,7 @@
     "radiant_win": true,
     "radiant_score": 32,
     "dire_score": 14,
+    "start_time": 1486726660,
     "League": "AEF Season 1 Qualifiers"
   }
 ]

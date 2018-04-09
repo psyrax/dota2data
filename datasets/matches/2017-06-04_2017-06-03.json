@@ -14,6 +14,7 @@
     "radiant_win": false,
     "radiant_score": 34,
     "dire_score": 39,
+    "start_time": 1496465832,
     "League": "Zotac Cup Masters"
   },
   {
@@ -31,6 +32,7 @@
     "radiant_win": true,
     "radiant_score": 37,
     "dire_score": 35,
+    "start_time": 1496456916,
     "League": "Zotac Cup Masters"
   },
   {
@@ -48,6 +50,7 @@
     "radiant_win": true,
     "radiant_score": 48,
     "dire_score": 18,
+    "start_time": 1496452007,
     "League": "Zotac Cup Masters"
   },
   {
@@ -65,6 +68,7 @@
     "radiant_win": true,
     "radiant_score": 27,
     "dire_score": 42,
+    "start_time": 1496502638,
     "League": "ESL India Premiership - 2017 Edition"
   },
   {
@@ -82,6 +86,7 @@
     "radiant_win": false,
     "radiant_score": 11,
     "dire_score": 30,
+    "start_time": 1496501934,
     "League": "ProDotA Cup Series by Azubu.tv"
   },
   {
@@ -99,6 +104,7 @@
     "radiant_win": true,
     "radiant_score": 22,
     "dire_score": 8,
+    "start_time": 1496498642,
     "League": "ProDotA Cup by Azubu"
   },
   {
@@ -116,6 +122,7 @@
     "radiant_win": false,
     "radiant_score": 12,
     "dire_score": 25,
+    "start_time": 1496511215,
     "League": "ProDotA Cup Series by Azubu.tv"
   },
   {
@@ -133,6 +140,7 @@
     "radiant_win": false,
     "radiant_score": 10,
     "dire_score": 19,
+    "start_time": 1496462340,
     "League": "Zotac Cup Masters"
   },
   {
@@ -150,6 +158,7 @@
     "radiant_win": false,
     "radiant_score": 10,
     "dire_score": 28,
+    "start_time": 1496499266,
     "League": "ESL India Premiership - 2017 Edition"
   },
   {
@@ -167,6 +176,7 @@
     "radiant_win": true,
     "radiant_score": 27,
     "dire_score": 11,
+    "start_time": 1496514619,
     "League": "ProDotA Cup Series by Azubu.tv"
   }
 ]

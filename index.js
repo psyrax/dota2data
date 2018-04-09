@@ -56,7 +56,7 @@ function getDotaData(queryData, topDate, bottomDate){
 			if(err){
 				console.log( chalk.red( 'API error: %s'), err );
 			} else {
-				console.log( chalk.magenta( 'Got date: %s'), workingDate.format() );
+				console.log( chalk.bgMagenta.black( 'Got date: %s'), topDate );
 				jsonfile.writeFile(file, data.body.rows, {spaces: 2}, function (err) {
 	  				if(err){
 	  					console.log( chalk.red( 'File error: %s'), err );
