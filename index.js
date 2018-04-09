@@ -9,7 +9,7 @@ const Throttle    = require('superagent-throttle')
 let throttle = new Throttle({
   active: true,     // set false to pause queue
   rate: 5,          // how many requests can be sent every `ratePer`
-  ratePer: 5000,   // number of ms in which `rate` requests may be sent
+  ratePer: 20000,   // number of ms in which `rate` requests may be sent
   concurrent: 1     // how many requests can be sent concurrently
 })
 
