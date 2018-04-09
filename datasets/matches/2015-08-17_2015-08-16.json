@@ -1,0 +1,24 @@
+[
+  {
+    "date": "2015-08-16T00:00:00.000Z",
+    "match_id": 1717258752,
+    "duration (seconds)": 1837,
+    "match_patch": "(1717258752,6.84)",
+    "Radiant Team": "Balrogs e-Sport",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-08-16T00:00:00.000Z",
+    "match_id": 1717341886,
+    "duration (seconds)": 2714,
+    "match_patch": "(1717341886,6.84)",
+    "Radiant Team": "Sapphirus Gaming",
+    "radiant_score": 0,
+    "Dire Team": "|MadeInPeru|",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

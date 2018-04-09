@@ -1,0 +1,101 @@
+[
+  {
+    "date": "2015-10-21T00:00:00.000Z",
+    "match_id": 1881143308,
+    "duration (seconds)": 916,
+    "match_patch": "(1881143308,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Make It Happen !",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-10-21T00:00:00.000Z",
+    "match_id": 1881152384,
+    "duration (seconds)": 1058,
+    "match_patch": "(1881152384,6.85)",
+    "Radiant Team": "Salmo 8",
+    "radiant_score": 0,
+    "Dire Team": "Evil Costenos",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-10-21T00:00:00.000Z",
+    "match_id": 1881189735,
+    "duration (seconds)": 797,
+    "match_patch": "(1881189735,6.85)",
+    "Radiant Team": "Make It Happen !",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-10-21T00:00:00.000Z",
+    "match_id": 1881206015,
+    "duration (seconds)": 2154,
+    "match_patch": "(1881206015,6.85)",
+    "Radiant Team": "Evil Costenos",
+    "radiant_score": 0,
+    "Dire Team": "Salmo 8",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-10-21T00:00:00.000Z",
+    "match_id": 1882312347,
+    "duration (seconds)": 2238,
+    "match_patch": "(1882312347,6.85)",
+    "Radiant Team": "TEAM.KAZAKHSTAN",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-10-21T00:00:00.000Z",
+    "match_id": 1882339855,
+    "duration (seconds)": 4107,
+    "match_patch": "(1882339855,6.85)",
+    "Radiant Team": "_PowerRangers",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-10-21T00:00:00.000Z",
+    "match_id": 1882421647,
+    "duration (seconds)": 1883,
+    "match_patch": "(1882421647,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "TEAM.KAZAKHSTAN",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-10-21T00:00:00.000Z",
+    "match_id": 1882554200,
+    "duration (seconds)": 2627,
+    "match_patch": "(1882554200,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "_PowerRangers",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-10-21T00:00:00.000Z",
+    "match_id": 1882683397,
+    "duration (seconds)": 1752,
+    "match_patch": "(1882683397,6.85)",
+    "Radiant Team": "_PowerRangers",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

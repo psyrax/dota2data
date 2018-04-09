@@ -1,0 +1,24 @@
+[
+  {
+    "date": "2015-10-12T00:00:00.000Z",
+    "match_id": 1860806559,
+    "duration (seconds)": 1548,
+    "match_patch": "(1860806559,6.85)",
+    "Radiant Team": "RES NON VERBAA",
+    "radiant_score": 0,
+    "Dire Team": "HAKU.NET GAMING",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-10-12T00:00:00.000Z",
+    "match_id": 1862786745,
+    "duration (seconds)": 1446,
+    "match_patch": "(1862786745,6.85)",
+    "Radiant Team": "",
+    "radiant_score": 0,
+    "Dire Team": "The Dragon Ica",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

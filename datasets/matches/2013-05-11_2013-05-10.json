@@ -1,0 +1,57 @@
+[
+  {
+    "date": "2013-05-10T00:00:00.000Z",
+    "match_id": 192259099,
+    "duration (seconds)": 2109,
+    "match_patch": "(192259099,6.77)",
+    "Radiant Team": "ViCi Gaming__",
+    "radiant_score": 0,
+    "Dire Team": "LGD-GAMING",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-05-10T00:00:00.000Z",
+    "match_id": 192294409,
+    "duration (seconds)": 3003,
+    "match_patch": "(192294409,6.77)",
+    "Radiant Team": "LGD-GAMING",
+    "radiant_score": 0,
+    "Dire Team": "ViCi Gaming__",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-05-10T00:00:00.000Z",
+    "match_id": 192347999,
+    "duration (seconds)": 2659,
+    "match_patch": "(192347999,6.77)",
+    "Radiant Team": "Ahead.kz",
+    "radiant_score": 0,
+    "Dire Team": "UrsaStroitHramm",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-05-10T00:00:00.000Z",
+    "match_id": 192408305,
+    "duration (seconds)": 2682,
+    "match_patch": "(192408305,6.77)",
+    "Radiant Team": "Ahead.kz",
+    "radiant_score": 0,
+    "Dire Team": "Life.",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-05-10T00:00:00.000Z",
+    "match_id": 192458305,
+    "duration (seconds)": 952,
+    "match_patch": "(192458305,6.77)",
+    "Radiant Team": "UrsaStroitHramm",
+    "radiant_score": 0,
+    "Dire Team": "Life.",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

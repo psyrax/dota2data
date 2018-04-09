@@ -1,0 +1,189 @@
+[
+  {
+    "date": "2014-12-10T00:00:00.000Z",
+    "match_id": 1082268789,
+    "duration (seconds)": 1483,
+    "match_patch": "(1082268789,6.82)",
+    "Radiant Team": "DONKEY DOTO",
+    "radiant_score": 0,
+    "Dire Team": "Balkan Bears Corleone",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-12-10T00:00:00.000Z",
+    "match_id": 1082388186,
+    "duration (seconds)": 3422,
+    "match_patch": "(1082388186,6.82)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Duza Gaming.",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-12-10T00:00:00.000Z",
+    "match_id": 1082463741,
+    "duration (seconds)": 1502,
+    "match_patch": "(1082463741,6.82)",
+    "Radiant Team": "Team Empire",
+    "radiant_score": 0,
+    "Dire Team": "_PowerRangers",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-12-10T00:00:00.000Z",
+    "match_id": 1082536338,
+    "duration (seconds)": 2164,
+    "match_patch": "(1082536338,6.82)",
+    "Radiant Team": "_Cleave_",
+    "radiant_score": 0,
+    "Dire Team": "CourageGaming.Dota2",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-12-10T00:00:00.000Z",
+    "match_id": 1082544955,
+    "duration (seconds)": 1072,
+    "match_patch": "(1082544955,6.82)",
+    "Radiant Team": "_PowerRangers",
+    "radiant_score": 0,
+    "Dire Team": "Team Empire",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-12-10T00:00:00.000Z",
+    "match_id": 1082548211,
+    "duration (seconds)": 1420,
+    "match_patch": "(1082548211,6.82)",
+    "Radiant Team": "Basically Unknown",
+    "radiant_score": 0,
+    "Dire Team": "London Conspiracy Dota2",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-12-10T00:00:00.000Z",
+    "match_id": 1082616247,
+    "duration (seconds)": 2626,
+    "match_patch": "(1082616247,6.82)",
+    "Radiant Team": "London Conspiracy Dota2",
+    "radiant_score": 0,
+    "Dire Team": "Basically Unknown",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-12-10T00:00:00.000Z",
+    "match_id": 1082642794,
+    "duration (seconds)": 1982,
+    "match_patch": "(1082642794,6.82)",
+    "Radiant Team": "Moscow Five International",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-12-10T00:00:00.000Z",
+    "match_id": 1082700871,
+    "duration (seconds)": 2179,
+    "match_patch": "(1082700871,6.82)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Natum Spes.",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-12-10T00:00:00.000Z",
+    "match_id": 1082785577,
+    "duration (seconds)": 1825,
+    "match_patch": "(1082785577,6.82)",
+    "Radiant Team": "Natum Spes.",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-12-10T00:00:00.000Z",
+    "match_id": 1082833652,
+    "duration (seconds)": 2755,
+    "match_patch": "(1082833652,6.82)",
+    "Radiant Team": "Denial Esports|",
+    "radiant_score": 0,
+    "Dire Team": "AftershockGaming Int.",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-12-10T00:00:00.000Z",
+    "match_id": 1082840092,
+    "duration (seconds)": 727,
+    "match_patch": "(1082840092,6.82)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-12-10T00:00:00.000Z",
+    "match_id": 1082846852,
+    "duration (seconds)": 1261,
+    "match_patch": "(1082846852,6.82)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "London Conspiracy Dota2",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-12-10T00:00:00.000Z",
+    "match_id": 1082882467,
+    "duration (seconds)": 3181,
+    "match_patch": "(1082882467,6.82)",
+    "Radiant Team": "Isurus Gaming HyperX",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-12-10T00:00:00.000Z",
+    "match_id": 1082895980,
+    "duration (seconds)": 2338,
+    "match_patch": "(1082895980,6.82)",
+    "Radiant Team": "AftershockGaming Int.",
+    "radiant_score": 0,
+    "Dire Team": "Denial Esports|",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-12-10T00:00:00.000Z",
+    "match_id": 1082900778,
+    "duration (seconds)": 3206,
+    "match_patch": "(1082900778,6.82)",
+    "Radiant Team": "Big playZ Incorporated",
+    "radiant_score": 0,
+    "Dire Team": "Suxy squad",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-12-10T00:00:00.000Z",
+    "match_id": 1082941360,
+    "duration (seconds)": 2874,
+    "match_patch": "(1082941360,6.82)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Isurus Gaming HyperX",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

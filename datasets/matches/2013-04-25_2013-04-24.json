@@ -1,0 +1,123 @@
+[
+  {
+    "date": "2013-04-24T00:00:00.000Z",
+    "match_id": 180150706,
+    "duration (seconds)": 2101,
+    "match_patch": "(180150706,6.77)",
+    "Radiant Team": "Alliance",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-04-24T00:00:00.000Z",
+    "match_id": 180173685,
+    "duration (seconds)": 952,
+    "match_patch": "(180173685,6.77)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Alliance",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-04-24T00:00:00.000Z",
+    "match_id": 180265626,
+    "duration (seconds)": 2145,
+    "match_patch": "(180265626,6.77)",
+    "Radiant Team": "Team Dignitas",
+    "radiant_score": 0,
+    "Dire Team": "Natus Vincere",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-04-24T00:00:00.000Z",
+    "match_id": 180278278,
+    "duration (seconds)": 2367,
+    "match_patch": "(180278278,6.77)",
+    "Radiant Team": "Kaipi",
+    "radiant_score": 0,
+    "Dire Team": "Fnatic",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-04-24T00:00:00.000Z",
+    "match_id": 180300846,
+    "duration (seconds)": 1050,
+    "match_patch": "(180300846,6.77)",
+    "Radiant Team": "Natus Vincere",
+    "radiant_score": 0,
+    "Dire Team": "Team Dignitas",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-04-24T00:00:00.000Z",
+    "match_id": 180326698,
+    "duration (seconds)": 2626,
+    "match_patch": "(180326698,6.77)",
+    "Radiant Team": "Fnatic",
+    "radiant_score": 0,
+    "Dire Team": "Kaipi",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-04-24T00:00:00.000Z",
+    "match_id": 180327989,
+    "duration (seconds)": 2006,
+    "match_patch": "(180327989,6.77)",
+    "Radiant Team": "Team Dignitas",
+    "radiant_score": 0,
+    "Dire Team": "Natus Vincere",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-04-24T00:00:00.000Z",
+    "match_id": 180362911,
+    "duration (seconds)": 2712,
+    "match_patch": "(180362911,6.77)",
+    "Radiant Team": "Tell Me Why",
+    "radiant_score": 0,
+    "Dire Team": "Awake ;)",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-04-24T00:00:00.000Z",
+    "match_id": 180366740,
+    "duration (seconds)": 2339,
+    "match_patch": "(180366740,6.77)",
+    "Radiant Team": "Kaipi",
+    "radiant_score": 0,
+    "Dire Team": "Fnatic",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-04-24T00:00:00.000Z",
+    "match_id": 180497367,
+    "duration (seconds)": 2985,
+    "match_patch": "(180497367,6.77)",
+    "Radiant Team": "Born For Killing^",
+    "radiant_score": 0,
+    "Dire Team": "\"Double Trouble\"",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-04-24T00:00:00.000Z",
+    "match_id": 180669834,
+    "duration (seconds)": 2518,
+    "match_patch": "(180669834,6.77)",
+    "Radiant Team": "ROOT Gaming",
+    "radiant_score": 0,
+    "Dire Team": "shitbirds",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "date": "2016-03-01T00:00:00.000Z",
+    "match_id": 2188682838,
+    "duration (seconds)": 2407,
+    "match_patch": "(2188682838,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Leviathan'",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-03-01T00:00:00.000Z",
+    "match_id": 2188745481,
+    "duration (seconds)": 1995,
+    "match_patch": "(2188745481,6.86)",
+    "Radiant Team": "Leviathan'",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-03-01T00:00:00.000Z",
+    "match_id": 2190233639,
+    "duration (seconds)": 1636,
+    "match_patch": "(2190233639,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Enso",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-03-01T00:00:00.000Z",
+    "match_id": 2190329562,
+    "duration (seconds)": 1687,
+    "match_patch": "(2190329562,6.86)",
+    "Radiant Team": "Enso",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-03-01T00:00:00.000Z",
+    "match_id": 2190543949,
+    "duration (seconds)": 2218,
+    "match_patch": "(2190543949,6.86)",
+    "Radiant Team": "SV",
+    "radiant_score": 0,
+    "Dire Team": "SCARYFACEZZZZZZZ",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-03-01T00:00:00.000Z",
+    "match_id": 2190635520,
+    "duration (seconds)": 2334,
+    "match_patch": "(2190635520,6.86)",
+    "Radiant Team": "SV",
+    "radiant_score": 0,
+    "Dire Team": "SCARYFACEZZZZZZZ",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-03-01T00:00:00.000Z",
+    "match_id": 2190806996,
+    "duration (seconds)": 2262,
+    "match_patch": "(2190806996,6.86)",
+    "Radiant Team": "Team Freedom Dota 2",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-03-01T00:00:00.000Z",
+    "match_id": 2190864003,
+    "duration (seconds)": 1657,
+    "match_patch": "(2190864003,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Team Freedom Dota 2",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

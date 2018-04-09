@@ -1,0 +1,101 @@
+[
+  {
+    "date": "2013-12-28T00:00:00.000Z",
+    "match_id": 442989319,
+    "duration (seconds)": 979,
+    "match_patch": "(442989319,6.79)",
+    "Radiant Team": "Team StarTale",
+    "radiant_score": 0,
+    "Dire Team": "Titan",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-12-28T00:00:00.000Z",
+    "match_id": 443024626,
+    "duration (seconds)": 1152,
+    "match_patch": "(443024626,6.79)",
+    "Radiant Team": "Titan",
+    "radiant_score": 0,
+    "Dire Team": "Team StarTale",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-12-28T00:00:00.000Z",
+    "match_id": 443042245,
+    "duration (seconds)": 2693,
+    "match_patch": "(443042245,6.79)",
+    "Radiant Team": "MVP Phoenix",
+    "radiant_score": 0,
+    "Dire Team": "5 in QO",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-12-28T00:00:00.000Z",
+    "match_id": 443092317,
+    "duration (seconds)": 2485,
+    "match_patch": "(443092317,6.79)",
+    "Radiant Team": "5 in QO",
+    "radiant_score": 0,
+    "Dire Team": "MVP Phoenix",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-12-28T00:00:00.000Z",
+    "match_id": 443153342,
+    "duration (seconds)": 1768,
+    "match_patch": "(443153342,6.79)",
+    "Radiant Team": "MVP Phoenix",
+    "radiant_score": 0,
+    "Dire Team": "5 in QO",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-12-28T00:00:00.000Z",
+    "match_id": 443196259,
+    "duration (seconds)": 2087,
+    "match_patch": "(443196259,6.79)",
+    "Radiant Team": "5 in QO",
+    "radiant_score": 0,
+    "Dire Team": "MVP Phoenix",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-12-28T00:00:00.000Z",
+    "match_id": 443261114,
+    "duration (seconds)": 2659,
+    "match_patch": "(443261114,6.79)",
+    "Radiant Team": "MVP Phoenix",
+    "radiant_score": 0,
+    "Dire Team": "5 in QO",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-12-28T00:00:00.000Z",
+    "match_id": 443270970,
+    "duration (seconds)": 1793,
+    "match_patch": "(443270970,6.79)",
+    "Radiant Team": "Titan",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-12-28T00:00:00.000Z",
+    "match_id": 443347954,
+    "duration (seconds)": 1592,
+    "match_patch": "(443347954,6.79)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Titan",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

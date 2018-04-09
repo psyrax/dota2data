@@ -1,0 +1,123 @@
+[
+  {
+    "date": "2016-02-06T00:00:00.000Z",
+    "match_id": 2131129958,
+    "duration (seconds)": 2344,
+    "match_patch": "(2131129958,6.86)",
+    "Radiant Team": "Infamous、",
+    "radiant_score": 0,
+    "Dire Team": "compLexity Gaming",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-02-06T00:00:00.000Z",
+    "match_id": 2132207921,
+    "duration (seconds)": 2297,
+    "match_patch": "(2132207921,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Execration.安博电竞",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-02-06T00:00:00.000Z",
+    "match_id": 2132355494,
+    "duration (seconds)": 1887,
+    "match_patch": "(2132355494,6.86)",
+    "Radiant Team": "Execration.安博电竞",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-02-06T00:00:00.000Z",
+    "match_id": 2132502982,
+    "duration (seconds)": 1496,
+    "match_patch": "(2132502982,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Execration.安博电竞",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-02-06T00:00:00.000Z",
+    "match_id": 2132903760,
+    "duration (seconds)": 2898,
+    "match_patch": "(2132903760,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-02-06T00:00:00.000Z",
+    "match_id": 2133074465,
+    "duration (seconds)": 5261,
+    "match_patch": "(2133074465,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-02-06T00:00:00.000Z",
+    "match_id": 2133087609,
+    "duration (seconds)": 1719,
+    "match_patch": "(2133087609,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "TeamRomania",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-02-06T00:00:00.000Z",
+    "match_id": 2133193239,
+    "duration (seconds)": 2646,
+    "match_patch": "(2133193239,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "TeamRomania",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-02-06T00:00:00.000Z",
+    "match_id": 2133329249,
+    "duration (seconds)": 2312,
+    "match_patch": "(2133329249,6.86)",
+    "Radiant Team": "Yellow Submarine!",
+    "radiant_score": 0,
+    "Dire Team": "London Conspiracy Dota2",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-02-06T00:00:00.000Z",
+    "match_id": 2133443082,
+    "duration (seconds)": 971,
+    "match_patch": "(2133443082,6.86)",
+    "Radiant Team": "London Conspiracy Dota2",
+    "radiant_score": 0,
+    "Dire Team": "Yellow Submarine!",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-02-06T00:00:00.000Z",
+    "match_id": 2133712760,
+    "duration (seconds)": 2832,
+    "match_patch": "(2133712760,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

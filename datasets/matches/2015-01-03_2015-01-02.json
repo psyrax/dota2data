@@ -1,0 +1,68 @@
+[
+  {
+    "date": "2015-01-02T00:00:00.000Z",
+    "match_id": 1135950664,
+    "duration (seconds)": 3085,
+    "match_patch": "(1135950664,6.83)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Jeff Seid.",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-01-02T00:00:00.000Z",
+    "match_id": 1136043537,
+    "duration (seconds)": 1728,
+    "match_patch": "(1136043537,6.83)",
+    "Radiant Team": "Osos Malosos Gaming",
+    "radiant_score": 0,
+    "Dire Team": "Geophysics Gaming",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-01-02T00:00:00.000Z",
+    "match_id": 1136043903,
+    "duration (seconds)": 2082,
+    "match_patch": "(1136043903,6.83)",
+    "Radiant Team": "SliDer Acarigua",
+    "radiant_score": 0,
+    "Dire Team": "NEXUS FURY 2015",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-01-02T00:00:00.000Z",
+    "match_id": 1136107531,
+    "duration (seconds)": 1939,
+    "match_patch": "(1136107531,6.83)",
+    "Radiant Team": "compLexity Gaming",
+    "radiant_score": 0,
+    "Dire Team": "The Business Gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-01-02T00:00:00.000Z",
+    "match_id": 1136117623,
+    "duration (seconds)": 3031,
+    "match_patch": "(1136117623,6.83)",
+    "Radiant Team": "NEXUS FURY 2015",
+    "radiant_score": 0,
+    "Dire Team": "SliDer Acarigua",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-01-02T00:00:00.000Z",
+    "match_id": 1136122480,
+    "duration (seconds)": 2205,
+    "match_patch": "(1136122480,6.83)",
+    "Radiant Team": "Geophysics Gaming",
+    "radiant_score": 0,
+    "Dire Team": "Osos Malosos Gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

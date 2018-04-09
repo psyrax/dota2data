@@ -1,0 +1,156 @@
+[
+  {
+    "date": "2016-02-12T00:00:00.000Z",
+    "match_id": 2145382874,
+    "duration (seconds)": 1507,
+    "match_patch": "(2145382874,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Balrogs e-Sport",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-02-12T00:00:00.000Z",
+    "match_id": 2145391339,
+    "duration (seconds)": 1086,
+    "match_patch": "(2145391339,6.86)",
+    "Radiant Team": "Kingdom DotA~",
+    "radiant_score": 0,
+    "Dire Team": "Team Freedom Dota 2",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-02-12T00:00:00.000Z",
+    "match_id": 2146202788,
+    "duration (seconds)": 2736,
+    "match_patch": "(2146202788,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-02-12T00:00:00.000Z",
+    "match_id": 2146350120,
+    "duration (seconds)": 2372,
+    "match_patch": "(2146350120,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-02-12T00:00:00.000Z",
+    "match_id": 2146818565,
+    "duration (seconds)": 2591,
+    "match_patch": "(2146818565,6.86)",
+    "Radiant Team": "Yellow Submarine!",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-02-12T00:00:00.000Z",
+    "match_id": 2146958528,
+    "duration (seconds)": 2368,
+    "match_patch": "(2146958528,6.86)",
+    "Radiant Team": "STARK.gg",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-02-12T00:00:00.000Z",
+    "match_id": 2146970337,
+    "duration (seconds)": 2088,
+    "match_patch": "(2146970337,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Yellow Submarine!",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-02-12T00:00:00.000Z",
+    "match_id": 2147097928,
+    "duration (seconds)": 1773,
+    "match_patch": "(2147097928,6.86)",
+    "Radiant Team": "Yellow Submarine!",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-02-12T00:00:00.000Z",
+    "match_id": 2147101021,
+    "duration (seconds)": 1557,
+    "match_patch": "(2147101021,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "STARK.gg",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-02-12T00:00:00.000Z",
+    "match_id": 2147230105,
+    "duration (seconds)": 745,
+    "match_patch": "(2147230105,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": ".Averia.",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-02-12T00:00:00.000Z",
+    "match_id": 2147301636,
+    "duration (seconds)": 2107,
+    "match_patch": "(2147301636,6.86)",
+    "Radiant Team": ".Averia.",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-02-12T00:00:00.000Z",
+    "match_id": 2147407949,
+    "duration (seconds)": 2856,
+    "match_patch": "(2147407949,6.86)",
+    "Radiant Team": ".Averia.",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-02-12T00:00:00.000Z",
+    "match_id": 2147541948,
+    "duration (seconds)": 3712,
+    "match_patch": "(2147541948,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-02-12T00:00:00.000Z",
+    "match_id": 2147650022,
+    "duration (seconds)": 2908,
+    "match_patch": "(2147650022,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

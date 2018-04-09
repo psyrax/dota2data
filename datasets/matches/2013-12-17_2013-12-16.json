@@ -1,0 +1,134 @@
+[
+  {
+    "date": "2013-12-16T00:00:00.000Z",
+    "match_id": 425905326,
+    "duration (seconds)": 2717,
+    "match_patch": "(425905326,6.79)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "LGD-GAMING",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-12-16T00:00:00.000Z",
+    "match_id": 425966510,
+    "duration (seconds)": 2517,
+    "match_patch": "(425966510,6.79)",
+    "Radiant Team": "LGD-GAMING",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-12-16T00:00:00.000Z",
+    "match_id": 426024364,
+    "duration (seconds)": 2360,
+    "match_patch": "(426024364,6.79)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "LGD-GAMING",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-12-16T00:00:00.000Z",
+    "match_id": 426291830,
+    "duration (seconds)": 4002,
+    "match_patch": "(426291830,6.79)",
+    "Radiant Team": "Titan",
+    "radiant_score": 0,
+    "Dire Team": "Vici Gaming",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-12-16T00:00:00.000Z",
+    "match_id": 426440146,
+    "duration (seconds)": 2995,
+    "match_patch": "(426440146,6.79)",
+    "Radiant Team": "Vici Gaming",
+    "radiant_score": 0,
+    "Dire Team": "Titan",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-12-16T00:00:00.000Z",
+    "match_id": 426566119,
+    "duration (seconds)": 2289,
+    "match_patch": "(426566119,6.79)",
+    "Radiant Team": "Titan",
+    "radiant_score": 0,
+    "Dire Team": "Vici Gaming",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-12-16T00:00:00.000Z",
+    "match_id": 426812527,
+    "duration (seconds)": 1688,
+    "match_patch": "(426812527,6.79)",
+    "Radiant Team": "Osliki Gaming",
+    "radiant_score": 0,
+    "Dire Team": "TheRerereTRY",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-12-16T00:00:00.000Z",
+    "match_id": 426888956,
+    "duration (seconds)": 1259,
+    "match_patch": "(426888956,6.79)",
+    "Radiant Team": "SHIPAEM GAMING",
+    "radiant_score": 0,
+    "Dire Team": "Osliki Gaming",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-12-16T00:00:00.000Z",
+    "match_id": 426953454,
+    "duration (seconds)": 1422,
+    "match_patch": "(426953454,6.79)",
+    "Radiant Team": "SIGMA.int",
+    "radiant_score": 0,
+    "Dire Team": "Team Liquid",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-12-16T00:00:00.000Z",
+    "match_id": 427006673,
+    "duration (seconds)": 1898,
+    "match_patch": "(427006673,6.79)",
+    "Radiant Team": "Team Liquid",
+    "radiant_score": 0,
+    "Dire Team": "SIGMA.int",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-12-16T00:00:00.000Z",
+    "match_id": 427062942,
+    "duration (seconds)": 1536,
+    "match_patch": "(427062942,6.79)",
+    "Radiant Team": "SIGMA.int",
+    "radiant_score": 0,
+    "Dire Team": "Team Liquid",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-12-16T00:00:00.000Z",
+    "match_id": 427108265,
+    "duration (seconds)": 1521,
+    "match_patch": "(427108265,6.79)",
+    "Radiant Team": "Team Liquid",
+    "radiant_score": 0,
+    "Dire Team": "SIGMA.int",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

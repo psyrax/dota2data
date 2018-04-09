@@ -1,0 +1,57 @@
+[
+  {
+    "date": "2013-04-29T00:00:00.000Z",
+    "match_id": 183750176,
+    "duration (seconds)": 2470,
+    "match_patch": "(183750176,6.77)",
+    "Radiant Team": "Revenge-",
+    "radiant_score": 0,
+    "Dire Team": "ROOT Gaming",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-04-29T00:00:00.000Z",
+    "match_id": 183768916,
+    "duration (seconds)": 2313,
+    "match_patch": "(183768916,6.77)",
+    "Radiant Team": "ROOT Gaming",
+    "radiant_score": 0,
+    "Dire Team": "Revenge-",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-04-29T00:00:00.000Z",
+    "match_id": 184009699,
+    "duration (seconds)": 1134,
+    "match_patch": "(184009699,6.77)",
+    "Radiant Team": "Team Liquid",
+    "radiant_score": 0,
+    "Dire Team": "Fnatic",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-04-29T00:00:00.000Z",
+    "match_id": 184041867,
+    "duration (seconds)": 3827,
+    "match_patch": "(184041867,6.77)",
+    "Radiant Team": "Fnatic",
+    "radiant_score": 0,
+    "Dire Team": "Team Liquid",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-04-29T00:00:00.000Z",
+    "match_id": 184115230,
+    "duration (seconds)": 2399,
+    "match_patch": "(184115230,6.77)",
+    "Radiant Team": "FXOpen E-Sports",
+    "radiant_score": 0,
+    "Dire Team": "zExBinGo",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

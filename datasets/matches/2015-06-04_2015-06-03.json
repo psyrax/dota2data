@@ -1,0 +1,200 @@
+[
+  {
+    "date": "2015-06-03T00:00:00.000Z",
+    "match_id": 1522684713,
+    "duration (seconds)": 1931,
+    "match_patch": "(1522684713,6.84)",
+    "Radiant Team": "Troll Masters Z",
+    "radiant_score": 0,
+    "Dire Team": "Niu Tim",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-06-03T00:00:00.000Z",
+    "match_id": 1522734781,
+    "duration (seconds)": 3274,
+    "match_patch": "(1522734781,6.84)",
+    "Radiant Team": "Niu Tim",
+    "radiant_score": 0,
+    "Dire Team": "Troll Masters Z",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-06-03T00:00:00.000Z",
+    "match_id": 1522786811,
+    "duration (seconds)": 3431,
+    "match_patch": "(1522786811,6.84)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Black Sheep!",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-06-03T00:00:00.000Z",
+    "match_id": 1522823606,
+    "duration (seconds)": 2376,
+    "match_patch": "(1522823606,6.84)",
+    "Radiant Team": "Troll Masters Z",
+    "radiant_score": 0,
+    "Dire Team": "Niu Tim",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-06-03T00:00:00.000Z",
+    "match_id": 1522868104,
+    "duration (seconds)": 1930,
+    "match_patch": "(1522868104,6.84)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Stay - Free",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-06-03T00:00:00.000Z",
+    "match_id": 1522930162,
+    "duration (seconds)": 2129,
+    "match_patch": "(1522930162,6.84)",
+    "Radiant Team": "DreamDestroyers",
+    "radiant_score": 0,
+    "Dire Team": "Stay - Free",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-06-03T00:00:00.000Z",
+    "match_id": 1523001529,
+    "duration (seconds)": 2273,
+    "match_patch": "(1523001529,6.84)",
+    "Radiant Team": "Black Sheep!",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-06-03T00:00:00.000Z",
+    "match_id": 1523080127,
+    "duration (seconds)": 920,
+    "match_patch": "(1523080127,6.84)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-06-03T00:00:00.000Z",
+    "match_id": 1523128455,
+    "duration (seconds)": 1020,
+    "match_patch": "(1523128455,6.84)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-06-03T00:00:00.000Z",
+    "match_id": 1523174592,
+    "duration (seconds)": 2739,
+    "match_patch": "(1523174592,6.84)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-06-03T00:00:00.000Z",
+    "match_id": 1523282580,
+    "duration (seconds)": 2375,
+    "match_patch": "(1523282580,6.84)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-06-03T00:00:00.000Z",
+    "match_id": 1523470840,
+    "duration (seconds)": 2062,
+    "match_patch": "(1523470840,6.84)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Arcanys Gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-06-03T00:00:00.000Z",
+    "match_id": 1523576033,
+    "duration (seconds)": 2402,
+    "match_patch": "(1523576033,6.84)",
+    "Radiant Team": "Arcanys Gaming",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-06-03T00:00:00.000Z",
+    "match_id": 1523703230,
+    "duration (seconds)": 1383,
+    "match_patch": "(1523703230,6.84)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Arcanys Gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-06-03T00:00:00.000Z",
+    "match_id": 1523968469,
+    "duration (seconds)": 2782,
+    "match_patch": "(1523968469,6.84)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Burden United",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-06-03T00:00:00.000Z",
+    "match_id": 1524237079,
+    "duration (seconds)": 3626,
+    "match_patch": "(1524237079,6.84)",
+    "Radiant Team": "Burden United",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-06-03T00:00:00.000Z",
+    "match_id": 1524435470,
+    "duration (seconds)": 1983,
+    "match_patch": "(1524435470,6.84)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "_PowerRangers",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-06-03T00:00:00.000Z",
+    "match_id": 1524544585,
+    "duration (seconds)": 1840,
+    "match_patch": "(1524544585,6.84)",
+    "Radiant Team": "_PowerRangers",
+    "radiant_score": 0,
+    "Dire Team": "mYinsanity - sensei",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

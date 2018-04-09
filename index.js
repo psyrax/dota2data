@@ -3,7 +3,6 @@ const request = require('superagent');
 const chalk = require('chalk');
 const fs = require('fs');
 const jsonfile = require('jsonfile');
-const sleep = require('sleep');
 const Throttle    = require('superagent-throttle')
 
 let throttle = new Throttle({
@@ -20,13 +19,12 @@ console.log( chalk.yellow( 'Start date: %s'), currentDate.format() );
 
 var workingDate = moment(currentDate);
 
-var targetDate = moment(currentDate).subtract(2, 'years');
+var targetDate = moment(currentDate).subtract(5, 'years');
 console.log( chalk.blue( 'Target date: %s'), targetDate.format() );
 
 do{
-	console.log( chalk.blue( 'Top date: %s'), workingDate.format() );
+	console.log( chalk.blue( 'Working date: %s'), workingDate.format() );
 	var bottomDate = moment( workingDate ).subtract(1, 'days');
-	console.log( chalk.magenta( 'Bottom date: %s'), bottomDate.format() );
 	var currentSQL = fs.readFileSync(__dirname + '/query.sql', 'UTF-8');
 	var queryData = currentSQL.replace('__BOTTOM_DATE__', bottomDate.format()).replace('__TOP_DATE__', workingDate.format()).replace("\n", " ");
 	
@@ -55,6 +53,7 @@ function getDotaData(queryData, topDate, bottomDate){
 		.end(function(err, data){
 			if(err){
 				console.log( chalk.red( 'API error: %s'), err );
+				getDotaData(queryData, topDate, bottomDate);
 			} else {
 				console.log( chalk.bgMagenta.black( 'Got date: %s'), topDate );
 				jsonfile.writeFile(file, data.body.rows, {spaces: 2}, function (err) {

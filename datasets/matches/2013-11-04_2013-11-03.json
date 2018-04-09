@@ -1,0 +1,222 @@
+[
+  {
+    "date": "2013-11-03T00:00:00.000Z",
+    "match_id": 369453724,
+    "duration (seconds)": 2157,
+    "match_patch": "(369453724,6.78)",
+    "Radiant Team": "TongFu.WanZhou",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-11-03T00:00:00.000Z",
+    "match_id": 369475646,
+    "duration (seconds)": 2393,
+    "match_patch": "(369475646,6.78)",
+    "Radiant Team": "Team Empire",
+    "radiant_score": 0,
+    "Dire Team": "4 Friends + Chrillee",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-11-03T00:00:00.000Z",
+    "match_id": 369540302,
+    "duration (seconds)": 2197,
+    "match_patch": "(369540302,6.78)",
+    "Radiant Team": "4 Friends + Chrillee",
+    "radiant_score": 0,
+    "Dire Team": "Team Empire",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-11-03T00:00:00.000Z",
+    "match_id": 369541016,
+    "duration (seconds)": 2724,
+    "match_patch": "(369541016,6.78)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "TongFu.WanZhou",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-11-03T00:00:00.000Z",
+    "match_id": 369654299,
+    "duration (seconds)": 1544,
+    "match_patch": "(369654299,6.78)",
+    "Radiant Team": "RaTtLeSnAkE. CN GaMiNg",
+    "radiant_score": 0,
+    "Dire Team": "Vici Gaming",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-11-03T00:00:00.000Z",
+    "match_id": 369706077,
+    "duration (seconds)": 1248,
+    "match_patch": "(369706077,6.78)",
+    "Radiant Team": "SIGMA.int",
+    "radiant_score": 0,
+    "Dire Team": "4 Friends + Chrillee",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-11-03T00:00:00.000Z",
+    "match_id": 369719159,
+    "duration (seconds)": 1409,
+    "match_patch": "(369719159,6.78)",
+    "Radiant Team": "Vici Gaming",
+    "radiant_score": 0,
+    "Dire Team": "RaTtLeSnAkE. CN GaMiNg",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-11-03T00:00:00.000Z",
+    "match_id": 369723053,
+    "duration (seconds)": 2934,
+    "match_patch": "(369723053,6.78)",
+    "Radiant Team": "Awake ;)",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-11-03T00:00:00.000Z",
+    "match_id": 369769932,
+    "duration (seconds)": 3431,
+    "match_patch": "(369769932,6.78)",
+    "Radiant Team": "4 Friends + Chrillee",
+    "radiant_score": 0,
+    "Dire Team": "SIGMA.int",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-11-03T00:00:00.000Z",
+    "match_id": 369855433,
+    "duration (seconds)": 1623,
+    "match_patch": "(369855433,6.78)",
+    "Radiant Team": "Orange Esports Dota",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-11-03T00:00:00.000Z",
+    "match_id": 369890922,
+    "duration (seconds)": 2994,
+    "match_patch": "(369890922,6.78)",
+    "Radiant Team": "Evil Geniuses",
+    "radiant_score": 0,
+    "Dire Team": "Team Empire.",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-11-03T00:00:00.000Z",
+    "match_id": 369991449,
+    "duration (seconds)": 2342,
+    "match_patch": "(369991449,6.78)",
+    "Radiant Team": "Team Empire.",
+    "radiant_score": 0,
+    "Dire Team": "Evil Geniuses",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-11-03T00:00:00.000Z",
+    "match_id": 370130125,
+    "duration (seconds)": 1517,
+    "match_patch": "(370130125,6.78)",
+    "Radiant Team": "Team Liquid",
+    "radiant_score": 0,
+    "Dire Team": "Natus Vincere",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-11-03T00:00:00.000Z",
+    "match_id": 370146121,
+    "duration (seconds)": 2663,
+    "match_patch": "(370146121,6.78)",
+    "Radiant Team": "Virtus.pro",
+    "radiant_score": 0,
+    "Dire Team": "QPAD Red Pandas",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-11-03T00:00:00.000Z",
+    "match_id": 370192154,
+    "duration (seconds)": 2256,
+    "match_patch": "(370192154,6.78)",
+    "Radiant Team": "Natus Vincere",
+    "radiant_score": 0,
+    "Dire Team": "Team Liquid",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-11-03T00:00:00.000Z",
+    "match_id": 370237178,
+    "duration (seconds)": 1743,
+    "match_patch": "(370237178,6.78)",
+    "Radiant Team": "Fnatic",
+    "radiant_score": 0,
+    "Dire Team": "Kawaii^",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-11-03T00:00:00.000Z",
+    "match_id": 370262450,
+    "duration (seconds)": 1807,
+    "match_patch": "(370262450,6.78)",
+    "Radiant Team": "Team Liquid",
+    "radiant_score": 0,
+    "Dire Team": "Natus Vincere",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-11-03T00:00:00.000Z",
+    "match_id": 370300498,
+    "duration (seconds)": 2395,
+    "match_patch": "(370300498,6.78)",
+    "Radiant Team": "Fnatic",
+    "radiant_score": 0,
+    "Dire Team": "QPAD Red Pandas",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-11-03T00:00:00.000Z",
+    "match_id": 370316930,
+    "duration (seconds)": 2968,
+    "match_patch": "(370316930,6.78)",
+    "Radiant Team": "Natus Vincere",
+    "radiant_score": 0,
+    "Dire Team": "Team Liquid",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-11-03T00:00:00.000Z",
+    "match_id": 370365476,
+    "duration (seconds)": 2751,
+    "match_patch": "(370365476,6.78)",
+    "Radiant Team": "Virtus.pro",
+    "radiant_score": 0,
+    "Dire Team": "Kawaii^",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

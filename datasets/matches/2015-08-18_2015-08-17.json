@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2015-08-17T00:00:00.000Z",
+    "match_id": 1720295856,
+    "duration (seconds)": 1752,
+    "match_patch": "(1720295856,6.84)",
+    "Radiant Team": "Via Negativa MX",
+    "radiant_score": 0,
+    "Dire Team": "LUCCINI GAM1NG",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-08-17T00:00:00.000Z",
+    "match_id": 1720337857,
+    "duration (seconds)": 2887,
+    "match_patch": "(1720337857,6.84)",
+    "Radiant Team": "Team gondor.",
+    "radiant_score": 0,
+    "Dire Team": "Absolute Legends..",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-08-17T00:00:00.000Z",
+    "match_id": 1720438929,
+    "duration (seconds)": 984,
+    "match_patch": "(1720438929,6.84)",
+    "Radiant Team": "Artyk Dota",
+    "radiant_score": 0,
+    "Dire Team": "Megalodon Gaming.",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-08-17T00:00:00.000Z",
+    "match_id": 1722817987,
+    "duration (seconds)": 3552,
+    "match_patch": "(1722817987,6.84)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Kawaii Desu NEE",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

@@ -1,0 +1,211 @@
+[
+  {
+    "date": "2014-02-23T00:00:00.000Z",
+    "match_id": 535166696,
+    "duration (seconds)": 1835,
+    "match_patch": "(535166696,6.80)",
+    "Radiant Team": "March of Masick",
+    "radiant_score": 0,
+    "Dire Team": "DuskBin E-Sports",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-02-23T00:00:00.000Z",
+    "match_id": 535228186,
+    "duration (seconds)": 2905,
+    "match_patch": "(535228186,6.80)",
+    "Radiant Team": "DuskBin E-Sports",
+    "radiant_score": 0,
+    "Dire Team": "March of Masick",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-02-23T00:00:00.000Z",
+    "match_id": 535526040,
+    "duration (seconds)": 2449,
+    "match_patch": "(535526040,6.80)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Nvidia.ArrowGaming.AVF",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-02-23T00:00:00.000Z",
+    "match_id": 535652366,
+    "duration (seconds)": 2330,
+    "match_patch": "(535652366,6.80)",
+    "Radiant Team": "Nvidia.ArrowGaming.AVF",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-02-23T00:00:00.000Z",
+    "match_id": 535711531,
+    "duration (seconds)": 1325,
+    "match_patch": "(535711531,6.80)",
+    "Radiant Team": "Total Aggression!",
+    "radiant_score": 0,
+    "Dire Team": "Team Phoenix Rising",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-02-23T00:00:00.000Z",
+    "match_id": 535762823,
+    "duration (seconds)": 1202,
+    "match_patch": "(535762823,6.80)",
+    "Radiant Team": "Scythe.SG-",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-02-23T00:00:00.000Z",
+    "match_id": 535786720,
+    "duration (seconds)": 919,
+    "match_patch": "(535786720,6.80)",
+    "Radiant Team": "Team Phoenix Rising",
+    "radiant_score": 0,
+    "Dire Team": "Total Aggression!",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-02-23T00:00:00.000Z",
+    "match_id": 535827740,
+    "duration (seconds)": 1537,
+    "match_patch": "(535827740,6.80)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Scythe.SG-",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-02-23T00:00:00.000Z",
+    "match_id": 535856419,
+    "duration (seconds)": 1545,
+    "match_patch": "(535856419,6.80)",
+    "Radiant Team": "xGame.kz",
+    "radiant_score": 0,
+    "Dire Team": "Team Empire",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-02-23T00:00:00.000Z",
+    "match_id": 535896439,
+    "duration (seconds)": 1391,
+    "match_patch": "(535896439,6.80)",
+    "Radiant Team": "Scythe.SG-",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-02-23T00:00:00.000Z",
+    "match_id": 535906685,
+    "duration (seconds)": 2594,
+    "match_patch": "(535906685,6.80)",
+    "Radiant Team": "Fnatic",
+    "radiant_score": 0,
+    "Dire Team": "_PowerRangers",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-02-23T00:00:00.000Z",
+    "match_id": 535931802,
+    "duration (seconds)": 1436,
+    "match_patch": "(535931802,6.80)",
+    "Radiant Team": "Team Empire",
+    "radiant_score": 0,
+    "Dire Team": "xGame.kz",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-02-23T00:00:00.000Z",
+    "match_id": 535997960,
+    "duration (seconds)": 1222,
+    "match_patch": "(535997960,6.80)",
+    "Radiant Team": "_PowerRangers",
+    "radiant_score": 0,
+    "Dire Team": "Fnatic",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-02-23T00:00:00.000Z",
+    "match_id": 536101060,
+    "duration (seconds)": 1883,
+    "match_patch": "(536101060,6.80)",
+    "Radiant Team": "Central of Fear",
+    "radiant_score": 0,
+    "Dire Team": "TheRerereTRY",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-02-23T00:00:00.000Z",
+    "match_id": 536160832,
+    "duration (seconds)": 2266,
+    "match_patch": "(536160832,6.80)",
+    "Radiant Team": "TheRerereTRY",
+    "radiant_score": 0,
+    "Dire Team": "Central of Fear",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-02-23T00:00:00.000Z",
+    "match_id": 536169765,
+    "duration (seconds)": 1566,
+    "match_patch": "(536169765,6.80)",
+    "Radiant Team": "your_family",
+    "radiant_score": 0,
+    "Dire Team": "Tricked e-Sports",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-02-23T00:00:00.000Z",
+    "match_id": 536192120,
+    "duration (seconds)": 2155,
+    "match_patch": "(536192120,6.80)",
+    "Radiant Team": "Total Aggression!",
+    "radiant_score": 0,
+    "Dire Team": "Kawaii^",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-02-23T00:00:00.000Z",
+    "match_id": 536214334,
+    "duration (seconds)": 2070,
+    "match_patch": "(536214334,6.80)",
+    "Radiant Team": "Tricked e-Sports",
+    "radiant_score": 0,
+    "Dire Team": "your_family",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-02-23T00:00:00.000Z",
+    "match_id": 536244008,
+    "duration (seconds)": 2353,
+    "match_patch": "(536244008,6.80)",
+    "Radiant Team": "Kawaii^",
+    "radiant_score": 0,
+    "Dire Team": "Total Aggression!",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

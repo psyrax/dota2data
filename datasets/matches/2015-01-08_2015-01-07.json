@@ -1,0 +1,145 @@
+[
+  {
+    "date": "2015-01-07T00:00:00.000Z",
+    "match_id": 1145600300,
+    "duration (seconds)": 1335,
+    "match_patch": "(1145600300,6.83)",
+    "Radiant Team": "Argentinian Rejects",
+    "radiant_score": 0,
+    "Dire Team": "Geophysics Gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-01-07T00:00:00.000Z",
+    "match_id": 1145605795,
+    "duration (seconds)": 3400,
+    "match_patch": "(1145605795,6.83)",
+    "Radiant Team": "Leviathan'",
+    "radiant_score": 0,
+    "Dire Team": "Boreal eSports",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-01-07T00:00:00.000Z",
+    "match_id": 1145616459,
+    "duration (seconds)": 1831,
+    "match_patch": "(1145616459,6.83)",
+    "Radiant Team": "Peru Gaming Pro",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-01-07T00:00:00.000Z",
+    "match_id": 1145664097,
+    "duration (seconds)": 2951,
+    "match_patch": "(1145664097,6.83)",
+    "Radiant Team": "Geophysics Gaming",
+    "radiant_score": 0,
+    "Dire Team": "Argentinian Rejects",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-01-07T00:00:00.000Z",
+    "match_id": 1145733368,
+    "duration (seconds)": 1562,
+    "match_patch": "(1145733368,6.83)",
+    "Radiant Team": "Forsaken eSports",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-01-07T00:00:00.000Z",
+    "match_id": 1147098596,
+    "duration (seconds)": 2102,
+    "match_patch": "(1147098596,6.83)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Balkan Bears Corleone",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-01-07T00:00:00.000Z",
+    "match_id": 1147154187,
+    "duration (seconds)": 2400,
+    "match_patch": "(1147154187,6.83)",
+    "Radiant Team": ".Oneck",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-01-07T00:00:00.000Z",
+    "match_id": 1147231883,
+    "duration (seconds)": 1750,
+    "match_patch": "(1147231883,6.83)",
+    "Radiant Team": "Balkan Bears Corleone",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-01-07T00:00:00.000Z",
+    "match_id": 1147364310,
+    "duration (seconds)": 2133,
+    "match_patch": "(1147364310,6.83)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Dvar+4",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-01-07T00:00:00.000Z",
+    "match_id": 1147455610,
+    "duration (seconds)": 2042,
+    "match_patch": "(1147455610,6.83)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Moscow Five International",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-01-07T00:00:00.000Z",
+    "match_id": 1147554543,
+    "duration (seconds)": 1031,
+    "match_patch": "(1147554543,6.83)",
+    "Radiant Team": "Moscow Five International",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-01-07T00:00:00.000Z",
+    "match_id": 1147608407,
+    "duration (seconds)": 2932,
+    "match_patch": "(1147608407,6.83)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Moscow Five International",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-01-07T00:00:00.000Z",
+    "match_id": 1147683696,
+    "duration (seconds)": 1940,
+    "match_patch": "(1147683696,6.83)",
+    "Radiant Team": "DONDO BEST DOTO",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

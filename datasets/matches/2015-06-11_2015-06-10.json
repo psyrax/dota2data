@@ -1,0 +1,101 @@
+[
+  {
+    "date": "2015-06-10T00:00:00.000Z",
+    "match_id": 1540757070,
+    "duration (seconds)": 2703,
+    "match_patch": "(1540757070,6.84)",
+    "Radiant Team": "Stepashka Gaming",
+    "radiant_score": 0,
+    "Dire Team": "Braunbaerliebe",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-06-10T00:00:00.000Z",
+    "match_id": 1540809797,
+    "duration (seconds)": 2093,
+    "match_patch": "(1540809797,6.84)",
+    "Radiant Team": "eGamersX",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-06-10T00:00:00.000Z",
+    "match_id": 1540873905,
+    "duration (seconds)": 2243,
+    "match_patch": "(1540873905,6.84)",
+    "Radiant Team": "PTH Sand Blut",
+    "radiant_score": 0,
+    "Dire Team": "eGamersX",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-06-10T00:00:00.000Z",
+    "match_id": 1540930175,
+    "duration (seconds)": 2767,
+    "match_patch": "(1540930175,6.84)",
+    "Radiant Team": "eGamersX",
+    "radiant_score": 0,
+    "Dire Team": "PTH Sand Blut",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-06-10T00:00:00.000Z",
+    "match_id": 1541548008,
+    "duration (seconds)": 2207,
+    "match_patch": "(1541548008,6.84)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "EXECRATION1",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-06-10T00:00:00.000Z",
+    "match_id": 1541676191,
+    "duration (seconds)": 1848,
+    "match_patch": "(1541676191,6.84)",
+    "Radiant Team": "EXECRATION1",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-06-10T00:00:00.000Z",
+    "match_id": 1541792154,
+    "duration (seconds)": 3328,
+    "match_patch": "(1541792154,6.84)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "EXECRATION1",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-06-10T00:00:00.000Z",
+    "match_id": 1541991949,
+    "duration (seconds)": 1690,
+    "match_patch": "(1541991949,6.84)",
+    "Radiant Team": "EXECRATION1",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-06-10T00:00:00.000Z",
+    "match_id": 1542131817,
+    "duration (seconds)": 2037,
+    "match_patch": "(1542131817,6.84)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "EXECRATION1",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

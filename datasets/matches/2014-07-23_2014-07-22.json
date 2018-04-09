@@ -1,0 +1,24 @@
+[
+  {
+    "date": "2014-07-22T00:00:00.000Z",
+    "match_id": 791511529,
+    "duration (seconds)": 2512,
+    "match_patch": "(791511529,6.81)",
+    "Radiant Team": "Elysium!",
+    "radiant_score": 0,
+    "Dire Team": "Dota2Romania .com",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-07-22T00:00:00.000Z",
+    "match_id": 791605773,
+    "duration (seconds)": 1974,
+    "match_patch": "(791605773,6.81)",
+    "Radiant Team": "Dota2Romania .com",
+    "radiant_score": 0,
+    "Dire Team": "Elysium!",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

@@ -1,0 +1,189 @@
+[
+  {
+    "date": "2015-08-29T00:00:00.000Z",
+    "match_id": 1754149817,
+    "duration (seconds)": 2343,
+    "match_patch": "(1754149817,6.84)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "FalaGGa",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-08-29T00:00:00.000Z",
+    "match_id": 1754329291,
+    "duration (seconds)": 2975,
+    "match_patch": "(1754329291,6.84)",
+    "Radiant Team": "FalaGGa",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-08-29T00:00:00.000Z",
+    "match_id": 1754466281,
+    "duration (seconds)": 1664,
+    "match_patch": "(1754466281,6.84)",
+    "Radiant Team": "Artyk Dota",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-08-29T00:00:00.000Z",
+    "match_id": 1754557682,
+    "duration (seconds)": 2437,
+    "match_patch": "(1754557682,6.84)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-08-29T00:00:00.000Z",
+    "match_id": 1754580929,
+    "duration (seconds)": 2052,
+    "match_patch": "(1754580929,6.84)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Artyk Dota",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-08-29T00:00:00.000Z",
+    "match_id": 1754697857,
+    "duration (seconds)": 1297,
+    "match_patch": "(1754697857,6.84)",
+    "Radiant Team": "Artyk Dota",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-08-29T00:00:00.000Z",
+    "match_id": 1754790682,
+    "duration (seconds)": 1817,
+    "match_patch": "(1754790682,6.84)",
+    "Radiant Team": "aSpera ESports",
+    "radiant_score": 0,
+    "Dire Team": "Team Alternate Attax",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-08-29T00:00:00.000Z",
+    "match_id": 1754904823,
+    "duration (seconds)": 1254,
+    "match_patch": "(1754904823,6.84)",
+    "Radiant Team": "Team Alternate Attax",
+    "radiant_score": 0,
+    "Dire Team": "aSpera ESports",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-08-29T00:00:00.000Z",
+    "match_id": 1754976216,
+    "duration (seconds)": 3216,
+    "match_patch": "(1754976216,6.84)",
+    "Radiant Team": "Team Alternate Attax",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-08-29T00:00:00.000Z",
+    "match_id": 1755013128,
+    "duration (seconds)": 1646,
+    "match_patch": "(1755013128,6.84)",
+    "Radiant Team": "Rampage Gamers",
+    "radiant_score": 0,
+    "Dire Team": "",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-08-29T00:00:00.000Z",
+    "match_id": 1755038148,
+    "duration (seconds)": 1558,
+    "match_patch": "(1755038148,6.84)",
+    "Radiant Team": "Team Alternate Attax",
+    "radiant_score": 0,
+    "Dire Team": "aSpera ESports",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-08-29T00:00:00.000Z",
+    "match_id": 1755086845,
+    "duration (seconds)": 2227,
+    "match_patch": "(1755086845,6.84)",
+    "Radiant Team": "Gosugamers|",
+    "radiant_score": 0,
+    "Dire Team": "Thunder Awaken PE",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-08-29T00:00:00.000Z",
+    "match_id": 1755100067,
+    "duration (seconds)": 1468,
+    "match_patch": "(1755100067,6.84)",
+    "Radiant Team": "SnK Esports NA",
+    "radiant_score": 0,
+    "Dire Team": "Team Umaru",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-08-29T00:00:00.000Z",
+    "match_id": 1755190584,
+    "duration (seconds)": 2746,
+    "match_patch": "(1755190584,6.84)",
+    "Radiant Team": "MK3 eSports",
+    "radiant_score": 0,
+    "Dire Team": "Li0ns Prid3",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-08-29T00:00:00.000Z",
+    "match_id": 1755197108,
+    "duration (seconds)": 1440,
+    "match_patch": "(1755197108,6.84)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Los Xu",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-08-29T00:00:00.000Z",
+    "match_id": 1755201628,
+    "duration (seconds)": 1256,
+    "match_patch": "(1755201628,6.84)",
+    "Radiant Team": "SnK Esports NA",
+    "radiant_score": 0,
+    "Dire Team": "Thunder Awaken PE",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-08-29T00:00:00.000Z",
+    "match_id": 1755256373,
+    "duration (seconds)": 3023,
+    "match_patch": "(1755256373,6.84)",
+    "Radiant Team": "Los Xu",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

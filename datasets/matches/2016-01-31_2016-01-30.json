@@ -1,0 +1,134 @@
+[
+  {
+    "date": "2016-01-30T00:00:00.000Z",
+    "match_id": 2114189976,
+    "duration (seconds)": 1957,
+    "match_patch": "(2114189976,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Team Freedom Dota 2",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-01-30T00:00:00.000Z",
+    "match_id": 2114198392,
+    "duration (seconds)": 1471,
+    "match_patch": "(2114198392,6.86)",
+    "Radiant Team": "Artyk Gaming #",
+    "radiant_score": 0,
+    "Dire Team": "IQUITOS GAMING",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-01-30T00:00:00.000Z",
+    "match_id": 2114206849,
+    "duration (seconds)": 809,
+    "match_patch": "(2114206849,6.86)",
+    "Radiant Team": "Infamous、",
+    "radiant_score": 0,
+    "Dire Team": "123",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-01-30T00:00:00.000Z",
+    "match_id": 2114243659,
+    "duration (seconds)": 1675,
+    "match_patch": "(2114243659,6.86)",
+    "Radiant Team": "Infamous、",
+    "radiant_score": 0,
+    "Dire Team": "123",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-01-30T00:00:00.000Z",
+    "match_id": 2114247407,
+    "duration (seconds)": 1465,
+    "match_patch": "(2114247407,6.86)",
+    "Radiant Team": "IQUITOS GAMING",
+    "radiant_score": 0,
+    "Dire Team": "Artyk Gaming #",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-01-30T00:00:00.000Z",
+    "match_id": 2114248398,
+    "duration (seconds)": 2021,
+    "match_patch": "(2114248398,6.86)",
+    "Radiant Team": "Team Freedom Dota 2",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-01-30T00:00:00.000Z",
+    "match_id": 2114306261,
+    "duration (seconds)": 1514,
+    "match_patch": "(2114306261,6.86)",
+    "Radiant Team": "Infamous、",
+    "radiant_score": 0,
+    "Dire Team": "123",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-01-30T00:00:00.000Z",
+    "match_id": 2115030954,
+    "duration (seconds)": 2542,
+    "match_patch": "(2115030954,6.86)",
+    "Radiant Team": "Nas Ne Dogonyat",
+    "radiant_score": 0,
+    "Dire Team": "Rex Regum QEON",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-01-30T00:00:00.000Z",
+    "match_id": 2115248810,
+    "duration (seconds)": 2565,
+    "match_patch": "(2115248810,6.86)",
+    "Radiant Team": "PEMBURU SERIGALA",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-01-30T00:00:00.000Z",
+    "match_id": 2115407574,
+    "duration (seconds)": 2914,
+    "match_patch": "(2115407574,6.86)",
+    "Radiant Team": "PEMBURU SERIGALA",
+    "radiant_score": 0,
+    "Dire Team": "Nas Ne Dogonyat",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-01-30T00:00:00.000Z",
+    "match_id": 2115579959,
+    "duration (seconds)": 2136,
+    "match_patch": "(2115579959,6.86)",
+    "Radiant Team": "Nas Ne Dogonyat",
+    "radiant_score": 0,
+    "Dire Team": "PEMBURU SERIGALA",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-01-30T00:00:00.000Z",
+    "match_id": 2116866350,
+    "duration (seconds)": 2086,
+    "match_patch": "(2116866350,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Leviathan'",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "date": "2015-04-04T00:00:00.000Z",
+    "match_id": 1372151124,
+    "duration (seconds)": 2124,
+    "match_patch": "(1372151124,6.83)",
+    "Radiant Team": "Touch Fluffy Tail~",
+    "radiant_score": 0,
+    "Dire Team": "eBola eSports United",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-04-04T00:00:00.000Z",
+    "match_id": 1374003270,
+    "duration (seconds)": 1012,
+    "match_patch": "(1374003270,6.83)",
+    "Radiant Team": "Furion & The Giuntaz",
+    "radiant_score": 0,
+    "Dire Team": "Ancient Retry Team",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-04-04T00:00:00.000Z",
+    "match_id": 1374101470,
+    "duration (seconds)": 2022,
+    "match_patch": "(1374101470,6.83)",
+    "Radiant Team": "Ancient Retry Team",
+    "radiant_score": 0,
+    "Dire Team": "Furion & The Giuntaz",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-04-04T00:00:00.000Z",
+    "match_id": 1374335971,
+    "duration (seconds)": 2113,
+    "match_patch": "(1374335971,6.83)",
+    "Radiant Team": "TKsteal",
+    "radiant_score": 0,
+    "Dire Team": "DREAMSCAPE STARLIGHT ROCKERS",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-04-04T00:00:00.000Z",
+    "match_id": 1374476229,
+    "duration (seconds)": 2935,
+    "match_patch": "(1374476229,6.83)",
+    "Radiant Team": "DREAMSCAPE STARLIGHT ROCKERS",
+    "radiant_score": 0,
+    "Dire Team": "TKsteal",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-04-04T00:00:00.000Z",
+    "match_id": 1374633068,
+    "duration (seconds)": 2368,
+    "match_patch": "(1374633068,6.83)",
+    "Radiant Team": "TKsteal",
+    "radiant_score": 0,
+    "Dire Team": "DREAMSCAPE STARLIGHT ROCKERS",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

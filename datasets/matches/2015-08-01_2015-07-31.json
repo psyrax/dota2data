@@ -1,0 +1,57 @@
+[
+  {
+    "date": "2015-07-31T00:00:00.000Z",
+    "match_id": 1673806604,
+    "duration (seconds)": 2933,
+    "match_patch": "(1673806604,6.84)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "MonteroGaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-07-31T00:00:00.000Z",
+    "match_id": 1673893677,
+    "duration (seconds)": 1147,
+    "match_patch": "(1673893677,6.84)",
+    "Radiant Team": "MonteroGaming",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-07-31T00:00:00.000Z",
+    "match_id": 1674140559,
+    "duration (seconds)": 2934,
+    "match_patch": "(1674140559,6.84)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Las Bebitas",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-07-31T00:00:00.000Z",
+    "match_id": 1674262745,
+    "duration (seconds)": 2635,
+    "match_patch": "(1674262745,6.84)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "T.Zero",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-07-31T00:00:00.000Z",
+    "match_id": 1674419181,
+    "duration (seconds)": 2236,
+    "match_patch": "(1674419181,6.84)",
+    "Radiant Team": "Cool Kids",
+    "radiant_score": 0,
+    "Dire Team": "NovA E-sports",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

@@ -1,0 +1,123 @@
+[
+  {
+    "date": "2014-10-31T00:00:00.000Z",
+    "match_id": 993818313,
+    "duration (seconds)": 1734,
+    "match_patch": "(993818313,6.82)",
+    "Radiant Team": "LGD-GAMING",
+    "radiant_score": 0,
+    "Dire Team": "Speed Gaming.Nan Tong",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-10-31T00:00:00.000Z",
+    "match_id": 993867498,
+    "duration (seconds)": 1766,
+    "match_patch": "(993867498,6.82)",
+    "Radiant Team": "Speed Gaming.Nan Tong",
+    "radiant_score": 0,
+    "Dire Team": "LGD-GAMING",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-10-31T00:00:00.000Z",
+    "match_id": 994300146,
+    "duration (seconds)": 2523,
+    "match_patch": "(994300146,6.82)",
+    "Radiant Team": "Vici Gaming",
+    "radiant_score": 0,
+    "Dire Team": "Newbee",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-10-31T00:00:00.000Z",
+    "match_id": 994423853,
+    "duration (seconds)": 2585,
+    "match_patch": "(994423853,6.82)",
+    "Radiant Team": "Newbee",
+    "radiant_score": 0,
+    "Dire Team": "Vici Gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-10-31T00:00:00.000Z",
+    "match_id": 994470900,
+    "duration (seconds)": 1737,
+    "match_patch": "(994470900,6.82)",
+    "Radiant Team": "Svaha",
+    "radiant_score": 0,
+    "Dire Team": "NeckBreak eSporTs",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-10-31T00:00:00.000Z",
+    "match_id": 994503124,
+    "duration (seconds)": 2574,
+    "match_patch": "(994503124,6.82)",
+    "Radiant Team": "Gigabyte - DoA",
+    "radiant_score": 0,
+    "Dire Team": "FuKCing Noobs",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-10-31T00:00:00.000Z",
+    "match_id": 994617513,
+    "duration (seconds)": 1898,
+    "match_patch": "(994617513,6.82)",
+    "Radiant Team": "inFAM0US-",
+    "radiant_score": 0,
+    "Dire Team": "KappaGam!ng",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-10-31T00:00:00.000Z",
+    "match_id": 994757048,
+    "duration (seconds)": 2262,
+    "match_patch": "(994757048,6.82)",
+    "Radiant Team": "Virtus.pro",
+    "radiant_score": 0,
+    "Dire Team": "_PowerRangers",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-10-31T00:00:00.000Z",
+    "match_id": 994952297,
+    "duration (seconds)": 2603,
+    "match_patch": "(994952297,6.82)",
+    "Radiant Team": "_PowerRangers",
+    "radiant_score": 0,
+    "Dire Team": "Virtus.pro",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-10-31T00:00:00.000Z",
+    "match_id": 995131151,
+    "duration (seconds)": 2504,
+    "match_patch": "(995131151,6.82)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Exploring Dora",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-10-31T00:00:00.000Z",
+    "match_id": 995312422,
+    "duration (seconds)": 3188,
+    "match_patch": "(995312422,6.82)",
+    "Radiant Team": "Amazing 5-",
+    "radiant_score": 0,
+    "Dire Team": "makidel",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

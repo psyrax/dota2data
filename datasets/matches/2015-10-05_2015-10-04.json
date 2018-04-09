@@ -1,0 +1,123 @@
+[
+  {
+    "date": "2015-10-04T00:00:00.000Z",
+    "match_id": 1841504332,
+    "duration (seconds)": 1925,
+    "match_patch": "(1841504332,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-10-04T00:00:00.000Z",
+    "match_id": 1841624441,
+    "duration (seconds)": 2840,
+    "match_patch": "(1841624441,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Started From the PotM.",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-10-04T00:00:00.000Z",
+    "match_id": 1841780626,
+    "duration (seconds)": 1554,
+    "match_patch": "(1841780626,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Started From the PotM.",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-10-04T00:00:00.000Z",
+    "match_id": 1842825738,
+    "duration (seconds)": 1947,
+    "match_patch": "(1842825738,6.85)",
+    "Radiant Team": "Alliance",
+    "radiant_score": 0,
+    "Dire Team": "MONKEY FREEDOM FIGHTERS",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-10-04T00:00:00.000Z",
+    "match_id": 1842963934,
+    "duration (seconds)": 2352,
+    "match_patch": "(1842963934,6.85)",
+    "Radiant Team": "MONKEY FREEDOM FIGHTERS",
+    "radiant_score": 0,
+    "Dire Team": "Alliance",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-10-04T00:00:00.000Z",
+    "match_id": 1843226714,
+    "duration (seconds)": 2103,
+    "match_patch": "(1843226714,6.85)",
+    "Radiant Team": "(monkey) Business",
+    "radiant_score": 0,
+    "Dire Team": "Kaipi",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-10-04T00:00:00.000Z",
+    "match_id": 1843313638,
+    "duration (seconds)": 1947,
+    "match_patch": "(1843313638,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-10-04T00:00:00.000Z",
+    "match_id": 1843333248,
+    "duration (seconds)": 2400,
+    "match_patch": "(1843333248,6.85)",
+    "Radiant Team": "Kaipi",
+    "radiant_score": 0,
+    "Dire Team": "(monkey) Business",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-10-04T00:00:00.000Z",
+    "match_id": 1843425095,
+    "duration (seconds)": 3030,
+    "match_patch": "(1843425095,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-10-04T00:00:00.000Z",
+    "match_id": 1843441351,
+    "duration (seconds)": 2167,
+    "match_patch": "(1843441351,6.85)",
+    "Radiant Team": "(monkey) Business",
+    "radiant_score": 0,
+    "Dire Team": "Kaipi",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-10-04T00:00:00.000Z",
+    "match_id": 1843523196,
+    "duration (seconds)": 1806,
+    "match_patch": "(1843523196,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "TLC GAMING",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

@@ -1,0 +1,233 @@
+[
+  {
+    "date": "2014-11-02T00:00:00.000Z",
+    "match_id": 998664362,
+    "duration (seconds)": 1932,
+    "match_patch": "(998664362,6.82)",
+    "Radiant Team": "LV-Gaming",
+    "radiant_score": 0,
+    "Dire Team": "LGD-GAMING",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-11-02T00:00:00.000Z",
+    "match_id": 998758450,
+    "duration (seconds)": 1769,
+    "match_patch": "(998758450,6.82)",
+    "Radiant Team": "LGD-GAMING",
+    "radiant_score": 0,
+    "Dire Team": "LV-Gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-11-02T00:00:00.000Z",
+    "match_id": 998854364,
+    "duration (seconds)": 3282,
+    "match_patch": "(998854364,6.82)",
+    "Radiant Team": "LV-Gaming",
+    "radiant_score": 0,
+    "Dire Team": "LGD-GAMING",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-11-02T00:00:00.000Z",
+    "match_id": 999580255,
+    "duration (seconds)": 2140,
+    "match_patch": "(999580255,6.82)",
+    "Radiant Team": "no Problem .",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-11-02T00:00:00.000Z",
+    "match_id": 999580311,
+    "duration (seconds)": 3141,
+    "match_patch": "(999580311,6.82)",
+    "Radiant Team": "GOOMBA Gamingg",
+    "radiant_score": 0,
+    "Dire Team": "AncientWarriorsGaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-11-02T00:00:00.000Z",
+    "match_id": 999732425,
+    "duration (seconds)": 2308,
+    "match_patch": "(999732425,6.82)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "no Problem .",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-11-02T00:00:00.000Z",
+    "match_id": 999816019,
+    "duration (seconds)": 2269,
+    "match_patch": "(999816019,6.82)",
+    "Radiant Team": "AncientWarriorsGaming",
+    "radiant_score": 0,
+    "Dire Team": "GOOMBA Gamingg",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-11-02T00:00:00.000Z",
+    "match_id": 999985139,
+    "duration (seconds)": 1717,
+    "match_patch": "(999985139,6.82)",
+    "Radiant Team": "Moscow Five RUS",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-11-02T00:00:00.000Z",
+    "match_id": 999997663,
+    "duration (seconds)": 784,
+    "match_patch": "(999997663,6.82)",
+    "Radiant Team": "NorthernLions",
+    "radiant_score": 0,
+    "Dire Team": "Ro.eVolution!",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-11-02T00:00:00.000Z",
+    "match_id": 1000018815,
+    "duration (seconds)": 2764,
+    "match_patch": "(1000018815,6.82)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Moscow Five RUS",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-11-02T00:00:00.000Z",
+    "match_id": 1000020264,
+    "duration (seconds)": 1875,
+    "match_patch": "(1000020264,6.82)",
+    "Radiant Team": "Ro.eVolution!",
+    "radiant_score": 0,
+    "Dire Team": "NorthernLions",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-11-02T00:00:00.000Z",
+    "match_id": 1000025803,
+    "duration (seconds)": 2447,
+    "match_patch": "(1000025803,6.82)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "GOOMBA Gamingg",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-11-02T00:00:00.000Z",
+    "match_id": 1000051025,
+    "duration (seconds)": 1822,
+    "match_patch": "(1000051025,6.82)",
+    "Radiant Team": "0 + 4 =",
+    "radiant_score": 0,
+    "Dire Team": "GODS.GREENYELLOW",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-11-02T00:00:00.000Z",
+    "match_id": 1000177453,
+    "duration (seconds)": 1904,
+    "match_patch": "(1000177453,6.82)",
+    "Radiant Team": "GOOMBA Gamingg",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-11-02T00:00:00.000Z",
+    "match_id": 1000178418,
+    "duration (seconds)": 2283,
+    "match_patch": "(1000178418,6.82)",
+    "Radiant Team": "GODS.GREENYELLOW",
+    "radiant_score": 0,
+    "Dire Team": "0 + 4 =",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-11-02T00:00:00.000Z",
+    "match_id": 1000290559,
+    "duration (seconds)": 925,
+    "match_patch": "(1000290559,6.82)",
+    "Radiant Team": "rizeGaming International",
+    "radiant_score": 0,
+    "Dire Team": "Team Soy Sause",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-11-02T00:00:00.000Z",
+    "match_id": 1000309532,
+    "duration (seconds)": 1429,
+    "match_patch": "(1000309532,6.82)",
+    "Radiant Team": "TeamArena",
+    "radiant_score": 0,
+    "Dire Team": "OGORKI KISZONE NIRVANA CHINA",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-11-02T00:00:00.000Z",
+    "match_id": 1000330160,
+    "duration (seconds)": 1935,
+    "match_patch": "(1000330160,6.82)",
+    "Radiant Team": "Wolves 5",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-11-02T00:00:00.000Z",
+    "match_id": 1000352316,
+    "duration (seconds)": 1224,
+    "match_patch": "(1000352316,6.82)",
+    "Radiant Team": "Team Soy Sause",
+    "radiant_score": 0,
+    "Dire Team": "rizeGaming International",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-11-02T00:00:00.000Z",
+    "match_id": 1000392466,
+    "duration (seconds)": 1457,
+    "match_patch": "(1000392466,6.82)",
+    "Radiant Team": "OGORKI KISZONE NIRVANA CHINA",
+    "radiant_score": 0,
+    "Dire Team": "TeamArena",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-11-02T00:00:00.000Z",
+    "match_id": 1000416244,
+    "duration (seconds)": 1838,
+    "match_patch": "(1000416244,6.82)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Wolves 5",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

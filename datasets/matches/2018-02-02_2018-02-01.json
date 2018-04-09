@@ -1,20 +1,13 @@
 [
   {
+    "date": "2018-02-01T00:00:00.000Z",
     "match_id": 3711570473,
-    "avg": "1386.0000000000000000",
-    "count": 1,
-    "winrate": 0.5,
-    "winrate_wilson": 0.236589593615487,
-    "sum": 13860,
-    "min": 1386,
-    "max": 1386,
+    "duration (seconds)": 1386,
     "match_patch": "(3711570473,7.08)",
-    "radiant_team_id": 1974033,
-    "dire_team_id": null,
-    "radiant_win": true,
+    "Radiant Team": "Legion Team",
     "radiant_score": 29,
+    "Dire Team": null,
     "dire_score": 10,
-    "start_time": 1517500594,
-    "League": "NFCups Season 5"
+    "Winner": "Radiant"
   }
 ]

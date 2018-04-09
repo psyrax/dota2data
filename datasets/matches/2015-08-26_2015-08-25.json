@@ -1,0 +1,90 @@
+[
+  {
+    "date": "2015-08-25T00:00:00.000Z",
+    "match_id": 1743122705,
+    "duration (seconds)": 2645,
+    "match_patch": "(1743122705,6.84)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Extreme Gaming Philippines.",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-08-25T00:00:00.000Z",
+    "match_id": 1743312751,
+    "duration (seconds)": 1038,
+    "match_patch": "(1743312751,6.84)",
+    "Radiant Team": "Extreme Gaming Philippines.",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-08-25T00:00:00.000Z",
+    "match_id": 1743490528,
+    "duration (seconds)": 2711,
+    "match_patch": "(1743490528,6.84)",
+    "Radiant Team": "KANISTRA IN ATTACK",
+    "radiant_score": 0,
+    "Dire Team": "aSpera ESports",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-08-25T00:00:00.000Z",
+    "match_id": 1743664189,
+    "duration (seconds)": 2347,
+    "match_patch": "(1743664189,6.84)",
+    "Radiant Team": "aSpera ESports",
+    "radiant_score": 0,
+    "Dire Team": "KANISTRA IN ATTACK",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-08-25T00:00:00.000Z",
+    "match_id": 1743814264,
+    "duration (seconds)": 2504,
+    "match_patch": "(1743814264,6.84)",
+    "Radiant Team": "KANISTRA IN ATTACK",
+    "radiant_score": 0,
+    "Dire Team": "aSpera ESports",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-08-25T00:00:00.000Z",
+    "match_id": 1743969789,
+    "duration (seconds)": 1571,
+    "match_patch": "(1743969789,6.84)",
+    "Radiant Team": "mYinsanity - sensei",
+    "radiant_score": 0,
+    "Dire Team": "Team Alternate Attax",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-08-25T00:00:00.000Z",
+    "match_id": 1744057057,
+    "duration (seconds)": 1599,
+    "match_patch": "(1744057057,6.84)",
+    "Radiant Team": "Team Alternate Attax",
+    "radiant_score": 0,
+    "Dire Team": "mYinsanity - sensei",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-08-25T00:00:00.000Z",
+    "match_id": 1744130595,
+    "duration (seconds)": 2089,
+    "match_patch": "(1744130595,6.84)",
+    "Radiant Team": "mYinsanity - sensei",
+    "radiant_score": 0,
+    "Dire Team": "Team Alternate Attax",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

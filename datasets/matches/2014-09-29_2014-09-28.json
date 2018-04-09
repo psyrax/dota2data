@@ -1,0 +1,156 @@
+[
+  {
+    "date": "2014-09-28T00:00:00.000Z",
+    "match_id": 927046898,
+    "duration (seconds)": 1757,
+    "match_patch": "(927046898,6.82)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-09-28T00:00:00.000Z",
+    "match_id": 927064375,
+    "duration (seconds)": 2515,
+    "match_patch": "(927064375,6.82)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "protect dog",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-09-28T00:00:00.000Z",
+    "match_id": 927389087,
+    "duration (seconds)": 3988,
+    "match_patch": "(927389087,6.82)",
+    "Radiant Team": "NorthernLions",
+    "radiant_score": 0,
+    "Dire Team": "AftershockGaming Int.",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-09-28T00:00:00.000Z",
+    "match_id": 927598448,
+    "duration (seconds)": 1797,
+    "match_patch": "(927598448,6.82)",
+    "Radiant Team": "NorthernLions",
+    "radiant_score": 0,
+    "Dire Team": "euforia",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-09-28T00:00:00.000Z",
+    "match_id": 927648215,
+    "duration (seconds)": 1316,
+    "match_patch": "(927648215,6.82)",
+    "Radiant Team": "Druidz Esport",
+    "radiant_score": 0,
+    "Dire Team": "4 Friends + Chrillee",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-09-28T00:00:00.000Z",
+    "match_id": 927687835,
+    "duration (seconds)": 787,
+    "match_patch": "(927687835,6.82)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "sQreen's squad v2.0",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-09-28T00:00:00.000Z",
+    "match_id": 927750275,
+    "duration (seconds)": 2702,
+    "match_patch": "(927750275,6.82)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-09-28T00:00:00.000Z",
+    "match_id": 927767995,
+    "duration (seconds)": 2791,
+    "match_patch": "(927767995,6.82)",
+    "Radiant Team": "Dagon5.dota2",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-09-28T00:00:00.000Z",
+    "match_id": 927771452,
+    "duration (seconds)": 2192,
+    "match_patch": "(927771452,6.82)",
+    "Radiant Team": "Moosesports!",
+    "radiant_score": 0,
+    "Dire Team": "Kann man sich mal goennen",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-09-28T00:00:00.000Z",
+    "match_id": 927868555,
+    "duration (seconds)": 3901,
+    "match_patch": "(927868555,6.82)",
+    "Radiant Team": "Druidz Esport",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-09-28T00:00:00.000Z",
+    "match_id": 927868841,
+    "duration (seconds)": 3017,
+    "match_patch": "(927868841,6.82)",
+    "Radiant Team": "Team.GO",
+    "radiant_score": 0,
+    "Dire Team": "4 Friends + Chrillee",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-09-28T00:00:00.000Z",
+    "match_id": 927876700,
+    "duration (seconds)": 1657,
+    "match_patch": "(927876700,6.82)",
+    "Radiant Team": "Team-Authentic",
+    "radiant_score": 0,
+    "Dire Team": "Sirkuss Finlandia",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-09-28T00:00:00.000Z",
+    "match_id": 927887128,
+    "duration (seconds)": 1644,
+    "match_patch": "(927887128,6.82)",
+    "Radiant Team": "Kann man sich mal goennen",
+    "radiant_score": 0,
+    "Dire Team": "Moosesports!",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-09-28T00:00:00.000Z",
+    "match_id": 927906891,
+    "duration (seconds)": 1437,
+    "match_patch": "(927906891,6.82)",
+    "Radiant Team": "Don`t Waste Time UA",
+    "radiant_score": 0,
+    "Dire Team": "T3D",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

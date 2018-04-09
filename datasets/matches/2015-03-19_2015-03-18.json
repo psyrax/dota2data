@@ -1,0 +1,156 @@
+[
+  {
+    "date": "2015-03-18T00:00:00.000Z",
+    "match_id": 1328239559,
+    "duration (seconds)": 1554,
+    "match_patch": "(1328239559,6.83)",
+    "Radiant Team": "SwaG",
+    "radiant_score": 0,
+    "Dire Team": "paiN Gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-03-18T00:00:00.000Z",
+    "match_id": 1328277212,
+    "duration (seconds)": 1433,
+    "match_patch": "(1328277212,6.83)",
+    "Radiant Team": "paiN Gaming",
+    "radiant_score": 0,
+    "Dire Team": "SwaG",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-03-18T00:00:00.000Z",
+    "match_id": 1328514135,
+    "duration (seconds)": 2448,
+    "match_patch": "(1328514135,6.83)",
+    "Radiant Team": "Extreme Gaming Philippines.",
+    "radiant_score": 0,
+    "Dire Team": "",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-03-18T00:00:00.000Z",
+    "match_id": 1328620028,
+    "duration (seconds)": 1679,
+    "match_patch": "(1328620028,6.83)",
+    "Radiant Team": "Pacific eSports Dota 2",
+    "radiant_score": 0,
+    "Dire Team": "Mineski.亿鼎博",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-03-18T00:00:00.000Z",
+    "match_id": 1328707562,
+    "duration (seconds)": 3156,
+    "match_patch": "(1328707562,6.83)",
+    "Radiant Team": "Extreme Gaming Philippines.",
+    "radiant_score": 0,
+    "Dire Team": "Mineski.亿鼎博",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-03-18T00:00:00.000Z",
+    "match_id": 1328836597,
+    "duration (seconds)": 2691,
+    "match_patch": "(1328836597,6.83)",
+    "Radiant Team": "Pacific eSports Dota 2",
+    "radiant_score": 0,
+    "Dire Team": "",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-03-18T00:00:00.000Z",
+    "match_id": 1329036948,
+    "duration (seconds)": 2106,
+    "match_patch": "(1329036948,6.83)",
+    "Radiant Team": "Click And Seach",
+    "radiant_score": 0,
+    "Dire Team": "Arcanys Gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-03-18T00:00:00.000Z",
+    "match_id": 1329255608,
+    "duration (seconds)": 3418,
+    "match_patch": "(1329255608,6.83)",
+    "Radiant Team": "EXECRATION1",
+    "radiant_score": 0,
+    "Dire Team": "TrackMate.TRIC",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-03-18T00:00:00.000Z",
+    "match_id": 1329467874,
+    "duration (seconds)": 1406,
+    "match_patch": "(1329467874,6.83)",
+    "Radiant Team": "TrackMate.TRIC",
+    "radiant_score": 0,
+    "Dire Team": "EXECRATION1",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-03-18T00:00:00.000Z",
+    "match_id": 1329736557,
+    "duration (seconds)": 1707,
+    "match_patch": "(1329736557,6.83)",
+    "Radiant Team": "Spin To Win!",
+    "radiant_score": 0,
+    "Dire Team": "Team-CYCLONES",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-03-18T00:00:00.000Z",
+    "match_id": 1329835071,
+    "duration (seconds)": 1529,
+    "match_patch": "(1329835071,6.83)",
+    "Radiant Team": "Team-CYCLONES",
+    "radiant_score": 0,
+    "Dire Team": "Spin To Win!",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-03-18T00:00:00.000Z",
+    "match_id": 1330076560,
+    "duration (seconds)": 1536,
+    "match_patch": "(1330076560,6.83)",
+    "Radiant Team": "<>..",
+    "radiant_score": 0,
+    "Dire Team": "Scenario",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-03-18T00:00:00.000Z",
+    "match_id": 1330148453,
+    "duration (seconds)": 1865,
+    "match_patch": "(1330148453,6.83)",
+    "Radiant Team": "Scenario",
+    "radiant_score": 0,
+    "Dire Team": "<>..",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-03-18T00:00:00.000Z",
+    "match_id": 1330218387,
+    "duration (seconds)": 3785,
+    "match_patch": "(1330218387,6.83)",
+    "Radiant Team": "<>..",
+    "radiant_score": 0,
+    "Dire Team": "Scenario",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

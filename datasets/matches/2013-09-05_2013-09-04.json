@@ -1,0 +1,68 @@
+[
+  {
+    "date": "2013-09-04T00:00:00.000Z",
+    "match_id": 298277546,
+    "duration (seconds)": 1315,
+    "match_patch": "(298277546,6.78)",
+    "Radiant Team": "Team Aspera.",
+    "radiant_score": 0,
+    "Dire Team": "uebelst-_-gamynG",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-09-04T00:00:00.000Z",
+    "match_id": 298344259,
+    "duration (seconds)": 1964,
+    "match_patch": "(298344259,6.78)",
+    "Radiant Team": "uebelst-_-gamynG",
+    "radiant_score": 0,
+    "Dire Team": "Radical Online X-tremists",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-09-04T00:00:00.000Z",
+    "match_id": 298404510,
+    "duration (seconds)": 2861,
+    "match_patch": "(298404510,6.78)",
+    "Radiant Team": "Radical Online X-tremists",
+    "radiant_score": 0,
+    "Dire Team": "Ahead.kz",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-09-04T00:00:00.000Z",
+    "match_id": 298498912,
+    "duration (seconds)": 1529,
+    "match_patch": "(298498912,6.78)",
+    "Radiant Team": "Po53iDoN",
+    "radiant_score": 0,
+    "Dire Team": "_PowerRangers",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-09-04T00:00:00.000Z",
+    "match_id": 298520428,
+    "duration (seconds)": 3282,
+    "match_patch": "(298520428,6.78)",
+    "Radiant Team": "uebelst-_-gamynG",
+    "radiant_score": 0,
+    "Dire Team": "Po53iDoN",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-09-04T00:00:00.000Z",
+    "match_id": 298658065,
+    "duration (seconds)": 2848,
+    "match_patch": "(298658065,6.78)",
+    "Radiant Team": "Shadowfiend Eats Cake",
+    "radiant_score": 0,
+    "Dire Team": "Pretty Boy Swag.",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

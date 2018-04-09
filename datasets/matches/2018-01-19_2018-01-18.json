@@ -1,38 +1,24 @@
 [
   {
+    "date": "2018-01-18T00:00:00.000Z",
     "match_id": 3685535433,
-    "avg": "2789.0000000000000000",
-    "count": 1,
-    "winrate": 0.5,
-    "winrate_wilson": 0.236589593615487,
-    "sum": 27890,
-    "min": 2789,
-    "max": 2789,
+    "duration (seconds)": 2789,
     "match_patch": "(3685535433,7.07)",
-    "radiant_team_id": 4425650,
-    "dire_team_id": 3349045,
-    "radiant_win": true,
+    "Radiant Team": "Eclipse",
     "radiant_score": 26,
+    "Dire Team": "Rock Gaming",
     "dire_score": 18,
-    "start_time": 1516265485,
-    "League": "ProDotA Cup Series"
+    "Winner": "Radiant"
   },
   {
+    "date": "2018-01-18T00:00:00.000Z",
     "match_id": 3685628039,
-    "avg": "884.0000000000000000",
-    "count": 1,
-    "winrate": 0.5,
-    "winrate_wilson": 0.236589593615487,
-    "sum": 8840,
-    "min": 884,
-    "max": 884,
+    "duration (seconds)": 884,
     "match_patch": "(3685628039,7.07)",
-    "radiant_team_id": 3349045,
-    "dire_team_id": 4425650,
-    "radiant_win": false,
+    "Radiant Team": "Rock Gaming",
     "radiant_score": 1,
+    "Dire Team": "Eclipse",
     "dire_score": 16,
-    "start_time": 1516269899,
-    "League": "ProDotA Cup Series"
+    "Winner": "Dire"
   }
 ]

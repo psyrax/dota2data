@@ -1,0 +1,134 @@
+[
+  {
+    "date": "2014-04-26T00:00:00.000Z",
+    "match_id": 628391514,
+    "duration (seconds)": 1482,
+    "match_patch": "(628391514,6.80)",
+    "Radiant Team": "ISO HUESOS",
+    "radiant_score": 0,
+    "Dire Team": "_PowerRangers",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-04-26T00:00:00.000Z",
+    "match_id": 628602525,
+    "duration (seconds)": 673,
+    "match_patch": "(628602525,6.80)",
+    "Radiant Team": "WOND5.",
+    "radiant_score": 0,
+    "Dire Team": "DeathProfit",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-04-26T00:00:00.000Z",
+    "match_id": 628666617,
+    "duration (seconds)": 1283,
+    "match_patch": "(628666617,6.80)",
+    "Radiant Team": "DeathProfit",
+    "radiant_score": 0,
+    "Dire Team": "WOND5.",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-04-26T00:00:00.000Z",
+    "match_id": 628796498,
+    "duration (seconds)": 842,
+    "match_patch": "(628796498,6.80)",
+    "Radiant Team": "DeathProfit",
+    "radiant_score": 0,
+    "Dire Team": "DOOoKoncaGAaaming",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-04-26T00:00:00.000Z",
+    "match_id": 628804428,
+    "duration (seconds)": 1421,
+    "match_patch": "(628804428,6.80)",
+    "Radiant Team": "GamingLeaders",
+    "radiant_score": 0,
+    "Dire Team": "WOND5.",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-04-26T00:00:00.000Z",
+    "match_id": 628904273,
+    "duration (seconds)": 969,
+    "match_patch": "(628904273,6.80)",
+    "Radiant Team": "WOND5.",
+    "radiant_score": 0,
+    "Dire Team": "GamingLeaders",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-04-26T00:00:00.000Z",
+    "match_id": 628995944,
+    "duration (seconds)": 1756,
+    "match_patch": "(628995944,6.80)",
+    "Radiant Team": "GamingLeaders",
+    "radiant_score": 0,
+    "Dire Team": "White City",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-04-26T00:00:00.000Z",
+    "match_id": 629014166,
+    "duration (seconds)": 2448,
+    "match_patch": "(629014166,6.80)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Team Liquid",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-04-26T00:00:00.000Z",
+    "match_id": 629084762,
+    "duration (seconds)": 666,
+    "match_patch": "(629084762,6.80)",
+    "Radiant Team": "White City",
+    "radiant_score": 0,
+    "Dire Team": "GamingLeaders",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-04-26T00:00:00.000Z",
+    "match_id": 629117142,
+    "duration (seconds)": 1625,
+    "match_patch": "(629117142,6.80)",
+    "Radiant Team": "Team Liquid",
+    "radiant_score": 0,
+    "Dire Team": "Revenge-",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-04-26T00:00:00.000Z",
+    "match_id": 629257055,
+    "duration (seconds)": 1585,
+    "match_patch": "(629257055,6.80)",
+    "Radiant Team": "Doggy Team",
+    "radiant_score": 0,
+    "Dire Team": "Team_eHug",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-04-26T00:00:00.000Z",
+    "match_id": 629303997,
+    "duration (seconds)": 3308,
+    "match_patch": "(629303997,6.80)",
+    "Radiant Team": "Team_eHug",
+    "radiant_score": 0,
+    "Dire Team": "Doggy Team",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "date": "2016-01-06T00:00:00.000Z",
+    "match_id": 2057800510,
+    "duration (seconds)": 1306,
+    "match_patch": "(2057800510,6.86)",
+    "Radiant Team": "Dream.Warriors",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-01-06T00:00:00.000Z",
+    "match_id": 2058888234,
+    "duration (seconds)": 1824,
+    "match_patch": "(2058888234,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-01-06T00:00:00.000Z",
+    "match_id": 2059042692,
+    "duration (seconds)": 1774,
+    "match_patch": "(2059042692,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

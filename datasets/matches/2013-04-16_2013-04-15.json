@@ -1,0 +1,57 @@
+[
+  {
+    "date": "2013-04-15T00:00:00.000Z",
+    "match_id": 173453888,
+    "duration (seconds)": 1921,
+    "match_patch": "(173453888,6.77)",
+    "Radiant Team": "DustGaming",
+    "radiant_score": 0,
+    "Dire Team": "NetolicSA",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-04-15T00:00:00.000Z",
+    "match_id": 173584561,
+    "duration (seconds)": 2421,
+    "match_patch": "(173584561,6.77)",
+    "Radiant Team": "Team Empire",
+    "radiant_score": 0,
+    "Dire Team": "Kaipi",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-04-15T00:00:00.000Z",
+    "match_id": 173717888,
+    "duration (seconds)": 578,
+    "match_patch": "(173717888,6.77)",
+    "Radiant Team": "QPAD Red Pandas",
+    "radiant_score": 0,
+    "Dire Team": "Team Dignitas",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-04-15T00:00:00.000Z",
+    "match_id": 173969326,
+    "duration (seconds)": 1762,
+    "match_patch": "(173969326,6.77)",
+    "Radiant Team": "Team Liquid",
+    "radiant_score": 0,
+    "Dire Team": "Alliance",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-04-15T00:00:00.000Z",
+    "match_id": 174004184,
+    "duration (seconds)": 2976,
+    "match_patch": "(174004184,6.77)",
+    "Radiant Team": "Alliance",
+    "radiant_score": 0,
+    "Dire Team": "Team Liquid",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

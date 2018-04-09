@@ -1,0 +1,101 @@
+[
+  {
+    "date": "2016-02-14T00:00:00.000Z",
+    "match_id": 2150371697,
+    "duration (seconds)": 2457,
+    "match_patch": "(2150371697,6.86)",
+    "Radiant Team": "Balrogs e-Sport",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-02-14T00:00:00.000Z",
+    "match_id": 2150485288,
+    "duration (seconds)": 2779,
+    "match_patch": "(2150485288,6.86)",
+    "Radiant Team": "Team Freedom Dota 2",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-02-14T00:00:00.000Z",
+    "match_id": 2150586181,
+    "duration (seconds)": 2043,
+    "match_patch": "(2150586181,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Team Freedom Dota 2",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-02-14T00:00:00.000Z",
+    "match_id": 2152030141,
+    "duration (seconds)": 2705,
+    "match_patch": "(2152030141,6.86)",
+    "Radiant Team": "HWA Gaming",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-02-14T00:00:00.000Z",
+    "match_id": 2152346953,
+    "duration (seconds)": 3357,
+    "match_patch": "(2152346953,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "ABRAXAS.",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-02-14T00:00:00.000Z",
+    "match_id": 2152527730,
+    "duration (seconds)": 2397,
+    "match_patch": "(2152527730,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Team Empire",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-02-14T00:00:00.000Z",
+    "match_id": 2152611103,
+    "duration (seconds)": 1189,
+    "match_patch": "(2152611103,6.86)",
+    "Radiant Team": "Team Empire",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-02-14T00:00:00.000Z",
+    "match_id": 2152687953,
+    "duration (seconds)": 2208,
+    "match_patch": "(2152687953,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-02-14T00:00:00.000Z",
+    "match_id": 2152750998,
+    "duration (seconds)": 1840,
+    "match_patch": "(2152750998,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

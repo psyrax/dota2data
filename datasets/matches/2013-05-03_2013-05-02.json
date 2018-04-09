@@ -1,0 +1,57 @@
+[
+  {
+    "date": "2013-05-02T00:00:00.000Z",
+    "match_id": 186291353,
+    "duration (seconds)": 2316,
+    "match_patch": "(186291353,6.77)",
+    "Radiant Team": "INMEMORYoFAKMA",
+    "radiant_score": 0,
+    "Dire Team": "G-BANGERS",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-05-02T00:00:00.000Z",
+    "match_id": 186347226,
+    "duration (seconds)": 2186,
+    "match_patch": "(186347226,6.77)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "INMEMORYoFAKMA",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-05-02T00:00:00.000Z",
+    "match_id": 186379788,
+    "duration (seconds)": 1810,
+    "match_patch": "(186379788,6.77)",
+    "Radiant Team": "Insidious Gaming Int",
+    "radiant_score": 0,
+    "Dire Team": "Sunny side up",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-05-02T00:00:00.000Z",
+    "match_id": 186422826,
+    "duration (seconds)": 1713,
+    "match_patch": "(186422826,6.77)",
+    "Radiant Team": "insidiousidol",
+    "radiant_score": 0,
+    "Dire Team": "Insidious Gaming Int",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-05-02T00:00:00.000Z",
+    "match_id": 186470952,
+    "duration (seconds)": 878,
+    "match_patch": "(186470952,6.77)",
+    "Radiant Team": "Insidious Gaming Int",
+    "radiant_score": 0,
+    "Dire Team": "insidiousidol",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

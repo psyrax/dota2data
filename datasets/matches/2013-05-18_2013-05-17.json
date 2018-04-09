@@ -1,0 +1,101 @@
+[
+  {
+    "date": "2013-05-17T00:00:00.000Z",
+    "match_id": 197220621,
+    "duration (seconds)": 928,
+    "match_patch": "(197220621,6.77)",
+    "Radiant Team": "LGD-GAMING",
+    "radiant_score": 0,
+    "Dire Team": "For Love.",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-05-17T00:00:00.000Z",
+    "match_id": 197223814,
+    "duration (seconds)": 3360,
+    "match_patch": "(197223814,6.77)",
+    "Radiant Team": "Radical Online X-tremists",
+    "radiant_score": 0,
+    "Dire Team": "Evil Geniuses",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-05-17T00:00:00.000Z",
+    "match_id": 197247027,
+    "duration (seconds)": 1264,
+    "match_patch": "(197247027,6.77)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "LGD-GAMING",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-05-17T00:00:00.000Z",
+    "match_id": 197289232,
+    "duration (seconds)": 3030,
+    "match_patch": "(197289232,6.77)",
+    "Radiant Team": "Evil Geniuses",
+    "radiant_score": 0,
+    "Dire Team": "Radical Online X-tremists",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-05-17T00:00:00.000Z",
+    "match_id": 197348059,
+    "duration (seconds)": 4566,
+    "match_patch": "(197348059,6.77)",
+    "Radiant Team": "Radical Online X-tremists",
+    "radiant_score": 0,
+    "Dire Team": "Evil Geniuses",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-05-17T00:00:00.000Z",
+    "match_id": 197427319,
+    "duration (seconds)": 2379,
+    "match_patch": "(197427319,6.77)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "davaydasvidaniaaa",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-05-17T00:00:00.000Z",
+    "match_id": 197479908,
+    "duration (seconds)": 1769,
+    "match_patch": "(197479908,6.77)",
+    "Radiant Team": "davaydasvidaniaaa",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-05-17T00:00:00.000Z",
+    "match_id": 197523751,
+    "duration (seconds)": 2044,
+    "match_patch": "(197523751,6.77)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Evil Geniuses",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-05-17T00:00:00.000Z",
+    "match_id": 197555809,
+    "duration (seconds)": 2929,
+    "match_patch": "(197555809,6.77)",
+    "Radiant Team": "Evil Geniuses",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

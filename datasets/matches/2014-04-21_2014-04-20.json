@@ -1,0 +1,134 @@
+[
+  {
+    "date": "2014-04-20T00:00:00.000Z",
+    "match_id": 618925195,
+    "duration (seconds)": 1500,
+    "match_patch": "(618925195,6.80)",
+    "Radiant Team": "Rex Regum QEON",
+    "radiant_score": 0,
+    "Dire Team": "Trust",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-04-20T00:00:00.000Z",
+    "match_id": 619015453,
+    "duration (seconds)": 2204,
+    "match_patch": "(619015453,6.80)",
+    "Radiant Team": "Trust",
+    "radiant_score": 0,
+    "Dire Team": "Rex Regum QEON",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-04-20T00:00:00.000Z",
+    "match_id": 619138360,
+    "duration (seconds)": 1494,
+    "match_patch": "(619138360,6.80)",
+    "Radiant Team": "Osliki Gaming",
+    "radiant_score": 0,
+    "Dire Team": "Aware.Gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-04-20T00:00:00.000Z",
+    "match_id": 619188208,
+    "duration (seconds)": 1539,
+    "match_patch": "(619188208,6.80)",
+    "Radiant Team": "Aware.Gaming",
+    "radiant_score": 0,
+    "Dire Team": "Osliki Gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-04-20T00:00:00.000Z",
+    "match_id": 619243494,
+    "duration (seconds)": 1681,
+    "match_patch": "(619243494,6.80)",
+    "Radiant Team": "Osliki Gaming",
+    "radiant_score": 0,
+    "Dire Team": "Aware.Gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-04-20T00:00:00.000Z",
+    "match_id": 619364892,
+    "duration (seconds)": 2061,
+    "match_patch": "(619364892,6.80)",
+    "Radiant Team": "Osliki Gaming",
+    "radiant_score": 0,
+    "Dire Team": "Relax, you are doing fine.",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-04-20T00:00:00.000Z",
+    "match_id": 619443415,
+    "duration (seconds)": 924,
+    "match_patch": "(619443415,6.80)",
+    "Radiant Team": "Relax, you are doing fine.",
+    "radiant_score": 0,
+    "Dire Team": "Osliki Gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-04-20T00:00:00.000Z",
+    "match_id": 619483718,
+    "duration (seconds)": 899,
+    "match_patch": "(619483718,6.80)",
+    "Radiant Team": "Titan",
+    "radiant_score": 0,
+    "Dire Team": "Trust",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-04-20T00:00:00.000Z",
+    "match_id": 619555888,
+    "duration (seconds)": 965,
+    "match_patch": "(619555888,6.80)",
+    "Radiant Team": "Trust",
+    "radiant_score": 0,
+    "Dire Team": "Titan",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-04-20T00:00:00.000Z",
+    "match_id": 619720414,
+    "duration (seconds)": 1332,
+    "match_patch": "(619720414,6.80)",
+    "Radiant Team": "Turtlemasters",
+    "radiant_score": 0,
+    "Dire Team": "Techno Tinkers",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-04-20T00:00:00.000Z",
+    "match_id": 619861515,
+    "duration (seconds)": 1751,
+    "match_patch": "(619861515,6.80)",
+    "Radiant Team": "Born Incomplete",
+    "radiant_score": 0,
+    "Dire Team": "Simple 5.",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-04-20T00:00:00.000Z",
+    "match_id": 619862814,
+    "duration (seconds)": 2669,
+    "match_patch": "(619862814,6.80)",
+    "Radiant Team": "4 Friends + Chrillee",
+    "radiant_score": 0,
+    "Dire Team": "Techno Tinkers",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

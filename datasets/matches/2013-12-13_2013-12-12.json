@@ -1,0 +1,222 @@
+[
+  {
+    "date": "2013-12-12T00:00:00.000Z",
+    "match_id": 418846987,
+    "duration (seconds)": 3038,
+    "match_patch": "(418846987,6.79)",
+    "Radiant Team": "Speed Gaming International",
+    "radiant_score": 0,
+    "Dire Team": "Titan",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-12-12T00:00:00.000Z",
+    "match_id": 418942888,
+    "duration (seconds)": 2890,
+    "match_patch": "(418942888,6.79)",
+    "Radiant Team": "Titan",
+    "radiant_score": 0,
+    "Dire Team": "Speed Gaming International",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-12-12T00:00:00.000Z",
+    "match_id": 418996263,
+    "duration (seconds)": 1599,
+    "match_patch": "(418996263,6.79)",
+    "Radiant Team": "R.I.S.E",
+    "radiant_score": 0,
+    "Dire Team": "_Cleave_",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-12-12T00:00:00.000Z",
+    "match_id": 419046718,
+    "duration (seconds)": 1806,
+    "match_patch": "(419046718,6.79)",
+    "Radiant Team": "Speed Gaming International",
+    "radiant_score": 0,
+    "Dire Team": "Titan",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-12-12T00:00:00.000Z",
+    "match_id": 419067171,
+    "duration (seconds)": 2464,
+    "match_patch": "(419067171,6.79)",
+    "Radiant Team": "Aspera/",
+    "radiant_score": 0,
+    "Dire Team": "FlipSideTactics",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-12-12T00:00:00.000Z",
+    "match_id": 419081645,
+    "duration (seconds)": 1991,
+    "match_patch": "(419081645,6.79)",
+    "Radiant Team": "Spies",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-12-12T00:00:00.000Z",
+    "match_id": 419122183,
+    "duration (seconds)": 1023,
+    "match_patch": "(419122183,6.79)",
+    "Radiant Team": "AMAHASALA",
+    "radiant_score": 0,
+    "Dire Team": "sQreen's squad v2.0",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-12-12T00:00:00.000Z",
+    "match_id": 419138971,
+    "duration (seconds)": 697,
+    "match_patch": "(419138971,6.79)",
+    "Radiant Team": "leha top1",
+    "radiant_score": 0,
+    "Dire Team": "herodota cf",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-12-12T00:00:00.000Z",
+    "match_id": 419161383,
+    "duration (seconds)": 2173,
+    "match_patch": "(419161383,6.79)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-12-12T00:00:00.000Z",
+    "match_id": 419164988,
+    "duration (seconds)": 1382,
+    "match_patch": "(419164988,6.79)",
+    "Radiant Team": "sQreen's squad v2.0",
+    "radiant_score": 0,
+    "Dire Team": "AMAHASALA",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-12-12T00:00:00.000Z",
+    "match_id": 419217430,
+    "duration (seconds)": 2210,
+    "match_patch": "(419217430,6.79)",
+    "Radiant Team": "SHIPAEM GAMING",
+    "radiant_score": 0,
+    "Dire Team": "OtherWise",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-12-12T00:00:00.000Z",
+    "match_id": 419233759,
+    "duration (seconds)": 1267,
+    "match_patch": "(419233759,6.79)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Spies",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-12-12T00:00:00.000Z",
+    "match_id": 419250634,
+    "duration (seconds)": 2601,
+    "match_patch": "(419250634,6.79)",
+    "Radiant Team": "NRAGED.int",
+    "radiant_score": 0,
+    "Dire Team": "Relax, you are doing fine.",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-12-12T00:00:00.000Z",
+    "match_id": 419284046,
+    "duration (seconds)": 1443,
+    "match_patch": "(419284046,6.79)",
+    "Radiant Team": "Radical Online X-tremists",
+    "radiant_score": 0,
+    "Dire Team": "Fnatic",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-12-12T00:00:00.000Z",
+    "match_id": 419284141,
+    "duration (seconds)": 1684,
+    "match_patch": "(419284141,6.79)",
+    "Radiant Team": "_PowerRangers",
+    "radiant_score": 0,
+    "Dire Team": "WOND5.",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-12-12T00:00:00.000Z",
+    "match_id": 419284191,
+    "duration (seconds)": 1189,
+    "match_patch": "(419284191,6.79)",
+    "Radiant Team": "Praedo Mundi*",
+    "radiant_score": 0,
+    "Dire Team": "Spies",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-12-12T00:00:00.000Z",
+    "match_id": 419309362,
+    "duration (seconds)": 3313,
+    "match_patch": "(419309362,6.79)",
+    "Radiant Team": "Relax, you are doing fine.",
+    "radiant_score": 0,
+    "Dire Team": "NRAGED.int",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-12-12T00:00:00.000Z",
+    "match_id": 419327376,
+    "duration (seconds)": 1475,
+    "match_patch": "(419327376,6.79)",
+    "Radiant Team": "Fnatic",
+    "radiant_score": 0,
+    "Dire Team": "Radical Online X-tremists",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-12-12T00:00:00.000Z",
+    "match_id": 419332019,
+    "duration (seconds)": 1409,
+    "match_patch": "(419332019,6.79)",
+    "Radiant Team": "WOND5.",
+    "radiant_score": 0,
+    "Dire Team": "_PowerRangers",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-12-12T00:00:00.000Z",
+    "match_id": 419381096,
+    "duration (seconds)": 2872,
+    "match_patch": "(419381096,6.79)",
+    "Radiant Team": "NRAGED.int",
+    "radiant_score": 0,
+    "Dire Team": "Relax, you are doing fine.",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

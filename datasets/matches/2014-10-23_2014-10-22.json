@@ -1,0 +1,112 @@
+[
+  {
+    "date": "2014-10-22T00:00:00.000Z",
+    "match_id": 975378207,
+    "duration (seconds)": 2244,
+    "match_patch": "(975378207,6.82)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-10-22T00:00:00.000Z",
+    "match_id": 976545761,
+    "duration (seconds)": 3731,
+    "match_patch": "(976545761,6.82)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "hArd Attack-",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-10-22T00:00:00.000Z",
+    "match_id": 976770239,
+    "duration (seconds)": 2124,
+    "match_patch": "(976770239,6.82)",
+    "Radiant Team": "hArd Attack-",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-10-22T00:00:00.000Z",
+    "match_id": 976860273,
+    "duration (seconds)": 2720,
+    "match_patch": "(976860273,6.82)",
+    "Radiant Team": "Not Today",
+    "radiant_score": 0,
+    "Dire Team": "Hehe United",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-10-22T00:00:00.000Z",
+    "match_id": 976898888,
+    "duration (seconds)": 1562,
+    "match_patch": "(976898888,6.82)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Moscow Five RUS",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-10-22T00:00:00.000Z",
+    "match_id": 977107358,
+    "duration (seconds)": 2665,
+    "match_patch": "(977107358,6.82)",
+    "Radiant Team": "Moscow Five RUS",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-10-22T00:00:00.000Z",
+    "match_id": 977184157,
+    "duration (seconds)": 3330,
+    "match_patch": "(977184157,6.82)",
+    "Radiant Team": "Moscow Five RUS",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-10-22T00:00:00.000Z",
+    "match_id": 977214311,
+    "duration (seconds)": 1584,
+    "match_patch": "(977214311,6.82)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Moscow Five RUS",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-10-22T00:00:00.000Z",
+    "match_id": 977251224,
+    "duration (seconds)": 2434,
+    "match_patch": "(977251224,6.82)",
+    "Radiant Team": "Moscow Five RUS",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-10-22T00:00:00.000Z",
+    "match_id": 977288363,
+    "duration (seconds)": 3128,
+    "match_patch": "(977288363,6.82)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Moscow Five RUS",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

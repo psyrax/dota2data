@@ -1,0 +1,167 @@
+[
+  {
+    "date": "2013-11-02T00:00:00.000Z",
+    "match_id": 367828802,
+    "duration (seconds)": 2509,
+    "match_patch": "(367828802,6.78)",
+    "Radiant Team": "MVP HOTSIX",
+    "radiant_score": 0,
+    "Dire Team": "UnderRateds`",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-11-02T00:00:00.000Z",
+    "match_id": 367879047,
+    "duration (seconds)": 1841,
+    "match_patch": "(367879047,6.78)",
+    "Radiant Team": "UnderRateds`",
+    "radiant_score": 0,
+    "Dire Team": "MVP HOTSIX",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-11-02T00:00:00.000Z",
+    "match_id": 367976694,
+    "duration (seconds)": 2475,
+    "match_patch": "(367976694,6.78)",
+    "Radiant Team": "Hyper Glory Team",
+    "radiant_score": 0,
+    "Dire Team": "LGD-GAMING.int",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-11-02T00:00:00.000Z",
+    "match_id": 368002326,
+    "duration (seconds)": 2099,
+    "match_patch": "(368002326,6.78)",
+    "Radiant Team": "SIGMA.int",
+    "radiant_score": 0,
+    "Dire Team": "against-All-authority",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-11-02T00:00:00.000Z",
+    "match_id": 368051295,
+    "duration (seconds)": 1617,
+    "match_patch": "(368051295,6.78)",
+    "Radiant Team": "LGD-GAMING.int",
+    "radiant_score": 0,
+    "Dire Team": "Hyper Glory Team",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-11-02T00:00:00.000Z",
+    "match_id": 368072988,
+    "duration (seconds)": 1280,
+    "match_patch": "(368072988,6.78)",
+    "Radiant Team": "against-All-authority",
+    "radiant_score": 0,
+    "Dire Team": "SIGMA.int",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-11-02T00:00:00.000Z",
+    "match_id": 368181081,
+    "duration (seconds)": 2442,
+    "match_patch": "(368181081,6.78)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "4 Friends + Chrillee",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-11-02T00:00:00.000Z",
+    "match_id": 368188175,
+    "duration (seconds)": 1437,
+    "match_patch": "(368188175,6.78)",
+    "Radiant Team": "LGD-GAMING",
+    "radiant_score": 0,
+    "Dire Team": "**singStars.Gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-11-02T00:00:00.000Z",
+    "match_id": 368253428,
+    "duration (seconds)": 755,
+    "match_patch": "(368253428,6.78)",
+    "Radiant Team": "**singStars.Gaming",
+    "radiant_score": 0,
+    "Dire Team": "LGD-GAMING",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-11-02T00:00:00.000Z",
+    "match_id": 368258564,
+    "duration (seconds)": 2348,
+    "match_patch": "(368258564,6.78)",
+    "Radiant Team": "4 Friends + Chrillee",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-11-02T00:00:00.000Z",
+    "match_id": 368361187,
+    "duration (seconds)": 2077,
+    "match_patch": "(368361187,6.78)",
+    "Radiant Team": "4 Friends + Chrillee",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-11-02T00:00:00.000Z",
+    "match_id": 368509256,
+    "duration (seconds)": 3102,
+    "match_patch": "(368509256,6.78)",
+    "Radiant Team": "SIGMA.int",
+    "radiant_score": 0,
+    "Dire Team": "Evil Geniuses",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-11-02T00:00:00.000Z",
+    "match_id": 368614082,
+    "duration (seconds)": 2440,
+    "match_patch": "(368614082,6.78)",
+    "Radiant Team": "Evil Geniuses",
+    "radiant_score": 0,
+    "Dire Team": "SIGMA.int",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-11-02T00:00:00.000Z",
+    "match_id": 369023341,
+    "duration (seconds)": 1347,
+    "match_patch": "(369023341,6.78)",
+    "Radiant Team": "VexX Gaming",
+    "radiant_score": 0,
+    "Dire Team": "The Joikernaut",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-11-02T00:00:00.000Z",
+    "match_id": 369047456,
+    "duration (seconds)": 2350,
+    "match_patch": "(369047456,6.78)",
+    "Radiant Team": "The Joikernaut",
+    "radiant_score": 0,
+    "Dire Team": "VexX Gaming",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

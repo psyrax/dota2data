@@ -1,0 +1,24 @@
+[
+  {
+    "date": "2014-07-20T00:00:00.000Z",
+    "match_id": 786552600,
+    "duration (seconds)": 869,
+    "match_patch": "(786552600,6.81)",
+    "Radiant Team": "ICLEN",
+    "radiant_score": 0,
+    "Dire Team": "Avant Garde Gaming",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-07-20T00:00:00.000Z",
+    "match_id": 786611611,
+    "duration (seconds)": 1015,
+    "match_patch": "(786611611,6.81)",
+    "Radiant Team": "Avant Garde Gaming",
+    "radiant_score": 0,
+    "Dire Team": "ICLEN",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "date": "2016-02-03T00:00:00.000Z",
+    "match_id": 2124193692,
+    "duration (seconds)": 3345,
+    "match_patch": "(2124193692,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Boreal eSports",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-02-03T00:00:00.000Z",
+    "match_id": 2124206983,
+    "duration (seconds)": 2909,
+    "match_patch": "(2124206983,6.86)",
+    "Radiant Team": "Team Archon",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-02-03T00:00:00.000Z",
+    "match_id": 2124277571,
+    "duration (seconds)": 2808,
+    "match_patch": "(2124277571,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "SwaG",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-02-03T00:00:00.000Z",
+    "match_id": 2124308220,
+    "duration (seconds)": 2468,
+    "match_patch": "(2124308220,6.86)",
+    "Radiant Team": "TANGO GAMES",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-02-03T00:00:00.000Z",
+    "match_id": 2124346775,
+    "duration (seconds)": 1508,
+    "match_patch": "(2124346775,6.86)",
+    "Radiant Team": "SwaG",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-02-03T00:00:00.000Z",
+    "match_id": 2124820387,
+    "duration (seconds)": 1885,
+    "match_patch": "(2124820387,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "iDEAL Gigabyte",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-02-03T00:00:00.000Z",
+    "match_id": 2124912195,
+    "duration (seconds)": 1854,
+    "match_patch": "(2124912195,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "iDEAL Gigabyte",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-02-03T00:00:00.000Z",
+    "match_id": 2125101325,
+    "duration (seconds)": 2708,
+    "match_patch": "(2125101325,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-02-03T00:00:00.000Z",
+    "match_id": 2125267992,
+    "duration (seconds)": 3152,
+    "match_patch": "(2125267992,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-02-03T00:00:00.000Z",
+    "match_id": 2126125330,
+    "duration (seconds)": 3066,
+    "match_patch": "(2126125330,6.86)",
+    "Radiant Team": "Balrogs e-Sport",
+    "radiant_score": 0,
+    "Dire Team": "SwaG",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-02-03T00:00:00.000Z",
+    "match_id": 2126185180,
+    "duration (seconds)": 3075,
+    "match_patch": "(2126185180,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-02-03T00:00:00.000Z",
+    "match_id": 2126217552,
+    "duration (seconds)": 1457,
+    "match_patch": "(2126217552,6.86)",
+    "Radiant Team": "SwaG",
+    "radiant_score": 0,
+    "Dire Team": "Balrogs e-Sport",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-02-03T00:00:00.000Z",
+    "match_id": 2126226538,
+    "duration (seconds)": 1760,
+    "match_patch": "(2126226538,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Leviathan'",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-02-03T00:00:00.000Z",
+    "match_id": 2126247810,
+    "duration (seconds)": 1725,
+    "match_patch": "(2126247810,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-02-03T00:00:00.000Z",
+    "match_id": 2126265982,
+    "duration (seconds)": 1416,
+    "match_patch": "(2126265982,6.86)",
+    "Radiant Team": "Leviathan'",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

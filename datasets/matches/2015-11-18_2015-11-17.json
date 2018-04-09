@@ -1,0 +1,90 @@
+[
+  {
+    "date": "2015-11-17T00:00:00.000Z",
+    "match_id": 1940530428,
+    "duration (seconds)": 2302,
+    "match_patch": "(1940530428,6.85)",
+    "Radiant Team": "Colombian Pridee",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-11-17T00:00:00.000Z",
+    "match_id": 1940561256,
+    "duration (seconds)": 2049,
+    "match_patch": "(1940561256,6.85)",
+    "Radiant Team": "New Star Com",
+    "radiant_score": 0,
+    "Dire Team": "LUCCINI GAM1NG",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-11-17T00:00:00.000Z",
+    "match_id": 1940575166,
+    "duration (seconds)": 2228,
+    "match_patch": "(1940575166,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Colombian Pridee",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-11-17T00:00:00.000Z",
+    "match_id": 1940613463,
+    "duration (seconds)": 2658,
+    "match_patch": "(1940613463,6.85)",
+    "Radiant Team": "Hawk' Gaming",
+    "radiant_score": 0,
+    "Dire Team": "Atravesados Gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-11-17T00:00:00.000Z",
+    "match_id": 1940634487,
+    "duration (seconds)": 2993,
+    "match_patch": "(1940634487,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Tico Gamers",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-11-17T00:00:00.000Z",
+    "match_id": 1940692246,
+    "duration (seconds)": 2259,
+    "match_patch": "(1940692246,6.85)",
+    "Radiant Team": "Atravesados Gaming",
+    "radiant_score": 0,
+    "Dire Team": "Hawk' Gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-11-17T00:00:00.000Z",
+    "match_id": 1940718408,
+    "duration (seconds)": 1261,
+    "match_patch": "(1940718408,6.85)",
+    "Radiant Team": "The Rainbow side",
+    "radiant_score": 0,
+    "Dire Team": "eXtreme GamerZ CR",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-11-17T00:00:00.000Z",
+    "match_id": 1941299238,
+    "duration (seconds)": 2818,
+    "match_patch": "(1941299238,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Three WIse Monkeys",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

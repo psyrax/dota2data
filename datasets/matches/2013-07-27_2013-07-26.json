@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2013-07-26T00:00:00.000Z",
+    "match_id": 253860931,
+    "duration (seconds)": 2326,
+    "match_patch": "(253860931,6.78)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Virtus.pro",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-07-26T00:00:00.000Z",
+    "match_id": 253910342,
+    "duration (seconds)": 2019,
+    "match_patch": "(253910342,6.78)",
+    "Radiant Team": "Virtus.pro",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-07-26T00:00:00.000Z",
+    "match_id": 253953747,
+    "duration (seconds)": 2117,
+    "match_patch": "(253953747,6.78)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Virtus.pro",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-07-26T00:00:00.000Z",
+    "match_id": 253990925,
+    "duration (seconds)": 3118,
+    "match_patch": "(253990925,6.78)",
+    "Radiant Team": "Virtus.pro",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

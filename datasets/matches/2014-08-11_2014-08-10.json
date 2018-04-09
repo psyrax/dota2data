@@ -1,0 +1,112 @@
+[
+  {
+    "date": "2014-08-10T00:00:00.000Z",
+    "match_id": 826824123,
+    "duration (seconds)": 3275,
+    "match_patch": "(826824123,6.81)",
+    "Radiant Team": "BET BOYS",
+    "radiant_score": 0,
+    "Dire Team": "Lo']['eM",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-08-10T00:00:00.000Z",
+    "match_id": 826940523,
+    "duration (seconds)": 2899,
+    "match_patch": "(826940523,6.81)",
+    "Radiant Team": "ZephyrDota",
+    "radiant_score": 0,
+    "Dire Team": "MVP Phoenix",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-08-10T00:00:00.000Z",
+    "match_id": 827053841,
+    "duration (seconds)": 2908,
+    "match_patch": "(827053841,6.81)",
+    "Radiant Team": "ZephyrDota",
+    "radiant_score": 0,
+    "Dire Team": "R a v e",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-08-10T00:00:00.000Z",
+    "match_id": 827313221,
+    "duration (seconds)": 1641,
+    "match_patch": "(827313221,6.81)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "LyT.",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-08-10T00:00:00.000Z",
+    "match_id": 827374227,
+    "duration (seconds)": 1512,
+    "match_patch": "(827374227,6.81)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-08-10T00:00:00.000Z",
+    "match_id": 827438130,
+    "duration (seconds)": 3259,
+    "match_patch": "(827438130,6.81)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "TheOldTeam",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-08-10T00:00:00.000Z",
+    "match_id": 827577291,
+    "duration (seconds)": 3375,
+    "match_patch": "(827577291,6.81)",
+    "Radiant Team": "TheOldTeam",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-08-10T00:00:00.000Z",
+    "match_id": 828044582,
+    "duration (seconds)": 2401,
+    "match_patch": "(828044582,6.81)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "VyseGaming",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-08-10T00:00:00.000Z",
+    "match_id": 828140164,
+    "duration (seconds)": 3389,
+    "match_patch": "(828140164,6.81)",
+    "Radiant Team": "VyseGaming",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-08-10T00:00:00.000Z",
+    "match_id": 828260032,
+    "duration (seconds)": 1566,
+    "match_patch": "(828260032,6.81)",
+    "Radiant Team": "VyseGaming",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

@@ -1,20 +1,13 @@
 [
   {
+    "date": "2017-05-01T00:00:00.000Z",
     "match_id": 3151237116,
-    "avg": "3088.0000000000000000",
-    "count": 1,
-    "winrate": 0.5,
-    "winrate_wilson": 0.236589593615487,
-    "sum": 30880,
-    "min": 3088,
-    "max": 3088,
+    "duration (seconds)": 3088,
     "match_patch": "(3151237116,7.05)",
-    "radiant_team_id": 2663631,
-    "dire_team_id": 3343641,
-    "radiant_win": false,
+    "Radiant Team": "4Merical E-Sports",
     "radiant_score": 17,
+    "Dire Team": "3 cheers 4 Divine Ascension",
     "dire_score": 38,
-    "start_time": 1493645183,
-    "League": "ESL India Premiership - Season One"
+    "Winner": "Dire"
   }
 ]

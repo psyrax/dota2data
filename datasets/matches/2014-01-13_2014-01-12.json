@@ -1,0 +1,156 @@
+[
+  {
+    "date": "2014-01-12T00:00:00.000Z",
+    "match_id": 465748113,
+    "duration (seconds)": 2612,
+    "match_patch": "(465748113,6.79)",
+    "Radiant Team": "First Departure",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-01-12T00:00:00.000Z",
+    "match_id": 465783407,
+    "duration (seconds)": 1807,
+    "match_patch": "(465783407,6.79)",
+    "Radiant Team": "WOND5.",
+    "radiant_score": 0,
+    "Dire Team": "DotaLife.kz",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-01-12T00:00:00.000Z",
+    "match_id": 465788828,
+    "duration (seconds)": 1513,
+    "match_patch": "(465788828,6.79)",
+    "Radiant Team": "Courage-Gaming.",
+    "radiant_score": 0,
+    "Dire Team": "Maven Gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-01-12T00:00:00.000Z",
+    "match_id": 465801027,
+    "duration (seconds)": 1516,
+    "match_patch": "(465801027,6.79)",
+    "Radiant Team": "Project 312",
+    "radiant_score": 0,
+    "Dire Team": "CLOCKURSIK",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-01-12T00:00:00.000Z",
+    "match_id": 465817418,
+    "duration (seconds)": 1901,
+    "match_patch": "(465817418,6.79)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "First Departure",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-01-12T00:00:00.000Z",
+    "match_id": 465862969,
+    "duration (seconds)": 2089,
+    "match_patch": "(465862969,6.79)",
+    "Radiant Team": "_Cleave_",
+    "radiant_score": 0,
+    "Dire Team": "SnowBird",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-01-12T00:00:00.000Z",
+    "match_id": 465900718,
+    "duration (seconds)": 3187,
+    "match_patch": "(465900718,6.79)",
+    "Radiant Team": "First Departure",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-01-12T00:00:00.000Z",
+    "match_id": 466027094,
+    "duration (seconds)": 3216,
+    "match_patch": "(466027094,6.79)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "First Departure",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-01-12T00:00:00.000Z",
+    "match_id": 466332698,
+    "duration (seconds)": 3292,
+    "match_patch": "(466332698,6.79)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "_PowerRangers",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-01-12T00:00:00.000Z",
+    "match_id": 466339692,
+    "duration (seconds)": 3029,
+    "match_patch": "(466339692,6.79)",
+    "Radiant Team": "xGame.kz",
+    "radiant_score": 0,
+    "Dire Team": "Virtus.pro",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-01-12T00:00:00.000Z",
+    "match_id": 466440391,
+    "duration (seconds)": 1710,
+    "match_patch": "(466440391,6.79)",
+    "Radiant Team": "xGame.kz",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-01-12T00:00:00.000Z",
+    "match_id": 466463434,
+    "duration (seconds)": 1254,
+    "match_patch": "(466463434,6.79)",
+    "Radiant Team": "_PowerRangers",
+    "radiant_score": 0,
+    "Dire Team": "Virtus.pro",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-01-12T00:00:00.000Z",
+    "match_id": 466534959,
+    "duration (seconds)": 2684,
+    "match_patch": "(466534959,6.79)",
+    "Radiant Team": "xGame.kz",
+    "radiant_score": 0,
+    "Dire Team": "_PowerRangers",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-01-12T00:00:00.000Z",
+    "match_id": 466549919,
+    "duration (seconds)": 1765,
+    "match_patch": "(466549919,6.79)",
+    "Radiant Team": "Virtus.pro",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

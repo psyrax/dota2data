@@ -1,0 +1,178 @@
+[
+  {
+    "date": "2016-03-14T00:00:00.000Z",
+    "match_id": 2221112196,
+    "duration (seconds)": 3863,
+    "match_patch": "(2221112196,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Team Freedom Dota 2",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-03-14T00:00:00.000Z",
+    "match_id": 2221112698,
+    "duration (seconds)": 733,
+    "match_patch": "(2221112698,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Shot e-Sport.",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-03-14T00:00:00.000Z",
+    "match_id": 2221129030,
+    "duration (seconds)": 2938,
+    "match_patch": "(2221129030,6.86)",
+    "Radiant Team": "eKeepo",
+    "radiant_score": 0,
+    "Dire Team": "Balrogs e-Sport",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-03-14T00:00:00.000Z",
+    "match_id": 2221158291,
+    "duration (seconds)": 3424,
+    "match_patch": "(2221158291,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-03-14T00:00:00.000Z",
+    "match_id": 2221185290,
+    "duration (seconds)": 1600,
+    "match_patch": "(2221185290,6.86)",
+    "Radiant Team": "Balrogs e-Sport",
+    "radiant_score": 0,
+    "Dire Team": "eKeepo",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-03-14T00:00:00.000Z",
+    "match_id": 2221221964,
+    "duration (seconds)": 2173,
+    "match_patch": "(2221221964,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-03-14T00:00:00.000Z",
+    "match_id": 2221955822,
+    "duration (seconds)": 2003,
+    "match_patch": "(2221955822,6.86)",
+    "Radiant Team": "Mineski.亿鼎博",
+    "radiant_score": 0,
+    "Dire Team": "G.se7en",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-03-14T00:00:00.000Z",
+    "match_id": 2222161342,
+    "duration (seconds)": 1719,
+    "match_patch": "(2222161342,6.86)",
+    "Radiant Team": "Awake",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-03-14T00:00:00.000Z",
+    "match_id": 2222362019,
+    "duration (seconds)": 2788,
+    "match_patch": "(2222362019,6.86)",
+    "Radiant Team": "MVP HOT6",
+    "radiant_score": 0,
+    "Dire Team": "Rex Regum QEON",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-03-14T00:00:00.000Z",
+    "match_id": 2222500241,
+    "duration (seconds)": 1973,
+    "match_patch": "(2222500241,6.86)",
+    "Radiant Team": "Yellow Submarine!",
+    "radiant_score": 0,
+    "Dire Team": "Kaipi",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-03-14T00:00:00.000Z",
+    "match_id": 2222645388,
+    "duration (seconds)": 2736,
+    "match_patch": "(2222645388,6.86)",
+    "Radiant Team": "Kaipi",
+    "radiant_score": 0,
+    "Dire Team": "Yellow Submarine!",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-03-14T00:00:00.000Z",
+    "match_id": 2222781809,
+    "duration (seconds)": 1434,
+    "match_patch": "(2222781809,6.86)",
+    "Radiant Team": "Yellow Submarine!",
+    "radiant_score": 0,
+    "Dire Team": "Kaipi",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-03-14T00:00:00.000Z",
+    "match_id": 2222942408,
+    "duration (seconds)": 1585,
+    "match_patch": "(2222942408,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "OOGWAY",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-03-14T00:00:00.000Z",
+    "match_id": 2223009335,
+    "duration (seconds)": 4080,
+    "match_patch": "(2223009335,6.86)",
+    "Radiant Team": "OOGWAY",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-03-14T00:00:00.000Z",
+    "match_id": 2223135300,
+    "duration (seconds)": 1601,
+    "match_patch": "(2223135300,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Shazam~",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-03-14T00:00:00.000Z",
+    "match_id": 2223185352,
+    "duration (seconds)": 2078,
+    "match_patch": "(2223185352,6.86)",
+    "Radiant Team": "Shazam~",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

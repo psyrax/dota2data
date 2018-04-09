@@ -1,0 +1,101 @@
+[
+  {
+    "date": "2016-02-09T00:00:00.000Z",
+    "match_id": 2138574904,
+    "duration (seconds)": 3168,
+    "match_patch": "(2138574904,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "compLexity Gaming",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-02-09T00:00:00.000Z",
+    "match_id": 2138638290,
+    "duration (seconds)": 1766,
+    "match_patch": "(2138638290,6.86)",
+    "Radiant Team": "compLexity Gaming",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-02-09T00:00:00.000Z",
+    "match_id": 2139993202,
+    "duration (seconds)": 2358,
+    "match_patch": "(2139993202,6.86)",
+    "Radiant Team": "STARK.gg",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-02-09T00:00:00.000Z",
+    "match_id": 2140109609,
+    "duration (seconds)": 2104,
+    "match_patch": "(2140109609,6.86)",
+    "Radiant Team": "Burden United",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-02-09T00:00:00.000Z",
+    "match_id": 2140132937,
+    "duration (seconds)": 1445,
+    "match_patch": "(2140132937,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "STARK.gg",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-02-09T00:00:00.000Z",
+    "match_id": 2140220408,
+    "duration (seconds)": 918,
+    "match_patch": "(2140220408,6.86)",
+    "Radiant Team": "Burden United",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-02-09T00:00:00.000Z",
+    "match_id": 2140452211,
+    "duration (seconds)": 1840,
+    "match_patch": "(2140452211,6.86)",
+    "Radiant Team": "Mango manians",
+    "radiant_score": 0,
+    "Dire Team": "Team Empire",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-02-09T00:00:00.000Z",
+    "match_id": 2140532063,
+    "duration (seconds)": 1943,
+    "match_patch": "(2140532063,6.86)",
+    "Radiant Team": "Team Empire",
+    "radiant_score": 0,
+    "Dire Team": "Mango manians",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-02-09T00:00:00.000Z",
+    "match_id": 2140756554,
+    "duration (seconds)": 2491,
+    "match_patch": "(2140756554,6.86)",
+    "Radiant Team": "Team Archon",
+    "radiant_score": 0,
+    "Dire Team": "123",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

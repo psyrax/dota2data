@@ -1,0 +1,101 @@
+[
+  {
+    "date": "2013-05-11T00:00:00.000Z",
+    "match_id": 193115205,
+    "duration (seconds)": 2453,
+    "match_patch": "(193115205,6.77)",
+    "Radiant Team": "Team Dignitas",
+    "radiant_score": 0,
+    "Dire Team": "QPAD Red Pandas",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-05-11T00:00:00.000Z",
+    "match_id": 193154007,
+    "duration (seconds)": 1374,
+    "match_patch": "(193154007,6.77)",
+    "Radiant Team": "3DMAX",
+    "radiant_score": 0,
+    "Dire Team": "Kaipi",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-05-11T00:00:00.000Z",
+    "match_id": 193165206,
+    "duration (seconds)": 1656,
+    "match_patch": "(193165206,6.77)",
+    "Radiant Team": "QPAD Red Pandas",
+    "radiant_score": 0,
+    "Dire Team": "Team Dignitas",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-05-11T00:00:00.000Z",
+    "match_id": 193196840,
+    "duration (seconds)": 3286,
+    "match_patch": "(193196840,6.77)",
+    "Radiant Team": "Ahead.kz",
+    "radiant_score": 0,
+    "Dire Team": "Kaipi",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-05-11T00:00:00.000Z",
+    "match_id": 193232698,
+    "duration (seconds)": 2230,
+    "match_patch": "(193232698,6.77)",
+    "Radiant Team": "Team Empire",
+    "radiant_score": 0,
+    "Dire Team": "Radical Online X-tremists",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-05-11T00:00:00.000Z",
+    "match_id": 193260479,
+    "duration (seconds)": 1889,
+    "match_patch": "(193260479,6.77)",
+    "Radiant Team": "UrsaStroitHramm",
+    "radiant_score": 0,
+    "Dire Team": "Kaipi",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-05-11T00:00:00.000Z",
+    "match_id": 193279448,
+    "duration (seconds)": 1314,
+    "match_patch": "(193279448,6.77)",
+    "Radiant Team": "Radical Online X-tremists",
+    "radiant_score": 0,
+    "Dire Team": "Team Empire",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-05-11T00:00:00.000Z",
+    "match_id": 193462250,
+    "duration (seconds)": 2830,
+    "match_patch": "(193462250,6.77)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Team Dignitas",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-05-11T00:00:00.000Z",
+    "match_id": 193496436,
+    "duration (seconds)": 1527,
+    "match_patch": "(193496436,6.77)",
+    "Radiant Team": "Team Dignitas",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "date": "2015-07-15T00:00:00.000Z",
+    "match_id": 1633608613,
+    "duration (seconds)": 2305,
+    "match_patch": "(1633608613,6.84)",
+    "Radiant Team": "HawkLeaders",
+    "radiant_score": 0,
+    "Dire Team": "Bullets.e-Sports",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-07-15T00:00:00.000Z",
+    "match_id": 1633644452,
+    "duration (seconds)": 2527,
+    "match_patch": "(1633644452,6.84)",
+    "Radiant Team": "IONIC Gaming",
+    "radiant_score": 0,
+    "Dire Team": "Syscom phoenix",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-07-15T00:00:00.000Z",
+    "match_id": 1633716056,
+    "duration (seconds)": 3420,
+    "match_patch": "(1633716056,6.84)",
+    "Radiant Team": "Syscom phoenix",
+    "radiant_score": 0,
+    "Dire Team": "Bullets.e-Sports",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-07-15T00:00:00.000Z",
+    "match_id": 1633727720,
+    "duration (seconds)": 1365,
+    "match_patch": "(1633727720,6.84)",
+    "Radiant Team": "HawkLeaders",
+    "radiant_score": 0,
+    "Dire Team": "IONIC Gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-07-15T00:00:00.000Z",
+    "match_id": 1634236471,
+    "duration (seconds)": 1219,
+    "match_patch": "(1634236471,6.84)",
+    "Radiant Team": "Energy Pacemaker gaming",
+    "radiant_score": 0,
+    "Dire Team": "Mineski.亿鼎博",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-07-15T00:00:00.000Z",
+    "match_id": 1634375488,
+    "duration (seconds)": 1822,
+    "match_patch": "(1634375488,6.84)",
+    "Radiant Team": "Newbee.Young",
+    "radiant_score": 0,
+    "Dire Team": "Terror blade !!",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-07-15T00:00:00.000Z",
+    "match_id": 1634556233,
+    "duration (seconds)": 2258,
+    "match_patch": "(1634556233,6.84)",
+    "Radiant Team": "First Departure",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-07-15T00:00:00.000Z",
+    "match_id": 1634709733,
+    "duration (seconds)": 3437,
+    "match_patch": "(1634709733,6.84)",
+    "Radiant Team": "TongFu.WanZhou",
+    "radiant_score": 0,
+    "Dire Team": "Team SatuDuaTiga",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-07-15T00:00:00.000Z",
+    "match_id": 1634946650,
+    "duration (seconds)": 3179,
+    "match_patch": "(1634946650,6.84)",
+    "Radiant Team": "Team Braveheart",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-07-15T00:00:00.000Z",
+    "match_id": 1635140786,
+    "duration (seconds)": 2852,
+    "match_patch": "(1635140786,6.84)",
+    "Radiant Team": "Dream - Gamin",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

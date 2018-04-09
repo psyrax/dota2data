@@ -1,0 +1,57 @@
+[
+  {
+    "date": "2016-02-29T00:00:00.000Z",
+    "match_id": 2188233879,
+    "duration (seconds)": 2018,
+    "match_patch": "(2188233879,6.86)",
+    "Radiant Team": "Team Alternate Attax",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-02-29T00:00:00.000Z",
+    "match_id": 2188327608,
+    "duration (seconds)": 2642,
+    "match_patch": "(2188327608,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-02-29T00:00:00.000Z",
+    "match_id": 2188507355,
+    "duration (seconds)": 1610,
+    "match_patch": "(2188507355,6.86)",
+    "Radiant Team": "OOGWAY",
+    "radiant_score": 0,
+    "Dire Team": "COOKISS",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-02-29T00:00:00.000Z",
+    "match_id": 2188546729,
+    "duration (seconds)": 807,
+    "match_patch": "(2188546729,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-02-29T00:00:00.000Z",
+    "match_id": 2188554472,
+    "duration (seconds)": 3514,
+    "match_patch": "(2188554472,6.86)",
+    "Radiant Team": "COOKISS",
+    "radiant_score": 0,
+    "Dire Team": "OOGWAY",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

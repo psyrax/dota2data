@@ -1,0 +1,145 @@
+[
+  {
+    "date": "2013-06-22T00:00:00.000Z",
+    "match_id": 225045863,
+    "duration (seconds)": 1188,
+    "match_patch": "(225045863,6.78)",
+    "Radiant Team": "Evil Geniuses",
+    "radiant_score": 0,
+    "Dire Team": "paiN Gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-06-22T00:00:00.000Z",
+    "match_id": 225056764,
+    "duration (seconds)": 2506,
+    "match_patch": "(225056764,6.78)",
+    "Radiant Team": "Revenge-",
+    "radiant_score": 0,
+    "Dire Team": "Typical Mistakes",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-06-22T00:00:00.000Z",
+    "match_id": 225376971,
+    "duration (seconds)": 2245,
+    "match_patch": "(225376971,6.78)",
+    "Radiant Team": "RaTtLeSnAkE. CN GaMiNg",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-06-22T00:00:00.000Z",
+    "match_id": 225378484,
+    "duration (seconds)": 3325,
+    "match_patch": "(225378484,6.78)",
+    "Radiant Team": "LGD-GAMING.int",
+    "radiant_score": 0,
+    "Dire Team": "Orange.Neolution Esports",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-06-22T00:00:00.000Z",
+    "match_id": 225437519,
+    "duration (seconds)": 2069,
+    "match_patch": "(225437519,6.78)",
+    "Radiant Team": "Orange.Neolution Esports",
+    "radiant_score": 0,
+    "Dire Team": "LGD-GAMING.int",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-06-22T00:00:00.000Z",
+    "match_id": 225481076,
+    "duration (seconds)": 2306,
+    "match_patch": "(225481076,6.78)",
+    "Radiant Team": "LGD-GAMING.int",
+    "radiant_score": 0,
+    "Dire Team": "Orange.Neolution Esports",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-06-22T00:00:00.000Z",
+    "match_id": 225600459,
+    "duration (seconds)": 2194,
+    "match_patch": "(225600459,6.78)",
+    "Radiant Team": "Team Dignitas",
+    "radiant_score": 0,
+    "Dire Team": "Evil Geniuses",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-06-22T00:00:00.000Z",
+    "match_id": 225696539,
+    "duration (seconds)": 918,
+    "match_patch": "(225696539,6.78)",
+    "Radiant Team": "Team Dignitas",
+    "radiant_score": 0,
+    "Dire Team": "Natus Vincere",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-06-22T00:00:00.000Z",
+    "match_id": 225724675,
+    "duration (seconds)": 2413,
+    "match_patch": "(225724675,6.78)",
+    "Radiant Team": "Natus Vincere",
+    "radiant_score": 0,
+    "Dire Team": "Team Dignitas",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-06-22T00:00:00.000Z",
+    "match_id": 225751000,
+    "duration (seconds)": 1106,
+    "match_patch": "(225751000,6.78)",
+    "Radiant Team": "Team Liquid",
+    "radiant_score": 0,
+    "Dire Team": "Smeagol",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-06-22T00:00:00.000Z",
+    "match_id": 225776115,
+    "duration (seconds)": 2204,
+    "match_patch": "(225776115,6.78)",
+    "Radiant Team": "Team Dignitas",
+    "radiant_score": 0,
+    "Dire Team": "Natus Vincere",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-06-22T00:00:00.000Z",
+    "match_id": 225778260,
+    "duration (seconds)": 1951,
+    "match_patch": "(225778260,6.78)",
+    "Radiant Team": "Smeagol",
+    "radiant_score": 0,
+    "Dire Team": "Evil Geniuses",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-06-22T00:00:00.000Z",
+    "match_id": 225813887,
+    "duration (seconds)": 2279,
+    "match_patch": "(225813887,6.78)",
+    "Radiant Team": "Typical Mistakes",
+    "radiant_score": 0,
+    "Dire Team": "Team Liquid",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "date": "2015-12-22T00:00:00.000Z",
+    "match_id": 2020216880,
+    "duration (seconds)": 2413,
+    "match_patch": "(2020216880,6.86)",
+    "Radiant Team": "Team Archon",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-12-22T00:00:00.000Z",
+    "match_id": 2020226303,
+    "duration (seconds)": 1183,
+    "match_patch": "(2020226303,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Shazam~",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-12-22T00:00:00.000Z",
+    "match_id": 2020270798,
+    "duration (seconds)": 1943,
+    "match_patch": "(2020270798,6.86)",
+    "Radiant Team": "IQUITOS GAMING",
+    "radiant_score": 0,
+    "Dire Team": "Alianza e-Sports",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-12-22T00:00:00.000Z",
+    "match_id": 2020271071,
+    "duration (seconds)": 1334,
+    "match_patch": "(2020271071,6.86)",
+    "Radiant Team": "TSHOW RISING",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-12-22T00:00:00.000Z",
+    "match_id": 2020285748,
+    "duration (seconds)": 3037,
+    "match_patch": "(2020285748,6.86)",
+    "Radiant Team": "Shazam~",
+    "radiant_score": 0,
+    "Dire Team": "Not Today",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-12-22T00:00:00.000Z",
+    "match_id": 2020318300,
+    "duration (seconds)": 1297,
+    "match_patch": "(2020318300,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "TSHOW RISING",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-12-22T00:00:00.000Z",
+    "match_id": 2020386978,
+    "duration (seconds)": 2014,
+    "match_patch": "(2020386978,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Not Today",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-12-22T00:00:00.000Z",
+    "match_id": 2021191641,
+    "duration (seconds)": 1297,
+    "match_patch": "(2021191641,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "MagnumOpus",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-12-22T00:00:00.000Z",
+    "match_id": 2021305602,
+    "duration (seconds)": 4286,
+    "match_patch": "(2021305602,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Our Friendship Never Dies",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-12-22T00:00:00.000Z",
+    "match_id": 2021316605,
+    "duration (seconds)": 1758,
+    "match_patch": "(2021316605,6.86)",
+    "Radiant Team": "Team. Spirit",
+    "radiant_score": 0,
+    "Dire Team": "STARK.gg",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-12-22T00:00:00.000Z",
+    "match_id": 2021443520,
+    "duration (seconds)": 2524,
+    "match_patch": "(2021443520,6.86)",
+    "Radiant Team": "STARK.gg",
+    "radiant_score": 0,
+    "Dire Team": "Team. Spirit",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-12-22T00:00:00.000Z",
+    "match_id": 2021453267,
+    "duration (seconds)": 1797,
+    "match_patch": "(2021453267,6.86)",
+    "Radiant Team": "Brother never Gank",
+    "radiant_score": 0,
+    "Dire Team": "Do Go",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-12-22T00:00:00.000Z",
+    "match_id": 2021603155,
+    "duration (seconds)": 2220,
+    "match_patch": "(2021603155,6.86)",
+    "Radiant Team": "Team. Spirit",
+    "radiant_score": 0,
+    "Dire Team": "STARK.gg",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-12-22T00:00:00.000Z",
+    "match_id": 2022198741,
+    "duration (seconds)": 2090,
+    "match_patch": "(2022198741,6.86)",
+    "Radiant Team": "Fantastic Five",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-12-22T00:00:00.000Z",
+    "match_id": 2022277135,
+    "duration (seconds)": 2679,
+    "match_patch": "(2022277135,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Fantastic Five",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-12-22T00:00:00.000Z",
+    "match_id": 2022347875,
+    "duration (seconds)": 1052,
+    "match_patch": "(2022347875,6.86)",
+    "Radiant Team": "Fantastic Five",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-12-22T00:00:00.000Z",
+    "match_id": 2022390944,
+    "duration (seconds)": 1760,
+    "match_patch": "(2022390944,6.86)",
+    "Radiant Team": "Shazam~",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-12-22T00:00:00.000Z",
+    "match_id": 2022440389,
+    "duration (seconds)": 3493,
+    "match_patch": "(2022440389,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Shazam~",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

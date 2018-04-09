@@ -1,0 +1,134 @@
+[
+  {
+    "date": "2015-04-16T00:00:00.000Z",
+    "match_id": 1401578379,
+    "duration (seconds)": 3925,
+    "match_patch": "(1401578379,6.83)",
+    "Radiant Team": "Hyper Glory Team",
+    "radiant_score": 0,
+    "Dire Team": "CDEC Gaming",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-04-16T00:00:00.000Z",
+    "match_id": 1401727821,
+    "duration (seconds)": 3104,
+    "match_patch": "(1401727821,6.83)",
+    "Radiant Team": "Invictus Gaming",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-04-16T00:00:00.000Z",
+    "match_id": 1401885904,
+    "duration (seconds)": 1409,
+    "match_patch": "(1401885904,6.83)",
+    "Radiant Team": "Vici Gaming",
+    "radiant_score": 0,
+    "Dire Team": "LGD-GAMING",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-04-16T00:00:00.000Z",
+    "match_id": 1401988119,
+    "duration (seconds)": 2345,
+    "match_patch": "(1401988119,6.83)",
+    "Radiant Team": "LGD-GAMING",
+    "radiant_score": 0,
+    "Dire Team": "Vici Gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-04-16T00:00:00.000Z",
+    "match_id": 1402011847,
+    "duration (seconds)": 2834,
+    "match_patch": "(1402011847,6.83)",
+    "Radiant Team": "MVP HOT6",
+    "radiant_score": 0,
+    "Dire Team": "EXECRATION1",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-04-16T00:00:00.000Z",
+    "match_id": 1402188549,
+    "duration (seconds)": 2543,
+    "match_patch": "(1402188549,6.83)",
+    "Radiant Team": "EXECRATION1",
+    "radiant_score": 0,
+    "Dire Team": "MVP HOT6",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-04-16T00:00:00.000Z",
+    "match_id": 1402482736,
+    "duration (seconds)": 1931,
+    "match_patch": "(1402482736,6.83)",
+    "Radiant Team": "Spin To Win!",
+    "radiant_score": 0,
+    "Dire Team": "Fever Dota",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-04-16T00:00:00.000Z",
+    "match_id": 1402588684,
+    "duration (seconds)": 3357,
+    "match_patch": "(1402588684,6.83)",
+    "Radiant Team": "Vega Squadron",
+    "radiant_score": 0,
+    "Dire Team": "AncientWarriorsGaming",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-04-16T00:00:00.000Z",
+    "match_id": 1402701653,
+    "duration (seconds)": 1071,
+    "match_patch": "(1402701653,6.83)",
+    "Radiant Team": "aSpera ESports",
+    "radiant_score": 0,
+    "Dire Team": "Obscured By Clouds",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-04-16T00:00:00.000Z",
+    "match_id": 1402733457,
+    "duration (seconds)": 2879,
+    "match_patch": "(1402733457,6.83)",
+    "Radiant Team": "AncientWarriorsGaming",
+    "radiant_score": 0,
+    "Dire Team": "Vega Squadron",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-04-16T00:00:00.000Z",
+    "match_id": 1402844654,
+    "duration (seconds)": 2212,
+    "match_patch": "(1402844654,6.83)",
+    "Radiant Team": "Vega Squadron",
+    "radiant_score": 0,
+    "Dire Team": "AncientWarriorsGaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-04-16T00:00:00.000Z",
+    "match_id": 1403073841,
+    "duration (seconds)": 2431,
+    "match_patch": "(1403073841,6.83)",
+    "Radiant Team": "Boreal eSports",
+    "radiant_score": 0,
+    "Dire Team": "Leviathan'",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

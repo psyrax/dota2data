@@ -1,0 +1,79 @@
+[
+  {
+    "date": "2014-12-31T00:00:00.000Z",
+    "match_id": 1128853992,
+    "duration (seconds)": 1477,
+    "match_patch": "(1128853992,6.83)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-12-31T00:00:00.000Z",
+    "match_id": 1128879139,
+    "duration (seconds)": 1528,
+    "match_patch": "(1128879139,6.83)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-12-31T00:00:00.000Z",
+    "match_id": 1128936162,
+    "duration (seconds)": 1431,
+    "match_patch": "(1128936162,6.83)",
+    "Radiant Team": "Eternal Energy",
+    "radiant_score": 0,
+    "Dire Team": "American Sharks",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-12-31T00:00:00.000Z",
+    "match_id": 1129083458,
+    "duration (seconds)": 2354,
+    "match_patch": "(1129083458,6.83)",
+    "Radiant Team": "The Better JUSTICE League",
+    "radiant_score": 0,
+    "Dire Team": "Leviathan'",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-12-31T00:00:00.000Z",
+    "match_id": 1129158618,
+    "duration (seconds)": 2770,
+    "match_patch": "(1129158618,6.83)",
+    "Radiant Team": "Leviathan'",
+    "radiant_score": 0,
+    "Dire Team": "The Better JUSTICE League",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-12-31T00:00:00.000Z",
+    "match_id": 1131113414,
+    "duration (seconds)": 2405,
+    "match_patch": "(1131113414,6.83)",
+    "Radiant Team": "ViRu",
+    "radiant_score": 0,
+    "Dire Team": "Revenge-",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-12-31T00:00:00.000Z",
+    "match_id": 1131194114,
+    "duration (seconds)": 916,
+    "match_patch": "(1131194114,6.83)",
+    "Radiant Team": "Revenge-",
+    "radiant_score": 0,
+    "Dire Team": "ViRu",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

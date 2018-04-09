@@ -1,0 +1,189 @@
+[
+  {
+    "date": "2015-12-16T00:00:00.000Z",
+    "match_id": 2005412122,
+    "duration (seconds)": 2430,
+    "match_patch": "(2005412122,6.85)",
+    "Radiant Team": "IQUITOS GAMING",
+    "radiant_score": 0,
+    "Dire Team": "Farm For Fame.",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-12-16T00:00:00.000Z",
+    "match_id": 2005429827,
+    "duration (seconds)": 2674,
+    "match_patch": "(2005429827,6.85)",
+    "Radiant Team": "Boreal eSports",
+    "radiant_score": 0,
+    "Dire Team": "Shazam~",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-12-16T00:00:00.000Z",
+    "match_id": 2005491940,
+    "duration (seconds)": 1971,
+    "match_patch": "(2005491940,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Alianza e-Sports",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-12-16T00:00:00.000Z",
+    "match_id": 2005503490,
+    "duration (seconds)": 599,
+    "match_patch": "(2005503490,6.85)",
+    "Radiant Team": "Shazam~",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-12-16T00:00:00.000Z",
+    "match_id": 2005569641,
+    "duration (seconds)": 2262,
+    "match_patch": "(2005569641,6.85)",
+    "Radiant Team": "Not Today",
+    "radiant_score": 0,
+    "Dire Team": "Shazam~",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-12-16T00:00:00.000Z",
+    "match_id": 2006321327,
+    "duration (seconds)": 1921,
+    "match_patch": "(2006321327,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-12-16T00:00:00.000Z",
+    "match_id": 2006441855,
+    "duration (seconds)": 1260,
+    "match_patch": "(2006441855,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-12-16T00:00:00.000Z",
+    "match_id": 2006895006,
+    "duration (seconds)": 2109,
+    "match_patch": "(2006895006,6.85)",
+    "Radiant Team": ".KungFu",
+    "radiant_score": 0,
+    "Dire Team": "Team. Spirit",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-12-16T00:00:00.000Z",
+    "match_id": 2007037370,
+    "duration (seconds)": 3102,
+    "match_patch": "(2007037370,6.85)",
+    "Radiant Team": "Team. Spirit",
+    "radiant_score": 0,
+    "Dire Team": ".KungFu",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-12-16T00:00:00.000Z",
+    "match_id": 2007183322,
+    "duration (seconds)": 1195,
+    "match_patch": "(2007183322,6.85)",
+    "Radiant Team": "Team. Spirit",
+    "radiant_score": 0,
+    "Dire Team": ".KungFu",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-12-16T00:00:00.000Z",
+    "match_id": 2007285621,
+    "duration (seconds)": 1610,
+    "match_patch": "(2007285621,6.85)",
+    "Radiant Team": "Fantastic Five",
+    "radiant_score": 0,
+    "Dire Team": "Team. Spirit",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-12-16T00:00:00.000Z",
+    "match_id": 2007288929,
+    "duration (seconds)": 2227,
+    "match_patch": "(2007288929,6.85)",
+    "Radiant Team": "Recovery Position",
+    "radiant_score": 0,
+    "Dire Team": "_PowerRangers",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-12-16T00:00:00.000Z",
+    "match_id": 2007363351,
+    "duration (seconds)": 1935,
+    "match_patch": "(2007363351,6.85)",
+    "Radiant Team": "Team. Spirit",
+    "radiant_score": 0,
+    "Dire Team": "Fantastic Five",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-12-16T00:00:00.000Z",
+    "match_id": 2007403374,
+    "duration (seconds)": 2649,
+    "match_patch": "(2007403374,6.85)",
+    "Radiant Team": "_PowerRangers",
+    "radiant_score": 0,
+    "Dire Team": "Recovery Position",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-12-16T00:00:00.000Z",
+    "match_id": 2007438099,
+    "duration (seconds)": 2483,
+    "match_patch": "(2007438099,6.86)",
+    "Radiant Team": "Fantastic Five",
+    "radiant_score": 0,
+    "Dire Team": "Team. Spirit",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-12-16T00:00:00.000Z",
+    "match_id": 2007521780,
+    "duration (seconds)": 2822,
+    "match_patch": "(2007521780,6.86)",
+    "Radiant Team": "Recovery Position",
+    "radiant_score": 0,
+    "Dire Team": "_PowerRangers",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-12-16T00:00:00.000Z",
+    "match_id": 2007673847,
+    "duration (seconds)": 1533,
+    "match_patch": "(2007673847,6.86)",
+    "Radiant Team": "Not Today",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

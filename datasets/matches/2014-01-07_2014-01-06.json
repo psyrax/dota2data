@@ -1,0 +1,57 @@
+[
+  {
+    "date": "2014-01-06T00:00:00.000Z",
+    "match_id": 457348107,
+    "duration (seconds)": 2120,
+    "match_patch": "(457348107,6.79)",
+    "Radiant Team": "Invictus Gaming",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-01-06T00:00:00.000Z",
+    "match_id": 457448371,
+    "duration (seconds)": 2530,
+    "match_patch": "(457448371,6.79)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Invictus Gaming",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-01-06T00:00:00.000Z",
+    "match_id": 457458425,
+    "duration (seconds)": 2182,
+    "match_patch": "(457458425,6.79)",
+    "Radiant Team": "Invasion eSports",
+    "radiant_score": 0,
+    "Dire Team": "EXECRATION1",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-01-06T00:00:00.000Z",
+    "match_id": 457479177,
+    "duration (seconds)": 2548,
+    "match_patch": "(457479177,6.79)",
+    "Radiant Team": "insidiousidol",
+    "radiant_score": 0,
+    "Dire Team": "First Departure",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-01-06T00:00:00.000Z",
+    "match_id": 457604386,
+    "duration (seconds)": 2811,
+    "match_patch": "(457604386,6.79)",
+    "Radiant Team": "First Departure",
+    "radiant_score": 0,
+    "Dire Team": "insidiousidol",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

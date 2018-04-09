@@ -1,0 +1,79 @@
+[
+  {
+    "date": "2015-08-26T00:00:00.000Z",
+    "match_id": 1744746109,
+    "duration (seconds)": 3680,
+    "match_patch": "(1744746109,6.84)",
+    "Radiant Team": "Cool Kids",
+    "radiant_score": 0,
+    "Dire Team": "Sandblut.Polar",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-08-26T00:00:00.000Z",
+    "match_id": 1746160090,
+    "duration (seconds)": 861,
+    "match_patch": "(1746160090,6.84)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Team Alternate Attax",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-08-26T00:00:00.000Z",
+    "match_id": 1746211723,
+    "duration (seconds)": 1845,
+    "match_patch": "(1746211723,6.84)",
+    "Radiant Team": "Team Alternate Attax",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-08-26T00:00:00.000Z",
+    "match_id": 1746321925,
+    "duration (seconds)": 1856,
+    "match_patch": "(1746321925,6.84)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Team Alternate Attax",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-08-26T00:00:00.000Z",
+    "match_id": 1746700050,
+    "duration (seconds)": 1981,
+    "match_patch": "(1746700050,6.84)",
+    "Radiant Team": "Hehe United",
+    "radiant_score": 0,
+    "Dire Team": "SCARYFACEZZZZZZZ",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-08-26T00:00:00.000Z",
+    "match_id": 1746781837,
+    "duration (seconds)": 2738,
+    "match_patch": "(1746781837,6.84)",
+    "Radiant Team": "SCARYFACEZZZZZZZ",
+    "radiant_score": 0,
+    "Dire Team": "Hehe United",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-08-26T00:00:00.000Z",
+    "match_id": 1746866476,
+    "duration (seconds)": 1739,
+    "match_patch": "(1746866476,6.84)",
+    "Radiant Team": "Hehe United",
+    "radiant_score": 0,
+    "Dire Team": "SCARYFACEZZZZZZZ",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

@@ -1,0 +1,178 @@
+[
+  {
+    "date": "2013-09-12T00:00:00.000Z",
+    "match_id": 306838531,
+    "duration (seconds)": 1690,
+    "match_patch": "(306838531,6.78)",
+    "Radiant Team": "Pretty Boy Swag.",
+    "radiant_score": 0,
+    "Dire Team": "Team Dignitas",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-09-12T00:00:00.000Z",
+    "match_id": 306858521,
+    "duration (seconds)": 2744,
+    "match_patch": "(306858521,6.78)",
+    "Radiant Team": "Avanti's Angles",
+    "radiant_score": 0,
+    "Dire Team": "No Love Gaming",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-09-12T00:00:00.000Z",
+    "match_id": 306888417,
+    "duration (seconds)": 3511,
+    "match_patch": "(306888417,6.78)",
+    "Radiant Team": "No Love Gaming",
+    "radiant_score": 0,
+    "Dire Team": "Avanti's Angles",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-09-12T00:00:00.000Z",
+    "match_id": 307146794,
+    "duration (seconds)": 3011,
+    "match_patch": "(307146794,6.78)",
+    "Radiant Team": "OguraYui",
+    "radiant_score": 0,
+    "Dire Team": "RaTtLeSnAkE. CN GaMiNg",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-09-12T00:00:00.000Z",
+    "match_id": 307208270,
+    "duration (seconds)": 1075,
+    "match_patch": "(307208270,6.78)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "New Element",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-09-12T00:00:00.000Z",
+    "match_id": 307284771,
+    "duration (seconds)": 1727,
+    "match_patch": "(307284771,6.78)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-09-12T00:00:00.000Z",
+    "match_id": 307384691,
+    "duration (seconds)": 1359,
+    "match_patch": "(307384691,6.78)",
+    "Radiant Team": "Vici Gaming",
+    "radiant_score": 0,
+    "Dire Team": "OguraYui",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-09-12T00:00:00.000Z",
+    "match_id": 307453255,
+    "duration (seconds)": 1583,
+    "match_patch": "(307453255,6.78)",
+    "Radiant Team": "Vici Gaming",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-09-12T00:00:00.000Z",
+    "match_id": 307464227,
+    "duration (seconds)": 2233,
+    "match_patch": "(307464227,6.78)",
+    "Radiant Team": "PO5EiDON",
+    "radiant_score": 0,
+    "Dire Team": "WOND5.",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-09-12T00:00:00.000Z",
+    "match_id": 307532679,
+    "duration (seconds)": 1715,
+    "match_patch": "(307532679,6.78)",
+    "Radiant Team": "Ahead.kz",
+    "radiant_score": 0,
+    "Dire Team": "Team Aspera.",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-09-12T00:00:00.000Z",
+    "match_id": 307544812,
+    "duration (seconds)": 2059,
+    "match_patch": "(307544812,6.78)",
+    "Radiant Team": "Raf Lobster",
+    "radiant_score": 0,
+    "Dire Team": "Virtus.pro",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-09-12T00:00:00.000Z",
+    "match_id": 307596273,
+    "duration (seconds)": 3301,
+    "match_patch": "(307596273,6.78)",
+    "Radiant Team": "Virtus.pro",
+    "radiant_score": 0,
+    "Dire Team": "Raf Lobster",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-09-12T00:00:00.000Z",
+    "match_id": 307604411,
+    "duration (seconds)": 1366,
+    "match_patch": "(307604411,6.78)",
+    "Radiant Team": "Fnatic",
+    "radiant_score": 0,
+    "Dire Team": "Alliance",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-09-12T00:00:00.000Z",
+    "match_id": 307668376,
+    "duration (seconds)": 2133,
+    "match_patch": "(307668376,6.78)",
+    "Radiant Team": "Quantic|Gaming",
+    "radiant_score": 0,
+    "Dire Team": "Virtus.pro",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-09-12T00:00:00.000Z",
+    "match_id": 307718859,
+    "duration (seconds)": 1276,
+    "match_patch": "(307718859,6.78)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Ahead.kz",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-09-12T00:00:00.000Z",
+    "match_id": 307748326,
+    "duration (seconds)": 2729,
+    "match_patch": "(307748326,6.78)",
+    "Radiant Team": "Ahead.kz",
+    "radiant_score": 0,
+    "Dire Team": "Quantic|Gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

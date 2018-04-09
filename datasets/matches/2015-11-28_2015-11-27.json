@@ -1,0 +1,178 @@
+[
+  {
+    "date": "2015-11-27T00:00:00.000Z",
+    "match_id": 1962169869,
+    "duration (seconds)": 1813,
+    "match_patch": "(1962169869,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "eXtreme GamerZ CR",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-11-27T00:00:00.000Z",
+    "match_id": 1962240714,
+    "duration (seconds)": 3708,
+    "match_patch": "(1962240714,6.85)",
+    "Radiant Team": "eXtreme GamerZ CR",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-11-27T00:00:00.000Z",
+    "match_id": 1962568198,
+    "duration (seconds)": 1405,
+    "match_patch": "(1962568198,6.85)",
+    "Radiant Team": "Team Braveheart",
+    "radiant_score": 0,
+    "Dire Team": "",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-11-27T00:00:00.000Z",
+    "match_id": 1962631603,
+    "duration (seconds)": 2302,
+    "match_patch": "(1962631603,6.85)",
+    "Radiant Team": "",
+    "radiant_score": 0,
+    "Dire Team": "Team Braveheart",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-11-27T00:00:00.000Z",
+    "match_id": 1962870873,
+    "duration (seconds)": 1392,
+    "match_patch": "(1962870873,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-11-27T00:00:00.000Z",
+    "match_id": 1962871056,
+    "duration (seconds)": 2308,
+    "match_patch": "(1962871056,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Team Braveheart",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-11-27T00:00:00.000Z",
+    "match_id": 1962947847,
+    "duration (seconds)": 3421,
+    "match_patch": "(1962947847,6.85)",
+    "Radiant Team": "",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-11-27T00:00:00.000Z",
+    "match_id": 1962994793,
+    "duration (seconds)": 1272,
+    "match_patch": "(1962994793,6.85)",
+    "Radiant Team": "Team Braveheart",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-11-27T00:00:00.000Z",
+    "match_id": 1963000466,
+    "duration (seconds)": 1365,
+    "match_patch": "(1963000466,6.85)",
+    "Radiant Team": "Zero Latitude",
+    "radiant_score": 0,
+    "Dire Team": "SAMBALADO",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-11-27T00:00:00.000Z",
+    "match_id": 1963005051,
+    "duration (seconds)": 1806,
+    "match_patch": "(1963005051,6.85)",
+    "Radiant Team": "RevivaL.eSports",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-11-27T00:00:00.000Z",
+    "match_id": 1963130798,
+    "duration (seconds)": 1965,
+    "match_patch": "(1963130798,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-11-27T00:00:00.000Z",
+    "match_id": 1963147407,
+    "duration (seconds)": 2446,
+    "match_patch": "(1963147407,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "NoLimitss",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-11-27T00:00:00.000Z",
+    "match_id": 1963278463,
+    "duration (seconds)": 1793,
+    "match_patch": "(1963278463,6.85)",
+    "Radiant Team": "VaginaInitiatorPlayer",
+    "radiant_score": 0,
+    "Dire Team": "Death Rebellion",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-11-27T00:00:00.000Z",
+    "match_id": 1963297545,
+    "duration (seconds)": 1496,
+    "match_patch": "(1963297545,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "White Corpse",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-11-27T00:00:00.000Z",
+    "match_id": 1964009808,
+    "duration (seconds)": 910,
+    "match_patch": "(1964009808,6.85)",
+    "Radiant Team": "London Conspiracy Dota2",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-11-27T00:00:00.000Z",
+    "match_id": 1964061086,
+    "duration (seconds)": 1181,
+    "match_patch": "(1964061086,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "London Conspiracy Dota2",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

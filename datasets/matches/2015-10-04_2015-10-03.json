@@ -1,0 +1,211 @@
+[
+  {
+    "date": "2015-10-03T00:00:00.000Z",
+    "match_id": 1838347254,
+    "duration (seconds)": 2528,
+    "match_patch": "(1838347254,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-10-03T00:00:00.000Z",
+    "match_id": 1838372652,
+    "duration (seconds)": 2111,
+    "match_patch": "(1838372652,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-10-03T00:00:00.000Z",
+    "match_id": 1838395931,
+    "duration (seconds)": 2766,
+    "match_patch": "(1838395931,6.85)",
+    "Radiant Team": "Leviathan'",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-10-03T00:00:00.000Z",
+    "match_id": 1838410293,
+    "duration (seconds)": 1403,
+    "match_patch": "(1838410293,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-10-03T00:00:00.000Z",
+    "match_id": 1838484801,
+    "duration (seconds)": 1578,
+    "match_patch": "(1838484801,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-10-03T00:00:00.000Z",
+    "match_id": 1838485940,
+    "duration (seconds)": 1564,
+    "match_patch": "(1838485940,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Leviathan'",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-10-03T00:00:00.000Z",
+    "match_id": 1838548582,
+    "duration (seconds)": 1828,
+    "match_patch": "(1838548582,6.85)",
+    "Radiant Team": "Started From the PotM.",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-10-03T00:00:00.000Z",
+    "match_id": 1838607413,
+    "duration (seconds)": 1774,
+    "match_patch": "(1838607413,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Started From the PotM.",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-10-03T00:00:00.000Z",
+    "match_id": 1838742625,
+    "duration (seconds)": 2910,
+    "match_patch": "(1838742625,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Started From the PotM.",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-10-03T00:00:00.000Z",
+    "match_id": 1838849637,
+    "duration (seconds)": 1241,
+    "match_patch": "(1838849637,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-10-03T00:00:00.000Z",
+    "match_id": 1838920269,
+    "duration (seconds)": 1331,
+    "match_patch": "(1838920269,6.85)",
+    "Radiant Team": "Kingdom DotA~",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-10-03T00:00:00.000Z",
+    "match_id": 1839966703,
+    "duration (seconds)": 1135,
+    "match_patch": "(1839966703,6.85)",
+    "Radiant Team": "Echipa Racketa",
+    "radiant_score": 0,
+    "Dire Team": "BlowYourMind 2.0",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-10-03T00:00:00.000Z",
+    "match_id": 1840080051,
+    "duration (seconds)": 1046,
+    "match_patch": "(1840080051,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "BlowYourMind 2.0",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-10-03T00:00:00.000Z",
+    "match_id": 1840288037,
+    "duration (seconds)": 985,
+    "match_patch": "(1840288037,6.85)",
+    "Radiant Team": "Ancient Retry Team",
+    "radiant_score": 0,
+    "Dire Team": "Echipa Racketa",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-10-03T00:00:00.000Z",
+    "match_id": 1840406136,
+    "duration (seconds)": 2728,
+    "match_patch": "(1840406136,6.85)",
+    "Radiant Team": "Echipa Racketa",
+    "radiant_score": 0,
+    "Dire Team": "Ancient Retry Team",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-10-03T00:00:00.000Z",
+    "match_id": 1840512721,
+    "duration (seconds)": 1618,
+    "match_patch": "(1840512721,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-10-03T00:00:00.000Z",
+    "match_id": 1840516280,
+    "duration (seconds)": 1662,
+    "match_patch": "(1840516280,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "~Dotality~",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-10-03T00:00:00.000Z",
+    "match_id": 1840518368,
+    "duration (seconds)": 1859,
+    "match_patch": "(1840518368,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-10-03T00:00:00.000Z",
+    "match_id": 1840786174,
+    "duration (seconds)": 2629,
+    "match_patch": "(1840786174,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

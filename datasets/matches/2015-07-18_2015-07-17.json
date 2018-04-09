@@ -1,0 +1,145 @@
+[
+  {
+    "date": "2015-07-17T00:00:00.000Z",
+    "match_id": 1638542644,
+    "duration (seconds)": 1058,
+    "match_patch": "(1638542644,6.84)",
+    "Radiant Team": "Megalodon Gaming.",
+    "radiant_score": 0,
+    "Dire Team": "Ab.Madness",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-07-17T00:00:00.000Z",
+    "match_id": 1638587551,
+    "duration (seconds)": 1632,
+    "match_patch": "(1638587551,6.84)",
+    "Radiant Team": "Ab.Madness",
+    "radiant_score": 0,
+    "Dire Team": "Megalodon Gaming.",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-07-17T00:00:00.000Z",
+    "match_id": 1639175655,
+    "duration (seconds)": 1924,
+    "match_patch": "(1639175655,6.84)",
+    "Radiant Team": "Team Braveheart",
+    "radiant_score": 0,
+    "Dire Team": "TongFu.WanZhou",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-07-17T00:00:00.000Z",
+    "match_id": 1639298580,
+    "duration (seconds)": 2800,
+    "match_patch": "(1639298580,6.84)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Newbee.Young",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-07-17T00:00:00.000Z",
+    "match_id": 1639496660,
+    "duration (seconds)": 1966,
+    "match_patch": "(1639496660,6.84)",
+    "Radiant Team": "Mineski.亿鼎博",
+    "radiant_score": 0,
+    "Dire Team": "First Departure",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-07-17T00:00:00.000Z",
+    "match_id": 1639666091,
+    "duration (seconds)": 1872,
+    "match_patch": "(1639666091,6.84)",
+    "Radiant Team": "Energy Pacemaker gaming",
+    "radiant_score": 0,
+    "Dire Team": "Terror blade !!",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-07-17T00:00:00.000Z",
+    "match_id": 1639847538,
+    "duration (seconds)": 2177,
+    "match_patch": "(1639847538,6.84)",
+    "Radiant Team": "Team SatuDuaTiga",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-07-17T00:00:00.000Z",
+    "match_id": 1640016536,
+    "duration (seconds)": 1516,
+    "match_patch": "(1640016536,6.84)",
+    "Radiant Team": "Dream - Gamin",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-07-17T00:00:00.000Z",
+    "match_id": 1640241989,
+    "duration (seconds)": 1273,
+    "match_patch": "(1640241989,6.84)",
+    "Radiant Team": "Kobold Camp",
+    "radiant_score": 0,
+    "Dire Team": "LowSkilledTrash",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-07-17T00:00:00.000Z",
+    "match_id": 1640370733,
+    "duration (seconds)": 3200,
+    "match_patch": "(1640370733,6.84)",
+    "Radiant Team": "Kobold Camp",
+    "radiant_score": 0,
+    "Dire Team": "Beyond Reality Reborn",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-07-17T00:00:00.000Z",
+    "match_id": 1640398655,
+    "duration (seconds)": 996,
+    "match_patch": "(1640398655,6.84)",
+    "Radiant Team": "Fantastic four & Bosnian bear",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-07-17T00:00:00.000Z",
+    "match_id": 1640463459,
+    "duration (seconds)": 1184,
+    "match_patch": "(1640463459,6.84)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Fantastic four & Bosnian bear",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-07-17T00:00:00.000Z",
+    "match_id": 1640477136,
+    "duration (seconds)": 1694,
+    "match_patch": "(1640477136,6.84)",
+    "Radiant Team": "Stize Belja Bager",
+    "radiant_score": 0,
+    "Dire Team": "^Chosen Few^",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

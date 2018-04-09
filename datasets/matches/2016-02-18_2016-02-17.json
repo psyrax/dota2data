@@ -1,0 +1,145 @@
+[
+  {
+    "date": "2016-02-17T00:00:00.000Z",
+    "match_id": 2157288945,
+    "duration (seconds)": 3358,
+    "match_patch": "(2157288945,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-02-17T00:00:00.000Z",
+    "match_id": 2157351319,
+    "duration (seconds)": 2104,
+    "match_patch": "(2157351319,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-02-17T00:00:00.000Z",
+    "match_id": 2157355887,
+    "duration (seconds)": 1667,
+    "match_patch": "(2157355887,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-02-17T00:00:00.000Z",
+    "match_id": 2157401107,
+    "duration (seconds)": 985,
+    "match_patch": "(2157401107,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-02-17T00:00:00.000Z",
+    "match_id": 2157409775,
+    "duration (seconds)": 2488,
+    "match_patch": "(2157409775,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-02-17T00:00:00.000Z",
+    "match_id": 2157486271,
+    "duration (seconds)": 2462,
+    "match_patch": "(2157486271,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-02-17T00:00:00.000Z",
+    "match_id": 2157936797,
+    "duration (seconds)": 1205,
+    "match_patch": "(2157936797,6.86)",
+    "Radiant Team": "MVP Phoenix",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-02-17T00:00:00.000Z",
+    "match_id": 2158004583,
+    "duration (seconds)": 1634,
+    "match_patch": "(2158004583,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "MVP Phoenix",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-02-17T00:00:00.000Z",
+    "match_id": 2158087731,
+    "duration (seconds)": 1997,
+    "match_patch": "(2158087731,6.86)",
+    "Radiant Team": "MVP Phoenix",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-02-17T00:00:00.000Z",
+    "match_id": 2158695124,
+    "duration (seconds)": 1513,
+    "match_patch": "(2158695124,6.86)",
+    "Radiant Team": "HWA Gaming",
+    "radiant_score": 0,
+    "Dire Team": "STARK.gg",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-02-17T00:00:00.000Z",
+    "match_id": 2158967235,
+    "duration (seconds)": 1950,
+    "match_patch": "(2158967235,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-02-17T00:00:00.000Z",
+    "match_id": 2159068667,
+    "duration (seconds)": 1159,
+    "match_patch": "(2159068667,6.86)",
+    "Radiant Team": "Yellow Submarine!",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-02-17T00:00:00.000Z",
+    "match_id": 2159466482,
+    "duration (seconds)": 2245,
+    "match_patch": "(2159466482,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Team Freedom Dota 2",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "date": "2015-02-19T00:00:00.000Z",
+    "match_id": 1252065733,
+    "duration (seconds)": 3279,
+    "match_patch": "(1252065733,6.83)",
+    "Radiant Team": "Ape Zone",
+    "radiant_score": 0,
+    "Dire Team": "Leviathan'",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-02-19T00:00:00.000Z",
+    "match_id": 1252127748,
+    "duration (seconds)": 2036,
+    "match_patch": "(1252127748,6.83)",
+    "Radiant Team": "Isurus Gaming HyperX",
+    "radiant_score": 0,
+    "Dire Team": "Sad Voids",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-02-19T00:00:00.000Z",
+    "match_id": 1252168453,
+    "duration (seconds)": 3317,
+    "match_patch": "(1252168453,6.83)",
+    "Radiant Team": "The Thundercats",
+    "radiant_score": 0,
+    "Dire Team": "Leviathan'",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-02-19T00:00:00.000Z",
+    "match_id": 1252193173,
+    "duration (seconds)": 3573,
+    "match_patch": "(1252193173,6.83)",
+    "Radiant Team": "Sad Voids",
+    "radiant_score": 0,
+    "Dire Team": "Isurus Gaming HyperX",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-02-19T00:00:00.000Z",
+    "match_id": 1253290344,
+    "duration (seconds)": 2459,
+    "match_patch": "(1253290344,6.83)",
+    "Radiant Team": "Red Viperz Gaming",
+    "radiant_score": 0,
+    "Dire Team": "EXECRATION1",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-02-19T00:00:00.000Z",
+    "match_id": 1253462426,
+    "duration (seconds)": 821,
+    "match_patch": "(1253462426,6.83)",
+    "Radiant Team": "EXECRATION1",
+    "radiant_score": 0,
+    "Dire Team": "Red Viperz Gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-02-19T00:00:00.000Z",
+    "match_id": 1254557494,
+    "duration (seconds)": 2314,
+    "match_patch": "(1254557494,6.83)",
+    "Radiant Team": "Fiskestanga",
+    "radiant_score": 0,
+    "Dire Team": "Team-CYCLONES",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-02-19T00:00:00.000Z",
+    "match_id": 1254694188,
+    "duration (seconds)": 1946,
+    "match_patch": "(1254694188,6.83)",
+    "Radiant Team": "Team-CYCLONES",
+    "radiant_score": 0,
+    "Dire Team": "Fiskestanga",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-02-19T00:00:00.000Z",
+    "match_id": 1254942115,
+    "duration (seconds)": 1130,
+    "match_patch": "(1254942115,6.83)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "WoW what a team",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-02-19T00:00:00.000Z",
+    "match_id": 1254959632,
+    "duration (seconds)": 2637,
+    "match_patch": "(1254959632,6.83)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Elysium!",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-02-19T00:00:00.000Z",
+    "match_id": 1254994226,
+    "duration (seconds)": 1599,
+    "match_patch": "(1254994226,6.83)",
+    "Radiant Team": "WoW what a team",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-02-19T00:00:00.000Z",
+    "match_id": 1255045278,
+    "duration (seconds)": 2320,
+    "match_patch": "(1255045278,6.83)",
+    "Radiant Team": "Elysium!",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

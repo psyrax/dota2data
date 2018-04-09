@@ -1,0 +1,145 @@
+[
+  {
+    "date": "2013-11-27T00:00:00.000Z",
+    "match_id": 401204393,
+    "duration (seconds)": 1702,
+    "match_patch": "(401204393,6.79)",
+    "Radiant Team": "Hyper Glory Team",
+    "radiant_score": 0,
+    "Dire Team": "New Element",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-11-27T00:00:00.000Z",
+    "match_id": 401236727,
+    "duration (seconds)": 2598,
+    "match_patch": "(401236727,6.79)",
+    "Radiant Team": "New Element",
+    "radiant_score": 0,
+    "Dire Team": "Hyper Glory Team",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-11-27T00:00:00.000Z",
+    "match_id": 401264363,
+    "duration (seconds)": 1198,
+    "match_patch": "(401264363,6.79)",
+    "Radiant Team": "Virgin Slayers",
+    "radiant_score": 0,
+    "Dire Team": "North Shore Gaming",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-11-27T00:00:00.000Z",
+    "match_id": 401283950,
+    "duration (seconds)": 3874,
+    "match_patch": "(401283950,6.79)",
+    "Radiant Team": "Can't Say Wips",
+    "radiant_score": 0,
+    "Dire Team": "NoxiousGaming",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-11-27T00:00:00.000Z",
+    "match_id": 401298363,
+    "duration (seconds)": 2514,
+    "match_patch": "(401298363,6.79)",
+    "Radiant Team": "North Shore Gaming",
+    "radiant_score": 0,
+    "Dire Team": "Virgin Slayers",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-11-27T00:00:00.000Z",
+    "match_id": 401313955,
+    "duration (seconds)": 1956,
+    "match_patch": "(401313955,6.79)",
+    "Radiant Team": "For Love.",
+    "radiant_score": 0,
+    "Dire Team": "Titan",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-11-27T00:00:00.000Z",
+    "match_id": 401378883,
+    "duration (seconds)": 1702,
+    "match_patch": "(401378883,6.79)",
+    "Radiant Team": "NoxiousGaming",
+    "radiant_score": 0,
+    "Dire Team": "Can't Say Wips",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-11-27T00:00:00.000Z",
+    "match_id": 401388092,
+    "duration (seconds)": 2008,
+    "match_patch": "(401388092,6.79)",
+    "Radiant Team": "Titan",
+    "radiant_score": 0,
+    "Dire Team": "For Love.",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-11-27T00:00:00.000Z",
+    "match_id": 401438101,
+    "duration (seconds)": 2059,
+    "match_patch": "(401438101,6.79)",
+    "Radiant Team": "Can't Say Wips",
+    "radiant_score": 0,
+    "Dire Team": "NoxiousGaming",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-11-27T00:00:00.000Z",
+    "match_id": 401733060,
+    "duration (seconds)": 1368,
+    "match_patch": "(401733060,6.79)",
+    "Radiant Team": "Fnatic",
+    "radiant_score": 0,
+    "Dire Team": "Evil Geniuses",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-11-27T00:00:00.000Z",
+    "match_id": 401793764,
+    "duration (seconds)": 1473,
+    "match_patch": "(401793764,6.79)",
+    "Radiant Team": "Evil Geniuses",
+    "radiant_score": 0,
+    "Dire Team": "Fnatic",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-11-27T00:00:00.000Z",
+    "match_id": 401937167,
+    "duration (seconds)": 1308,
+    "match_patch": "(401937167,6.79)",
+    "Radiant Team": "SuperStrongDinosaurs",
+    "radiant_score": 0,
+    "Dire Team": "Revenge-",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-11-27T00:00:00.000Z",
+    "match_id": 401961004,
+    "duration (seconds)": 2062,
+    "match_patch": "(401961004,6.79)",
+    "Radiant Team": "Revenge-",
+    "radiant_score": 0,
+    "Dire Team": "SuperStrongDinosaurs",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

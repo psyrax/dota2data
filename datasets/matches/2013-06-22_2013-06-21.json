@@ -1,0 +1,134 @@
+[
+  {
+    "date": "2013-06-21T00:00:00.000Z",
+    "match_id": 224312315,
+    "duration (seconds)": 1514,
+    "match_patch": "(224312315,6.78)",
+    "Radiant Team": "paiN-Gaming.int",
+    "radiant_score": 0,
+    "Dire Team": "+ Insight eSports",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-06-21T00:00:00.000Z",
+    "match_id": 224326694,
+    "duration (seconds)": 1087,
+    "match_patch": "(224326694,6.78)",
+    "Radiant Team": "Revenge-",
+    "radiant_score": 0,
+    "Dire Team": "+ Insight eSports",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-06-21T00:00:00.000Z",
+    "match_id": 224593077,
+    "duration (seconds)": 2918,
+    "match_patch": "(224593077,6.78)",
+    "Radiant Team": "LGD-GAMING",
+    "radiant_score": 0,
+    "Dire Team": "Orange.Neolution Esports",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-06-21T00:00:00.000Z",
+    "match_id": 224644563,
+    "duration (seconds)": 2497,
+    "match_patch": "(224644563,6.78)",
+    "Radiant Team": "Orange.Neolution Esports",
+    "radiant_score": 0,
+    "Dire Team": "LGD-GAMING",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-06-21T00:00:00.000Z",
+    "match_id": 224712792,
+    "duration (seconds)": 1801,
+    "match_patch": "(224712792,6.78)",
+    "Radiant Team": "Look Duckling Dead",
+    "radiant_score": 0,
+    "Dire Team": "TEMPO",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-06-21T00:00:00.000Z",
+    "match_id": 224779183,
+    "duration (seconds)": 1879,
+    "match_patch": "(224779183,6.78)",
+    "Radiant Team": "TEMPO",
+    "radiant_score": 0,
+    "Dire Team": "Look Duckling Dead",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-06-21T00:00:00.000Z",
+    "match_id": 224827119,
+    "duration (seconds)": 2297,
+    "match_patch": "(224827119,6.78)",
+    "Radiant Team": "Imaginary Gaming",
+    "radiant_score": 0,
+    "Dire Team": "ScaryFacezzz!!",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-06-21T00:00:00.000Z",
+    "match_id": 224868907,
+    "duration (seconds)": 2020,
+    "match_patch": "(224868907,6.78)",
+    "Radiant Team": "ScaryFacezzz!!",
+    "radiant_score": 0,
+    "Dire Team": "Imaginary Gaming",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-06-21T00:00:00.000Z",
+    "match_id": 224891319,
+    "duration (seconds)": 1178,
+    "match_patch": "(224891319,6.78)",
+    "Radiant Team": "Natus Vincere",
+    "radiant_score": 0,
+    "Dire Team": "Fnatic",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-06-21T00:00:00.000Z",
+    "match_id": 224920511,
+    "duration (seconds)": 4053,
+    "match_patch": "(224920511,6.78)",
+    "Radiant Team": "Fnatic",
+    "radiant_score": 0,
+    "Dire Team": "Natus Vincere",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-06-21T00:00:00.000Z",
+    "match_id": 224990236,
+    "duration (seconds)": 1386,
+    "match_patch": "(224990236,6.78)",
+    "Radiant Team": "paiN-Gaming.int",
+    "radiant_score": 0,
+    "Dire Team": "Evil Geniuses",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-06-21T00:00:00.000Z",
+    "match_id": 225020767,
+    "duration (seconds)": 2384,
+    "match_patch": "(225020767,6.78)",
+    "Radiant Team": "Team Liquid",
+    "radiant_score": 0,
+    "Dire Team": "Revenge-",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

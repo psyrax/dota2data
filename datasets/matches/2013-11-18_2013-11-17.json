@@ -1,0 +1,145 @@
+[
+  {
+    "date": "2013-11-17T00:00:00.000Z",
+    "match_id": 387869248,
+    "duration (seconds)": 2283,
+    "match_patch": "(387869248,6.78)",
+    "Radiant Team": "Alliance",
+    "radiant_score": 0,
+    "Dire Team": "DK",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-11-17T00:00:00.000Z",
+    "match_id": 387947593,
+    "duration (seconds)": 3134,
+    "match_patch": "(387947593,6.78)",
+    "Radiant Team": "Alliance",
+    "radiant_score": 0,
+    "Dire Team": "DK",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-11-17T00:00:00.000Z",
+    "match_id": 388082172,
+    "duration (seconds)": 1301,
+    "match_patch": "(388082172,6.78)",
+    "Radiant Team": "LGD-GAMING.int",
+    "radiant_score": 0,
+    "Dire Team": "TongFu.WanZhou",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-11-17T00:00:00.000Z",
+    "match_id": 388143954,
+    "duration (seconds)": 2094,
+    "match_patch": "(388143954,6.78)",
+    "Radiant Team": "TongFu.WanZhou",
+    "radiant_score": 0,
+    "Dire Team": "LGD-GAMING.int",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-11-17T00:00:00.000Z",
+    "match_id": 388356409,
+    "duration (seconds)": 1334,
+    "match_patch": "(388356409,6.78)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "RaTtLeSnAkE. CN GaMiNg",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-11-17T00:00:00.000Z",
+    "match_id": 388454168,
+    "duration (seconds)": 2689,
+    "match_patch": "(388454168,6.78)",
+    "Radiant Team": "RaTtLeSnAkE. CN GaMiNg",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-11-17T00:00:00.000Z",
+    "match_id": 388594813,
+    "duration (seconds)": 2361,
+    "match_patch": "(388594813,6.78)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "First Departure",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-11-17T00:00:00.000Z",
+    "match_id": 388724172,
+    "duration (seconds)": 2698,
+    "match_patch": "(388724172,6.78)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Titan",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-11-17T00:00:00.000Z",
+    "match_id": 388931574,
+    "duration (seconds)": 3501,
+    "match_patch": "(388931574,6.78)",
+    "Radiant Team": "Evil Geniuses",
+    "radiant_score": 0,
+    "Dire Team": "Fnatic",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-11-17T00:00:00.000Z",
+    "match_id": 389047536,
+    "duration (seconds)": 2111,
+    "match_patch": "(389047536,6.78)",
+    "Radiant Team": "Fnatic",
+    "radiant_score": 0,
+    "Dire Team": "Evil Geniuses",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-11-17T00:00:00.000Z",
+    "match_id": 389119517,
+    "duration (seconds)": 2078,
+    "match_patch": "(389119517,6.78)",
+    "Radiant Team": "Evil Geniuses",
+    "radiant_score": 0,
+    "Dire Team": "Fnatic",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-11-17T00:00:00.000Z",
+    "match_id": 389201258,
+    "duration (seconds)": 1311,
+    "match_patch": "(389201258,6.78)",
+    "Radiant Team": "Evil Geniuses",
+    "radiant_score": 0,
+    "Dire Team": "Speed Gaming International",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-11-17T00:00:00.000Z",
+    "match_id": 389247351,
+    "duration (seconds)": 1971,
+    "match_patch": "(389247351,6.78)",
+    "Radiant Team": "Speed Gaming International",
+    "radiant_score": 0,
+    "Dire Team": "Evil Geniuses",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

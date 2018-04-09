@@ -1,0 +1,101 @@
+[
+  {
+    "date": "2015-07-09T00:00:00.000Z",
+    "match_id": 1617811934,
+    "duration (seconds)": 1342,
+    "match_patch": "(1617811934,6.84)",
+    "Radiant Team": "Demon'Souls - PE",
+    "radiant_score": 0,
+    "Dire Team": "Jayce N.G",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-07-09T00:00:00.000Z",
+    "match_id": 1617842530,
+    "duration (seconds)": 1209,
+    "match_patch": "(1617842530,6.84)",
+    "Radiant Team": "H2K GAMING G2X",
+    "radiant_score": 0,
+    "Dire Team": "Stupid Fun Gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-07-09T00:00:00.000Z",
+    "match_id": 1617861657,
+    "duration (seconds)": 1162,
+    "match_patch": "(1617861657,6.84)",
+    "Radiant Team": "Jayce N.G",
+    "radiant_score": 0,
+    "Dire Team": "Demon'Souls - PE",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-07-09T00:00:00.000Z",
+    "match_id": 1617889098,
+    "duration (seconds)": 3985,
+    "match_patch": "(1617889098,6.84)",
+    "Radiant Team": "Stupid Fun Gaming",
+    "radiant_score": 0,
+    "Dire Team": "H2K GAMING G2X",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-07-09T00:00:00.000Z",
+    "match_id": 1617997812,
+    "duration (seconds)": 1494,
+    "match_patch": "(1617997812,6.84)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "H2K GAMING G2X",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-07-09T00:00:00.000Z",
+    "match_id": 1619672925,
+    "duration (seconds)": 2587,
+    "match_patch": "(1619672925,6.84)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-07-09T00:00:00.000Z",
+    "match_id": 1619802026,
+    "duration (seconds)": 1947,
+    "match_patch": "(1619802026,6.84)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-07-09T00:00:00.000Z",
+    "match_id": 1619811321,
+    "duration (seconds)": 1427,
+    "match_patch": "(1619811321,6.84)",
+    "Radiant Team": "Braunbaerliebe",
+    "radiant_score": 0,
+    "Dire Team": "SuperStrongDinosaurs",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-07-09T00:00:00.000Z",
+    "match_id": 1620187249,
+    "duration (seconds)": 2363,
+    "match_patch": "(1620187249,6.84)",
+    "Radiant Team": "Thunder Awaken PE",
+    "radiant_score": 0,
+    "Dire Team": "Lucky Eins Gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

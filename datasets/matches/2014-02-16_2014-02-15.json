@@ -1,0 +1,211 @@
+[
+  {
+    "date": "2014-02-15T00:00:00.000Z",
+    "match_id": 521546505,
+    "duration (seconds)": 1472,
+    "match_patch": "(521546505,6.80)",
+    "Radiant Team": ".MouseHunt Gaming.",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-02-15T00:00:00.000Z",
+    "match_id": 521551429,
+    "duration (seconds)": 1175,
+    "match_patch": "(521551429,6.80)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Team Rhythm",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-02-15T00:00:00.000Z",
+    "match_id": 521646505,
+    "duration (seconds)": 2979,
+    "match_patch": "(521646505,6.80)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-02-15T00:00:00.000Z",
+    "match_id": 521672980,
+    "duration (seconds)": 2813,
+    "match_patch": "(521672980,6.80)",
+    "Radiant Team": "_-DP-_",
+    "radiant_score": 0,
+    "Dire Team": "..Game..Of..Throws..",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-02-15T00:00:00.000Z",
+    "match_id": 521723899,
+    "duration (seconds)": 1369,
+    "match_patch": "(521723899,6.80)",
+    "Radiant Team": "59TorNaDo",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-02-15T00:00:00.000Z",
+    "match_id": 521946067,
+    "duration (seconds)": 2967,
+    "match_patch": "(521946067,6.80)",
+    "Radiant Team": "Revival Dragons.",
+    "radiant_score": 0,
+    "Dire Team": "TheRerereTRY",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-02-15T00:00:00.000Z",
+    "match_id": 522022335,
+    "duration (seconds)": 1289,
+    "match_patch": "(522022335,6.80)",
+    "Radiant Team": "sQreen's squad v2.0",
+    "radiant_score": 0,
+    "Dire Team": "_PowerRangers",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-02-15T00:00:00.000Z",
+    "match_id": 522094390,
+    "duration (seconds)": 1902,
+    "match_patch": "(522094390,6.80)",
+    "Radiant Team": "_PowerRangers",
+    "radiant_score": 0,
+    "Dire Team": "sQreen's squad v2.0",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-02-15T00:00:00.000Z",
+    "match_id": 522111842,
+    "duration (seconds)": 1494,
+    "match_patch": "(522111842,6.80)",
+    "Radiant Team": "Titan",
+    "radiant_score": 0,
+    "Dire Team": "EXECRATION1",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-02-15T00:00:00.000Z",
+    "match_id": 522232783,
+    "duration (seconds)": 3318,
+    "match_patch": "(522232783,6.80)",
+    "Radiant Team": "DuskBin E-Sports",
+    "radiant_score": 0,
+    "Dire Team": "insidiousidol",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-02-15T00:00:00.000Z",
+    "match_id": 522233095,
+    "duration (seconds)": 1522,
+    "match_patch": "(522233095,6.80)",
+    "Radiant Team": "EXECRATION1",
+    "radiant_score": 0,
+    "Dire Team": "Titan",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-02-15T00:00:00.000Z",
+    "match_id": 522446179,
+    "duration (seconds)": 1850,
+    "match_patch": "(522446179,6.80)",
+    "Radiant Team": "insidiousidol",
+    "radiant_score": 0,
+    "Dire Team": "DuskBin E-Sports",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-02-15T00:00:00.000Z",
+    "match_id": 522763092,
+    "duration (seconds)": 3037,
+    "match_patch": "(522763092,6.80)",
+    "Radiant Team": "Relax, you are doing fine.",
+    "radiant_score": 0,
+    "Dire Team": "Radical Online X-tremists",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-02-15T00:00:00.000Z",
+    "match_id": 522910113,
+    "duration (seconds)": 2755,
+    "match_patch": "(522910113,6.80)",
+    "Radiant Team": "Radical Online X-tremists",
+    "radiant_score": 0,
+    "Dire Team": "Relax, you are doing fine.",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-02-15T00:00:00.000Z",
+    "match_id": 523030058,
+    "duration (seconds)": 1866,
+    "match_patch": "(523030058,6.80)",
+    "Radiant Team": "Relax, you are doing fine.",
+    "radiant_score": 0,
+    "Dire Team": "Radical Online X-tremists",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-02-15T00:00:00.000Z",
+    "match_id": 523133477,
+    "duration (seconds)": 1679,
+    "match_patch": "(523133477,6.80)",
+    "Radiant Team": "Ch0rt",
+    "radiant_score": 0,
+    "Dire Team": "Radical Online X-tremists",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-02-15T00:00:00.000Z",
+    "match_id": 523147164,
+    "duration (seconds)": 2543,
+    "match_patch": "(523147164,6.80)",
+    "Radiant Team": "Micare in tenebris",
+    "radiant_score": 0,
+    "Dire Team": "Relax, you are doing fine.",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-02-15T00:00:00.000Z",
+    "match_id": 523197579,
+    "duration (seconds)": 1557,
+    "match_patch": "(523197579,6.80)",
+    "Radiant Team": "Radical Online X-tremists",
+    "radiant_score": 0,
+    "Dire Team": "Ch0rt",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-02-15T00:00:00.000Z",
+    "match_id": 523252337,
+    "duration (seconds)": 1404,
+    "match_patch": "(523252337,6.80)",
+    "Radiant Team": "Ch0rt",
+    "radiant_score": 0,
+    "Dire Team": "Radical Online X-tremists",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

@@ -1,0 +1,123 @@
+[
+  {
+    "date": "2014-03-12T00:00:00.000Z",
+    "match_id": 558727167,
+    "duration (seconds)": 1260,
+    "match_patch": "(558727167,6.80)",
+    "Radiant Team": "Double Click Dota 2",
+    "radiant_score": 0,
+    "Dire Team": "PowerFalcons",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-03-12T00:00:00.000Z",
+    "match_id": 558730912,
+    "duration (seconds)": 1185,
+    "match_patch": "(558730912,6.80)",
+    "Radiant Team": "Infernal Dong Lords",
+    "radiant_score": 0,
+    "Dire Team": "[rewind]",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-03-12T00:00:00.000Z",
+    "match_id": 558746620,
+    "duration (seconds)": 2307,
+    "match_patch": "(558746620,6.80)",
+    "Radiant Team": "PowerFalcons",
+    "radiant_score": 0,
+    "Dire Team": "Double Click Dota 2",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-03-12T00:00:00.000Z",
+    "match_id": 558748910,
+    "duration (seconds)": 859,
+    "match_patch": "(558748910,6.80)",
+    "Radiant Team": "[rewind]",
+    "radiant_score": 0,
+    "Dire Team": "Infernal Dong Lords",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-03-12T00:00:00.000Z",
+    "match_id": 558777832,
+    "duration (seconds)": 1976,
+    "match_patch": "(558777832,6.80)",
+    "Radiant Team": "Double Click Dota 2",
+    "radiant_score": 0,
+    "Dire Team": "PowerFalcons",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-03-12T00:00:00.000Z",
+    "match_id": 559241920,
+    "duration (seconds)": 1696,
+    "match_patch": "(559241920,6.80)",
+    "Radiant Team": "SpiritGamingVN",
+    "radiant_score": 0,
+    "Dire Team": "Nvidia.ArrowGaming.AVF",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-03-12T00:00:00.000Z",
+    "match_id": 559312023,
+    "duration (seconds)": 1052,
+    "match_patch": "(559312023,6.80)",
+    "Radiant Team": "Nvidia.ArrowGaming.AVF",
+    "radiant_score": 0,
+    "Dire Team": "SpiritGamingVN",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-03-12T00:00:00.000Z",
+    "match_id": 559312551,
+    "duration (seconds)": 1407,
+    "match_patch": "(559312551,6.80)",
+    "Radiant Team": "EXECRATION1",
+    "radiant_score": 0,
+    "Dire Team": "Rex Regum QEON",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-03-12T00:00:00.000Z",
+    "match_id": 559389426,
+    "duration (seconds)": 1488,
+    "match_patch": "(559389426,6.80)",
+    "Radiant Team": "Rex Regum QEON",
+    "radiant_score": 0,
+    "Dire Team": "EXECRATION1",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-03-12T00:00:00.000Z",
+    "match_id": 559875050,
+    "duration (seconds)": 2270,
+    "match_patch": "(559875050,6.80)",
+    "Radiant Team": "_Komanda_5",
+    "radiant_score": 0,
+    "Dire Team": "Kawaii^",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-03-12T00:00:00.000Z",
+    "match_id": 559910933,
+    "duration (seconds)": 2205,
+    "match_patch": "(559910933,6.80)",
+    "Radiant Team": "Kawaii^",
+    "radiant_score": 0,
+    "Dire Team": "_Komanda_5",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

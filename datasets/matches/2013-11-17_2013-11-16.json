@@ -1,0 +1,145 @@
+[
+  {
+    "date": "2013-11-16T00:00:00.000Z",
+    "match_id": 385745091,
+    "duration (seconds)": 1403,
+    "match_patch": "(385745091,6.78)",
+    "Radiant Team": "DK",
+    "radiant_score": 0,
+    "Dire Team": "For Our Utopia",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-11-16T00:00:00.000Z",
+    "match_id": 385801048,
+    "duration (seconds)": 851,
+    "match_patch": "(385801048,6.78)",
+    "Radiant Team": "For Our Utopia",
+    "radiant_score": 0,
+    "Dire Team": "DK",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-11-16T00:00:00.000Z",
+    "match_id": 385977662,
+    "duration (seconds)": 1751,
+    "match_patch": "(385977662,6.78)",
+    "Radiant Team": "Hyper Glory Team",
+    "radiant_score": 0,
+    "Dire Team": "RaTtLeSnAkE. CN GaMiNg",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-11-16T00:00:00.000Z",
+    "match_id": 386048275,
+    "duration (seconds)": 1576,
+    "match_patch": "(386048275,6.78)",
+    "Radiant Team": "RaTtLeSnAkE. CN GaMiNg",
+    "radiant_score": 0,
+    "Dire Team": "Hyper Glory Team",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-11-16T00:00:00.000Z",
+    "match_id": 386248023,
+    "duration (seconds)": 1827,
+    "match_patch": "(386248023,6.78)",
+    "Radiant Team": "Invictus Gaming",
+    "radiant_score": 0,
+    "Dire Team": "LGD-GAMING",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-11-16T00:00:00.000Z",
+    "match_id": 386351133,
+    "duration (seconds)": 1381,
+    "match_patch": "(386351133,6.78)",
+    "Radiant Team": "LGD-GAMING",
+    "radiant_score": 0,
+    "Dire Team": "Invictus Gaming",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-11-16T00:00:00.000Z",
+    "match_id": 386368840,
+    "duration (seconds)": 2976,
+    "match_patch": "(386368840,6.78)",
+    "Radiant Team": "Awake ;)",
+    "radiant_score": 0,
+    "Dire Team": "Team Impervious",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-11-16T00:00:00.000Z",
+    "match_id": 386527788,
+    "duration (seconds)": 2430,
+    "match_patch": "(386527788,6.78)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Team Impervious",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-11-16T00:00:00.000Z",
+    "match_id": 386983251,
+    "duration (seconds)": 1873,
+    "match_patch": "(386983251,6.78)",
+    "Radiant Team": "Fnatic",
+    "radiant_score": 0,
+    "Dire Team": "Team Liquid",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-11-16T00:00:00.000Z",
+    "match_id": 387082201,
+    "duration (seconds)": 2658,
+    "match_patch": "(387082201,6.78)",
+    "Radiant Team": "Team Liquid",
+    "radiant_score": 0,
+    "Dire Team": "Fnatic",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-11-16T00:00:00.000Z",
+    "match_id": 387206604,
+    "duration (seconds)": 2732,
+    "match_patch": "(387206604,6.78)",
+    "Radiant Team": "SuperStrongDinosaurs",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-11-16T00:00:00.000Z",
+    "match_id": 387331294,
+    "duration (seconds)": 1663,
+    "match_patch": "(387331294,6.78)",
+    "Radiant Team": "Team Liquid",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-11-16T00:00:00.000Z",
+    "match_id": 387412670,
+    "duration (seconds)": 2860,
+    "match_patch": "(387412670,6.78)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Team Liquid",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

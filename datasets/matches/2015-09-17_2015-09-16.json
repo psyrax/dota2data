@@ -1,0 +1,123 @@
+[
+  {
+    "date": "2015-09-16T00:00:00.000Z",
+    "match_id": 1797080568,
+    "duration (seconds)": 2688,
+    "match_patch": "(1797080568,6.84)",
+    "Radiant Team": "EXECRATION1",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-09-16T00:00:00.000Z",
+    "match_id": 1797221508,
+    "duration (seconds)": 2617,
+    "match_patch": "(1797221508,6.84)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "EXECRATION1",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-09-16T00:00:00.000Z",
+    "match_id": 1797344095,
+    "duration (seconds)": 2457,
+    "match_patch": "(1797344095,6.84)",
+    "Radiant Team": "EXECRATION1",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-09-16T00:00:00.000Z",
+    "match_id": 1797474381,
+    "duration (seconds)": 2793,
+    "match_patch": "(1797474381,6.84)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-09-16T00:00:00.000Z",
+    "match_id": 1797642945,
+    "duration (seconds)": 2558,
+    "match_patch": "(1797642945,6.84)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-09-16T00:00:00.000Z",
+    "match_id": 1797796437,
+    "duration (seconds)": 2162,
+    "match_patch": "(1797796437,6.84)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-09-16T00:00:00.000Z",
+    "match_id": 1798432684,
+    "duration (seconds)": 1465,
+    "match_patch": "(1798432684,6.84)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-09-16T00:00:00.000Z",
+    "match_id": 1798529750,
+    "duration (seconds)": 2089,
+    "match_patch": "(1798529750,6.84)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-09-16T00:00:00.000Z",
+    "match_id": 1798550531,
+    "duration (seconds)": 3230,
+    "match_patch": "(1798550531,6.84)",
+    "Radiant Team": "UNKNOWN #####",
+    "radiant_score": 0,
+    "Dire Team": "Not Today",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-09-16T00:00:00.000Z",
+    "match_id": 1798600468,
+    "duration (seconds)": 3412,
+    "match_patch": "(1798600468,6.84)",
+    "Radiant Team": "The Beater`s",
+    "radiant_score": 0,
+    "Dire Team": "Olympus Force Gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-09-16T00:00:00.000Z",
+    "match_id": 1798608487,
+    "duration (seconds)": 1793,
+    "match_patch": "(1798608487,6.84)",
+    "Radiant Team": "UNKNOWN #####",
+    "radiant_score": 0,
+    "Dire Team": "Not Today",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

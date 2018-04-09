@@ -1,0 +1,79 @@
+[
+  {
+    "date": "2013-12-18T00:00:00.000Z",
+    "match_id": 428966531,
+    "duration (seconds)": 1887,
+    "match_patch": "(428966531,6.79)",
+    "Radiant Team": "Vici Gaming",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-12-18T00:00:00.000Z",
+    "match_id": 429311144,
+    "duration (seconds)": 2850,
+    "match_patch": "(429311144,6.79)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Speed Gaming International",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-12-18T00:00:00.000Z",
+    "match_id": 429414318,
+    "duration (seconds)": 1674,
+    "match_patch": "(429414318,6.79)",
+    "Radiant Team": "Speed Gaming International",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-12-18T00:00:00.000Z",
+    "match_id": 429486584,
+    "duration (seconds)": 2504,
+    "match_patch": "(429486584,6.79)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Speed Gaming International",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-12-18T00:00:00.000Z",
+    "match_id": 429494237,
+    "duration (seconds)": 2162,
+    "match_patch": "(429494237,6.79)",
+    "Radiant Team": "Lowyat.net Esports",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-12-18T00:00:00.000Z",
+    "match_id": 429588398,
+    "duration (seconds)": 2029,
+    "match_patch": "(429588398,6.79)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Lowyat.net Esports",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-12-18T00:00:00.000Z",
+    "match_id": 429779715,
+    "duration (seconds)": 2741,
+    "match_patch": "(429779715,6.79)",
+    "Radiant Team": "NRAGED.int",
+    "radiant_score": 0,
+    "Dire Team": "sQreen's squad v2.0",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "date": "2013-05-12T00:00:00.000Z",
+    "match_id": 193869765,
+    "duration (seconds)": 2663,
+    "match_patch": "(193869765,6.77)",
+    "Radiant Team": "VICI Gaming2",
+    "radiant_score": 0,
+    "Dire Team": "For Love.",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-05-12T00:00:00.000Z",
+    "match_id": 193928151,
+    "duration (seconds)": 1821,
+    "match_patch": "(193928151,6.77)",
+    "Radiant Team": "First Departure",
+    "radiant_score": 0,
+    "Dire Team": "Insidious Gaming Int",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-05-12T00:00:00.000Z",
+    "match_id": 194070886,
+    "duration (seconds)": 2298,
+    "match_patch": "(194070886,6.77)",
+    "Radiant Team": "Radical Online X-tremists",
+    "radiant_score": 0,
+    "Dire Team": "Evil Geniuses",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-05-12T00:00:00.000Z",
+    "match_id": 194082692,
+    "duration (seconds)": 2628,
+    "match_patch": "(194082692,6.77)",
+    "Radiant Team": "paiN Gaming",
+    "radiant_score": 0,
+    "Dire Team": "Clarity Gaming",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-05-12T00:00:00.000Z",
+    "match_id": 194115133,
+    "duration (seconds)": 2361,
+    "match_patch": "(194115133,6.77)",
+    "Radiant Team": "Evil Geniuses",
+    "radiant_score": 0,
+    "Dire Team": "Radical Online X-tremists",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-05-12T00:00:00.000Z",
+    "match_id": 194140063,
+    "duration (seconds)": 2389,
+    "match_patch": "(194140063,6.77)",
+    "Radiant Team": "Clarity Gaming",
+    "radiant_score": 0,
+    "Dire Team": "paiN Gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-05-12T00:00:00.000Z",
+    "match_id": 194171551,
+    "duration (seconds)": 1235,
+    "match_patch": "(194171551,6.77)",
+    "Radiant Team": "Radical Online X-tremists",
+    "radiant_score": 0,
+    "Dire Team": "Evil Geniuses",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-05-12T00:00:00.000Z",
+    "match_id": 194213384,
+    "duration (seconds)": 2542,
+    "match_patch": "(194213384,6.77)",
+    "Radiant Team": "Radical Online X-tremists",
+    "radiant_score": 0,
+    "Dire Team": "Team Dignitas",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-05-12T00:00:00.000Z",
+    "match_id": 194253017,
+    "duration (seconds)": 3076,
+    "match_patch": "(194253017,6.77)",
+    "Radiant Team": "Team Dignitas",
+    "radiant_score": 0,
+    "Dire Team": "Radical Online X-tremists",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-05-12T00:00:00.000Z",
+    "match_id": 194287188,
+    "duration (seconds)": 1867,
+    "match_patch": "(194287188,6.77)",
+    "Radiant Team": "Radical Online X-tremists",
+    "radiant_score": 0,
+    "Dire Team": "Team Dignitas",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

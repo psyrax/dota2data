@@ -1,0 +1,178 @@
+[
+  {
+    "date": "2016-02-04T00:00:00.000Z",
+    "match_id": 2126949253,
+    "duration (seconds)": 1361,
+    "match_patch": "(2126949253,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "MVP HOT6",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-02-04T00:00:00.000Z",
+    "match_id": 2127032173,
+    "duration (seconds)": 1877,
+    "match_patch": "(2127032173,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "MVP HOT6",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-02-04T00:00:00.000Z",
+    "match_id": 2127137739,
+    "duration (seconds)": 1459,
+    "match_patch": "(2127137739,6.86)",
+    "Radiant Team": "MVP HOT6",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-02-04T00:00:00.000Z",
+    "match_id": 2127306522,
+    "duration (seconds)": 1894,
+    "match_patch": "(2127306522,6.86)",
+    "Radiant Team": "Team Panglima",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-02-04T00:00:00.000Z",
+    "match_id": 2127427350,
+    "duration (seconds)": 1446,
+    "match_patch": "(2127427350,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Team Panglima",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-02-04T00:00:00.000Z",
+    "match_id": 2128130868,
+    "duration (seconds)": 1958,
+    "match_patch": "(2128130868,6.86)",
+    "Radiant Team": "Team Alternate Attax",
+    "radiant_score": 0,
+    "Dire Team": "Fantastic Five",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-02-04T00:00:00.000Z",
+    "match_id": 2128250878,
+    "duration (seconds)": 1020,
+    "match_patch": "(2128250878,6.86)",
+    "Radiant Team": "Fantastic Five",
+    "radiant_score": 0,
+    "Dire Team": "Team Alternate Attax",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-02-04T00:00:00.000Z",
+    "match_id": 2128307829,
+    "duration (seconds)": 3795,
+    "match_patch": "(2128307829,6.86)",
+    "Radiant Team": "Team Alternate Attax",
+    "radiant_score": 0,
+    "Dire Team": "Fantastic Five",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-02-04T00:00:00.000Z",
+    "match_id": 2128362097,
+    "duration (seconds)": 3267,
+    "match_patch": "(2128362097,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "paiN Gaming",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-02-04T00:00:00.000Z",
+    "match_id": 2128466199,
+    "duration (seconds)": 1947,
+    "match_patch": "(2128466199,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "paiN Gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-02-04T00:00:00.000Z",
+    "match_id": 2128508837,
+    "duration (seconds)": 1678,
+    "match_patch": "(2128508837,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "TLC GAMING",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-02-04T00:00:00.000Z",
+    "match_id": 2128523052,
+    "duration (seconds)": 2205,
+    "match_patch": "(2128523052,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "paiN Gaming",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-02-04T00:00:00.000Z",
+    "match_id": 2128557124,
+    "duration (seconds)": 1399,
+    "match_patch": "(2128557124,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "compLexity Gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-02-04T00:00:00.000Z",
+    "match_id": 2128561891,
+    "duration (seconds)": 3644,
+    "match_patch": "(2128561891,6.86)",
+    "Radiant Team": "TLC GAMING",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-02-04T00:00:00.000Z",
+    "match_id": 2128594760,
+    "duration (seconds)": 1607,
+    "match_patch": "(2128594760,6.86)",
+    "Radiant Team": "compLexity Gaming",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-02-04T00:00:00.000Z",
+    "match_id": 2128596498,
+    "duration (seconds)": 1791,
+    "match_patch": "(2128596498,6.86)",
+    "Radiant Team": "Team Archon",
+    "radiant_score": 0,
+    "Dire Team": "paiN Gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

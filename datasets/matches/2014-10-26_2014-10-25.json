@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2014-10-25T00:00:00.000Z",
+    "match_id": 981443509,
+    "duration (seconds)": 1631,
+    "match_patch": "(981443509,6.82)",
+    "Radiant Team": "Sneaky Nyx Assassins",
+    "radiant_score": 0,
+    "Dire Team": "Leviathan'",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-10-25T00:00:00.000Z",
+    "match_id": 981497028,
+    "duration (seconds)": 2580,
+    "match_patch": "(981497028,6.82)",
+    "Radiant Team": "Leviathan'",
+    "radiant_score": 0,
+    "Dire Team": "Sneaky Nyx Assassins",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-10-25T00:00:00.000Z",
+    "match_id": 981709321,
+    "duration (seconds)": 1487,
+    "match_patch": "(981709321,6.82)",
+    "Radiant Team": "HARAKIRI.VIGGO",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-10-25T00:00:00.000Z",
+    "match_id": 982924524,
+    "duration (seconds)": 1203,
+    "match_patch": "(982924524,6.82)",
+    "Radiant Team": "NorthernLions",
+    "radiant_score": 0,
+    "Dire Team": "TeamArena",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

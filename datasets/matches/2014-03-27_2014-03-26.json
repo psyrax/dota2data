@@ -1,0 +1,112 @@
+[
+  {
+    "date": "2014-03-26T00:00:00.000Z",
+    "match_id": 579452765,
+    "duration (seconds)": 1561,
+    "match_patch": "(579452765,6.80)",
+    "Radiant Team": "Infernal Dong Lords",
+    "radiant_score": 0,
+    "Dire Team": "JAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJA",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-03-26T00:00:00.000Z",
+    "match_id": 579477911,
+    "duration (seconds)": 1837,
+    "match_patch": "(579477911,6.80)",
+    "Radiant Team": "Bian's Team",
+    "radiant_score": 0,
+    "Dire Team": "Infernal Dong Lords",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-03-26T00:00:00.000Z",
+    "match_id": 580284665,
+    "duration (seconds)": 2162,
+    "match_patch": "(580284665,6.80)",
+    "Radiant Team": "EXECRATION1",
+    "radiant_score": 0,
+    "Dire Team": "Orange Esports Dota",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-03-26T00:00:00.000Z",
+    "match_id": 580332628,
+    "duration (seconds)": 2634,
+    "match_patch": "(580332628,6.80)",
+    "Radiant Team": "Trust",
+    "radiant_score": 0,
+    "Dire Team": "Nvidia.ArrowGaming.AVF",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-03-26T00:00:00.000Z",
+    "match_id": 580366148,
+    "duration (seconds)": 795,
+    "match_patch": "(580366148,6.80)",
+    "Radiant Team": "Kompas Gaming",
+    "radiant_score": 0,
+    "Dire Team": "Aware.Gaming",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-03-26T00:00:00.000Z",
+    "match_id": 580383247,
+    "duration (seconds)": 1884,
+    "match_patch": "(580383247,6.80)",
+    "Radiant Team": "Orange Esports Dota",
+    "radiant_score": 0,
+    "Dire Team": "EXECRATION1",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-03-26T00:00:00.000Z",
+    "match_id": 580398070,
+    "duration (seconds)": 4020,
+    "match_patch": "(580398070,6.80)",
+    "Radiant Team": "Aware.Gaming",
+    "radiant_score": 0,
+    "Dire Team": "Kompas Gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-03-26T00:00:00.000Z",
+    "match_id": 580506954,
+    "duration (seconds)": 2176,
+    "match_patch": "(580506954,6.80)",
+    "Radiant Team": "Fnatic",
+    "radiant_score": 0,
+    "Dire Team": "Team Empire",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-03-26T00:00:00.000Z",
+    "match_id": 580604215,
+    "duration (seconds)": 2425,
+    "match_patch": "(580604215,6.80)",
+    "Radiant Team": "Team Empire",
+    "radiant_score": 0,
+    "Dire Team": "Fnatic",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-03-26T00:00:00.000Z",
+    "match_id": 580685274,
+    "duration (seconds)": 1793,
+    "match_patch": "(580685274,6.80)",
+    "Radiant Team": "Team Empire",
+    "radiant_score": 0,
+    "Dire Team": "Fnatic",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

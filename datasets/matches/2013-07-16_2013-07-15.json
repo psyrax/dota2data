@@ -1,0 +1,57 @@
+[
+  {
+    "date": "2013-07-15T00:00:00.000Z",
+    "match_id": 243679665,
+    "duration (seconds)": 3751,
+    "match_patch": "(243679665,6.78)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Crew!",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-07-15T00:00:00.000Z",
+    "match_id": 243707305,
+    "duration (seconds)": 1743,
+    "match_patch": "(243707305,6.78)",
+    "Radiant Team": "Awake ;)",
+    "radiant_score": 0,
+    "Dire Team": "Tell Me Why",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-07-15T00:00:00.000Z",
+    "match_id": 243742918,
+    "duration (seconds)": 1821,
+    "match_patch": "(243742918,6.78)",
+    "Radiant Team": "Crew!",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-07-15T00:00:00.000Z",
+    "match_id": 243760432,
+    "duration (seconds)": 2813,
+    "match_patch": "(243760432,6.78)",
+    "Radiant Team": "Tell Me Why",
+    "radiant_score": 0,
+    "Dire Team": "Awake ;)",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-07-15T00:00:00.000Z",
+    "match_id": 243816736,
+    "duration (seconds)": 1978,
+    "match_patch": "(243816736,6.78)",
+    "Radiant Team": "Awake ;)",
+    "radiant_score": 0,
+    "Dire Team": "Tell Me Why",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

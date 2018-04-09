@@ -1,0 +1,233 @@
+[
+  {
+    "date": "2014-09-01T00:00:00.000Z",
+    "match_id": 868204683,
+    "duration (seconds)": 3428,
+    "match_patch": "(868204683,6.81)",
+    "Radiant Team": "Los Bricarditos",
+    "radiant_score": 0,
+    "Dire Team": "No Fear Dota",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-09-01T00:00:00.000Z",
+    "match_id": 868220425,
+    "duration (seconds)": 2043,
+    "match_patch": "(868220425,6.81)",
+    "Radiant Team": "Maruchan",
+    "radiant_score": 0,
+    "Dire Team": "2K Gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-09-01T00:00:00.000Z",
+    "match_id": 868233072,
+    "duration (seconds)": 1599,
+    "match_patch": "(868233072,6.81)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "The House is Down.",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-09-01T00:00:00.000Z",
+    "match_id": 868252451,
+    "duration (seconds)": 1742,
+    "match_patch": "(868252451,6.81)",
+    "Radiant Team": "2K Gaming",
+    "radiant_score": 0,
+    "Dire Team": "Maruchan",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-09-01T00:00:00.000Z",
+    "match_id": 868262001,
+    "duration (seconds)": 2433,
+    "match_patch": "(868262001,6.81)",
+    "Radiant Team": "The House is Down.",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-09-01T00:00:00.000Z",
+    "match_id": 869200104,
+    "duration (seconds)": 1155,
+    "match_patch": "(869200104,6.81)",
+    "Radiant Team": "Aliens.India",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-09-01T00:00:00.000Z",
+    "match_id": 869366723,
+    "duration (seconds)": 2065,
+    "match_patch": "(869366723,6.81)",
+    "Radiant Team": "Titan",
+    "radiant_score": 0,
+    "Dire Team": "Nvidia.ArrowGaming.AVF",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-09-01T00:00:00.000Z",
+    "match_id": 869419723,
+    "duration (seconds)": 1453,
+    "match_patch": "(869419723,6.81)",
+    "Radiant Team": "APETACO",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-09-01T00:00:00.000Z",
+    "match_id": 869427504,
+    "duration (seconds)": 1298,
+    "match_patch": "(869427504,6.81)",
+    "Radiant Team": "sQreen's squad v2.0",
+    "radiant_score": 0,
+    "Dire Team": "xGame.kz",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-09-01T00:00:00.000Z",
+    "match_id": 869458925,
+    "duration (seconds)": 2306,
+    "match_patch": "(869458925,6.81)",
+    "Radiant Team": "Nvidia.ArrowGaming.AVF",
+    "radiant_score": 0,
+    "Dire Team": "Titan",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-09-01T00:00:00.000Z",
+    "match_id": 869480640,
+    "duration (seconds)": 3435,
+    "match_patch": "(869480640,6.81)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "APETACO",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-09-01T00:00:00.000Z",
+    "match_id": 869485802,
+    "duration (seconds)": 2069,
+    "match_patch": "(869485802,6.81)",
+    "Radiant Team": "xGame.kz",
+    "radiant_score": 0,
+    "Dire Team": "sQreen's squad v2.0",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-09-01T00:00:00.000Z",
+    "match_id": 869497925,
+    "duration (seconds)": 885,
+    "match_patch": "(869497925,6.81)",
+    "Radiant Team": "Micare in tenebris",
+    "radiant_score": 0,
+    "Dire Team": "Central of Fear",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-09-01T00:00:00.000Z",
+    "match_id": 869535650,
+    "duration (seconds)": 1543,
+    "match_patch": "(869535650,6.81)",
+    "Radiant Team": "Central of Fear",
+    "radiant_score": 0,
+    "Dire Team": "Micare in tenebris",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-09-01T00:00:00.000Z",
+    "match_id": 869595752,
+    "duration (seconds)": 2171,
+    "match_patch": "(869595752,6.81)",
+    "Radiant Team": "Moosesports!",
+    "radiant_score": 0,
+    "Dire Team": "",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-09-01T00:00:00.000Z",
+    "match_id": 869626370,
+    "duration (seconds)": 2572,
+    "match_patch": "(869626370,6.81)",
+    "Radiant Team": "YARRAAAAAAAAAAAAAAAAAAAK",
+    "radiant_score": 0,
+    "Dire Team": "4 Friends + Chrillee",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-09-01T00:00:00.000Z",
+    "match_id": 869669470,
+    "duration (seconds)": 1254,
+    "match_patch": "(869669470,6.81)",
+    "Radiant Team": "",
+    "radiant_score": 0,
+    "Dire Team": "Moosesports!",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-09-01T00:00:00.000Z",
+    "match_id": 869675917,
+    "duration (seconds)": 1235,
+    "match_patch": "(869675917,6.81)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Alliance",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-09-01T00:00:00.000Z",
+    "match_id": 869700313,
+    "duration (seconds)": 1915,
+    "match_patch": "(869700313,6.81)",
+    "Radiant Team": "4 Friends + Chrillee",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-09-01T00:00:00.000Z",
+    "match_id": 869702078,
+    "duration (seconds)": 1181,
+    "match_patch": "(869702078,6.81)",
+    "Radiant Team": "AncientWarriorsGaming",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-09-01T00:00:00.000Z",
+    "match_id": 869747657,
+    "duration (seconds)": 2626,
+    "match_patch": "(869747657,6.81)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "AncientWarriorsGaming",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

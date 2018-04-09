@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2014-02-03T00:00:00.000Z",
+    "match_id": 498608754,
+    "duration (seconds)": 1513,
+    "match_patch": "(498608754,6.80)",
+    "Radiant Team": "VolcaniaGaming",
+    "radiant_score": 0,
+    "Dire Team": "Revenge-",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-02-03T00:00:00.000Z",
+    "match_id": 498676089,
+    "duration (seconds)": 2826,
+    "match_patch": "(498676089,6.80)",
+    "Radiant Team": "Team_eHug",
+    "radiant_score": 0,
+    "Dire Team": "Denial eSports'",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-02-03T00:00:00.000Z",
+    "match_id": 498771571,
+    "duration (seconds)": 1685,
+    "match_patch": "(498771571,6.80)",
+    "Radiant Team": "sQreen's squad v2.0",
+    "radiant_score": 0,
+    "Dire Team": "_Cleave_",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-02-03T00:00:00.000Z",
+    "match_id": 498827914,
+    "duration (seconds)": 1625,
+    "match_patch": "(498827914,6.80)",
+    "Radiant Team": "_PowerRangers",
+    "radiant_score": 0,
+    "Dire Team": "Vast Cast",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

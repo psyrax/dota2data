@@ -1,0 +1,57 @@
+[
+  {
+    "date": "2015-08-04T00:00:00.000Z",
+    "match_id": 1684625125,
+    "duration (seconds)": 710,
+    "match_patch": "(1684625125,6.84)",
+    "Radiant Team": "Bromance Dota",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-08-04T00:00:00.000Z",
+    "match_id": 1684643939,
+    "duration (seconds)": 1921,
+    "match_patch": "(1684643939,6.84)",
+    "Radiant Team": "Cool Kids",
+    "radiant_score": 0,
+    "Dire Team": "Las Bebitas",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-08-04T00:00:00.000Z",
+    "match_id": 1684649178,
+    "duration (seconds)": 2164,
+    "match_patch": "(1684649178,6.84)",
+    "Radiant Team": "Virtual Dreaming",
+    "radiant_score": 0,
+    "Dire Team": "CaLeTa-NeT",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-08-04T00:00:00.000Z",
+    "match_id": 1684719248,
+    "duration (seconds)": 1742,
+    "match_patch": "(1684719248,6.84)",
+    "Radiant Team": "Bromance Dota",
+    "radiant_score": 0,
+    "Dire Team": "CaLeTa-NeT",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-08-04T00:00:00.000Z",
+    "match_id": 1684744498,
+    "duration (seconds)": 3916,
+    "match_patch": "(1684744498,6.84)",
+    "Radiant Team": "Virtual Dreaming",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

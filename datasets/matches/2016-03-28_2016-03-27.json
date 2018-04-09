@@ -1,0 +1,233 @@
+[
+  {
+    "date": "2016-03-27T00:00:00.000Z",
+    "match_id": 2252132382,
+    "duration (seconds)": 1580,
+    "match_patch": "(2252132382,6.86)",
+    "Radiant Team": "Team Freedom Dota 2",
+    "radiant_score": 13,
+    "Dire Team": null,
+    "dire_score": 26,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-03-27T00:00:00.000Z",
+    "match_id": 2252189313,
+    "duration (seconds)": 1381,
+    "match_patch": "(2252189313,6.86)",
+    "Radiant Team": "Team Freedom Dota 2",
+    "radiant_score": 11,
+    "Dire Team": null,
+    "dire_score": 44,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-03-27T00:00:00.000Z",
+    "match_id": 2252357636,
+    "duration (seconds)": 2548,
+    "match_patch": "(2252357636,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 24,
+    "Dire Team": null,
+    "dire_score": 27,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-03-27T00:00:00.000Z",
+    "match_id": 2252364377,
+    "duration (seconds)": 3070,
+    "match_patch": "(2252364377,6.86)",
+    "Radiant Team": "Rex Regum QEON",
+    "radiant_score": 36,
+    "Dire Team": null,
+    "dire_score": 22,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-03-27T00:00:00.000Z",
+    "match_id": 2252458492,
+    "duration (seconds)": 2232,
+    "match_patch": "(2252458492,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 35,
+    "Dire Team": null,
+    "dire_score": 20,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-03-27T00:00:00.000Z",
+    "match_id": 2252485290,
+    "duration (seconds)": 3284,
+    "match_patch": "(2252485290,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 25,
+    "Dire Team": null,
+    "dire_score": 43,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-03-27T00:00:00.000Z",
+    "match_id": 2252549454,
+    "duration (seconds)": 2144,
+    "match_patch": "(2252549454,6.86)",
+    "Radiant Team": "cdec.y",
+    "radiant_score": 11,
+    "Dire Team": null,
+    "dire_score": 23,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-03-27T00:00:00.000Z",
+    "match_id": 2252621495,
+    "duration (seconds)": 2036,
+    "match_patch": "(2252621495,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 38,
+    "Dire Team": null,
+    "dire_score": 18,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-03-27T00:00:00.000Z",
+    "match_id": 2252674583,
+    "duration (seconds)": 2284,
+    "match_patch": "(2252674583,6.86)",
+    "Radiant Team": "Newbee.Young",
+    "radiant_score": 27,
+    "Dire Team": "CDEC.Avenger",
+    "dire_score": 12,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-03-27T00:00:00.000Z",
+    "match_id": 2252695217,
+    "duration (seconds)": 4070,
+    "match_patch": "(2252695217,6.86)",
+    "Radiant Team": "cdec.y",
+    "radiant_score": 57,
+    "Dire Team": null,
+    "dire_score": 31,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-03-27T00:00:00.000Z",
+    "match_id": 2252749651,
+    "duration (seconds)": 2035,
+    "match_patch": "(2252749651,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 19,
+    "Dire Team": "Rex Regum QEON",
+    "dire_score": 34,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-03-27T00:00:00.000Z",
+    "match_id": 2252802310,
+    "duration (seconds)": 2078,
+    "match_patch": "(2252802310,6.86)",
+    "Radiant Team": "CDEC.Avenger",
+    "radiant_score": 23,
+    "Dire Team": "Newbee.Young",
+    "dire_score": 12,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-03-27T00:00:00.000Z",
+    "match_id": 2252923362,
+    "duration (seconds)": 2050,
+    "match_patch": "(2252923362,6.86)",
+    "Radiant Team": "Newbee.Young",
+    "radiant_score": 20,
+    "Dire Team": "CDEC.Avenger",
+    "dire_score": 14,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-03-27T00:00:00.000Z",
+    "match_id": 2253065527,
+    "duration (seconds)": 1487,
+    "match_patch": "(2253065527,6.86)",
+    "Radiant Team": "cdec.y",
+    "radiant_score": 20,
+    "Dire Team": "FTD club a",
+    "dire_score": 5,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-03-27T00:00:00.000Z",
+    "match_id": 2253178902,
+    "duration (seconds)": 1598,
+    "match_patch": "(2253178902,6.86)",
+    "Radiant Team": "FTD club a",
+    "radiant_score": 12,
+    "Dire Team": "cdec.y",
+    "dire_score": 32,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-03-27T00:00:00.000Z",
+    "match_id": 2253206948,
+    "duration (seconds)": 2003,
+    "match_patch": "(2253206948,6.86)",
+    "Radiant Team": "Newbee.Young",
+    "radiant_score": 14,
+    "Dire Team": "Vici_Gaming Reborn",
+    "dire_score": 25,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-03-27T00:00:00.000Z",
+    "match_id": 2253350261,
+    "duration (seconds)": 2352,
+    "match_patch": "(2253350261,6.86)",
+    "Radiant Team": "Vici_Gaming Reborn",
+    "radiant_score": 28,
+    "Dire Team": "Newbee.Young",
+    "dire_score": 32,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-03-27T00:00:00.000Z",
+    "match_id": 2254492119,
+    "duration (seconds)": 2277,
+    "match_patch": "(2254492119,6.86)",
+    "Radiant Team": "Shazam~",
+    "radiant_score": 34,
+    "Dire Team": null,
+    "dire_score": 12,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-03-27T00:00:00.000Z",
+    "match_id": 2254563065,
+    "duration (seconds)": 1123,
+    "match_patch": "(2254563065,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 4,
+    "Dire Team": "Shazam~",
+    "dire_score": 19,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-03-27T00:00:00.000Z",
+    "match_id": 2254600140,
+    "duration (seconds)": 2286,
+    "match_patch": "(2254600140,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 17,
+    "Dire Team": "Shazam~",
+    "dire_score": 31,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-03-27T00:00:00.000Z",
+    "match_id": 2254620253,
+    "duration (seconds)": 2426,
+    "match_patch": "(2254620253,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 43,
+    "Dire Team": null,
+    "dire_score": 22,
+    "Winner": "Radiant"
+  }
+]

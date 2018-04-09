@@ -1,0 +1,90 @@
+[
+  {
+    "date": "2014-01-26T00:00:00.000Z",
+    "match_id": 485006416,
+    "duration (seconds)": 2719,
+    "match_patch": "(485006416,6.79)",
+    "Radiant Team": "Micare in tenebris",
+    "radiant_score": 0,
+    "Dire Team": "All N00bs Must Die",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-01-26T00:00:00.000Z",
+    "match_id": 485011406,
+    "duration (seconds)": 1762,
+    "match_patch": "(485011406,6.79)",
+    "Radiant Team": "TEMPO",
+    "radiant_score": 0,
+    "Dire Team": "FlipSideTactics",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-01-26T00:00:00.000Z",
+    "match_id": 485088751,
+    "duration (seconds)": 2079,
+    "match_patch": "(485088751,6.79)",
+    "Radiant Team": "FlipSideTactics",
+    "radiant_score": 0,
+    "Dire Team": "Micare in tenebris",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-01-26T00:00:00.000Z",
+    "match_id": 485115408,
+    "duration (seconds)": 1393,
+    "match_patch": "(485115408,6.79)",
+    "Radiant Team": "TEMPO",
+    "radiant_score": 0,
+    "Dire Team": "All N00bs Must Die",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-01-26T00:00:00.000Z",
+    "match_id": 485177241,
+    "duration (seconds)": 1869,
+    "match_patch": "(485177241,6.79)",
+    "Radiant Team": "All N00bs Must Die",
+    "radiant_score": 0,
+    "Dire Team": "FlipSideTactics",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-01-26T00:00:00.000Z",
+    "match_id": 485185750,
+    "duration (seconds)": 2280,
+    "match_patch": "(485185750,6.79)",
+    "Radiant Team": "Micare in tenebris",
+    "radiant_score": 0,
+    "Dire Team": "TEMPO",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-01-26T00:00:00.000Z",
+    "match_id": 485549352,
+    "duration (seconds)": 1202,
+    "match_patch": "(485549352,6.79)",
+    "Radiant Team": "Life.",
+    "radiant_score": 0,
+    "Dire Team": "Fnatic",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-01-26T00:00:00.000Z",
+    "match_id": 485622805,
+    "duration (seconds)": 1203,
+    "match_patch": "(485622805,6.79)",
+    "Radiant Team": "Fnatic",
+    "radiant_score": 0,
+    "Dire Team": "Life.",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

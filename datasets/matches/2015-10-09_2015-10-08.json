@@ -1,0 +1,101 @@
+[
+  {
+    "date": "2015-10-08T00:00:00.000Z",
+    "match_id": 1850719490,
+    "duration (seconds)": 2107,
+    "match_patch": "(1850719490,6.85)",
+    "Radiant Team": "DeaD men's",
+    "radiant_score": 0,
+    "Dire Team": "Balrogs e-Sport",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-10-08T00:00:00.000Z",
+    "match_id": 1850758727,
+    "duration (seconds)": 1606,
+    "match_patch": "(1850758727,6.85)",
+    "Radiant Team": "Balrogs e-Sport",
+    "radiant_score": 0,
+    "Dire Team": "DeaD men's",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-10-08T00:00:00.000Z",
+    "match_id": 1850801788,
+    "duration (seconds)": 604,
+    "match_patch": "(1850801788,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-10-08T00:00:00.000Z",
+    "match_id": 1850829245,
+    "duration (seconds)": 2354,
+    "match_patch": "(1850829245,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-10-08T00:00:00.000Z",
+    "match_id": 1850899795,
+    "duration (seconds)": 767,
+    "match_patch": "(1850899795,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-10-08T00:00:00.000Z",
+    "match_id": 1850933215,
+    "duration (seconds)": 1952,
+    "match_patch": "(1850933215,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-10-08T00:00:00.000Z",
+    "match_id": 1850995874,
+    "duration (seconds)": 2011,
+    "match_patch": "(1850995874,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-10-08T00:00:00.000Z",
+    "match_id": 1851065724,
+    "duration (seconds)": 1536,
+    "match_patch": "(1851065724,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-10-08T00:00:00.000Z",
+    "match_id": 1852938413,
+    "duration (seconds)": 1524,
+    "match_patch": "(1852938413,6.85)",
+    "Radiant Team": "Mollusks Reborn",
+    "radiant_score": 0,
+    "Dire Team": "",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

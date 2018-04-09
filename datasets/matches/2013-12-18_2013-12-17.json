@@ -1,0 +1,134 @@
+[
+  {
+    "date": "2013-12-17T00:00:00.000Z",
+    "match_id": 427663812,
+    "duration (seconds)": 1806,
+    "match_patch": "(427663812,6.79)",
+    "Radiant Team": "EoT Gaming Hammer Team",
+    "radiant_score": 0,
+    "Dire Team": "5 in QO",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-12-17T00:00:00.000Z",
+    "match_id": 427712755,
+    "duration (seconds)": 2181,
+    "match_patch": "(427712755,6.79)",
+    "Radiant Team": "5 in QO",
+    "radiant_score": 0,
+    "Dire Team": "EoT Gaming Hammer Team",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-12-17T00:00:00.000Z",
+    "match_id": 427756258,
+    "duration (seconds)": 1067,
+    "match_patch": "(427756258,6.79)",
+    "Radiant Team": "First Departure",
+    "radiant_score": 0,
+    "Dire Team": "Can't Say Wips",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-12-17T00:00:00.000Z",
+    "match_id": 427797648,
+    "duration (seconds)": 1537,
+    "match_patch": "(427797648,6.79)",
+    "Radiant Team": "EoT Gaming Hammer Team",
+    "radiant_score": 0,
+    "Dire Team": "5 in QO",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-12-17T00:00:00.000Z",
+    "match_id": 427814358,
+    "duration (seconds)": 987,
+    "match_patch": "(427814358,6.79)",
+    "Radiant Team": "Speed Gaming International",
+    "radiant_score": 0,
+    "Dire Team": "LGD-GAMING",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-12-17T00:00:00.000Z",
+    "match_id": 427881365,
+    "duration (seconds)": 2871,
+    "match_patch": "(427881365,6.79)",
+    "Radiant Team": "LGD-GAMING",
+    "radiant_score": 0,
+    "Dire Team": "Speed Gaming International",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-12-17T00:00:00.000Z",
+    "match_id": 428006045,
+    "duration (seconds)": 1898,
+    "match_patch": "(428006045,6.79)",
+    "Radiant Team": "Speed Gaming International",
+    "radiant_score": 0,
+    "Dire Team": "LGD-GAMING",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-12-17T00:00:00.000Z",
+    "match_id": 428034133,
+    "duration (seconds)": 3089,
+    "match_patch": "(428034133,6.79)",
+    "Radiant Team": "insidiousidol",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-12-17T00:00:00.000Z",
+    "match_id": 428107974,
+    "duration (seconds)": 2386,
+    "match_patch": "(428107974,6.79)",
+    "Radiant Team": "Osliki Gaming",
+    "radiant_score": 0,
+    "Dire Team": "_Cleave_",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-12-17T00:00:00.000Z",
+    "match_id": 428140363,
+    "duration (seconds)": 3565,
+    "match_patch": "(428140363,6.79)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "insidiousidol",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-12-17T00:00:00.000Z",
+    "match_id": 428220383,
+    "duration (seconds)": 1660,
+    "match_patch": "(428220383,6.79)",
+    "Radiant Team": "Osliki Gaming",
+    "radiant_score": 0,
+    "Dire Team": "Relax, you are doing fine.",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-12-17T00:00:00.000Z",
+    "match_id": 428276173,
+    "duration (seconds)": 2797,
+    "match_patch": "(428276173,6.79)",
+    "Radiant Team": "insidiousidol",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

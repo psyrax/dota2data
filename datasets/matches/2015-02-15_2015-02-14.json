@@ -1,0 +1,123 @@
+[
+  {
+    "date": "2015-02-14T00:00:00.000Z",
+    "match_id": 1235990472,
+    "duration (seconds)": 2444,
+    "match_patch": "(1235990472,6.83)",
+    "Radiant Team": "",
+    "radiant_score": 0,
+    "Dire Team": "Isurus Gaming HyperX",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-02-14T00:00:00.000Z",
+    "match_id": 1237474434,
+    "duration (seconds)": 3416,
+    "match_patch": "(1237474434,6.83)",
+    "Radiant Team": "Volan Turtures",
+    "radiant_score": 0,
+    "Dire Team": "Zero Latitude",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-02-14T00:00:00.000Z",
+    "match_id": 1237688180,
+    "duration (seconds)": 1555,
+    "match_patch": "(1237688180,6.83)",
+    "Radiant Team": "Zero Latitude",
+    "radiant_score": 0,
+    "Dire Team": "Volan Turtures",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-02-14T00:00:00.000Z",
+    "match_id": 1237920208,
+    "duration (seconds)": 1567,
+    "match_patch": "(1237920208,6.83)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "| Team Alpha |",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-02-14T00:00:00.000Z",
+    "match_id": 1238113678,
+    "duration (seconds)": 1924,
+    "match_patch": "(1238113678,6.83)",
+    "Radiant Team": "| Team Alpha |",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-02-14T00:00:00.000Z",
+    "match_id": 1238702795,
+    "duration (seconds)": 1392,
+    "match_patch": "(1238702795,6.83)",
+    "Radiant Team": "rizeGaming International",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-02-14T00:00:00.000Z",
+    "match_id": 1238711626,
+    "duration (seconds)": 3206,
+    "match_patch": "(1238711626,6.83)",
+    "Radiant Team": "Frequently Winning Team",
+    "radiant_score": 0,
+    "Dire Team": "Team-CYCLONES",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-02-14T00:00:00.000Z",
+    "match_id": 1238780423,
+    "duration (seconds)": 3157,
+    "match_patch": "(1238780423,6.83)",
+    "Radiant Team": "Leviathan'",
+    "radiant_score": 0,
+    "Dire Team": "compLexity Gaming",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-02-14T00:00:00.000Z",
+    "match_id": 1238789325,
+    "duration (seconds)": 2510,
+    "match_patch": "(1238789325,6.83)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "rizeGaming International",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-02-14T00:00:00.000Z",
+    "match_id": 1238850817,
+    "duration (seconds)": 3349,
+    "match_patch": "(1238850817,6.83)",
+    "Radiant Team": "Team-CYCLONES",
+    "radiant_score": 0,
+    "Dire Team": "Frequently Winning Team",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-02-14T00:00:00.000Z",
+    "match_id": 1238971162,
+    "duration (seconds)": 2574,
+    "match_patch": "(1238971162,6.83)",
+    "Radiant Team": "The Thundercats",
+    "radiant_score": 0,
+    "Dire Team": "compLexity Gaming",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

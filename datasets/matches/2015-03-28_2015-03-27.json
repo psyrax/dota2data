@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2015-03-27T00:00:00.000Z",
+    "match_id": 1352295650,
+    "duration (seconds)": 3006,
+    "match_patch": "(1352295650,6.83)",
+    "Radiant Team": "Aces.VN",
+    "radiant_score": 0,
+    "Dire Team": "Invasion eSports",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-03-27T00:00:00.000Z",
+    "match_id": 1352444449,
+    "duration (seconds)": 3088,
+    "match_patch": "(1352444449,6.83)",
+    "Radiant Team": "Invasion eSports",
+    "radiant_score": 0,
+    "Dire Team": "Aces.VN",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-03-27T00:00:00.000Z",
+    "match_id": 1353836024,
+    "duration (seconds)": 3882,
+    "match_patch": "(1353836024,6.83)",
+    "Radiant Team": "AncientWarriorsGaming",
+    "radiant_score": 0,
+    "Dire Team": "_PowerRangers",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-03-27T00:00:00.000Z",
+    "match_id": 1353999617,
+    "duration (seconds)": 1862,
+    "match_patch": "(1353999617,6.83)",
+    "Radiant Team": "_PowerRangers",
+    "radiant_score": 0,
+    "Dire Team": "AncientWarriorsGaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

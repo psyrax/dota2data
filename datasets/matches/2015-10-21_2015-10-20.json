@@ -1,0 +1,24 @@
+[
+  {
+    "date": "2015-10-20T00:00:00.000Z",
+    "match_id": 1880449525,
+    "duration (seconds)": 1874,
+    "match_patch": "(1880449525,6.85)",
+    "Radiant Team": "Fantastic Five",
+    "radiant_score": 0,
+    "Dire Team": "Team Empire",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-10-20T00:00:00.000Z",
+    "match_id": 1880544221,
+    "duration (seconds)": 2222,
+    "match_patch": "(1880544221,6.85)",
+    "Radiant Team": "Team Empire",
+    "radiant_score": 0,
+    "Dire Team": "Fantastic Five",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

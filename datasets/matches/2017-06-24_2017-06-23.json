@@ -1,20 +1,13 @@
 [
   {
+    "date": "2017-06-23T00:00:00.000Z",
     "match_id": 3267398228,
-    "avg": "1921.0000000000000000",
-    "count": 1,
-    "winrate": 0.5,
-    "winrate_wilson": 0.236589593615487,
-    "sum": 19210,
-    "min": 1921,
-    "max": 1921,
+    "duration (seconds)": 1921,
     "match_patch": "(3267398228,7.06)",
-    "radiant_team_id": 1905619,
-    "dire_team_id": 3922738,
-    "radiant_win": false,
+    "Radiant Team": "Wheel Whreck While Whistling",
     "radiant_score": 17,
+    "Dire Team": " Thunder Awaken ///",
     "dire_score": 30,
-    "start_time": 1498177854,
-    "League": "ProDotA Cup Series by Azubu.tv"
+    "Winner": "Dire"
   }
 ]

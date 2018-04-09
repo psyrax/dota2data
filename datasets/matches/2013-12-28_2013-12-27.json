@@ -1,0 +1,156 @@
+[
+  {
+    "date": "2013-12-27T00:00:00.000Z",
+    "match_id": 441501513,
+    "duration (seconds)": 1830,
+    "match_patch": "(441501513,6.79)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "SpiritGamingVN",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-12-27T00:00:00.000Z",
+    "match_id": 441510779,
+    "duration (seconds)": 1643,
+    "match_patch": "(441510779,6.79)",
+    "Radiant Team": "First Departure",
+    "radiant_score": 0,
+    "Dire Team": "Rex Regum QEON",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-12-27T00:00:00.000Z",
+    "match_id": 441510946,
+    "duration (seconds)": 3299,
+    "match_patch": "(441510946,6.79)",
+    "Radiant Team": "Team StarTale",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-12-27T00:00:00.000Z",
+    "match_id": 441517851,
+    "duration (seconds)": 560,
+    "match_patch": "(441517851,6.79)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Svaha",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-12-27T00:00:00.000Z",
+    "match_id": 441581626,
+    "duration (seconds)": 1710,
+    "match_patch": "(441581626,6.79)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Svaha",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-12-27T00:00:00.000Z",
+    "match_id": 441626969,
+    "duration (seconds)": 3205,
+    "match_patch": "(441626969,6.79)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "First Departure",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-12-27T00:00:00.000Z",
+    "match_id": 441634905,
+    "duration (seconds)": 1598,
+    "match_patch": "(441634905,6.79)",
+    "Radiant Team": "Svaha",
+    "radiant_score": 0,
+    "Dire Team": "Titan",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-12-27T00:00:00.000Z",
+    "match_id": 441645985,
+    "duration (seconds)": 1671,
+    "match_patch": "(441645985,6.79)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Rex Regum QEON",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-12-27T00:00:00.000Z",
+    "match_id": 441702928,
+    "duration (seconds)": 1229,
+    "match_patch": "(441702928,6.79)",
+    "Radiant Team": "Team StarTale",
+    "radiant_score": 0,
+    "Dire Team": "Svaha",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-12-27T00:00:00.000Z",
+    "match_id": 441710066,
+    "duration (seconds)": 2664,
+    "match_patch": "(441710066,6.79)",
+    "Radiant Team": "SpiritGamingVN",
+    "radiant_score": 0,
+    "Dire Team": "Rex Regum QEON",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-12-27T00:00:00.000Z",
+    "match_id": 441753060,
+    "duration (seconds)": 3941,
+    "match_patch": "(441753060,6.79)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Titan",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-12-27T00:00:00.000Z",
+    "match_id": 441785902,
+    "duration (seconds)": 3105,
+    "match_patch": "(441785902,6.79)",
+    "Radiant Team": "Team StarTale",
+    "radiant_score": 0,
+    "Dire Team": "First Departure",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-12-27T00:00:00.000Z",
+    "match_id": 441888543,
+    "duration (seconds)": 2259,
+    "match_patch": "(441888543,6.79)",
+    "Radiant Team": "Titan",
+    "radiant_score": 0,
+    "Dire Team": "Rex Regum QEON",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-12-27T00:00:00.000Z",
+    "match_id": 441896042,
+    "duration (seconds)": 2570,
+    "match_patch": "(441896042,6.79)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "date": "2015-12-25T00:00:00.000Z",
+    "match_id": 2028044432,
+    "duration (seconds)": 2870,
+    "match_patch": "(2028044432,6.86)",
+    "Radiant Team": "~AMP~",
+    "radiant_score": 0,
+    "Dire Team": "AdMirEE",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-12-25T00:00:00.000Z",
+    "match_id": 2028070027,
+    "duration (seconds)": 2093,
+    "match_patch": "(2028070027,6.86)",
+    "Radiant Team": "The Prime Cinderpina",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-12-25T00:00:00.000Z",
+    "match_id": 2028085737,
+    "duration (seconds)": 802,
+    "match_patch": "(2028085737,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Zero Latitude",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-12-25T00:00:00.000Z",
+    "match_id": 2028101441,
+    "duration (seconds)": 1042,
+    "match_patch": "(2028101441,6.86)",
+    "Radiant Team": "No Kids Allowed",
+    "radiant_score": 0,
+    "Dire Team": "Bumbee Gum",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-12-25T00:00:00.000Z",
+    "match_id": 2028216433,
+    "duration (seconds)": 2624,
+    "match_patch": "(2028216433,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "CRY-ON",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-12-25T00:00:00.000Z",
+    "match_id": 2028218628,
+    "duration (seconds)": 1615,
+    "match_patch": "(2028218628,6.86)",
+    "Radiant Team": "Natural Kindness Dota 2",
+    "radiant_score": 0,
+    "Dire Team": "WarCoeg",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-12-25T00:00:00.000Z",
+    "match_id": 2028228158,
+    "duration (seconds)": 1271,
+    "match_patch": "(2028228158,6.86)",
+    "Radiant Team": "Test-123",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-12-25T00:00:00.000Z",
+    "match_id": 2028230742,
+    "duration (seconds)": 1992,
+    "match_patch": "(2028230742,6.86)",
+    "Radiant Team": "Team Vanquisher",
+    "radiant_score": 0,
+    "Dire Team": "mLnT-Community",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-12-25T00:00:00.000Z",
+    "match_id": 2028386347,
+    "duration (seconds)": 2256,
+    "match_patch": "(2028386347,6.86)",
+    "Radiant Team": "Elements Pro Gaming",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-12-25T00:00:00.000Z",
+    "match_id": 2028395797,
+    "duration (seconds)": 4029,
+    "match_patch": "(2028395797,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "WHO AM I ?!",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-12-25T00:00:00.000Z",
+    "match_id": 2028412283,
+    "duration (seconds)": 3194,
+    "match_patch": "(2028412283,6.86)",
+    "Radiant Team": "Buang Uang :(",
+    "radiant_score": 0,
+    "Dire Team": "Act now !",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-12-25T00:00:00.000Z",
+    "match_id": 2028417417,
+    "duration (seconds)": 2515,
+    "match_patch": "(2028417417,6.86)",
+    "Radiant Team": "DL_ReforMz",
+    "radiant_score": 0,
+    "Dire Team": "FortitudE.Pro",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-12-25T00:00:00.000Z",
+    "match_id": 2028542679,
+    "duration (seconds)": 3783,
+    "match_patch": "(2028542679,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Oracle Reborn",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-12-25T00:00:00.000Z",
+    "match_id": 2028555952,
+    "duration (seconds)": 1913,
+    "match_patch": "(2028555952,6.86)",
+    "Radiant Team": "Proxima E-Sports",
+    "radiant_score": 0,
+    "Dire Team": "Nexus*Gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-12-25T00:00:00.000Z",
+    "match_id": 2028559247,
+    "duration (seconds)": 2335,
+    "match_patch": "(2028559247,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Elements Pro Gaming",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-12-25T00:00:00.000Z",
+    "match_id": 2028576252,
+    "duration (seconds)": 3335,
+    "match_patch": "(2028576252,6.86)",
+    "Radiant Team": "Siap Kalah",
+    "radiant_score": 0,
+    "Dire Team": "Slow But Sure . Crown",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-12-25T00:00:00.000Z",
+    "match_id": 2028582122,
+    "duration (seconds)": 1893,
+    "match_patch": "(2028582122,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-12-25T00:00:00.000Z",
+    "match_id": 2028606718,
+    "duration (seconds)": 1683,
+    "match_patch": "(2028606718,6.86)",
+    "Radiant Team": "Buang Uang :(",
+    "radiant_score": 0,
+    "Dire Team": "Act now !",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

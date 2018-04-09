@@ -1,0 +1,200 @@
+[
+  {
+    "date": "2013-09-30T00:00:00.000Z",
+    "match_id": 327660038,
+    "duration (seconds)": 1554,
+    "match_patch": "(327660038,6.78)",
+    "Radiant Team": "Evil Geniuses",
+    "radiant_score": 0,
+    "Dire Team": "RattleSnake.int",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-09-30T00:00:00.000Z",
+    "match_id": 328419310,
+    "duration (seconds)": 1341,
+    "match_patch": "(328419310,6.78)",
+    "Radiant Team": "Natus Vincere",
+    "radiant_score": 0,
+    "Dire Team": "4 Friends + Chrillee",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-09-30T00:00:00.000Z",
+    "match_id": 328425160,
+    "duration (seconds)": 1984,
+    "match_patch": "(328425160,6.78)",
+    "Radiant Team": "AMAHASALA",
+    "radiant_score": 0,
+    "Dire Team": "OtherWise",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-09-30T00:00:00.000Z",
+    "match_id": 328471351,
+    "duration (seconds)": 1065,
+    "match_patch": "(328471351,6.78)",
+    "Radiant Team": "4 Friends + Chrillee",
+    "radiant_score": 0,
+    "Dire Team": "Natus Vincere",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-09-30T00:00:00.000Z",
+    "match_id": 328490732,
+    "duration (seconds)": 2754,
+    "match_patch": "(328490732,6.78)",
+    "Radiant Team": "OtherWise",
+    "radiant_score": 0,
+    "Dire Team": "AMAHASALA",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-09-30T00:00:00.000Z",
+    "match_id": 328497815,
+    "duration (seconds)": 965,
+    "match_patch": "(328497815,6.78)",
+    "Radiant Team": "Drandulizi squad",
+    "radiant_score": 0,
+    "Dire Team": "FriendshipTime",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-09-30T00:00:00.000Z",
+    "match_id": 328501592,
+    "duration (seconds)": 1994,
+    "match_patch": "(328501592,6.78)",
+    "Radiant Team": "Three percen",
+    "radiant_score": 0,
+    "Dire Team": "TMNTDOTA2",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-09-30T00:00:00.000Z",
+    "match_id": 328506777,
+    "duration (seconds)": 2873,
+    "match_patch": "(328506777,6.78)",
+    "Radiant Team": "iLowly",
+    "radiant_score": 0,
+    "Dire Team": "OUTRAGE\"",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-09-30T00:00:00.000Z",
+    "match_id": 328535128,
+    "duration (seconds)": 1438,
+    "match_patch": "(328535128,6.78)",
+    "Radiant Team": "Fnatic",
+    "radiant_score": 0,
+    "Dire Team": "TeamONE-",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-09-30T00:00:00.000Z",
+    "match_id": 328538997,
+    "duration (seconds)": 827,
+    "match_patch": "(328538997,6.78)",
+    "Radiant Team": "FriendshipTime",
+    "radiant_score": 0,
+    "Dire Team": "Drandulizi squad",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-09-30T00:00:00.000Z",
+    "match_id": 328564505,
+    "duration (seconds)": 1152,
+    "match_patch": "(328564505,6.78)",
+    "Radiant Team": "TMNTDOTA2",
+    "radiant_score": 0,
+    "Dire Team": "Three percen",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-09-30T00:00:00.000Z",
+    "match_id": 328584170,
+    "duration (seconds)": 2912,
+    "match_patch": "(328584170,6.78)",
+    "Radiant Team": "Fnatic",
+    "radiant_score": 0,
+    "Dire Team": "TeamONE-",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-09-30T00:00:00.000Z",
+    "match_id": 328603948,
+    "duration (seconds)": 1756,
+    "match_patch": "(328603948,6.78)",
+    "Radiant Team": "OUTRAGE\"",
+    "radiant_score": 0,
+    "Dire Team": "iLowly",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-09-30T00:00:00.000Z",
+    "match_id": 328609437,
+    "duration (seconds)": 796,
+    "match_patch": "(328609437,6.78)",
+    "Radiant Team": "Team \"SEX\"",
+    "radiant_score": 0,
+    "Dire Team": "The Veno",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-09-30T00:00:00.000Z",
+    "match_id": 328620061,
+    "duration (seconds)": 2092,
+    "match_patch": "(328620061,6.78)",
+    "Radiant Team": "Growing Pique!",
+    "radiant_score": 0,
+    "Dire Team": "AGAIN ERROR_",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-09-30T00:00:00.000Z",
+    "match_id": 328639540,
+    "duration (seconds)": 2096,
+    "match_patch": "(328639540,6.78)",
+    "Radiant Team": "The Veno",
+    "radiant_score": 0,
+    "Dire Team": "Team \"SEX\"",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-09-30T00:00:00.000Z",
+    "match_id": 328664133,
+    "duration (seconds)": 2830,
+    "match_patch": "(328664133,6.78)",
+    "Radiant Team": "AGAIN ERROR_",
+    "radiant_score": 0,
+    "Dire Team": "Growing Pique!",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-09-30T00:00:00.000Z",
+    "match_id": 328764038,
+    "duration (seconds)": 2538,
+    "match_patch": "(328764038,6.78)",
+    "Radiant Team": "Avanti's Angles",
+    "radiant_score": 0,
+    "Dire Team": "Pretty Boy Swag.",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

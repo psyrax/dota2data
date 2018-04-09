@@ -1,0 +1,200 @@
+[
+  {
+    "date": "2013-11-19T00:00:00.000Z",
+    "match_id": 391034790,
+    "duration (seconds)": 1786,
+    "match_patch": "(391034790,6.78)",
+    "Radiant Team": "MTS eSports",
+    "radiant_score": 0,
+    "Dire Team": "Snatch Steal",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-11-19T00:00:00.000Z",
+    "match_id": 391081850,
+    "duration (seconds)": 3297,
+    "match_patch": "(391081850,6.78)",
+    "Radiant Team": "Snatch Steal",
+    "radiant_score": 0,
+    "Dire Team": "MTS eSports",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-11-19T00:00:00.000Z",
+    "match_id": 391181612,
+    "duration (seconds)": 2213,
+    "match_patch": "(391181612,6.78)",
+    "Radiant Team": "Celestial eSports",
+    "radiant_score": 0,
+    "Dire Team": "DropBear",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-11-19T00:00:00.000Z",
+    "match_id": 391218150,
+    "duration (seconds)": 1702,
+    "match_patch": "(391218150,6.78)",
+    "Radiant Team": "For Love.",
+    "radiant_score": 0,
+    "Dire Team": "Vici Gaming",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-11-19T00:00:00.000Z",
+    "match_id": 391242498,
+    "duration (seconds)": 1870,
+    "match_patch": "(391242498,6.78)",
+    "Radiant Team": "DropBear",
+    "radiant_score": 0,
+    "Dire Team": "Celestial eSports",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-11-19T00:00:00.000Z",
+    "match_id": 391283459,
+    "duration (seconds)": 2353,
+    "match_patch": "(391283459,6.78)",
+    "Radiant Team": "Vici Gaming",
+    "radiant_score": 0,
+    "Dire Team": "For Love.",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-11-19T00:00:00.000Z",
+    "match_id": 391660375,
+    "duration (seconds)": 2722,
+    "match_patch": "(391660375,6.78)",
+    "Radiant Team": "Team Empire",
+    "radiant_score": 0,
+    "Dire Team": "Radical Online X-tremists",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-11-19T00:00:00.000Z",
+    "match_id": 391660898,
+    "duration (seconds)": 1866,
+    "match_patch": "(391660898,6.78)",
+    "Radiant Team": "Fnatic",
+    "radiant_score": 0,
+    "Dire Team": "Team Liquid",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-11-19T00:00:00.000Z",
+    "match_id": 391729021,
+    "duration (seconds)": 3530,
+    "match_patch": "(391729021,6.78)",
+    "Radiant Team": "Team Liquid",
+    "radiant_score": 0,
+    "Dire Team": "Fnatic",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-11-19T00:00:00.000Z",
+    "match_id": 391737764,
+    "duration (seconds)": 2655,
+    "match_patch": "(391737764,6.78)",
+    "Radiant Team": "Radical Online X-tremists",
+    "radiant_score": 0,
+    "Dire Team": "Team Empire.",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-11-19T00:00:00.000Z",
+    "match_id": 391792704,
+    "duration (seconds)": 1360,
+    "match_patch": "(391792704,6.78)",
+    "Radiant Team": "Evil Geniuses",
+    "radiant_score": 0,
+    "Dire Team": "Natus Vincere",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-11-19T00:00:00.000Z",
+    "match_id": 391818555,
+    "duration (seconds)": 2798,
+    "match_patch": "(391818555,6.78)",
+    "Radiant Team": "Fnatic",
+    "radiant_score": 0,
+    "Dire Team": "Team Liquid",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-11-19T00:00:00.000Z",
+    "match_id": 391820710,
+    "duration (seconds)": 2557,
+    "match_patch": "(391820710,6.78)",
+    "Radiant Team": "Team Empire",
+    "radiant_score": 0,
+    "Dire Team": "Radical Online X-tremists",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-11-19T00:00:00.000Z",
+    "match_id": 391875889,
+    "duration (seconds)": 1312,
+    "match_patch": "(391875889,6.78)",
+    "Radiant Team": "Team Liquid",
+    "radiant_score": 0,
+    "Dire Team": "Natus Vincere",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-11-19T00:00:00.000Z",
+    "match_id": 391877519,
+    "duration (seconds)": 1277,
+    "match_patch": "(391877519,6.78)",
+    "Radiant Team": "Alliance",
+    "radiant_score": 0,
+    "Dire Team": "SIGMA.int",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-11-19T00:00:00.000Z",
+    "match_id": 391913429,
+    "duration (seconds)": 2929,
+    "match_patch": "(391913429,6.78)",
+    "Radiant Team": "Alliance",
+    "radiant_score": 0,
+    "Dire Team": "Fnatic",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-11-19T00:00:00.000Z",
+    "match_id": 391920022,
+    "duration (seconds)": 2507,
+    "match_patch": "(391920022,6.78)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Radical Online X-tremists",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-11-19T00:00:00.000Z",
+    "match_id": 391956508,
+    "duration (seconds)": 2177,
+    "match_patch": "(391956508,6.78)",
+    "Radiant Team": "Radical Online X-tremists",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

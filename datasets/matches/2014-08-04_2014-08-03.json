@@ -1,0 +1,156 @@
+[
+  {
+    "date": "2014-08-03T00:00:00.000Z",
+    "match_id": 813741993,
+    "duration (seconds)": 2119,
+    "match_patch": "(813741993,6.81)",
+    "Radiant Team": "Monkey Spanner",
+    "radiant_score": 0,
+    "Dire Team": "MVP HOTSIX",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-08-03T00:00:00.000Z",
+    "match_id": 813840502,
+    "duration (seconds)": 2037,
+    "match_patch": "(813840502,6.81)",
+    "Radiant Team": "MVP Phoenix",
+    "radiant_score": 0,
+    "Dire Team": "Team Poker Face",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-08-03T00:00:00.000Z",
+    "match_id": 813940198,
+    "duration (seconds)": 977,
+    "match_patch": "(813940198,6.81)",
+    "Radiant Team": "MVP Phoenix",
+    "radiant_score": 0,
+    "Dire Team": "R a v e",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-08-03T00:00:00.000Z",
+    "match_id": 814434590,
+    "duration (seconds)": 924,
+    "match_patch": "(814434590,6.81)",
+    "Radiant Team": "LyT.",
+    "radiant_score": 0,
+    "Dire Team": "90XX90",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-08-03T00:00:00.000Z",
+    "match_id": 814505964,
+    "duration (seconds)": 1351,
+    "match_patch": "(814505964,6.81)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-08-03T00:00:00.000Z",
+    "match_id": 814602693,
+    "duration (seconds)": 3511,
+    "match_patch": "(814602693,6.81)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-08-03T00:00:00.000Z",
+    "match_id": 814675351,
+    "duration (seconds)": 1922,
+    "match_patch": "(814675351,6.81)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Dota 2 Crusaders",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-08-03T00:00:00.000Z",
+    "match_id": 814764252,
+    "duration (seconds)": 2325,
+    "match_patch": "(814764252,6.81)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-08-03T00:00:00.000Z",
+    "match_id": 814781523,
+    "duration (seconds)": 3373,
+    "match_patch": "(814781523,6.81)",
+    "Radiant Team": "Communist Catgirls",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-08-03T00:00:00.000Z",
+    "match_id": 814969422,
+    "duration (seconds)": 3753,
+    "match_patch": "(814969422,6.81)",
+    "Radiant Team": "European <3 Story",
+    "radiant_score": 0,
+    "Dire Team": "The Angry Army",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-08-03T00:00:00.000Z",
+    "match_id": 815099871,
+    "duration (seconds)": 1764,
+    "match_patch": "(815099871,6.81)",
+    "Radiant Team": "The Angry Army",
+    "radiant_score": 0,
+    "Dire Team": "European <3 Story",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-08-03T00:00:00.000Z",
+    "match_id": 815212719,
+    "duration (seconds)": 2258,
+    "match_patch": "(815212719,6.81)",
+    "Radiant Team": "Communist Catgirls",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-08-03T00:00:00.000Z",
+    "match_id": 815311449,
+    "duration (seconds)": 2887,
+    "match_patch": "(815311449,6.81)",
+    "Radiant Team": "Communist Catgirls",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-08-03T00:00:00.000Z",
+    "match_id": 815370535,
+    "duration (seconds)": 1710,
+    "match_patch": "(815370535,6.81)",
+    "Radiant Team": "Communist Catgirls",
+    "radiant_score": 0,
+    "Dire Team": "Wortex-Gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

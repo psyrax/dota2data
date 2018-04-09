@@ -1,0 +1,211 @@
+[
+  {
+    "date": "2013-11-01T00:00:00.000Z",
+    "match_id": 366655610,
+    "duration (seconds)": 2689,
+    "match_patch": "(366655610,6.78)",
+    "Radiant Team": "TongFu.WanZhou",
+    "radiant_score": 0,
+    "Dire Team": "Hyper Glory Team",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-11-01T00:00:00.000Z",
+    "match_id": 366665613,
+    "duration (seconds)": 1728,
+    "match_patch": "(366665613,6.78)",
+    "Radiant Team": "[R]eason Gaming",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-11-01T00:00:00.000Z",
+    "match_id": 366667494,
+    "duration (seconds)": 1106,
+    "match_patch": "(366667494,6.78)",
+    "Radiant Team": "SIGMA.int",
+    "radiant_score": 0,
+    "Dire Team": "Minion!",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-11-01T00:00:00.000Z",
+    "match_id": 366678084,
+    "duration (seconds)": 719,
+    "match_patch": "(366678084,6.78)",
+    "Radiant Team": "Team Empire",
+    "radiant_score": 0,
+    "Dire Team": "aNarchist-",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-11-01T00:00:00.000Z",
+    "match_id": 366716707,
+    "duration (seconds)": 3724,
+    "match_patch": "(366716707,6.78)",
+    "Radiant Team": "Hyper Glory Team",
+    "radiant_score": 0,
+    "Dire Team": "TongFu.WanZhou",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-11-01T00:00:00.000Z",
+    "match_id": 366731580,
+    "duration (seconds)": 3191,
+    "match_patch": "(366731580,6.78)",
+    "Radiant Team": "SIGMA.int",
+    "radiant_score": 0,
+    "Dire Team": "Team Empire",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-11-01T00:00:00.000Z",
+    "match_id": 366731616,
+    "duration (seconds)": 1432,
+    "match_patch": "(366731616,6.78)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "aNarchist-",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-11-01T00:00:00.000Z",
+    "match_id": 366731731,
+    "duration (seconds)": 3688,
+    "match_patch": "(366731731,6.78)",
+    "Radiant Team": "[R]eason Gaming",
+    "radiant_score": 0,
+    "Dire Team": "Minion!",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-11-01T00:00:00.000Z",
+    "match_id": 366819507,
+    "duration (seconds)": 2188,
+    "match_patch": "(366819507,6.78)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Team Empire",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-11-01T00:00:00.000Z",
+    "match_id": 366823674,
+    "duration (seconds)": 1058,
+    "match_patch": "(366823674,6.78)",
+    "Radiant Team": "SIGMA.int",
+    "radiant_score": 0,
+    "Dire Team": "[R]eason Gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-11-01T00:00:00.000Z",
+    "match_id": 366828216,
+    "duration (seconds)": 2053,
+    "match_patch": "(366828216,6.78)",
+    "Radiant Team": "aNarchist-",
+    "radiant_score": 0,
+    "Dire Team": "Minion!",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-11-01T00:00:00.000Z",
+    "match_id": 366875797,
+    "duration (seconds)": 4031,
+    "match_patch": "(366875797,6.78)",
+    "Radiant Team": "Invictus Gaming",
+    "radiant_score": 0,
+    "Dire Team": "DK",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-11-01T00:00:00.000Z",
+    "match_id": 366978333,
+    "duration (seconds)": 1942,
+    "match_patch": "(366978333,6.78)",
+    "Radiant Team": "DK",
+    "radiant_score": 0,
+    "Dire Team": "Invictus Gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-11-01T00:00:00.000Z",
+    "match_id": 366980312,
+    "duration (seconds)": 943,
+    "match_patch": "(366980312,6.78)",
+    "Radiant Team": "SIGMA.int",
+    "radiant_score": 0,
+    "Dire Team": "aNarchist-",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-11-01T00:00:00.000Z",
+    "match_id": 366988860,
+    "duration (seconds)": 3833,
+    "match_patch": "(366988860,6.78)",
+    "Radiant Team": "Minion!",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-11-01T00:00:00.000Z",
+    "match_id": 367023384,
+    "duration (seconds)": 1624,
+    "match_patch": "(367023384,6.78)",
+    "Radiant Team": "[R]eason Gaming",
+    "radiant_score": 0,
+    "Dire Team": "Team Empire",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-11-01T00:00:00.000Z",
+    "match_id": 367111895,
+    "duration (seconds)": 1241,
+    "match_patch": "(367111895,6.78)",
+    "Radiant Team": "Team Empire",
+    "radiant_score": 0,
+    "Dire Team": "Minion!",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-11-01T00:00:00.000Z",
+    "match_id": 367114852,
+    "duration (seconds)": 2753,
+    "match_patch": "(367114852,6.78)",
+    "Radiant Team": "aNarchist-",
+    "radiant_score": 0,
+    "Dire Team": "[R]eason Gaming",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-11-01T00:00:00.000Z",
+    "match_id": 367121003,
+    "duration (seconds)": 1707,
+    "match_patch": "(367121003,6.78)",
+    "Radiant Team": "SIGMA.int",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

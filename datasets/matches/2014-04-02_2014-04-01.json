@@ -1,0 +1,123 @@
+[
+  {
+    "date": "2014-04-01T00:00:00.000Z",
+    "match_id": 589371524,
+    "duration (seconds)": 1261,
+    "match_patch": "(589371524,6.80)",
+    "Radiant Team": "Zulu Nation",
+    "radiant_score": 0,
+    "Dire Team": "Team Vas'Avi",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-04-01T00:00:00.000Z",
+    "match_id": 589372769,
+    "duration (seconds)": 1450,
+    "match_patch": "(589372769,6.80)",
+    "Radiant Team": "Regenerate",
+    "radiant_score": 0,
+    "Dire Team": "NO! Earthspirit",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-04-01T00:00:00.000Z",
+    "match_id": 589389682,
+    "duration (seconds)": 637,
+    "match_patch": "(589389682,6.80)",
+    "Radiant Team": "Team Vas'Avi",
+    "radiant_score": 0,
+    "Dire Team": "Zulu Nation",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-04-01T00:00:00.000Z",
+    "match_id": 589395639,
+    "duration (seconds)": 626,
+    "match_patch": "(589395639,6.80)",
+    "Radiant Team": "NO! Earthspirit",
+    "radiant_score": 0,
+    "Dire Team": "Regenerate",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-04-01T00:00:00.000Z",
+    "match_id": 590147756,
+    "duration (seconds)": 2120,
+    "match_patch": "(590147756,6.80)",
+    "Radiant Team": "Team Empire",
+    "radiant_score": 0,
+    "Dire Team": "Radical Online X-tremists",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-04-01T00:00:00.000Z",
+    "match_id": 590214909,
+    "duration (seconds)": 3148,
+    "match_patch": "(590214909,6.80)",
+    "Radiant Team": "Aware.Gaming",
+    "radiant_score": 0,
+    "Dire Team": "TheRerereTRY",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-04-01T00:00:00.000Z",
+    "match_id": 590320439,
+    "duration (seconds)": 1499,
+    "match_patch": "(590320439,6.80)",
+    "Radiant Team": "Radical Online X-tremists",
+    "radiant_score": 0,
+    "Dire Team": "Virtus.pro",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-04-01T00:00:00.000Z",
+    "match_id": 590386847,
+    "duration (seconds)": 1610,
+    "match_patch": "(590386847,6.80)",
+    "Radiant Team": "TheRerereTRY",
+    "radiant_score": 0,
+    "Dire Team": "Virtus.pro",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-04-01T00:00:00.000Z",
+    "match_id": 590440758,
+    "duration (seconds)": 2082,
+    "match_patch": "(590440758,6.80)",
+    "Radiant Team": "Radical Online X-tremists",
+    "radiant_score": 0,
+    "Dire Team": "Fnatic",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-04-01T00:00:00.000Z",
+    "match_id": 590508602,
+    "duration (seconds)": 2674,
+    "match_patch": "(590508602,6.80)",
+    "Radiant Team": "Fnatic",
+    "radiant_score": 0,
+    "Dire Team": "Radical Online X-tremists",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-04-01T00:00:00.000Z",
+    "match_id": 590568560,
+    "duration (seconds)": 961,
+    "match_patch": "(590568560,6.80)",
+    "Radiant Team": "Fnatic",
+    "radiant_score": 0,
+    "Dire Team": "Radical Online X-tremists",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

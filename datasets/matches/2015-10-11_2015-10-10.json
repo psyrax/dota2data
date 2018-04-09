@@ -1,0 +1,101 @@
+[
+  {
+    "date": "2015-10-10T00:00:00.000Z",
+    "match_id": 1855382597,
+    "duration (seconds)": 1995,
+    "match_patch": "(1855382597,6.85)",
+    "Radiant Team": "Proo Stylee Gaming",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-10-10T00:00:00.000Z",
+    "match_id": 1855423078,
+    "duration (seconds)": 2034,
+    "match_patch": "(1855423078,6.85)",
+    "Radiant Team": "Thunder Awaken PE",
+    "radiant_score": 0,
+    "Dire Team": "Disband in Game",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-10-10T00:00:00.000Z",
+    "match_id": 1855455697,
+    "duration (seconds)": 2079,
+    "match_patch": "(1855455697,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-10-10T00:00:00.000Z",
+    "match_id": 1855537731,
+    "duration (seconds)": 926,
+    "match_patch": "(1855537731,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-10-10T00:00:00.000Z",
+    "match_id": 1857068989,
+    "duration (seconds)": 1166,
+    "match_patch": "(1857068989,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-10-10T00:00:00.000Z",
+    "match_id": 1857204199,
+    "duration (seconds)": 1977,
+    "match_patch": "(1857204199,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-10-10T00:00:00.000Z",
+    "match_id": 1857506841,
+    "duration (seconds)": 1337,
+    "match_patch": "(1857506841,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "BlowYourMind 2.0",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-10-10T00:00:00.000Z",
+    "match_id": 1857607100,
+    "duration (seconds)": 2948,
+    "match_patch": "(1857607100,6.85)",
+    "Radiant Team": "BlowYourMind 2.0",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-10-10T00:00:00.000Z",
+    "match_id": 1857982932,
+    "duration (seconds)": 2189,
+    "match_patch": "(1857982932,6.85)",
+    "Radiant Team": "Farm For Fame.",
+    "radiant_score": 0,
+    "Dire Team": "G.G_Team",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

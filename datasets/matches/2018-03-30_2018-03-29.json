@@ -1,20 +1,13 @@
 [
   {
+    "date": "2018-03-29T00:00:00.000Z",
     "match_id": 3806163768,
-    "avg": "1657.0000000000000000",
-    "count": 1,
-    "winrate": 0.5,
-    "winrate_wilson": 0.236589593615487,
-    "sum": 16570,
-    "min": 1657,
-    "max": 1657,
+    "duration (seconds)": 1657,
     "match_patch": "(3806163768,7.12)",
-    "radiant_team_id": 5216687,
-    "dire_team_id": 2425230,
-    "radiant_win": false,
+    "Radiant Team": "Profi noobs",
     "radiant_score": 11,
+    "Dire Team": "dancing Ponies",
     "dire_score": 36,
-    "start_time": 1522343865,
-    "League": "CZ-SK Dota 2 League Season 10"
+    "Winner": "Dire"
   }
 ]

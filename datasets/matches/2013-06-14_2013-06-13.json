@@ -1,0 +1,167 @@
+[
+  {
+    "date": "2013-06-13T00:00:00.000Z",
+    "match_id": 218167985,
+    "duration (seconds)": 3492,
+    "match_patch": "(218167985,6.78)",
+    "Radiant Team": "Smeagol",
+    "radiant_score": 0,
+    "Dire Team": "paiN Gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-06-13T00:00:00.000Z",
+    "match_id": 218188737,
+    "duration (seconds)": 2535,
+    "match_patch": "(218188737,6.78)",
+    "Radiant Team": "paiN-Gaming.int",
+    "radiant_score": 0,
+    "Dire Team": "paiN Gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-06-13T00:00:00.000Z",
+    "match_id": 218473923,
+    "duration (seconds)": 2422,
+    "match_patch": "(218473923,6.78)",
+    "Radiant Team": "Orange.Neolution Esports",
+    "radiant_score": 0,
+    "Dire Team": "RaTtLeSnAkE. CN GaMiNg",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-06-13T00:00:00.000Z",
+    "match_id": 218523241,
+    "duration (seconds)": 1308,
+    "match_patch": "(218523241,6.78)",
+    "Radiant Team": "RaTtLeSnAkE. CN GaMiNg",
+    "radiant_score": 0,
+    "Dire Team": "Orange.Neolution Esports",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-06-13T00:00:00.000Z",
+    "match_id": 218592217,
+    "duration (seconds)": 1984,
+    "match_patch": "(218592217,6.78)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Raf Lobster",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-06-13T00:00:00.000Z",
+    "match_id": 218596659,
+    "duration (seconds)": 2832,
+    "match_patch": "(218596659,6.78)",
+    "Radiant Team": "Team Empire",
+    "radiant_score": 0,
+    "Dire Team": "Radical Online X-tremists",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-06-13T00:00:00.000Z",
+    "match_id": 218641353,
+    "duration (seconds)": 1884,
+    "match_patch": "(218641353,6.78)",
+    "Radiant Team": "zRAGE",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-06-13T00:00:00.000Z",
+    "match_id": 218650805,
+    "duration (seconds)": 1388,
+    "match_patch": "(218650805,6.78)",
+    "Radiant Team": "Team Empire",
+    "radiant_score": 0,
+    "Dire Team": "Keita-Gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-06-13T00:00:00.000Z",
+    "match_id": 218687329,
+    "duration (seconds)": 2097,
+    "match_patch": "(218687329,6.78)",
+    "Radiant Team": "TCM-Gaming",
+    "radiant_score": 0,
+    "Dire Team": "4 Friends + Chrillee",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-06-13T00:00:00.000Z",
+    "match_id": 218732702,
+    "duration (seconds)": 1729,
+    "match_patch": "(218732702,6.78)",
+    "Radiant Team": "Quantic|Gaming",
+    "radiant_score": 0,
+    "Dire Team": "Raf Lobster",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-06-13T00:00:00.000Z",
+    "match_id": 218733579,
+    "duration (seconds)": 1357,
+    "match_patch": "(218733579,6.78)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Natus Vincere",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-06-13T00:00:00.000Z",
+    "match_id": 218737724,
+    "duration (seconds)": 2447,
+    "match_patch": "(218737724,6.78)",
+    "Radiant Team": "Team Empire",
+    "radiant_score": 0,
+    "Dire Team": "Fnatic",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-06-13T00:00:00.000Z",
+    "match_id": 218785254,
+    "duration (seconds)": 2816,
+    "match_patch": "(218785254,6.78)",
+    "Radiant Team": "Fnatic",
+    "radiant_score": 0,
+    "Dire Team": "Alliance",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-06-13T00:00:00.000Z",
+    "match_id": 218828317,
+    "duration (seconds)": 2291,
+    "match_patch": "(218828317,6.78)",
+    "Radiant Team": "4 Friends + Chrillee",
+    "radiant_score": 0,
+    "Dire Team": "Kaipi",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-06-13T00:00:00.000Z",
+    "match_id": 218913706,
+    "duration (seconds)": 1995,
+    "match_patch": "(218913706,6.78)",
+    "Radiant Team": "paiN Gaming",
+    "radiant_score": 0,
+    "Dire Team": "Typical Mistakes",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

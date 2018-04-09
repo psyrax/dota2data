@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2015-08-13T00:00:00.000Z",
+    "match_id": 1708980335,
+    "duration (seconds)": 573,
+    "match_patch": "(1708980335,6.84)",
+    "Radiant Team": "Balrogs e-Sport",
+    "radiant_score": 0,
+    "Dire Team": "Virtual Dreaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-08-13T00:00:00.000Z",
+    "match_id": 1709018197,
+    "duration (seconds)": 647,
+    "match_patch": "(1709018197,6.84)",
+    "Radiant Team": "Virtual Dreaming",
+    "radiant_score": 0,
+    "Dire Team": "Balrogs e-Sport",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-08-13T00:00:00.000Z",
+    "match_id": 1709094162,
+    "duration (seconds)": 1950,
+    "match_patch": "(1709094162,6.84)",
+    "Radiant Team": "Ez katka!!",
+    "radiant_score": 0,
+    "Dire Team": "Mad Wraith King",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-08-13T00:00:00.000Z",
+    "match_id": 1711553066,
+    "duration (seconds)": 2604,
+    "match_patch": "(1711553066,6.84)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Megalodon Gaming.",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

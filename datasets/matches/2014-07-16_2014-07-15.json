@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2014-07-15T00:00:00.000Z",
+    "match_id": 777289466,
+    "duration (seconds)": 735,
+    "match_patch": "(777289466,6.81)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-07-15T00:00:00.000Z",
+    "match_id": 777348178,
+    "duration (seconds)": 1940,
+    "match_patch": "(777348178,6.81)",
+    "Radiant Team": "DanRan",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-07-15T00:00:00.000Z",
+    "match_id": 777446959,
+    "duration (seconds)": 1777,
+    "match_patch": "(777446959,6.81)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-07-15T00:00:00.000Z",
+    "match_id": 777558286,
+    "duration (seconds)": 1903,
+    "match_patch": "(777558286,6.81)",
+    "Radiant Team": "Zhan-G",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

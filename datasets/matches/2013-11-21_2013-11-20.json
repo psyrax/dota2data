@@ -1,0 +1,200 @@
+[
+  {
+    "date": "2013-11-20T00:00:00.000Z",
+    "match_id": 392274127,
+    "duration (seconds)": 1783,
+    "match_patch": "(392274127,6.78)",
+    "Radiant Team": "DK",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-11-20T00:00:00.000Z",
+    "match_id": 392311224,
+    "duration (seconds)": 1476,
+    "match_patch": "(392311224,6.78)",
+    "Radiant Team": "MTS eSports",
+    "radiant_score": 0,
+    "Dire Team": "GORILLA TACTICS",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-11-20T00:00:00.000Z",
+    "match_id": 392321288,
+    "duration (seconds)": 1903,
+    "match_patch": "(392321288,6.78)",
+    "Radiant Team": "DotA with Honor",
+    "radiant_score": 0,
+    "Dire Team": "Roey1Goey",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-11-20T00:00:00.000Z",
+    "match_id": 392322310,
+    "duration (seconds)": 1499,
+    "match_patch": "(392322310,6.78)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "DK",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-11-20T00:00:00.000Z",
+    "match_id": 392351002,
+    "duration (seconds)": 1638,
+    "match_patch": "(392351002,6.78)",
+    "Radiant Team": "GORILLA TACTICS",
+    "radiant_score": 0,
+    "Dire Team": "MTS eSports.",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-11-20T00:00:00.000Z",
+    "match_id": 392368262,
+    "duration (seconds)": 904,
+    "match_patch": "(392368262,6.78)",
+    "Radiant Team": "Roey1Goey",
+    "radiant_score": 0,
+    "Dire Team": "DotA with Honor",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-11-20T00:00:00.000Z",
+    "match_id": 392414480,
+    "duration (seconds)": 1377,
+    "match_patch": "(392414480,6.78)",
+    "Radiant Team": "Dream time.",
+    "radiant_score": 0,
+    "Dire Team": "Team Absolute Power",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-11-20T00:00:00.000Z",
+    "match_id": 392433018,
+    "duration (seconds)": 2364,
+    "match_patch": "(392433018,6.78)",
+    "Radiant Team": "LGD-GAMING.int",
+    "radiant_score": 0,
+    "Dire Team": "DK",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-11-20T00:00:00.000Z",
+    "match_id": 392485229,
+    "duration (seconds)": 1454,
+    "match_patch": "(392485229,6.78)",
+    "Radiant Team": "For Love.",
+    "radiant_score": 0,
+    "Dire Team": "Dai Le Tao Tao",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-11-20T00:00:00.000Z",
+    "match_id": 392509634,
+    "duration (seconds)": 936,
+    "match_patch": "(392509634,6.78)",
+    "Radiant Team": "DK",
+    "radiant_score": 0,
+    "Dire Team": "LGD-GAMING.int",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-11-20T00:00:00.000Z",
+    "match_id": 392558210,
+    "duration (seconds)": 1641,
+    "match_patch": "(392558210,6.78)",
+    "Radiant Team": "Team Impervious",
+    "radiant_score": 0,
+    "Dire Team": "Sbwen!",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-11-20T00:00:00.000Z",
+    "match_id": 392670911,
+    "duration (seconds)": 1094,
+    "match_patch": "(392670911,6.78)",
+    "Radiant Team": "TongFu.WanZhou",
+    "radiant_score": 0,
+    "Dire Team": "Ao Te Man",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-11-20T00:00:00.000Z",
+    "match_id": 392898068,
+    "duration (seconds)": 2173,
+    "match_patch": "(392898068,6.78)",
+    "Radiant Team": "Evil Geniuses",
+    "radiant_score": 0,
+    "Dire Team": "Team Liquid",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-11-20T00:00:00.000Z",
+    "match_id": 392996039,
+    "duration (seconds)": 2344,
+    "match_patch": "(392996039,6.78)",
+    "Radiant Team": "Team Liquid",
+    "radiant_score": 0,
+    "Dire Team": "Alliance",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-11-20T00:00:00.000Z",
+    "match_id": 393029879,
+    "duration (seconds)": 1927,
+    "match_patch": "(393029879,6.78)",
+    "Radiant Team": "Speed Gaming International",
+    "radiant_score": 0,
+    "Dire Team": "Radical Online X-tremists",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-11-20T00:00:00.000Z",
+    "match_id": 393062355,
+    "duration (seconds)": 1968,
+    "match_patch": "(393062355,6.78)",
+    "Radiant Team": "Alliance",
+    "radiant_score": 0,
+    "Dire Team": "Natus Vincere",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-11-20T00:00:00.000Z",
+    "match_id": 393081055,
+    "duration (seconds)": 2021,
+    "match_patch": "(393081055,6.78)",
+    "Radiant Team": "Radical Online X-tremists",
+    "radiant_score": 0,
+    "Dire Team": "Speed Gaming International",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-11-20T00:00:00.000Z",
+    "match_id": 393122692,
+    "duration (seconds)": 2043,
+    "match_patch": "(393122692,6.78)",
+    "Radiant Team": "Speed Gaming International",
+    "radiant_score": 0,
+    "Dire Team": "Radical Online X-tremists",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

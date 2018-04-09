@@ -1,0 +1,123 @@
+[
+  {
+    "date": "2015-01-28T00:00:00.000Z",
+    "match_id": 1193360574,
+    "duration (seconds)": 1529,
+    "match_patch": "(1193360574,6.83)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "The Better JUSTICE League",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-01-28T00:00:00.000Z",
+    "match_id": 1193407262,
+    "duration (seconds)": 1689,
+    "match_patch": "(1193407262,6.83)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Wheel Whreck While Whistling",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-01-28T00:00:00.000Z",
+    "match_id": 1194642744,
+    "duration (seconds)": 2499,
+    "match_patch": "(1194642744,6.83)",
+    "Radiant Team": "Balkan Bears Corleone",
+    "radiant_score": 0,
+    "Dire Team": "xGame.kz",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-01-28T00:00:00.000Z",
+    "match_id": 1194849274,
+    "duration (seconds)": 2844,
+    "match_patch": "(1194849274,6.83)",
+    "Radiant Team": "xGame.kz",
+    "radiant_score": 0,
+    "Dire Team": "Balkan Bears Corleone",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-01-28T00:00:00.000Z",
+    "match_id": 1195068680,
+    "duration (seconds)": 1706,
+    "match_patch": "(1195068680,6.83)",
+    "Radiant Team": "Basically Unknown",
+    "radiant_score": 0,
+    "Dire Team": "Balkan Bears Corleone",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-01-28T00:00:00.000Z",
+    "match_id": 1195082919,
+    "duration (seconds)": 2028,
+    "match_patch": "(1195082919,6.83)",
+    "Radiant Team": "Virtus.pro",
+    "radiant_score": 0,
+    "Dire Team": "TEAMERINO TINKERINO",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-01-28T00:00:00.000Z",
+    "match_id": 1195182096,
+    "duration (seconds)": 2099,
+    "match_patch": "(1195182096,6.83)",
+    "Radiant Team": "Balkan Bears Corleone",
+    "radiant_score": 0,
+    "Dire Team": "Basically Unknown",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-01-28T00:00:00.000Z",
+    "match_id": 1195193678,
+    "duration (seconds)": 2436,
+    "match_patch": "(1195193678,6.83)",
+    "Radiant Team": "TEAMERINO TINKERINO",
+    "radiant_score": 0,
+    "Dire Team": "Virtus.pro",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-01-28T00:00:00.000Z",
+    "match_id": 1195291957,
+    "duration (seconds)": 1689,
+    "match_patch": "(1195291957,6.83)",
+    "Radiant Team": "Basically Unknown",
+    "radiant_score": 0,
+    "Dire Team": "Balkan Bears Corleone",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-01-28T00:00:00.000Z",
+    "match_id": 1195377220,
+    "duration (seconds)": 2099,
+    "match_patch": "(1195377220,6.83)",
+    "Radiant Team": "Balkan Bears Corleone",
+    "radiant_score": 0,
+    "Dire Team": "Basically Unknown",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-01-28T00:00:00.000Z",
+    "match_id": 1195422860,
+    "duration (seconds)": 1995,
+    "match_patch": "(1195422860,6.83)",
+    "Radiant Team": "TEAMERINO TINKERINO",
+    "radiant_score": 0,
+    "Dire Team": "Virtus.pro",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

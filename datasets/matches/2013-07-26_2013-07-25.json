@@ -1,0 +1,68 @@
+[
+  {
+    "date": "2013-07-25T00:00:00.000Z",
+    "match_id": 252801350,
+    "duration (seconds)": 2563,
+    "match_patch": "(252801350,6.78)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "iCCup Team",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-07-25T00:00:00.000Z",
+    "match_id": 252854170,
+    "duration (seconds)": 2880,
+    "match_patch": "(252854170,6.78)",
+    "Radiant Team": "iCCup Team",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-07-25T00:00:00.000Z",
+    "match_id": 252908972,
+    "duration (seconds)": 943,
+    "match_patch": "(252908972,6.78)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "iCCup Team",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-07-25T00:00:00.000Z",
+    "match_id": 252961271,
+    "duration (seconds)": 1364,
+    "match_patch": "(252961271,6.78)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Fnatic",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-07-25T00:00:00.000Z",
+    "match_id": 252994168,
+    "duration (seconds)": 3020,
+    "match_patch": "(252994168,6.78)",
+    "Radiant Team": "Fnatic",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-07-25T00:00:00.000Z",
+    "match_id": 253037640,
+    "duration (seconds)": 5786,
+    "match_patch": "(253037640,6.78)",
+    "Radiant Team": "Fnatic",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

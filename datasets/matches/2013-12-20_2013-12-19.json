@@ -1,0 +1,90 @@
+[
+  {
+    "date": "2013-12-19T00:00:00.000Z",
+    "match_id": 430262406,
+    "duration (seconds)": 2403,
+    "match_patch": "(430262406,6.79)",
+    "Radiant Team": "LGD-GAMING",
+    "radiant_score": 0,
+    "Dire Team": "Invictus Gaming",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-12-19T00:00:00.000Z",
+    "match_id": 430308470,
+    "duration (seconds)": 2367,
+    "match_patch": "(430308470,6.79)",
+    "Radiant Team": "Invictus Gaming",
+    "radiant_score": 0,
+    "Dire Team": "LGD-GAMING",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-12-19T00:00:00.000Z",
+    "match_id": 430608774,
+    "duration (seconds)": 967,
+    "match_patch": "(430608774,6.79)",
+    "Radiant Team": "DK",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-12-19T00:00:00.000Z",
+    "match_id": 430667161,
+    "duration (seconds)": 2928,
+    "match_patch": "(430667161,6.79)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "DK",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-12-19T00:00:00.000Z",
+    "match_id": 430898944,
+    "duration (seconds)": 3115,
+    "match_patch": "(430898944,6.79)",
+    "Radiant Team": "NRAGED.int",
+    "radiant_score": 0,
+    "Dire Team": "Relax, you are doing fine.",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-12-19T00:00:00.000Z",
+    "match_id": 430961002,
+    "duration (seconds)": 977,
+    "match_patch": "(430961002,6.79)",
+    "Radiant Team": "_PowerRangers",
+    "radiant_score": 0,
+    "Dire Team": "TheRerereTRY",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-12-19T00:00:00.000Z",
+    "match_id": 431039317,
+    "duration (seconds)": 3045,
+    "match_patch": "(431039317,6.79)",
+    "Radiant Team": "TheRerereTRY",
+    "radiant_score": 0,
+    "Dire Team": "_PowerRangers",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-12-19T00:00:00.000Z",
+    "match_id": 431131359,
+    "duration (seconds)": 2118,
+    "match_patch": "(431131359,6.79)",
+    "Radiant Team": "_PowerRangers",
+    "radiant_score": 0,
+    "Dire Team": "TheRerereTRY",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

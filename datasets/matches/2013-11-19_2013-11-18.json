@@ -1,0 +1,57 @@
+[
+  {
+    "date": "2013-11-18T00:00:00.000Z",
+    "match_id": 389714359,
+    "duration (seconds)": 2175,
+    "match_patch": "(389714359,6.78)",
+    "Radiant Team": ".TSG",
+    "radiant_score": 0,
+    "Dire Team": "GORILLA TACTICS",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-11-18T00:00:00.000Z",
+    "match_id": 389784953,
+    "duration (seconds)": 1689,
+    "match_patch": "(389784953,6.78)",
+    "Radiant Team": "GORILLA TACTICS",
+    "radiant_score": 0,
+    "Dire Team": ".TSG",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-11-18T00:00:00.000Z",
+    "match_id": 389900121,
+    "duration (seconds)": 1147,
+    "match_patch": "(389900121,6.78)",
+    "Radiant Team": "LGD-GAMING",
+    "radiant_score": 0,
+    "Dire Team": "D9.",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-11-18T00:00:00.000Z",
+    "match_id": 389962057,
+    "duration (seconds)": 1002,
+    "match_patch": "(389962057,6.78)",
+    "Radiant Team": "D9.",
+    "radiant_score": 0,
+    "Dire Team": "LGD-GAMING",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-11-18T00:00:00.000Z",
+    "match_id": 390506371,
+    "duration (seconds)": 2841,
+    "match_patch": "(390506371,6.78)",
+    "Radiant Team": "Team Liquid",
+    "radiant_score": 0,
+    "Dire Team": "Fnatic",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

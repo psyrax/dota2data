@@ -1,0 +1,57 @@
+[
+  {
+    "date": "2015-03-17T00:00:00.000Z",
+    "match_id": 1325943650,
+    "duration (seconds)": 1516,
+    "match_patch": "(1325943650,6.83)",
+    "Radiant Team": "Isurus Gaming HyperX",
+    "radiant_score": 0,
+    "Dire Team": "Battle Zone-",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-03-17T00:00:00.000Z",
+    "match_id": 1325946974,
+    "duration (seconds)": 2727,
+    "match_patch": "(1325946974,6.83)",
+    "Radiant Team": "New Rome",
+    "radiant_score": 0,
+    "Dire Team": "TaylorSwiftFans",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-03-17T00:00:00.000Z",
+    "match_id": 1325980612,
+    "duration (seconds)": 2087,
+    "match_patch": "(1325980612,6.83)",
+    "Radiant Team": "Battle Zone-",
+    "radiant_score": 0,
+    "Dire Team": "Isurus Gaming HyperX",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-03-17T00:00:00.000Z",
+    "match_id": 1327323584,
+    "duration (seconds)": 1369,
+    "match_patch": "(1327323584,6.83)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-03-17T00:00:00.000Z",
+    "match_id": 1328189736,
+    "duration (seconds)": 1730,
+    "match_patch": "(1328189736,6.83)",
+    "Radiant Team": "paiN Gaming",
+    "radiant_score": 0,
+    "Dire Team": "SwaG",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

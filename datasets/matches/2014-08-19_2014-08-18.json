@@ -1,0 +1,123 @@
+[
+  {
+    "date": "2014-08-18T00:00:00.000Z",
+    "match_id": 842225598,
+    "duration (seconds)": 1945,
+    "match_patch": "(842225598,6.81)",
+    "Radiant Team": "Plantronics Nv",
+    "radiant_score": 0,
+    "Dire Team": "Avant Garde Gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-08-18T00:00:00.000Z",
+    "match_id": 842302911,
+    "duration (seconds)": 1901,
+    "match_patch": "(842302911,6.81)",
+    "Radiant Team": "Avant Garde Gaming",
+    "radiant_score": 0,
+    "Dire Team": "Plantronics Nv",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-08-18T00:00:00.000Z",
+    "match_id": 842424004,
+    "duration (seconds)": 2965,
+    "match_patch": "(842424004,6.81)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-08-18T00:00:00.000Z",
+    "match_id": 842564670,
+    "duration (seconds)": 1741,
+    "match_patch": "(842564670,6.81)",
+    "Radiant Team": "Puberty Dream",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-08-18T00:00:00.000Z",
+    "match_id": 842653129,
+    "duration (seconds)": 2530,
+    "match_patch": "(842653129,6.81)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-08-18T00:00:00.000Z",
+    "match_id": 842768963,
+    "duration (seconds)": 3076,
+    "match_patch": "(842768963,6.81)",
+    "Radiant Team": "BMW Z4 Club",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-08-18T00:00:00.000Z",
+    "match_id": 843041382,
+    "duration (seconds)": 3228,
+    "match_patch": "(843041382,6.81)",
+    "Radiant Team": "e-Star.Dota2",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-08-18T00:00:00.000Z",
+    "match_id": 843161056,
+    "duration (seconds)": 972,
+    "match_patch": "(843161056,6.81)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "e-Star.Dota2",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-08-18T00:00:00.000Z",
+    "match_id": 843176987,
+    "duration (seconds)": 1771,
+    "match_patch": "(843176987,6.81)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Denial Esports.",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-08-18T00:00:00.000Z",
+    "match_id": 843232691,
+    "duration (seconds)": 3432,
+    "match_patch": "(843232691,6.81)",
+    "Radiant Team": "Denial Esports.",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-08-18T00:00:00.000Z",
+    "match_id": 843398970,
+    "duration (seconds)": 756,
+    "match_patch": "(843398970,6.81)",
+    "Radiant Team": "Team Bird's Nest",
+    "radiant_score": 0,
+    "Dire Team": "Team Vortex.PE",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

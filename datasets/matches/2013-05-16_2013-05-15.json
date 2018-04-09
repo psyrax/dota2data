@@ -1,0 +1,145 @@
+[
+  {
+    "date": "2013-05-15T00:00:00.000Z",
+    "match_id": 195821470,
+    "duration (seconds)": 1588,
+    "match_patch": "(195821470,6.77)",
+    "Radiant Team": "**singStars.Gaming",
+    "radiant_score": 0,
+    "Dire Team": "Invasion MUFC",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-05-15T00:00:00.000Z",
+    "match_id": 195847035,
+    "duration (seconds)": 1824,
+    "match_patch": "(195847035,6.77)",
+    "Radiant Team": "Invasion MUFC",
+    "radiant_score": 0,
+    "Dire Team": "**singStars.Gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-05-15T00:00:00.000Z",
+    "match_id": 195874540,
+    "duration (seconds)": 2475,
+    "match_patch": "(195874540,6.77)",
+    "Radiant Team": "**singStars.Gaming",
+    "radiant_score": 0,
+    "Dire Team": "Invasion MUFC",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-05-15T00:00:00.000Z",
+    "match_id": 195913561,
+    "duration (seconds)": 2580,
+    "match_patch": "(195913561,6.77)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "iCCup Team",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-05-15T00:00:00.000Z",
+    "match_id": 195919640,
+    "duration (seconds)": 3114,
+    "match_patch": "(195919640,6.77)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Zenith",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-05-15T00:00:00.000Z",
+    "match_id": 195952221,
+    "duration (seconds)": 1990,
+    "match_patch": "(195952221,6.77)",
+    "Radiant Team": "iCCup Team",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-05-15T00:00:00.000Z",
+    "match_id": 195967519,
+    "duration (seconds)": 1085,
+    "match_patch": "(195967519,6.77)",
+    "Radiant Team": "Zenith",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-05-15T00:00:00.000Z",
+    "match_id": 195992324,
+    "duration (seconds)": 2942,
+    "match_patch": "(195992324,6.77)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Zenith",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-05-15T00:00:00.000Z",
+    "match_id": 196005880,
+    "duration (seconds)": 1565,
+    "match_patch": "(196005880,6.77)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "iCCup Team",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-05-15T00:00:00.000Z",
+    "match_id": 196035178,
+    "duration (seconds)": 2363,
+    "match_patch": "(196035178,6.77)",
+    "Radiant Team": "QPAD Red Pandas",
+    "radiant_score": 0,
+    "Dire Team": "Evil Geniuses",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-05-15T00:00:00.000Z",
+    "match_id": 196077720,
+    "duration (seconds)": 2234,
+    "match_patch": "(196077720,6.77)",
+    "Radiant Team": "Evil Geniuses",
+    "radiant_score": 0,
+    "Dire Team": "QPAD Red Pandas",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-05-15T00:00:00.000Z",
+    "match_id": 196149733,
+    "duration (seconds)": 2311,
+    "match_patch": "(196149733,6.77)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Evil Geniuses",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-05-15T00:00:00.000Z",
+    "match_id": 196204777,
+    "duration (seconds)": 2037,
+    "match_patch": "(196204777,6.77)",
+    "Radiant Team": "Evil Geniuses",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

@@ -1,0 +1,211 @@
+[
+  {
+    "date": "2016-02-13T00:00:00.000Z",
+    "match_id": 2147761381,
+    "duration (seconds)": 2275,
+    "match_patch": "(2147761381,6.86)",
+    "Radiant Team": "Shazam~",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-02-13T00:00:00.000Z",
+    "match_id": 2147824328,
+    "duration (seconds)": 2587,
+    "match_patch": "(2147824328,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Shazam~",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-02-13T00:00:00.000Z",
+    "match_id": 2149401060,
+    "duration (seconds)": 2239,
+    "match_patch": "(2149401060,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-02-13T00:00:00.000Z",
+    "match_id": 2149540152,
+    "duration (seconds)": 1653,
+    "match_patch": "(2149540152,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-02-13T00:00:00.000Z",
+    "match_id": 2149543732,
+    "duration (seconds)": 2706,
+    "match_patch": "(2149543732,6.86)",
+    "Radiant Team": "Burden United",
+    "radiant_score": 0,
+    "Dire Team": "Team Empire",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-02-13T00:00:00.000Z",
+    "match_id": 2149650490,
+    "duration (seconds)": 1294,
+    "match_patch": "(2149650490,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-02-13T00:00:00.000Z",
+    "match_id": 2149700429,
+    "duration (seconds)": 1556,
+    "match_patch": "(2149700429,6.86)",
+    "Radiant Team": "Burden United",
+    "radiant_score": 0,
+    "Dire Team": "Team Empire",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-02-13T00:00:00.000Z",
+    "match_id": 2149805113,
+    "duration (seconds)": 1732,
+    "match_patch": "(2149805113,6.86)",
+    "Radiant Team": "Team Alternate Attax",
+    "radiant_score": 0,
+    "Dire Team": "Noo Logic Gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-02-13T00:00:00.000Z",
+    "match_id": 2149865586,
+    "duration (seconds)": 3384,
+    "match_patch": "(2149865586,6.86)",
+    "Radiant Team": "ABRAXAS.",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-02-13T00:00:00.000Z",
+    "match_id": 2149903269,
+    "duration (seconds)": 1784,
+    "match_patch": "(2149903269,6.86)",
+    "Radiant Team": "Noo Logic Gaming",
+    "radiant_score": 0,
+    "Dire Team": "Team Alternate Attax",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-02-13T00:00:00.000Z",
+    "match_id": 2149933175,
+    "duration (seconds)": 2871,
+    "match_patch": "(2149933175,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "London Conspiracy Dota2",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-02-13T00:00:00.000Z",
+    "match_id": 2149958569,
+    "duration (seconds)": 3255,
+    "match_patch": "(2149958569,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "TLC GAMING",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-02-13T00:00:00.000Z",
+    "match_id": 2150023130,
+    "duration (seconds)": 1927,
+    "match_patch": "(2150023130,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "ABRAXAS.",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-02-13T00:00:00.000Z",
+    "match_id": 2150061057,
+    "duration (seconds)": 1435,
+    "match_patch": "(2150061057,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "London Conspiracy Dota2",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-02-13T00:00:00.000Z",
+    "match_id": 2150098947,
+    "duration (seconds)": 1290,
+    "match_patch": "(2150098947,6.86)",
+    "Radiant Team": "TLC GAMING",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-02-13T00:00:00.000Z",
+    "match_id": 2150133499,
+    "duration (seconds)": 1522,
+    "match_patch": "(2150133499,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "London Conspiracy Dota2",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-02-13T00:00:00.000Z",
+    "match_id": 2150271573,
+    "duration (seconds)": 2289,
+    "match_patch": "(2150271573,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-02-13T00:00:00.000Z",
+    "match_id": 2150307007,
+    "duration (seconds)": 1946,
+    "match_patch": "(2150307007,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Balrogs e-Sport",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-02-13T00:00:00.000Z",
+    "match_id": 2150327978,
+    "duration (seconds)": 2420,
+    "match_patch": "(2150327978,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Team Freedom Dota 2",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

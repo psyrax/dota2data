@@ -1,0 +1,123 @@
+[
+  {
+    "date": "2015-03-12T00:00:00.000Z",
+    "match_id": 1312997485,
+    "duration (seconds)": 3094,
+    "match_patch": "(1312997485,6.83)",
+    "Radiant Team": "Megalodon Gaming.",
+    "radiant_score": 0,
+    "Dire Team": "Sad Voids",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-03-12T00:00:00.000Z",
+    "match_id": 1313062143,
+    "duration (seconds)": 3332,
+    "match_patch": "(1313062143,6.83)",
+    "Radiant Team": "Sad Voids",
+    "radiant_score": 0,
+    "Dire Team": "Megalodon Gaming.",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-03-12T00:00:00.000Z",
+    "match_id": 1314106905,
+    "duration (seconds)": 2785,
+    "match_patch": "(1314106905,6.83)",
+    "Radiant Team": "Awake ;)",
+    "radiant_score": 0,
+    "Dire Team": "First Departure",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-03-12T00:00:00.000Z",
+    "match_id": 1314279008,
+    "duration (seconds)": 2477,
+    "match_patch": "(1314279008,6.83)",
+    "Radiant Team": "First Departure",
+    "radiant_score": 0,
+    "Dire Team": "Awake ;)",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-03-12T00:00:00.000Z",
+    "match_id": 1314472244,
+    "duration (seconds)": 4477,
+    "match_patch": "(1314472244,6.83)",
+    "Radiant Team": "First Departure",
+    "radiant_score": 0,
+    "Dire Team": "Garuda Infinity",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-03-12T00:00:00.000Z",
+    "match_id": 1314482784,
+    "duration (seconds)": 2804,
+    "match_patch": "(1314482784,6.83)",
+    "Radiant Team": "Red Viperz Gaming",
+    "radiant_score": 0,
+    "Dire Team": "Team Burster",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-03-12T00:00:00.000Z",
+    "match_id": 1314644289,
+    "duration (seconds)": 2159,
+    "match_patch": "(1314644289,6.83)",
+    "Radiant Team": "Team Burster",
+    "radiant_score": 0,
+    "Dire Team": "Red Viperz Gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-03-12T00:00:00.000Z",
+    "match_id": 1314691931,
+    "duration (seconds)": 1894,
+    "match_patch": "(1314691931,6.83)",
+    "Radiant Team": "Garuda Infinity",
+    "radiant_score": 0,
+    "Dire Team": "First Departure",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-03-12T00:00:00.000Z",
+    "match_id": 1314850055,
+    "duration (seconds)": 3059,
+    "match_patch": "(1314850055,6.83)",
+    "Radiant Team": "aSpera ESports",
+    "radiant_score": 0,
+    "Dire Team": "made a team",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-03-12T00:00:00.000Z",
+    "match_id": 1315038019,
+    "duration (seconds)": 2464,
+    "match_patch": "(1315038019,6.83)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-03-12T00:00:00.000Z",
+    "match_id": 1315124709,
+    "duration (seconds)": 1036,
+    "match_patch": "(1315124709,6.83)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

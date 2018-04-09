@@ -1,0 +1,79 @@
+[
+  {
+    "date": "2014-01-07T00:00:00.000Z",
+    "match_id": 458802066,
+    "duration (seconds)": 2173,
+    "match_patch": "(458802066,6.79)",
+    "Radiant Team": "DK",
+    "radiant_score": 0,
+    "Dire Team": "Invictus Gaming",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-01-07T00:00:00.000Z",
+    "match_id": 458871507,
+    "duration (seconds)": 1991,
+    "match_patch": "(458871507,6.79)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "DuskBin E-Sports",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-01-07T00:00:00.000Z",
+    "match_id": 458885634,
+    "duration (seconds)": 1139,
+    "match_patch": "(458885634,6.79)",
+    "Radiant Team": "SpiritGamingVN",
+    "radiant_score": 0,
+    "Dire Team": "Team RevivaL",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-01-07T00:00:00.000Z",
+    "match_id": 458900527,
+    "duration (seconds)": 2258,
+    "match_patch": "(458900527,6.79)",
+    "Radiant Team": "Invictus Gaming",
+    "radiant_score": 0,
+    "Dire Team": "DK",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-01-07T00:00:00.000Z",
+    "match_id": 459489298,
+    "duration (seconds)": 1216,
+    "match_patch": "(459489298,6.79)",
+    "Radiant Team": "Alliance",
+    "radiant_score": 0,
+    "Dire Team": "Vici Gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-01-07T00:00:00.000Z",
+    "match_id": 459545054,
+    "duration (seconds)": 2008,
+    "match_patch": "(459545054,6.79)",
+    "Radiant Team": "Vici Gaming",
+    "radiant_score": 0,
+    "Dire Team": "Alliance",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-01-07T00:00:00.000Z",
+    "match_id": 459580021,
+    "duration (seconds)": 1434,
+    "match_patch": "(459580021,6.79)",
+    "Radiant Team": "Alliance",
+    "radiant_score": 0,
+    "Dire Team": "Vici Gaming",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

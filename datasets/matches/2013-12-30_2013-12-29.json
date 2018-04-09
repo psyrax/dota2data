@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2013-12-29T00:00:00.000Z",
+    "match_id": 444547010,
+    "duration (seconds)": 2023,
+    "match_patch": "(444547010,6.79)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Titan",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-12-29T00:00:00.000Z",
+    "match_id": 444588197,
+    "duration (seconds)": 2224,
+    "match_patch": "(444588197,6.79)",
+    "Radiant Team": "Titan",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-12-29T00:00:00.000Z",
+    "match_id": 444679444,
+    "duration (seconds)": 2207,
+    "match_patch": "(444679444,6.79)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Titan",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-12-29T00:00:00.000Z",
+    "match_id": 444741963,
+    "duration (seconds)": 2126,
+    "match_patch": "(444741963,6.79)",
+    "Radiant Team": "Titan",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

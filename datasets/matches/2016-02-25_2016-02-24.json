@@ -1,0 +1,90 @@
+[
+  {
+    "date": "2016-02-24T00:00:00.000Z",
+    "match_id": 2174219394,
+    "duration (seconds)": 1296,
+    "match_patch": "(2174219394,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "TLC GAMING",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-02-24T00:00:00.000Z",
+    "match_id": 2174252967,
+    "duration (seconds)": 2503,
+    "match_patch": "(2174252967,6.86)",
+    "Radiant Team": "TLC GAMING",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-02-24T00:00:00.000Z",
+    "match_id": 2175727806,
+    "duration (seconds)": 2080,
+    "match_patch": "(2175727806,6.86)",
+    "Radiant Team": "Enso",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-02-24T00:00:00.000Z",
+    "match_id": 2175943133,
+    "duration (seconds)": 1291,
+    "match_patch": "(2175943133,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-02-24T00:00:00.000Z",
+    "match_id": 2176031068,
+    "duration (seconds)": 2434,
+    "match_patch": "(2176031068,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-02-24T00:00:00.000Z",
+    "match_id": 2176201643,
+    "duration (seconds)": 1225,
+    "match_patch": "(2176201643,6.86)",
+    "Radiant Team": "Time Limit Draft",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-02-24T00:00:00.000Z",
+    "match_id": 2176247972,
+    "duration (seconds)": 826,
+    "match_patch": "(2176247972,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Time Limit Draft",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-02-24T00:00:00.000Z",
+    "match_id": 2176363477,
+    "duration (seconds)": 3508,
+    "match_patch": "(2176363477,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

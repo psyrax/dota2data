@@ -1,0 +1,134 @@
+[
+  {
+    "date": "2015-11-03T00:00:00.000Z",
+    "match_id": 1910370917,
+    "duration (seconds)": 1537,
+    "match_patch": "(1910370917,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Inquiring Restoration",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-11-03T00:00:00.000Z",
+    "match_id": 1910377993,
+    "duration (seconds)": 2201,
+    "match_patch": "(1910377993,6.85)",
+    "Radiant Team": "Atravesados Gaming",
+    "radiant_score": 0,
+    "Dire Team": "LEYHORSE...",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-11-03T00:00:00.000Z",
+    "match_id": 1910413848,
+    "duration (seconds)": 1282,
+    "match_patch": "(1910413848,6.85)",
+    "Radiant Team": "Inquiring Restoration",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-11-03T00:00:00.000Z",
+    "match_id": 1910426618,
+    "duration (seconds)": 1780,
+    "match_patch": "(1910426618,6.85)",
+    "Radiant Team": "LEYHORSE...",
+    "radiant_score": 0,
+    "Dire Team": "Atravesados Gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-11-03T00:00:00.000Z",
+    "match_id": 1910465050,
+    "duration (seconds)": 2614,
+    "match_patch": "(1910465050,6.85)",
+    "Radiant Team": "EkizX",
+    "radiant_score": 0,
+    "Dire Team": "The Rainbow side",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-11-03T00:00:00.000Z",
+    "match_id": 1910485153,
+    "duration (seconds)": 1018,
+    "match_patch": "(1910485153,6.85)",
+    "Radiant Team": "G.G_Team",
+    "radiant_score": 0,
+    "Dire Team": "Mollusks Reborn",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-11-03T00:00:00.000Z",
+    "match_id": 1910497356,
+    "duration (seconds)": 2291,
+    "match_patch": "(1910497356,6.85)",
+    "Radiant Team": "Redencion Ec",
+    "radiant_score": 0,
+    "Dire Team": "LUCCINI GAM1NG",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-11-03T00:00:00.000Z",
+    "match_id": 1910571742,
+    "duration (seconds)": 2350,
+    "match_patch": "(1910571742,6.85)",
+    "Radiant Team": "Tico Gamers",
+    "radiant_score": 0,
+    "Dire Team": "eXtreme GamerZ CR",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-11-03T00:00:00.000Z",
+    "match_id": 1911172494,
+    "duration (seconds)": 1989,
+    "match_patch": "(1911172494,6.85)",
+    "Radiant Team": "Team Vanquisher",
+    "radiant_score": 0,
+    "Dire Team": "Zero Latitude",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-11-03T00:00:00.000Z",
+    "match_id": 1911350545,
+    "duration (seconds)": 3759,
+    "match_patch": "(1911350545,6.85)",
+    "Radiant Team": "Zero Latitude",
+    "radiant_score": 0,
+    "Dire Team": "LaviveR Stropse",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-11-03T00:00:00.000Z",
+    "match_id": 1911699406,
+    "duration (seconds)": 2601,
+    "match_patch": "(1911699406,6.85)",
+    "Radiant Team": "LaviveR Stropse",
+    "radiant_score": 0,
+    "Dire Team": "Zero Latitude",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-11-03T00:00:00.000Z",
+    "match_id": 1912612232,
+    "duration (seconds)": 878,
+    "match_patch": "(1912612232,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "LUCCINI GAM1NG",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

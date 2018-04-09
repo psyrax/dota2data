@@ -1,0 +1,101 @@
+[
+  {
+    "date": "2015-07-24T00:00:00.000Z",
+    "match_id": 1656098590,
+    "duration (seconds)": 1510,
+    "match_patch": "(1656098590,6.84)",
+    "Radiant Team": "paiN Gaming",
+    "radiant_score": 0,
+    "Dire Team": "Too Easy For",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-07-24T00:00:00.000Z",
+    "match_id": 1656145801,
+    "duration (seconds)": 2169,
+    "match_patch": "(1656145801,6.84)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Megalodon Gaming.",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-07-24T00:00:00.000Z",
+    "match_id": 1656240682,
+    "duration (seconds)": 1264,
+    "match_patch": "(1656240682,6.84)",
+    "Radiant Team": "FAKE eSports",
+    "radiant_score": 0,
+    "Dire Team": "Mad Wraith King",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-07-24T00:00:00.000Z",
+    "match_id": 1656258884,
+    "duration (seconds)": 1553,
+    "match_patch": "(1656258884,6.84)",
+    "Radiant Team": "try hard again",
+    "radiant_score": 0,
+    "Dire Team": "SouL Eater Players~",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-07-24T00:00:00.000Z",
+    "match_id": 1656899524,
+    "duration (seconds)": 1984,
+    "match_patch": "(1656899524,6.84)",
+    "Radiant Team": "DeMoNz Gaming",
+    "radiant_score": 0,
+    "Dire Team": "TwentyTwo",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-07-24T00:00:00.000Z",
+    "match_id": 1656986144,
+    "duration (seconds)": 1774,
+    "match_patch": "(1656986144,6.84)",
+    "Radiant Team": "TwentyTwo",
+    "radiant_score": 0,
+    "Dire Team": "DeMoNz Gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-07-24T00:00:00.000Z",
+    "match_id": 1657922145,
+    "duration (seconds)": 2477,
+    "match_patch": "(1657922145,6.84)",
+    "Radiant Team": "ultra trajharderi",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-07-24T00:00:00.000Z",
+    "match_id": 1658054424,
+    "duration (seconds)": 1190,
+    "match_patch": "(1658054424,6.84)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "ultra trajharderi",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-07-24T00:00:00.000Z",
+    "match_id": 1658587420,
+    "duration (seconds)": 1657,
+    "match_patch": "(1658587420,6.84)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

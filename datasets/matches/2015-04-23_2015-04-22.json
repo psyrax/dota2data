@@ -1,0 +1,90 @@
+[
+  {
+    "date": "2015-04-22T00:00:00.000Z",
+    "match_id": 1415253763,
+    "duration (seconds)": 2307,
+    "match_patch": "(1415253763,6.83)",
+    "Radiant Team": "Isurus Gaming HyperX",
+    "radiant_score": 0,
+    "Dire Team": "Battle Zone-",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-04-22T00:00:00.000Z",
+    "match_id": 1415317979,
+    "duration (seconds)": 1487,
+    "match_patch": "(1415317979,6.83)",
+    "Radiant Team": "Battle Zone-",
+    "radiant_score": 0,
+    "Dire Team": "Isurus Gaming HyperX",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-04-22T00:00:00.000Z",
+    "match_id": 1415701938,
+    "duration (seconds)": 1522,
+    "match_patch": "(1415701938,6.83)",
+    "Radiant Team": "MEKA.Tt eSPORT",
+    "radiant_score": 0,
+    "Dire Team": "Dig Bigger Nick",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-04-22T00:00:00.000Z",
+    "match_id": 1416297396,
+    "duration (seconds)": 2465,
+    "match_patch": "(1416297396,6.83)",
+    "Radiant Team": "_PowerRangers",
+    "radiant_score": 0,
+    "Dire Team": "Vega Squadron",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-04-22T00:00:00.000Z",
+    "match_id": 1416832143,
+    "duration (seconds)": 2626,
+    "match_patch": "(1416832143,6.83)",
+    "Radiant Team": "STARK.gg",
+    "radiant_score": 0,
+    "Dire Team": "Burden United",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-04-22T00:00:00.000Z",
+    "match_id": 1416942077,
+    "duration (seconds)": 2005,
+    "match_patch": "(1416942077,6.83)",
+    "Radiant Team": "Burden United",
+    "radiant_score": 0,
+    "Dire Team": "STARK.gg",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-04-22T00:00:00.000Z",
+    "match_id": 1416963822,
+    "duration (seconds)": 2092,
+    "match_patch": "(1416963822,6.83)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "GOOMBA Gamingg",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-04-22T00:00:00.000Z",
+    "match_id": 1417022717,
+    "duration (seconds)": 2031,
+    "match_patch": "(1417022717,6.83)",
+    "Radiant Team": "STARK.gg",
+    "radiant_score": 0,
+    "Dire Team": "Burden United",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

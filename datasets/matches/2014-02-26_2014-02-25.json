@@ -1,0 +1,145 @@
+[
+  {
+    "date": "2014-02-25T00:00:00.000Z",
+    "match_id": 537675593,
+    "duration (seconds)": 2701,
+    "match_patch": "(537675593,6.80)",
+    "Radiant Team": "Cede.Nullis",
+    "radiant_score": 0,
+    "Dire Team": "Revenge-",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-02-25T00:00:00.000Z",
+    "match_id": 537692018,
+    "duration (seconds)": 2333,
+    "match_patch": "(537692018,6.80)",
+    "Radiant Team": "Revenge-",
+    "radiant_score": 0,
+    "Dire Team": "Cede.Nullis",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-02-25T00:00:00.000Z",
+    "match_id": 537735979,
+    "duration (seconds)": 2153,
+    "match_patch": "(537735979,6.80)",
+    "Radiant Team": "Denial eSports'",
+    "radiant_score": 0,
+    "Dire Team": "SwaG",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-02-25T00:00:00.000Z",
+    "match_id": 537770573,
+    "duration (seconds)": 3495,
+    "match_patch": "(537770573,6.80)",
+    "Radiant Team": "SwaG",
+    "radiant_score": 0,
+    "Dire Team": "Denial eSports'",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-02-25T00:00:00.000Z",
+    "match_id": 538209343,
+    "duration (seconds)": 1544,
+    "match_patch": "(538209343,6.80)",
+    "Radiant Team": "Sahara.Zero Latitude",
+    "radiant_score": 0,
+    "Dire Team": "Monkey Spanner",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-02-25T00:00:00.000Z",
+    "match_id": 538272183,
+    "duration (seconds)": 1389,
+    "match_patch": "(538272183,6.80)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Sahara.Zero Latitude",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-02-25T00:00:00.000Z",
+    "match_id": 538625884,
+    "duration (seconds)": 1030,
+    "match_patch": "(538625884,6.80)",
+    "Radiant Team": "Sensei gaming.mtrx",
+    "radiant_score": 0,
+    "Dire Team": "4 Friends + Chrillee",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-02-25T00:00:00.000Z",
+    "match_id": 538674319,
+    "duration (seconds)": 2576,
+    "match_patch": "(538674319,6.80)",
+    "Radiant Team": "Natus Vincere",
+    "radiant_score": 0,
+    "Dire Team": "Team Empire",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-02-25T00:00:00.000Z",
+    "match_id": 538674462,
+    "duration (seconds)": 2910,
+    "match_patch": "(538674462,6.80)",
+    "Radiant Team": "4 Friends + Chrillee",
+    "radiant_score": 0,
+    "Dire Team": "Sensei gaming.mtrx",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-02-25T00:00:00.000Z",
+    "match_id": 538749356,
+    "duration (seconds)": 1859,
+    "match_patch": "(538749356,6.80)",
+    "Radiant Team": "Team Empire",
+    "radiant_score": 0,
+    "Dire Team": "Natus Vincere",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-02-25T00:00:00.000Z",
+    "match_id": 538795371,
+    "duration (seconds)": 2916,
+    "match_patch": "(538795371,6.80)",
+    "Radiant Team": "Natus Vincere",
+    "radiant_score": 0,
+    "Dire Team": "Team Empire",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-02-25T00:00:00.000Z",
+    "match_id": 538855139,
+    "duration (seconds)": 1430,
+    "match_patch": "(538855139,6.80)",
+    "Radiant Team": "",
+    "radiant_score": 0,
+    "Dire Team": "Revenge-",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-02-25T00:00:00.000Z",
+    "match_id": 538882608,
+    "duration (seconds)": 1465,
+    "match_patch": "(538882608,6.80)",
+    "Radiant Team": "Revenge-",
+    "radiant_score": 0,
+    "Dire Team": "",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

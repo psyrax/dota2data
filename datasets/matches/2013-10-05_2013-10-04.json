@@ -1,0 +1,90 @@
+[
+  {
+    "date": "2013-10-04T00:00:00.000Z",
+    "match_id": 332413830,
+    "duration (seconds)": 2176,
+    "match_patch": "(332413830,6.78)",
+    "Radiant Team": "LGD-GAMING.int",
+    "radiant_score": 0,
+    "Dire Team": "Hyper Glory Team",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-10-04T00:00:00.000Z",
+    "match_id": 332472489,
+    "duration (seconds)": 2767,
+    "match_patch": "(332472489,6.78)",
+    "Radiant Team": "Hyper Glory Team",
+    "radiant_score": 0,
+    "Dire Team": "LGD-GAMING.int",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-10-04T00:00:00.000Z",
+    "match_id": 332595216,
+    "duration (seconds)": 1928,
+    "match_patch": "(332595216,6.78)",
+    "Radiant Team": "DK",
+    "radiant_score": 0,
+    "Dire Team": "**singStars.Gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-10-04T00:00:00.000Z",
+    "match_id": 332687592,
+    "duration (seconds)": 1380,
+    "match_patch": "(332687592,6.78)",
+    "Radiant Team": "**singStars.Gaming",
+    "radiant_score": 0,
+    "Dire Team": "DK",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-10-04T00:00:00.000Z",
+    "match_id": 332940147,
+    "duration (seconds)": 2830,
+    "match_patch": "(332940147,6.78)",
+    "Radiant Team": "PO5EiDON",
+    "radiant_score": 0,
+    "Dire Team": "Natus Vincere",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-10-04T00:00:00.000Z",
+    "match_id": 333021778,
+    "duration (seconds)": 672,
+    "match_patch": "(333021778,6.78)",
+    "Radiant Team": "Natus Vincere",
+    "radiant_score": 0,
+    "Dire Team": "PO5EiDON",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-10-04T00:00:00.000Z",
+    "match_id": 333095931,
+    "duration (seconds)": 1318,
+    "match_patch": "(333095931,6.78)",
+    "Radiant Team": "Radical Online X-tremists",
+    "radiant_score": 0,
+    "Dire Team": "Fnatic",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-10-04T00:00:00.000Z",
+    "match_id": 333143019,
+    "duration (seconds)": 2022,
+    "match_patch": "(333143019,6.78)",
+    "Radiant Team": "Fnatic",
+    "radiant_score": 0,
+    "Dire Team": "Radical Online X-tremists",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

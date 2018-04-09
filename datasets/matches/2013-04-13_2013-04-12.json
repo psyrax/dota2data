@@ -1,0 +1,24 @@
+[
+  {
+    "date": "2013-04-12T00:00:00.000Z",
+    "match_id": 171462405,
+    "duration (seconds)": 2277,
+    "match_patch": "(171462405,6.77)",
+    "Radiant Team": "Fnatic",
+    "radiant_score": 0,
+    "Dire Team": "Team Empire",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-04-12T00:00:00.000Z",
+    "match_id": 171521586,
+    "duration (seconds)": 2533,
+    "match_patch": "(171521586,6.77)",
+    "Radiant Team": "Team Empire",
+    "radiant_score": 0,
+    "Dire Team": "Fnatic",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

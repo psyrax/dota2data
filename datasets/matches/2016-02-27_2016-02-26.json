@@ -1,0 +1,24 @@
+[
+  {
+    "date": "2016-02-26T00:00:00.000Z",
+    "match_id": 2180756773,
+    "duration (seconds)": 1081,
+    "match_patch": "(2180756773,6.86)",
+    "Radiant Team": "Res Non Verba",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-02-26T00:00:00.000Z",
+    "match_id": 2180813369,
+    "duration (seconds)": 1640,
+    "match_patch": "(2180813369,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Res Non Verba",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

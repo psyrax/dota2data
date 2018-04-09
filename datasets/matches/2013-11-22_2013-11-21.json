@@ -1,0 +1,123 @@
+[
+  {
+    "date": "2013-11-21T00:00:00.000Z",
+    "match_id": 393503830,
+    "duration (seconds)": 1382,
+    "match_patch": "(393503830,6.78)",
+    "Radiant Team": "LGD-GAMING",
+    "radiant_score": 0,
+    "Dire Team": "RaTtLeSnAkE. CN GaMiNg",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-11-21T00:00:00.000Z",
+    "match_id": 393546555,
+    "duration (seconds)": 2204,
+    "match_patch": "(393546555,6.78)",
+    "Radiant Team": "RaTtLeSnAkE. CN GaMiNg",
+    "radiant_score": 0,
+    "Dire Team": "LGD-GAMING",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-11-21T00:00:00.000Z",
+    "match_id": 393555143,
+    "duration (seconds)": 2800,
+    "match_patch": "(393555143,6.78)",
+    "Radiant Team": "Celestial eSports",
+    "radiant_score": 0,
+    "Dire Team": "DotA with Honor",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-11-21T00:00:00.000Z",
+    "match_id": 393610834,
+    "duration (seconds)": 1056,
+    "match_patch": "(393610834,6.78)",
+    "Radiant Team": "Team StarTale",
+    "radiant_score": 0,
+    "Dire Team": "TongFuCN",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-11-21T00:00:00.000Z",
+    "match_id": 393620652,
+    "duration (seconds)": 1319,
+    "match_patch": "(393620652,6.78)",
+    "Radiant Team": "DotA with Honor",
+    "radiant_score": 0,
+    "Dire Team": "Celestial eSports",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-11-21T00:00:00.000Z",
+    "match_id": 393657106,
+    "duration (seconds)": 1738,
+    "match_patch": "(393657106,6.78)",
+    "Radiant Team": "Team StarTale",
+    "radiant_score": 0,
+    "Dire Team": "TongFuCN",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-11-21T00:00:00.000Z",
+    "match_id": 393694218,
+    "duration (seconds)": 1964,
+    "match_patch": "(393694218,6.78)",
+    "Radiant Team": "Invictus Gaming",
+    "radiant_score": 0,
+    "Dire Team": "**singStars.Gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-11-21T00:00:00.000Z",
+    "match_id": 393739998,
+    "duration (seconds)": 823,
+    "match_patch": "(393739998,6.78)",
+    "Radiant Team": "Hyper Glory Team",
+    "radiant_score": 0,
+    "Dire Team": "Grace^",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-11-21T00:00:00.000Z",
+    "match_id": 393760723,
+    "duration (seconds)": 1830,
+    "match_patch": "(393760723,6.78)",
+    "Radiant Team": "**singStars.Gaming",
+    "radiant_score": 0,
+    "Dire Team": "Invictus Gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-11-21T00:00:00.000Z",
+    "match_id": 393810570,
+    "duration (seconds)": 1321,
+    "match_patch": "(393810570,6.78)",
+    "Radiant Team": "Team HT",
+    "radiant_score": 0,
+    "Dire Team": "New Element",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-11-21T00:00:00.000Z",
+    "match_id": 393904069,
+    "duration (seconds)": 1105,
+    "match_patch": "(393904069,6.78)",
+    "Radiant Team": "LvYexIanZong",
+    "radiant_score": 0,
+    "Dire Team": "Minibus drivers",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

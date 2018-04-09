@@ -1,0 +1,35 @@
+[
+  {
+    "date": "2015-08-09T00:00:00.000Z",
+    "match_id": 1697754552,
+    "duration (seconds)": 1339,
+    "match_patch": "(1697754552,6.84)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Mollusks Reborn",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-08-09T00:00:00.000Z",
+    "match_id": 1697862819,
+    "duration (seconds)": 1923,
+    "match_patch": "(1697862819,6.84)",
+    "Radiant Team": "Farm For Fame.",
+    "radiant_score": 0,
+    "Dire Team": "Balrogs e-Sport",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-08-09T00:00:00.000Z",
+    "match_id": 1700719575,
+    "duration (seconds)": 2677,
+    "match_patch": "(1700719575,6.84)",
+    "Radiant Team": "Arenales Net Gaming",
+    "radiant_score": 0,
+    "Dire Team": ".Skynet.",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

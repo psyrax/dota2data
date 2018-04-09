@@ -1,0 +1,90 @@
+[
+  {
+    "date": "2014-02-28T00:00:00.000Z",
+    "match_id": 542390297,
+    "duration (seconds)": 2625,
+    "match_patch": "(542390297,6.80)",
+    "Radiant Team": "Newbee",
+    "radiant_score": 0,
+    "Dire Team": "Vici Gaming",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-02-28T00:00:00.000Z",
+    "match_id": 542487791,
+    "duration (seconds)": 1467,
+    "match_patch": "(542487791,6.80)",
+    "Radiant Team": "Vici Gaming",
+    "radiant_score": 0,
+    "Dire Team": "Newbee",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-02-28T00:00:00.000Z",
+    "match_id": 542535665,
+    "duration (seconds)": 2528,
+    "match_patch": "(542535665,6.80)",
+    "Radiant Team": "_PowerRangers",
+    "radiant_score": 0,
+    "Dire Team": "Radical Online X-tremists",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-02-28T00:00:00.000Z",
+    "match_id": 542623095,
+    "duration (seconds)": 2536,
+    "match_patch": "(542623095,6.80)",
+    "Radiant Team": "Radical Online X-tremists",
+    "radiant_score": 0,
+    "Dire Team": "_PowerRangers",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-02-28T00:00:00.000Z",
+    "match_id": 542623141,
+    "duration (seconds)": 923,
+    "match_patch": "(542623141,6.80)",
+    "Radiant Team": "Evil Geniuses",
+    "radiant_score": 0,
+    "Dire Team": "Revenge-",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-02-28T00:00:00.000Z",
+    "match_id": 542697464,
+    "duration (seconds)": 1479,
+    "match_patch": "(542697464,6.80)",
+    "Radiant Team": "_PowerRangers",
+    "radiant_score": 0,
+    "Dire Team": "Radical Online X-tremists",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-02-28T00:00:00.000Z",
+    "match_id": 542898038,
+    "duration (seconds)": 1740,
+    "match_patch": "(542898038,6.80)",
+    "Radiant Team": "Evil Geniuses",
+    "radiant_score": 0,
+    "Dire Team": "team wild witch doctors",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-02-28T00:00:00.000Z",
+    "match_id": 542919859,
+    "duration (seconds)": 2709,
+    "match_patch": "(542919859,6.80)",
+    "Radiant Team": "team wild witch doctors",
+    "radiant_score": 0,
+    "Dire Team": "Evil Geniuses",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

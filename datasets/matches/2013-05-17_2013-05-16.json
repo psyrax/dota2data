@@ -1,0 +1,68 @@
+[
+  {
+    "date": "2013-05-16T00:00:00.000Z",
+    "match_id": 196540752,
+    "duration (seconds)": 2578,
+    "match_patch": "(196540752,6.77)",
+    "Radiant Team": "ViCi Gaming__",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-05-16T00:00:00.000Z",
+    "match_id": 196588470,
+    "duration (seconds)": 2594,
+    "match_patch": "(196588470,6.77)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "ViCi Gaming__",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-05-16T00:00:00.000Z",
+    "match_id": 196671852,
+    "duration (seconds)": 1923,
+    "match_patch": "(196671852,6.77)",
+    "Radiant Team": "QPAD Red Pandas",
+    "radiant_score": 0,
+    "Dire Team": "iCCup Team",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-05-16T00:00:00.000Z",
+    "match_id": 196711079,
+    "duration (seconds)": 1966,
+    "match_patch": "(196711079,6.77)",
+    "Radiant Team": "iCCup Team",
+    "radiant_score": 0,
+    "Dire Team": "QPAD Red Pandas",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-05-16T00:00:00.000Z",
+    "match_id": 196801820,
+    "duration (seconds)": 1881,
+    "match_patch": "(196801820,6.77)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "QPAD Red Pandas",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-05-16T00:00:00.000Z",
+    "match_id": 196836228,
+    "duration (seconds)": 1419,
+    "match_patch": "(196836228,6.77)",
+    "Radiant Team": "QPAD Red Pandas",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

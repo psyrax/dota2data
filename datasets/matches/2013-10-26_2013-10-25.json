@@ -1,0 +1,68 @@
+[
+  {
+    "date": "2013-10-25T00:00:00.000Z",
+    "match_id": 357940001,
+    "duration (seconds)": 2104,
+    "match_patch": "(357940001,6.78)",
+    "Radiant Team": "Invictus Gaming",
+    "radiant_score": 0,
+    "Dire Team": "TongFu.WanZhou",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-10-25T00:00:00.000Z",
+    "match_id": 357987271,
+    "duration (seconds)": 830,
+    "match_patch": "(357987271,6.78)",
+    "Radiant Team": "TongFu.WanZhou",
+    "radiant_score": 0,
+    "Dire Team": "Invictus Gaming",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-10-25T00:00:00.000Z",
+    "match_id": 358091459,
+    "duration (seconds)": 2370,
+    "match_patch": "(358091459,6.78)",
+    "Radiant Team": "Vici Gaming",
+    "radiant_score": 0,
+    "Dire Team": "DK",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-10-25T00:00:00.000Z",
+    "match_id": 358166870,
+    "duration (seconds)": 1360,
+    "match_patch": "(358166870,6.78)",
+    "Radiant Team": "DK",
+    "radiant_score": 0,
+    "Dire Team": "Vici Gaming",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-10-25T00:00:00.000Z",
+    "match_id": 358389312,
+    "duration (seconds)": 3342,
+    "match_patch": "(358389312,6.78)",
+    "Radiant Team": "Natus Vincere",
+    "radiant_score": 0,
+    "Dire Team": "Alliance",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-10-25T00:00:00.000Z",
+    "match_id": 358502453,
+    "duration (seconds)": 2343,
+    "match_patch": "(358502453,6.78)",
+    "Radiant Team": "Alliance",
+    "radiant_score": 0,
+    "Dire Team": "Natus Vincere",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

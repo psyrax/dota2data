@@ -1,0 +1,79 @@
+[
+  {
+    "date": "2014-08-11T00:00:00.000Z",
+    "match_id": 829349377,
+    "duration (seconds)": 2404,
+    "match_patch": "(829349377,6.81)",
+    "Radiant Team": "HappyFiveFriendss",
+    "radiant_score": 0,
+    "Dire Team": "SoMajkaTi",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-08-11T00:00:00.000Z",
+    "match_id": 829408757,
+    "duration (seconds)": 933,
+    "match_patch": "(829408757,6.81)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-08-11T00:00:00.000Z",
+    "match_id": 829479038,
+    "duration (seconds)": 939,
+    "match_patch": "(829479038,6.81)",
+    "Radiant Team": "Fiery Poops",
+    "radiant_score": 0,
+    "Dire Team": "Magnum Barba Vestesque",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-08-11T00:00:00.000Z",
+    "match_id": 829565962,
+    "duration (seconds)": 1669,
+    "match_patch": "(829565962,6.81)",
+    "Radiant Team": "Fiery Poops",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-08-11T00:00:00.000Z",
+    "match_id": 829673164,
+    "duration (seconds)": 3297,
+    "match_patch": "(829673164,6.81)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "The cPY",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-08-11T00:00:00.000Z",
+    "match_id": 829845543,
+    "duration (seconds)": 1038,
+    "match_patch": "(829845543,6.81)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-08-11T00:00:00.000Z",
+    "match_id": 829859516,
+    "duration (seconds)": 2409,
+    "match_patch": "(829859516,6.81)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "THE SOUL HUNTER",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

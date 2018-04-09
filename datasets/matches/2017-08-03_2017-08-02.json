@@ -1,38 +1,24 @@
 [
   {
+    "date": "2017-08-02T00:00:00.000Z",
     "match_id": 3351210114,
-    "avg": "2655.0000000000000000",
-    "count": 1,
-    "winrate": 0.5,
-    "winrate_wilson": 0.236589593615487,
-    "sum": 26550,
-    "min": 2655,
-    "max": 2655,
+    "duration (seconds)": 2655,
     "match_patch": "(3351210114,7.06)",
-    "radiant_team_id": 4483681,
-    "dire_team_id": 4542817,
-    "radiant_win": false,
+    "Radiant Team": "Team Potential",
     "radiant_score": 36,
+    "Dire Team": "Washed Up",
     "dire_score": 46,
-    "start_time": 1501664504,
-    "League": "AEF Season 2"
+    "Winner": "Dire"
   },
   {
+    "date": "2017-08-02T00:00:00.000Z",
     "match_id": 3351298199,
-    "avg": "1395.0000000000000000",
-    "count": 1,
-    "winrate": 0.5,
-    "winrate_wilson": 0.236589593615487,
-    "sum": 13950,
-    "min": 1395,
-    "max": 1395,
+    "duration (seconds)": 1395,
     "match_patch": "(3351298199,7.06)",
-    "radiant_team_id": 4483681,
-    "dire_team_id": 4542817,
-    "radiant_win": false,
+    "Radiant Team": "Team Potential",
     "radiant_score": 17,
+    "Dire Team": "Washed Up",
     "dire_score": 27,
-    "start_time": 1501668252,
-    "League": "AEF Season 2"
+    "Winner": "Dire"
   }
 ]

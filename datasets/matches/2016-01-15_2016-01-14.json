@@ -1,0 +1,134 @@
+[
+  {
+    "date": "2016-01-14T00:00:00.000Z",
+    "match_id": 2076721076,
+    "duration (seconds)": 1481,
+    "match_patch": "(2076721076,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Subte Gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-01-14T00:00:00.000Z",
+    "match_id": 2076726393,
+    "duration (seconds)": 2281,
+    "match_patch": "(2076726393,6.86)",
+    "Radiant Team": "chupapingas",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-01-14T00:00:00.000Z",
+    "match_id": 2076746078,
+    "duration (seconds)": 1948,
+    "match_patch": "(2076746078,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-01-14T00:00:00.000Z",
+    "match_id": 2076762699,
+    "duration (seconds)": 1797,
+    "match_patch": "(2076762699,6.86)",
+    "Radiant Team": "Subte Gaming",
+    "radiant_score": 0,
+    "Dire Team": "Artyk Gaming #",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-01-14T00:00:00.000Z",
+    "match_id": 2076791497,
+    "duration (seconds)": 1032,
+    "match_patch": "(2076791497,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-01-14T00:00:00.000Z",
+    "match_id": 2078341854,
+    "duration (seconds)": 2103,
+    "match_patch": "(2078341854,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Team Finland",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-01-14T00:00:00.000Z",
+    "match_id": 2078350381,
+    "duration (seconds)": 1414,
+    "match_patch": "(2078350381,6.86)",
+    "Radiant Team": "Team Alternate Attax",
+    "radiant_score": 0,
+    "Dire Team": "Fantastic Five",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-01-14T00:00:00.000Z",
+    "match_id": 2078440824,
+    "duration (seconds)": 2784,
+    "match_patch": "(2078440824,6.86)",
+    "Radiant Team": "Fantastic Five",
+    "radiant_score": 0,
+    "Dire Team": "Team Alternate Attax",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-01-14T00:00:00.000Z",
+    "match_id": 2078444970,
+    "duration (seconds)": 2509,
+    "match_patch": "(2078444970,6.86)",
+    "Radiant Team": "STARK.gg",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-01-14T00:00:00.000Z",
+    "match_id": 2078555302,
+    "duration (seconds)": 1583,
+    "match_patch": "(2078555302,6.86)",
+    "Radiant Team": "Team Alternate Attax",
+    "radiant_score": 0,
+    "Dire Team": "Fantastic Five",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-01-14T00:00:00.000Z",
+    "match_id": 2078638508,
+    "duration (seconds)": 2806,
+    "match_patch": "(2078638508,6.86)",
+    "Radiant Team": "COOKISS",
+    "radiant_score": 0,
+    "Dire Team": "Fantastic Five",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-01-14T00:00:00.000Z",
+    "match_id": 2078727168,
+    "duration (seconds)": 1624,
+    "match_patch": "(2078727168,6.86)",
+    "Radiant Team": "Fantastic Five",
+    "radiant_score": 0,
+    "Dire Team": "COOKISS",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

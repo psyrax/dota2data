@@ -1,0 +1,200 @@
+[
+  {
+    "date": "2015-12-13T00:00:00.000Z",
+    "match_id": 1998937896,
+    "duration (seconds)": 2582,
+    "match_patch": "(1998937896,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "babeh gaming",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-12-13T00:00:00.000Z",
+    "match_id": 1999060593,
+    "duration (seconds)": 978,
+    "match_patch": "(1999060593,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Kanaya",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-12-13T00:00:00.000Z",
+    "match_id": 1999068306,
+    "duration (seconds)": 2577,
+    "match_patch": "(1999068306,6.85)",
+    "Radiant Team": "X-ALX",
+    "radiant_score": 0,
+    "Dire Team": "RevivaL.eSports",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-12-13T00:00:00.000Z",
+    "match_id": 1999163830,
+    "duration (seconds)": 908,
+    "match_patch": "(1999163830,6.85)",
+    "Radiant Team": "GGA.Plus+",
+    "radiant_score": 0,
+    "Dire Team": "LPG.",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-12-13T00:00:00.000Z",
+    "match_id": 1999281050,
+    "duration (seconds)": 1918,
+    "match_patch": "(1999281050,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "babeh gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-12-13T00:00:00.000Z",
+    "match_id": 1999428389,
+    "duration (seconds)": 2365,
+    "match_patch": "(1999428389,6.85)",
+    "Radiant Team": "X-ALX",
+    "radiant_score": 0,
+    "Dire Team": "GGA.Plus+",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-12-13T00:00:00.000Z",
+    "match_id": 1999576703,
+    "duration (seconds)": 2417,
+    "match_patch": "(1999576703,6.85)",
+    "Radiant Team": "babeh gaming",
+    "radiant_score": 0,
+    "Dire Team": "GGA.Plus+",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-12-13T00:00:00.000Z",
+    "match_id": 1999813908,
+    "duration (seconds)": 3183,
+    "match_patch": "(1999813908,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "X-ALX",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-12-13T00:00:00.000Z",
+    "match_id": 2000008972,
+    "duration (seconds)": 3062,
+    "match_patch": "(2000008972,6.85)",
+    "Radiant Team": "X-ALX",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-12-13T00:00:00.000Z",
+    "match_id": 2000128857,
+    "duration (seconds)": 3558,
+    "match_patch": "(2000128857,6.85)",
+    "Radiant Team": "X-ALX",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-12-13T00:00:00.000Z",
+    "match_id": 2000313407,
+    "duration (seconds)": 1483,
+    "match_patch": "(2000313407,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "X-ALX",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-12-13T00:00:00.000Z",
+    "match_id": 2000560574,
+    "duration (seconds)": 1847,
+    "match_patch": "(2000560574,6.85)",
+    "Radiant Team": "ABRAXAS.",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-12-13T00:00:00.000Z",
+    "match_id": 2000663986,
+    "duration (seconds)": 1975,
+    "match_patch": "(2000663986,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "ABRAXAS.",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-12-13T00:00:00.000Z",
+    "match_id": 2000854304,
+    "duration (seconds)": 1973,
+    "match_patch": "(2000854304,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-12-13T00:00:00.000Z",
+    "match_id": 2000929436,
+    "duration (seconds)": 2396,
+    "match_patch": "(2000929436,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-12-13T00:00:00.000Z",
+    "match_id": 2001016086,
+    "duration (seconds)": 1016,
+    "match_patch": "(2001016086,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-12-13T00:00:00.000Z",
+    "match_id": 2001025375,
+    "duration (seconds)": 2239,
+    "match_patch": "(2001025375,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-12-13T00:00:00.000Z",
+    "match_id": 2001053343,
+    "duration (seconds)": 1134,
+    "match_patch": "(2001053343,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

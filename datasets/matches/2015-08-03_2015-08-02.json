@@ -1,0 +1,68 @@
+[
+  {
+    "date": "2015-08-02T00:00:00.000Z",
+    "match_id": 1679329250,
+    "duration (seconds)": 1709,
+    "match_patch": "(1679329250,6.84)",
+    "Radiant Team": "5 Demons from Puno",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-08-02T00:00:00.000Z",
+    "match_id": 1679402460,
+    "duration (seconds)": 2682,
+    "match_patch": "(1679402460,6.84)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "5 Demons from Puno",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-08-02T00:00:00.000Z",
+    "match_id": 1679868973,
+    "duration (seconds)": 1638,
+    "match_patch": "(1679868973,6.84)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-08-02T00:00:00.000Z",
+    "match_id": 1681384870,
+    "duration (seconds)": 1197,
+    "match_patch": "(1681384870,6.84)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Fever Dota",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-08-02T00:00:00.000Z",
+    "match_id": 1681458037,
+    "duration (seconds)": 2321,
+    "match_patch": "(1681458037,6.84)",
+    "Radiant Team": "Fever Dota",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-08-02T00:00:00.000Z",
+    "match_id": 1682087177,
+    "duration (seconds)": 1047,
+    "match_patch": "(1682087177,6.84)",
+    "Radiant Team": "Battle Zone-",
+    "radiant_score": 0,
+    "Dire Team": "Sad Voids",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

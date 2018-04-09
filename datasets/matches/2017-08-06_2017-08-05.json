@@ -1,20 +1,13 @@
 [
   {
+    "date": "2017-08-05T00:00:00.000Z",
     "match_id": 3357211568,
-    "avg": "1073.0000000000000000",
-    "count": 1,
-    "winrate": 0.5,
-    "winrate_wilson": 0.236589593615487,
-    "sum": 10730,
-    "min": 1073,
-    "max": 1073,
+    "duration (seconds)": 1073,
     "match_patch": "(3357211568,7.06)",
-    "radiant_team_id": 4963792,
-    "dire_team_id": 4819518,
-    "radiant_win": false,
+    "Radiant Team": "Gussi",
     "radiant_score": 7,
+    "Dire Team": "VikosGaming",
     "dire_score": 25,
-    "start_time": 1501932889,
-    "League": "Polupro ladder league season 1"
+    "Winner": "Dire"
   }
 ]

@@ -1,0 +1,123 @@
+[
+  {
+    "date": "2013-09-05T00:00:00.000Z",
+    "match_id": 298683528,
+    "duration (seconds)": 2904,
+    "match_patch": "(298683528,6.78)",
+    "Radiant Team": "Pretty Boy Swag.",
+    "radiant_score": 0,
+    "Dire Team": "Shadowfiend Eats Cake",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-09-05T00:00:00.000Z",
+    "match_id": 298712970,
+    "duration (seconds)": 2291,
+    "match_patch": "(298712970,6.78)",
+    "Radiant Team": "Purple Canadians",
+    "radiant_score": 0,
+    "Dire Team": "Avanti's Angles",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-09-05T00:00:00.000Z",
+    "match_id": 298739417,
+    "duration (seconds)": 2344,
+    "match_patch": "(298739417,6.78)",
+    "Radiant Team": "Avanti's Angles",
+    "radiant_score": 0,
+    "Dire Team": "Purple Canadians",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-09-05T00:00:00.000Z",
+    "match_id": 298986337,
+    "duration (seconds)": 1924,
+    "match_patch": "(298986337,6.78)",
+    "Radiant Team": "Wonderful Feel",
+    "radiant_score": 0,
+    "Dire Team": "BaiFox.",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-09-05T00:00:00.000Z",
+    "match_id": 299019268,
+    "duration (seconds)": 2530,
+    "match_patch": "(299019268,6.78)",
+    "Radiant Team": "AshiN",
+    "radiant_score": 0,
+    "Dire Team": "New Element",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-09-05T00:00:00.000Z",
+    "match_id": 299096758,
+    "duration (seconds)": 633,
+    "match_patch": "(299096758,6.78)",
+    "Radiant Team": "BaiFox.",
+    "radiant_score": 0,
+    "Dire Team": "New Element",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-09-05T00:00:00.000Z",
+    "match_id": 299221533,
+    "duration (seconds)": 2330,
+    "match_patch": "(299221533,6.78)",
+    "Radiant Team": "wHut",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-09-05T00:00:00.000Z",
+    "match_id": 299315441,
+    "duration (seconds)": 1740,
+    "match_patch": "(299315441,6.78)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-09-05T00:00:00.000Z",
+    "match_id": 299366440,
+    "duration (seconds)": 1975,
+    "match_patch": "(299366440,6.78)",
+    "Radiant Team": "Team Aspera.",
+    "radiant_score": 0,
+    "Dire Team": "Team Empire",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-09-05T00:00:00.000Z",
+    "match_id": 299435145,
+    "duration (seconds)": 2071,
+    "match_patch": "(299435145,6.78)",
+    "Radiant Team": "_PowerRangers",
+    "radiant_score": 0,
+    "Dire Team": "Virtus.pro",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-09-05T00:00:00.000Z",
+    "match_id": 299496701,
+    "duration (seconds)": 3303,
+    "match_patch": "(299496701,6.78)",
+    "Radiant Team": "Po53iDoN",
+    "radiant_score": 0,
+    "Dire Team": "Virtus.pro",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

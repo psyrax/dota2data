@@ -1,0 +1,222 @@
+[
+  {
+    "date": "2015-05-19T00:00:00.000Z",
+    "match_id": 1484440287,
+    "duration (seconds)": 1888,
+    "match_patch": "(1484440287,6.84)",
+    "Radiant Team": "INTZ e-Sports",
+    "radiant_score": 0,
+    "Dire Team": "eGamersX",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-05-19T00:00:00.000Z",
+    "match_id": 1484454882,
+    "duration (seconds)": 2592,
+    "match_patch": "(1484454882,6.84)",
+    "Radiant Team": "Dream.Warriors",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-05-19T00:00:00.000Z",
+    "match_id": 1484460795,
+    "duration (seconds)": 2740,
+    "match_patch": "(1484460795,6.84)",
+    "Radiant Team": "Tico Gamers",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-05-19T00:00:00.000Z",
+    "match_id": 1484490185,
+    "duration (seconds)": 3960,
+    "match_patch": "(1484490185,6.84)",
+    "Radiant Team": "eGamersX",
+    "radiant_score": 0,
+    "Dire Team": "INTZ e-Sports",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-05-19T00:00:00.000Z",
+    "match_id": 1485056275,
+    "duration (seconds)": 2352,
+    "match_patch": "(1485056275,6.84)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Extreme Gaming Philippines.",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-05-19T00:00:00.000Z",
+    "match_id": 1485196877,
+    "duration (seconds)": 4063,
+    "match_patch": "(1485196877,6.84)",
+    "Radiant Team": "",
+    "radiant_score": 0,
+    "Dire Team": "TrackMate.TRIC",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-05-19T00:00:00.000Z",
+    "match_id": 1485335511,
+    "duration (seconds)": 1973,
+    "match_patch": "(1485335511,6.84)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-05-19T00:00:00.000Z",
+    "match_id": 1485421166,
+    "duration (seconds)": 2597,
+    "match_patch": "(1485421166,6.84)",
+    "Radiant Team": "Imba.ph",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-05-19T00:00:00.000Z",
+    "match_id": 1485658086,
+    "duration (seconds)": 1185,
+    "match_patch": "(1485658086,6.84)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Imba.ph",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-05-19T00:00:00.000Z",
+    "match_id": 1485734920,
+    "duration (seconds)": 1890,
+    "match_patch": "(1485734920,6.84)",
+    "Radiant Team": "C~4",
+    "radiant_score": 0,
+    "Dire Team": "LEGIO VICTRIX !",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-05-19T00:00:00.000Z",
+    "match_id": 1485737122,
+    "duration (seconds)": 3264,
+    "match_patch": "(1485737122,6.84)",
+    "Radiant Team": "Mushketery",
+    "radiant_score": 0,
+    "Dire Team": "Awaked Black Gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-05-19T00:00:00.000Z",
+    "match_id": 1485915897,
+    "duration (seconds)": 807,
+    "match_patch": "(1485915897,6.84)",
+    "Radiant Team": "Moscow Five RUS",
+    "radiant_score": 0,
+    "Dire Team": "London Conspiracy Dota2",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-05-19T00:00:00.000Z",
+    "match_id": 1485953158,
+    "duration (seconds)": 3188,
+    "match_patch": "(1485953158,6.84)",
+    "Radiant Team": "Awaked Black Gaming",
+    "radiant_score": 0,
+    "Dire Team": "Mushketery",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-05-19T00:00:00.000Z",
+    "match_id": 1486043282,
+    "duration (seconds)": 2192,
+    "match_patch": "(1486043282,6.84)",
+    "Radiant Team": "Hehe United",
+    "radiant_score": 0,
+    "Dire Team": "Vega Squadron",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-05-19T00:00:00.000Z",
+    "match_id": 1486111111,
+    "duration (seconds)": 1574,
+    "match_patch": "(1486111111,6.84)",
+    "Radiant Team": "Mushketery",
+    "radiant_score": 0,
+    "Dire Team": "Awaked Black Gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-05-19T00:00:00.000Z",
+    "match_id": 1486137336,
+    "duration (seconds)": 1607,
+    "match_patch": "(1486137336,6.84)",
+    "Radiant Team": "Desolate Team",
+    "radiant_score": 0,
+    "Dire Team": "Tengen Gurren Lagann",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-05-19T00:00:00.000Z",
+    "match_id": 1486162343,
+    "duration (seconds)": 2407,
+    "match_patch": "(1486162343,6.84)",
+    "Radiant Team": "The Balkan Bears",
+    "radiant_score": 0,
+    "Dire Team": "mYinsanity - sensei",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-05-19T00:00:00.000Z",
+    "match_id": 1486189993,
+    "duration (seconds)": 2113,
+    "match_patch": "(1486189993,6.84)",
+    "Radiant Team": "FIuorescent Adolescent",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-05-19T00:00:00.000Z",
+    "match_id": 1486224191,
+    "duration (seconds)": 1633,
+    "match_patch": "(1486224191,6.84)",
+    "Radiant Team": "Tengen Gurren Lagann",
+    "radiant_score": 0,
+    "Dire Team": "Desolate Team",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-05-19T00:00:00.000Z",
+    "match_id": 1486298588,
+    "duration (seconds)": 1899,
+    "match_patch": "(1486298588,6.84)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "FIuorescent Adolescent",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

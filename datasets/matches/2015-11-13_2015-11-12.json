@@ -1,0 +1,167 @@
+[
+  {
+    "date": "2015-11-12T00:00:00.000Z",
+    "match_id": 1930017565,
+    "duration (seconds)": 1891,
+    "match_patch": "(1930017565,6.85)",
+    "Radiant Team": "xDoto Blue",
+    "radiant_score": 0,
+    "Dire Team": "@AMPED3",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-11-12T00:00:00.000Z",
+    "match_id": 1930067342,
+    "duration (seconds)": 2153,
+    "match_patch": "(1930067342,6.85)",
+    "Radiant Team": "EkizX",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-11-12T00:00:00.000Z",
+    "match_id": 1930111231,
+    "duration (seconds)": 1387,
+    "match_patch": "(1930111231,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-11-12T00:00:00.000Z",
+    "match_id": 1930119091,
+    "duration (seconds)": 1968,
+    "match_patch": "(1930119091,6.85)",
+    "Radiant Team": "The Rainbow side",
+    "radiant_score": 0,
+    "Dire Team": "Redencion Ec",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-11-12T00:00:00.000Z",
+    "match_id": 1930157576,
+    "duration (seconds)": 898,
+    "match_patch": "(1930157576,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "zpp + 4",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-11-12T00:00:00.000Z",
+    "match_id": 1930299848,
+    "duration (seconds)": 1430,
+    "match_patch": "(1930299848,6.85)",
+    "Radiant Team": "Three WIse Monkeys",
+    "radiant_score": 0,
+    "Dire Team": "Zaggle Griff",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-11-12T00:00:00.000Z",
+    "match_id": 1930410735,
+    "duration (seconds)": 1535,
+    "match_patch": "(1930410735,6.85)",
+    "Radiant Team": "Zaggle Griff",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-11-12T00:00:00.000Z",
+    "match_id": 1931314360,
+    "duration (seconds)": 1264,
+    "match_patch": "(1931314360,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-11-12T00:00:00.000Z",
+    "match_id": 1931415793,
+    "duration (seconds)": 1268,
+    "match_patch": "(1931415793,6.85)",
+    "Radiant Team": "Team Empire",
+    "radiant_score": 0,
+    "Dire Team": "Team Liquid",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-11-12T00:00:00.000Z",
+    "match_id": 1931488269,
+    "duration (seconds)": 2081,
+    "match_patch": "(1931488269,6.85)",
+    "Radiant Team": "Team Liquid",
+    "radiant_score": 0,
+    "Dire Team": "Team Empire",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-11-12T00:00:00.000Z",
+    "match_id": 1931539645,
+    "duration (seconds)": 1953,
+    "match_patch": "(1931539645,6.85)",
+    "Radiant Team": "_PowerRangers",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-11-12T00:00:00.000Z",
+    "match_id": 1931576675,
+    "duration (seconds)": 2114,
+    "match_patch": "(1931576675,6.85)",
+    "Radiant Team": "Team Empire",
+    "radiant_score": 0,
+    "Dire Team": "Team Liquid",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-11-12T00:00:00.000Z",
+    "match_id": 1931620410,
+    "duration (seconds)": 2832,
+    "match_patch": "(1931620410,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "_PowerRangers",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-11-12T00:00:00.000Z",
+    "match_id": 1931705818,
+    "duration (seconds)": 2050,
+    "match_patch": "(1931705818,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "_PowerRangers",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-11-12T00:00:00.000Z",
+    "match_id": 1931711078,
+    "duration (seconds)": 3757,
+    "match_patch": "(1931711078,6.85)",
+    "Radiant Team": "Team Liquid",
+    "radiant_score": 0,
+    "Dire Team": "Team Empire",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

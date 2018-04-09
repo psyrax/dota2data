@@ -1,38 +1,24 @@
 [
   {
+    "date": "2018-01-29T00:00:00.000Z",
     "match_id": 3706537979,
-    "avg": "3554.0000000000000000",
-    "count": 1,
-    "winrate": 0.5,
-    "winrate_wilson": 0.236589593615487,
-    "sum": 35540,
-    "min": 3554,
-    "max": 3554,
+    "duration (seconds)": 3554,
     "match_patch": "(3706537979,7.07)",
-    "radiant_team_id": 5014799,
-    "dire_team_id": 5107795,
-    "radiant_win": false,
+    "Radiant Team": "Nemiga Gaming",
     "radiant_score": 56,
+    "Dire Team": "Backpacks Gaming ",
     "dire_score": 43,
-    "start_time": 1517242255,
-    "League": "ProDotA Cup Series"
+    "Winner": "Dire"
   },
   {
+    "date": "2018-01-29T00:00:00.000Z",
     "match_id": 3706750531,
-    "avg": "2650.0000000000000000",
-    "count": 1,
-    "winrate": 0.5,
-    "winrate_wilson": 0.236589593615487,
-    "sum": 26500,
-    "min": 2650,
-    "max": 2650,
+    "duration (seconds)": 2650,
     "match_patch": "(3706750531,7.07)",
-    "radiant_team_id": 5014799,
-    "dire_team_id": 5107795,
-    "radiant_win": true,
+    "Radiant Team": "Nemiga Gaming",
     "radiant_score": 41,
+    "Dire Team": "Backpacks Gaming ",
     "dire_score": 41,
-    "start_time": 1517251571,
-    "League": "ProDotA Cup Series"
+    "Winner": "Radiant"
   }
 ]

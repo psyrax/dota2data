@@ -1,0 +1,167 @@
+[
+  {
+    "date": "2015-12-29T00:00:00.000Z",
+    "match_id": 2037429662,
+    "duration (seconds)": 2627,
+    "match_patch": "(2037429662,6.86)",
+    "Radiant Team": "Va Juga",
+    "radiant_score": 0,
+    "Dire Team": "Subte Gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-12-29T00:00:00.000Z",
+    "match_id": 2037519642,
+    "duration (seconds)": 1716,
+    "match_patch": "(2037519642,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Team Delia",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-12-29T00:00:00.000Z",
+    "match_id": 2037776812,
+    "duration (seconds)": 2202,
+    "match_patch": "(2037776812,6.86)",
+    "Radiant Team": "cdec.y",
+    "radiant_score": 0,
+    "Dire Team": "iG.Vitality",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-12-29T00:00:00.000Z",
+    "match_id": 2037868358,
+    "duration (seconds)": 1382,
+    "match_patch": "(2037868358,6.86)",
+    "Radiant Team": "iG.Vitality",
+    "radiant_score": 0,
+    "Dire Team": "cdec.y",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-12-29T00:00:00.000Z",
+    "match_id": 2037968425,
+    "duration (seconds)": 1769,
+    "match_patch": "(2037968425,6.86)",
+    "Radiant Team": "FTD Club b",
+    "radiant_score": 0,
+    "Dire Team": "cdec.y",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-12-29T00:00:00.000Z",
+    "match_id": 2038072220,
+    "duration (seconds)": 1238,
+    "match_patch": "(2038072220,6.86)",
+    "Radiant Team": "cdec.y",
+    "radiant_score": 0,
+    "Dire Team": "FTD Club b",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-12-29T00:00:00.000Z",
+    "match_id": 2038719253,
+    "duration (seconds)": 3000,
+    "match_patch": "(2038719253,6.86)",
+    "Radiant Team": "Elements Pro Gaming",
+    "radiant_score": 0,
+    "Dire Team": "COOKISS",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-12-29T00:00:00.000Z",
+    "match_id": 2038915576,
+    "duration (seconds)": 1635,
+    "match_patch": "(2038915576,6.86)",
+    "Radiant Team": "COOKISS",
+    "radiant_score": 0,
+    "Dire Team": "Elements Pro Gaming",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-12-29T00:00:00.000Z",
+    "match_id": 2039210531,
+    "duration (seconds)": 1134,
+    "match_patch": "(2039210531,6.86)",
+    "Radiant Team": "5 KING S",
+    "radiant_score": 0,
+    "Dire Team": "Que Club !",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-12-29T00:00:00.000Z",
+    "match_id": 2039302971,
+    "duration (seconds)": 960,
+    "match_patch": "(2039302971,6.86)",
+    "Radiant Team": "Que Club !",
+    "radiant_score": 0,
+    "Dire Team": "5 KING S",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-12-29T00:00:00.000Z",
+    "match_id": 2039335939,
+    "duration (seconds)": 1867,
+    "match_patch": "(2039335939,6.86)",
+    "Radiant Team": "~Ground Zero~",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-12-29T00:00:00.000Z",
+    "match_id": 2039464710,
+    "duration (seconds)": 4077,
+    "match_patch": "(2039464710,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "~Ground Zero~",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-12-29T00:00:00.000Z",
+    "match_id": 2039548932,
+    "duration (seconds)": 1621,
+    "match_patch": "(2039548932,6.86)",
+    "Radiant Team": "Yellow Submarine!",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-12-29T00:00:00.000Z",
+    "match_id": 2039639417,
+    "duration (seconds)": 2190,
+    "match_patch": "(2039639417,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Yellow Submarine!",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-12-29T00:00:00.000Z",
+    "match_id": 2039724868,
+    "duration (seconds)": 2261,
+    "match_patch": "(2039724868,6.86)",
+    "Radiant Team": "Yellow Submarine!",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

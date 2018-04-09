@@ -1,0 +1,90 @@
+[
+  {
+    "date": "2013-04-13T00:00:00.000Z",
+    "match_id": 172031422,
+    "duration (seconds)": 2110,
+    "match_patch": "(172031422,6.77)",
+    "Radiant Team": "Orange.Neolution Esports",
+    "radiant_score": 0,
+    "Dire Team": "Invasion MUFC",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-04-13T00:00:00.000Z",
+    "match_id": 172128018,
+    "duration (seconds)": 752,
+    "match_patch": "(172128018,6.77)",
+    "Radiant Team": "Alliance",
+    "radiant_score": 0,
+    "Dire Team": "Fnatic",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-04-13T00:00:00.000Z",
+    "match_id": 172177678,
+    "duration (seconds)": 2568,
+    "match_patch": "(172177678,6.77)",
+    "Radiant Team": "Alliance",
+    "radiant_score": 0,
+    "Dire Team": "Fnatic",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-04-13T00:00:00.000Z",
+    "match_id": 172240793,
+    "duration (seconds)": 2912,
+    "match_patch": "(172240793,6.77)",
+    "Radiant Team": "Fnatic",
+    "radiant_score": 0,
+    "Dire Team": "Alliance",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-04-13T00:00:00.000Z",
+    "match_id": 172318202,
+    "duration (seconds)": 2085,
+    "match_patch": "(172318202,6.77)",
+    "Radiant Team": "Alliance",
+    "radiant_score": 0,
+    "Dire Team": "Fnatic",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-04-13T00:00:00.000Z",
+    "match_id": 172367744,
+    "duration (seconds)": 2081,
+    "match_patch": "(172367744,6.77)",
+    "Radiant Team": "Team Liquid",
+    "radiant_score": 0,
+    "Dire Team": "Team Dignitas",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-04-13T00:00:00.000Z",
+    "match_id": 172464198,
+    "duration (seconds)": 3298,
+    "match_patch": "(172464198,6.77)",
+    "Radiant Team": "Team Dignitas",
+    "radiant_score": 0,
+    "Dire Team": "Team Liquid",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-04-13T00:00:00.000Z",
+    "match_id": 172587462,
+    "duration (seconds)": 1669,
+    "match_patch": "(172587462,6.77)",
+    "Radiant Team": "Meenix eSports",
+    "radiant_score": 0,
+    "Dire Team": "Revenge-",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

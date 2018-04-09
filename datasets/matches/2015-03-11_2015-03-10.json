@@ -1,0 +1,222 @@
+[
+  {
+    "date": "2015-03-10T00:00:00.000Z",
+    "match_id": 1308386324,
+    "duration (seconds)": 2648,
+    "match_patch": "(1308386324,6.83)",
+    "Radiant Team": "rebeldes",
+    "radiant_score": 0,
+    "Dire Team": "CNB HyperX",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-03-10T00:00:00.000Z",
+    "match_id": 1308429380,
+    "duration (seconds)": 2489,
+    "match_patch": "(1308429380,6.83)",
+    "Radiant Team": "MemeT+4",
+    "radiant_score": 0,
+    "Dire Team": "Team Vasille",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-03-10T00:00:00.000Z",
+    "match_id": 1308486652,
+    "duration (seconds)": 2713,
+    "match_patch": "(1308486652,6.83)",
+    "Radiant Team": "Nx.Lusters",
+    "radiant_score": 0,
+    "Dire Team": "True Desing",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-03-10T00:00:00.000Z",
+    "match_id": 1308552870,
+    "duration (seconds)": 2138,
+    "match_patch": "(1308552870,6.83)",
+    "Radiant Team": "True Desing",
+    "radiant_score": 0,
+    "Dire Team": "Nx.Lusters",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-03-10T00:00:00.000Z",
+    "match_id": 1308891072,
+    "duration (seconds)": 1951,
+    "match_patch": "(1308891072,6.83)",
+    "Radiant Team": "FAUX GAMING",
+    "radiant_score": 0,
+    "Dire Team": "Bahog Duga",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-03-10T00:00:00.000Z",
+    "match_id": 1309187252,
+    "duration (seconds)": 3519,
+    "match_patch": "(1309187252,6.83)",
+    "Radiant Team": "EXECRATION1",
+    "radiant_score": 0,
+    "Dire Team": "Garuda Infinity",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-03-10T00:00:00.000Z",
+    "match_id": 1309310554,
+    "duration (seconds)": 2326,
+    "match_patch": "(1309310554,6.83)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-03-10T00:00:00.000Z",
+    "match_id": 1309342748,
+    "duration (seconds)": 2370,
+    "match_patch": "(1309342748,6.83)",
+    "Radiant Team": "Garuda Infinity",
+    "radiant_score": 0,
+    "Dire Team": "EXECRATION1",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-03-10T00:00:00.000Z",
+    "match_id": 1309461672,
+    "duration (seconds)": 2366,
+    "match_patch": "(1309461672,6.83)",
+    "Radiant Team": "Imperium Pro Team",
+    "radiant_score": 0,
+    "Dire Team": "Imba.ph",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-03-10T00:00:00.000Z",
+    "match_id": 1309638465,
+    "duration (seconds)": 1275,
+    "match_patch": "(1309638465,6.83)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Imba.ph",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-03-10T00:00:00.000Z",
+    "match_id": 1309670402,
+    "duration (seconds)": 2192,
+    "match_patch": "(1309670402,6.83)",
+    "Radiant Team": "Asterisk*.",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-03-10T00:00:00.000Z",
+    "match_id": 1309724040,
+    "duration (seconds)": 3364,
+    "match_patch": "(1309724040,6.83)",
+    "Radiant Team": "EXECRATION1",
+    "radiant_score": 0,
+    "Dire Team": "Team Burster",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-03-10T00:00:00.000Z",
+    "match_id": 1309757259,
+    "duration (seconds)": 2716,
+    "match_patch": "(1309757259,6.83)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Imperium Pro Team",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-03-10T00:00:00.000Z",
+    "match_id": 1309823520,
+    "duration (seconds)": 1647,
+    "match_patch": "(1309823520,6.83)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Asterisk*.",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-03-10T00:00:00.000Z",
+    "match_id": 1309896699,
+    "duration (seconds)": 2278,
+    "match_patch": "(1309896699,6.83)",
+    "Radiant Team": "Team ICE`",
+    "radiant_score": 0,
+    "Dire Team": "Garuda Infinity",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-03-10T00:00:00.000Z",
+    "match_id": 1309935611,
+    "duration (seconds)": 1713,
+    "match_patch": "(1309935611,6.83)",
+    "Radiant Team": "Team Burster",
+    "radiant_score": 0,
+    "Dire Team": "EXECRATION1",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-03-10T00:00:00.000Z",
+    "match_id": 1310035184,
+    "duration (seconds)": 3901,
+    "match_patch": "(1310035184,6.83)",
+    "Radiant Team": "Garuda Infinity",
+    "radiant_score": 0,
+    "Dire Team": "Team ICE`",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-03-10T00:00:00.000Z",
+    "match_id": 1310202338,
+    "duration (seconds)": 2202,
+    "match_patch": "(1310202338,6.83)",
+    "Radiant Team": "xGame.kz",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-03-10T00:00:00.000Z",
+    "match_id": 1310317232,
+    "duration (seconds)": 2488,
+    "match_patch": "(1310317232,6.83)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "xGame.kz",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-03-10T00:00:00.000Z",
+    "match_id": 1310673782,
+    "duration (seconds)": 3876,
+    "match_patch": "(1310673782,6.83)",
+    "Radiant Team": "Loonatics e-Sport",
+    "radiant_score": 0,
+    "Dire Team": "The Business Gaming",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

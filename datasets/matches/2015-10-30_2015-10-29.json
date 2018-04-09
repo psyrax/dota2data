@@ -1,0 +1,101 @@
+[
+  {
+    "date": "2015-10-29T00:00:00.000Z",
+    "match_id": 1899183149,
+    "duration (seconds)": 2023,
+    "match_patch": "(1899183149,6.85)",
+    "Radiant Team": "Argentinian Rejects",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-10-29T00:00:00.000Z",
+    "match_id": 1899197923,
+    "duration (seconds)": 1193,
+    "match_patch": "(1899197923,6.85)",
+    "Radiant Team": "Sky.Ne7 Gaming",
+    "radiant_score": 0,
+    "Dire Team": "RES NON VERBAA",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-10-29T00:00:00.000Z",
+    "match_id": 1899231441,
+    "duration (seconds)": 1979,
+    "match_patch": "(1899231441,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Evil Costenos",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-10-29T00:00:00.000Z",
+    "match_id": 1899237821,
+    "duration (seconds)": 1957,
+    "match_patch": "(1899237821,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Argentinian Rejects",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-10-29T00:00:00.000Z",
+    "match_id": 1899242678,
+    "duration (seconds)": 1601,
+    "match_patch": "(1899242678,6.85)",
+    "Radiant Team": "RES NON VERBAA",
+    "radiant_score": 0,
+    "Dire Team": "Sky.Ne7 Gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-10-29T00:00:00.000Z",
+    "match_id": 1899291032,
+    "duration (seconds)": 1932,
+    "match_patch": "(1899291032,6.85)",
+    "Radiant Team": "Argentinian Rejects",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-10-29T00:00:00.000Z",
+    "match_id": 1899292875,
+    "duration (seconds)": 1638,
+    "match_patch": "(1899292875,6.85)",
+    "Radiant Team": "Evil Costenos",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-10-29T00:00:00.000Z",
+    "match_id": 1900832393,
+    "duration (seconds)": 1793,
+    "match_patch": "(1900832393,6.85)",
+    "Radiant Team": "G O L D E N B O Y S",
+    "radiant_score": 0,
+    "Dire Team": "Mamas-Boys",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-10-29T00:00:00.000Z",
+    "match_id": 1900915726,
+    "duration (seconds)": 2148,
+    "match_patch": "(1900915726,6.85)",
+    "Radiant Team": "Mamas-Boys",
+    "radiant_score": 0,
+    "Dire Team": "G O L D E N B O Y S",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

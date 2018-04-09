@@ -1,0 +1,79 @@
+[
+  {
+    "date": "2014-09-26T00:00:00.000Z",
+    "match_id": 920323770,
+    "duration (seconds)": 2496,
+    "match_patch": "(920323770,6.82)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-09-26T00:00:00.000Z",
+    "match_id": 920354269,
+    "duration (seconds)": 2771,
+    "match_patch": "(920354269,6.82)",
+    "Radiant Team": "Natus Vincere US",
+    "radiant_score": 0,
+    "Dire Team": "Not Today",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-09-26T00:00:00.000Z",
+    "match_id": 920427576,
+    "duration (seconds)": 2011,
+    "match_patch": "(920427576,6.82)",
+    "Radiant Team": "Not Today",
+    "radiant_score": 0,
+    "Dire Team": "Natus Vincere US",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-09-26T00:00:00.000Z",
+    "match_id": 920489421,
+    "duration (seconds)": 2608,
+    "match_patch": "(920489421,6.82)",
+    "Radiant Team": "Natus Vincere US",
+    "radiant_score": 0,
+    "Dire Team": "Not Today",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-09-26T00:00:00.000Z",
+    "match_id": 920792786,
+    "duration (seconds)": 2249,
+    "match_patch": "(920792786,6.82)",
+    "Radiant Team": "CDEC Gaming",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-09-26T00:00:00.000Z",
+    "match_id": 920879968,
+    "duration (seconds)": 1168,
+    "match_patch": "(920879968,6.82)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "CDEC Gaming",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-09-26T00:00:00.000Z",
+    "match_id": 921391395,
+    "duration (seconds)": 1880,
+    "match_patch": "(921391395,6.82)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "LGD-GAMING",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

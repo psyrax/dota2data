@@ -1,0 +1,145 @@
+[
+  {
+    "date": "2015-04-07T00:00:00.000Z",
+    "match_id": 1380117438,
+    "duration (seconds)": 1186,
+    "match_patch": "(1380117438,6.83)",
+    "Radiant Team": "Isurus Gaming HyperX",
+    "radiant_score": 0,
+    "Dire Team": "Team Archon",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-04-07T00:00:00.000Z",
+    "match_id": 1380662753,
+    "duration (seconds)": 1346,
+    "match_patch": "(1380662753,6.83)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Energy Pacemaker gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-04-07T00:00:00.000Z",
+    "match_id": 1380733588,
+    "duration (seconds)": 2714,
+    "match_patch": "(1380733588,6.83)",
+    "Radiant Team": "Energy Pacemaker gaming",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-04-07T00:00:00.000Z",
+    "match_id": 1380979175,
+    "duration (seconds)": 3678,
+    "match_patch": "(1380979175,6.83)",
+    "Radiant Team": "Terror blade !!",
+    "radiant_score": 0,
+    "Dire Team": "Dream - Gamin",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-04-07T00:00:00.000Z",
+    "match_id": 1381154305,
+    "duration (seconds)": 1464,
+    "match_patch": "(1381154305,6.83)",
+    "Radiant Team": "Dream - Gamin",
+    "radiant_score": 0,
+    "Dire Team": "Terror blade !!",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-04-07T00:00:00.000Z",
+    "match_id": 1381828549,
+    "duration (seconds)": 1285,
+    "match_patch": "(1381828549,6.83)",
+    "Radiant Team": "AncientWarriorsGaming",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-04-07T00:00:00.000Z",
+    "match_id": 1381833560,
+    "duration (seconds)": 1478,
+    "match_patch": "(1381833560,6.83)",
+    "Radiant Team": "Vega Squadron",
+    "radiant_score": 0,
+    "Dire Team": "Flamin Pink Flamingos",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-04-07T00:00:00.000Z",
+    "match_id": 1381839362,
+    "duration (seconds)": 661,
+    "match_patch": "(1381839362,6.83)",
+    "Radiant Team": "Black Knights 17",
+    "radiant_score": 0,
+    "Dire Team": "FairPlay Gaming.TB",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-04-07T00:00:00.000Z",
+    "match_id": 1381846803,
+    "duration (seconds)": 668,
+    "match_patch": "(1381846803,6.83)",
+    "Radiant Team": "The Plumber Crackers",
+    "radiant_score": 0,
+    "Dire Team": "xant!c",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-04-07T00:00:00.000Z",
+    "match_id": 1381876197,
+    "duration (seconds)": 1748,
+    "match_patch": "(1381876197,6.83)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-04-07T00:00:00.000Z",
+    "match_id": 1382040937,
+    "duration (seconds)": 922,
+    "match_patch": "(1382040937,6.83)",
+    "Radiant Team": "Moscow Five RUS",
+    "radiant_score": 0,
+    "Dire Team": "Team October.",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-04-07T00:00:00.000Z",
+    "match_id": 1382196882,
+    "duration (seconds)": 1293,
+    "match_patch": "(1382196882,6.83)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "European <3 Story",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-04-07T00:00:00.000Z",
+    "match_id": 1382305449,
+    "duration (seconds)": 3111,
+    "match_patch": "(1382305449,6.83)",
+    "Radiant Team": "Team Archon",
+    "radiant_score": 0,
+    "Dire Team": "ROOT-gaming.com",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

@@ -1,0 +1,145 @@
+[
+  {
+    "date": "2015-02-13T00:00:00.000Z",
+    "match_id": 1232843649,
+    "duration (seconds)": 3189,
+    "match_patch": "(1232843649,6.83)",
+    "Radiant Team": "ROOT-gaming.com",
+    "radiant_score": 0,
+    "Dire Team": "Lacresha",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-02-13T00:00:00.000Z",
+    "match_id": 1232846162,
+    "duration (seconds)": 2752,
+    "match_patch": "(1232846162,6.83)",
+    "Radiant Team": "True Desing",
+    "radiant_score": 0,
+    "Dire Team": "Team Chengue",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-02-13T00:00:00.000Z",
+    "match_id": 1232884720,
+    "duration (seconds)": 1263,
+    "match_patch": "(1232884720,6.83)",
+    "Radiant Team": "Loonatics e-Sport",
+    "radiant_score": 0,
+    "Dire Team": "Team Quetzal",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-02-13T00:00:00.000Z",
+    "match_id": 1232887497,
+    "duration (seconds)": 1443,
+    "match_patch": "(1232887497,6.83)",
+    "Radiant Team": "Next Level Bad Asses",
+    "radiant_score": 0,
+    "Dire Team": "Boreal eSports",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-02-13T00:00:00.000Z",
+    "match_id": 1232926597,
+    "duration (seconds)": 4450,
+    "match_patch": "(1232926597,6.83)",
+    "Radiant Team": "Team Chengue",
+    "radiant_score": 0,
+    "Dire Team": "True Desing",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-02-13T00:00:00.000Z",
+    "match_id": 1232935601,
+    "duration (seconds)": 1490,
+    "match_patch": "(1232935601,6.83)",
+    "Radiant Team": "Boreal eSports",
+    "radiant_score": 0,
+    "Dire Team": "Next Level Bad Asses",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-02-13T00:00:00.000Z",
+    "match_id": 1232937136,
+    "duration (seconds)": 3139,
+    "match_patch": "(1232937136,6.83)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "ROOT-gaming.com",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-02-13T00:00:00.000Z",
+    "match_id": 1233040864,
+    "duration (seconds)": 1366,
+    "match_patch": "(1233040864,6.83)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Lacresha",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-02-13T00:00:00.000Z",
+    "match_id": 1234309576,
+    "duration (seconds)": 1776,
+    "match_patch": "(1234309576,6.83)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Kingdom-",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-02-13T00:00:00.000Z",
+    "match_id": 1234507019,
+    "duration (seconds)": 2467,
+    "match_patch": "(1234507019,6.83)",
+    "Radiant Team": "Kingdom-",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-02-13T00:00:00.000Z",
+    "match_id": 1234763064,
+    "duration (seconds)": 2401,
+    "match_patch": "(1234763064,6.83)",
+    "Radiant Team": "Team ICE`",
+    "radiant_score": 0,
+    "Dire Team": "First Departure",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-02-13T00:00:00.000Z",
+    "match_id": 1234943924,
+    "duration (seconds)": 3253,
+    "match_patch": "(1234943924,6.83)",
+    "Radiant Team": "First Departure",
+    "radiant_score": 0,
+    "Dire Team": "Team ICE`",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-02-13T00:00:00.000Z",
+    "match_id": 1235847975,
+    "duration (seconds)": 2334,
+    "match_patch": "(1235847975,6.83)",
+    "Radiant Team": "eXtinction.Reborn",
+    "radiant_score": 0,
+    "Dire Team": "OLA K ASE.",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

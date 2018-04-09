@@ -1,0 +1,35 @@
+[
+  {
+    "date": "2015-09-10T00:00:00.000Z",
+    "match_id": 1782383753,
+    "duration (seconds)": 2482,
+    "match_patch": "(1782383753,6.84)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-09-10T00:00:00.000Z",
+    "match_id": 1783787202,
+    "duration (seconds)": 1613,
+    "match_patch": "(1783787202,6.84)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-09-10T00:00:00.000Z",
+    "match_id": 1783861954,
+    "duration (seconds)": 3735,
+    "match_patch": "(1783861954,6.84)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

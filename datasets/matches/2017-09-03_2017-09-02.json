@@ -1,20 +1,13 @@
 [
   {
+    "date": "2017-09-02T00:00:00.000Z",
     "match_id": 3420017776,
-    "avg": "2073.0000000000000000",
-    "count": 1,
-    "winrate": 0.5,
-    "winrate_wilson": 0.236589593615487,
-    "sum": 20730,
-    "min": 2073,
-    "max": 2073,
+    "duration (seconds)": 2073,
     "match_patch": "(3420017776,7.06)",
-    "radiant_team_id": 4003354,
-    "dire_team_id": 3846296,
-    "radiant_win": false,
+    "Radiant Team": "JMD Gaming ",
     "radiant_score": 15,
+    "Dire Team": "Team Akatsuki",
     "dire_score": 36,
-    "start_time": 1504362689,
-    "League": "ESL India Premiership - 2017 Edition"
+    "Winner": "Dire"
   }
 ]

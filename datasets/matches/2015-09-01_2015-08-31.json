@@ -1,0 +1,68 @@
+[
+  {
+    "date": "2015-08-31T00:00:00.000Z",
+    "match_id": 1758288894,
+    "duration (seconds)": 1975,
+    "match_patch": "(1758288894,6.84)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Los Xu",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-08-31T00:00:00.000Z",
+    "match_id": 1758348496,
+    "duration (seconds)": 3516,
+    "match_patch": "(1758348496,6.84)",
+    "Radiant Team": "Los Xu",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-08-31T00:00:00.000Z",
+    "match_id": 1760048837,
+    "duration (seconds)": 1259,
+    "match_patch": "(1760048837,6.84)",
+    "Radiant Team": "sQreen's squad v2.0",
+    "radiant_score": 0,
+    "Dire Team": "aSpera ESports",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-08-31T00:00:00.000Z",
+    "match_id": 1760128966,
+    "duration (seconds)": 2592,
+    "match_patch": "(1760128966,6.84)",
+    "Radiant Team": "aSpera ESports",
+    "radiant_score": 0,
+    "Dire Team": "sQreen's squad v2.0",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-08-31T00:00:00.000Z",
+    "match_id": 1760383696,
+    "duration (seconds)": 2166,
+    "match_patch": "(1760383696,6.84)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "aSpera ESports",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-08-31T00:00:00.000Z",
+    "match_id": 1760503091,
+    "duration (seconds)": 2571,
+    "match_patch": "(1760503091,6.84)",
+    "Radiant Team": "aSpera ESports",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

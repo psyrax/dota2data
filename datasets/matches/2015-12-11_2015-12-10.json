@@ -1,0 +1,222 @@
+[
+  {
+    "date": "2015-12-10T00:00:00.000Z",
+    "match_id": 1991509189,
+    "duration (seconds)": 2164,
+    "match_patch": "(1991509189,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Kawaii Desu NEE",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-12-10T00:00:00.000Z",
+    "match_id": 1991526281,
+    "duration (seconds)": 3443,
+    "match_patch": "(1991526281,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-12-10T00:00:00.000Z",
+    "match_id": 1991535312,
+    "duration (seconds)": 2032,
+    "match_patch": "(1991535312,6.85)",
+    "Radiant Team": "Recall E-Sports 2.0",
+    "radiant_score": 0,
+    "Dire Team": "mortal Team work Gaming",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-12-10T00:00:00.000Z",
+    "match_id": 1991546484,
+    "duration (seconds)": 2813,
+    "match_patch": "(1991546484,6.85)",
+    "Radiant Team": "Kawaii Desu NEE",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-12-10T00:00:00.000Z",
+    "match_id": 1991584860,
+    "duration (seconds)": 1504,
+    "match_patch": "(1991584860,6.85)",
+    "Radiant Team": "mortal Team work Gaming",
+    "radiant_score": 0,
+    "Dire Team": "Recall E-Sports 2.0",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-12-10T00:00:00.000Z",
+    "match_id": 1991596919,
+    "duration (seconds)": 3198,
+    "match_patch": "(1991596919,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-12-10T00:00:00.000Z",
+    "match_id": 1992428703,
+    "duration (seconds)": 1484,
+    "match_patch": "(1992428703,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-12-10T00:00:00.000Z",
+    "match_id": 1992547651,
+    "duration (seconds)": 2477,
+    "match_patch": "(1992547651,6.85)",
+    "Radiant Team": "FRANKENSTEIN'",
+    "radiant_score": 0,
+    "Dire Team": "Siberian's Indogs",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-12-10T00:00:00.000Z",
+    "match_id": 1992589335,
+    "duration (seconds)": 1827,
+    "match_patch": "(1992589335,6.85)",
+    "Radiant Team": "GGA.Plus+",
+    "radiant_score": 0,
+    "Dire Team": "Team ExA",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-12-10T00:00:00.000Z",
+    "match_id": 1992714118,
+    "duration (seconds)": 2220,
+    "match_patch": "(1992714118,6.85)",
+    "Radiant Team": "Chocolate -Monster",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-12-10T00:00:00.000Z",
+    "match_id": 1992724750,
+    "duration (seconds)": 2740,
+    "match_patch": "(1992724750,6.85)",
+    "Radiant Team": "HAPPY GENIUS",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-12-10T00:00:00.000Z",
+    "match_id": 1992867471,
+    "duration (seconds)": 3900,
+    "match_patch": "(1992867471,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Fantastic Five",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-12-10T00:00:00.000Z",
+    "match_id": 1993071556,
+    "duration (seconds)": 1431,
+    "match_patch": "(1993071556,6.85)",
+    "Radiant Team": "Fantastic Five",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-12-10T00:00:00.000Z",
+    "match_id": 1993079962,
+    "duration (seconds)": 1936,
+    "match_patch": "(1993079962,6.85)",
+    "Radiant Team": "Team Bulgaria",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-12-10T00:00:00.000Z",
+    "match_id": 1993190841,
+    "duration (seconds)": 2145,
+    "match_patch": "(1993190841,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Elements Pro Gaming",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-12-10T00:00:00.000Z",
+    "match_id": 1993192113,
+    "duration (seconds)": 2377,
+    "match_patch": "(1993192113,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Team Bulgaria",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-12-10T00:00:00.000Z",
+    "match_id": 1993292092,
+    "duration (seconds)": 2584,
+    "match_patch": "(1993292092,6.85)",
+    "Radiant Team": "Elements Pro Gaming",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-12-10T00:00:00.000Z",
+    "match_id": 1993385716,
+    "duration (seconds)": 2340,
+    "match_patch": "(1993385716,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Elements Pro Gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-12-10T00:00:00.000Z",
+    "match_id": 1993521564,
+    "duration (seconds)": 1871,
+    "match_patch": "(1993521564,6.85)",
+    "Radiant Team": "Jayce N.G",
+    "radiant_score": 0,
+    "Dire Team": "TLC GAMING",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-12-10T00:00:00.000Z",
+    "match_id": 1993575846,
+    "duration (seconds)": 1652,
+    "match_patch": "(1993575846,6.85)",
+    "Radiant Team": "TLC GAMING",
+    "radiant_score": 0,
+    "Dire Team": "Jayce N.G",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

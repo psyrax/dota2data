@@ -1,0 +1,101 @@
+[
+  {
+    "date": "2013-12-13T00:00:00.000Z",
+    "match_id": 419857460,
+    "duration (seconds)": 3040,
+    "match_patch": "(419857460,6.79)",
+    "Radiant Team": "Invictus Gaming",
+    "radiant_score": 0,
+    "Dire Team": "Dream time.",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-12-13T00:00:00.000Z",
+    "match_id": 419945111,
+    "duration (seconds)": 2974,
+    "match_patch": "(419945111,6.79)",
+    "Radiant Team": "Dream time.",
+    "radiant_score": 0,
+    "Dire Team": "Invictus Gaming",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-12-13T00:00:00.000Z",
+    "match_id": 420471156,
+    "duration (seconds)": 2377,
+    "match_patch": "(420471156,6.79)",
+    "Radiant Team": "DK",
+    "radiant_score": 0,
+    "Dire Team": "Speed Gaming International",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-12-13T00:00:00.000Z",
+    "match_id": 420573558,
+    "duration (seconds)": 1768,
+    "match_patch": "(420573558,6.79)",
+    "Radiant Team": "Can't Say Wips",
+    "radiant_score": 0,
+    "Dire Team": "First Departure",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-12-13T00:00:00.000Z",
+    "match_id": 420624373,
+    "duration (seconds)": 2200,
+    "match_patch": "(420624373,6.79)",
+    "Radiant Team": "Speed Gaming International",
+    "radiant_score": 0,
+    "Dire Team": "DK",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-12-13T00:00:00.000Z",
+    "match_id": 420668369,
+    "duration (seconds)": 3286,
+    "match_patch": "(420668369,6.79)",
+    "Radiant Team": "TheRerereTRY",
+    "radiant_score": 0,
+    "Dire Team": "Osliki Gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-12-13T00:00:00.000Z",
+    "match_id": 420687885,
+    "duration (seconds)": 2186,
+    "match_patch": "(420687885,6.79)",
+    "Radiant Team": "leha top1",
+    "radiant_score": 0,
+    "Dire Team": "WOND5.",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-12-13T00:00:00.000Z",
+    "match_id": 420694229,
+    "duration (seconds)": 1900,
+    "match_patch": "(420694229,6.79)",
+    "Radiant Team": "_Cleave_",
+    "radiant_score": 0,
+    "Dire Team": "AMAHASALA",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-12-13T00:00:00.000Z",
+    "match_id": 420731158,
+    "duration (seconds)": 2697,
+    "match_patch": "(420731158,6.79)",
+    "Radiant Team": "FLEEP.SIDE",
+    "radiant_score": 0,
+    "Dire Team": "NRAGED.int",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

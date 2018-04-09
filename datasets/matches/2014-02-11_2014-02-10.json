@@ -1,0 +1,123 @@
+[
+  {
+    "date": "2014-02-10T00:00:00.000Z",
+    "match_id": 514031808,
+    "duration (seconds)": 1589,
+    "match_patch": "(514031808,6.80)",
+    "Radiant Team": "Team Venoxic",
+    "radiant_score": 0,
+    "Dire Team": "Hannah Trigwell <3",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-02-10T00:00:00.000Z",
+    "match_id": 514073618,
+    "duration (seconds)": 2742,
+    "match_patch": "(514073618,6.80)",
+    "Radiant Team": "Virtus.pro",
+    "radiant_score": 0,
+    "Dire Team": "sQreen's squad v2.0",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-02-10T00:00:00.000Z",
+    "match_id": 514106994,
+    "duration (seconds)": 1376,
+    "match_patch": "(514106994,6.80)",
+    "Radiant Team": "AI PIA JIA EH YIA",
+    "radiant_score": 0,
+    "Dire Team": "Team Venoxic",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-02-10T00:00:00.000Z",
+    "match_id": 514160527,
+    "duration (seconds)": 1188,
+    "match_patch": "(514160527,6.80)",
+    "Radiant Team": "sQreen's squad v2.0",
+    "radiant_score": 0,
+    "Dire Team": "Virtus.pro",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-02-10T00:00:00.000Z",
+    "match_id": 514164471,
+    "duration (seconds)": 1463,
+    "match_patch": "(514164471,6.80)",
+    "Radiant Team": "Sirkuss Finlandia",
+    "radiant_score": 0,
+    "Dire Team": "FlipSideTactics",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-02-10T00:00:00.000Z",
+    "match_id": 514217626,
+    "duration (seconds)": 1937,
+    "match_patch": "(514217626,6.80)",
+    "Radiant Team": "FlipSideTactics",
+    "radiant_score": 0,
+    "Dire Team": "Sirkuss Finlandia",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-02-10T00:00:00.000Z",
+    "match_id": 514231543,
+    "duration (seconds)": 1708,
+    "match_patch": "(514231543,6.80)",
+    "Radiant Team": "sQreen's squad v2.0",
+    "radiant_score": 0,
+    "Dire Team": "Virtus.pro",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-02-10T00:00:00.000Z",
+    "match_id": 514317582,
+    "duration (seconds)": 2406,
+    "match_patch": "(514317582,6.80)",
+    "Radiant Team": "hehe united",
+    "radiant_score": 0,
+    "Dire Team": "",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-02-10T00:00:00.000Z",
+    "match_id": 514330152,
+    "duration (seconds)": 2834,
+    "match_patch": "(514330152,6.80)",
+    "Radiant Team": "Cede.Nullis",
+    "radiant_score": 0,
+    "Dire Team": "Novata Koza",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-02-10T00:00:00.000Z",
+    "match_id": 514385044,
+    "duration (seconds)": 1762,
+    "match_patch": "(514385044,6.80)",
+    "Radiant Team": "",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-02-10T00:00:00.000Z",
+    "match_id": 514396127,
+    "duration (seconds)": 845,
+    "match_patch": "(514396127,6.80)",
+    "Radiant Team": "Novata Koza",
+    "radiant_score": 0,
+    "Dire Team": "Cede.Nullis",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

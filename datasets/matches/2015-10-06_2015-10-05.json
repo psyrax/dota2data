@@ -1,0 +1,101 @@
+[
+  {
+    "date": "2015-10-05T00:00:00.000Z",
+    "match_id": 1843800492,
+    "duration (seconds)": 2820,
+    "match_patch": "(1843800492,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Started From the PotM.",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-10-05T00:00:00.000Z",
+    "match_id": 1843877158,
+    "duration (seconds)": 1860,
+    "match_patch": "(1843877158,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Started From the PotM.",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-10-05T00:00:00.000Z",
+    "match_id": 1843942202,
+    "duration (seconds)": 2035,
+    "match_patch": "(1843942202,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-10-05T00:00:00.000Z",
+    "match_id": 1844008790,
+    "duration (seconds)": 684,
+    "match_patch": "(1844008790,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-10-05T00:00:00.000Z",
+    "match_id": 1844043545,
+    "duration (seconds)": 1394,
+    "match_patch": "(1844043545,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-10-05T00:00:00.000Z",
+    "match_id": 1844106204,
+    "duration (seconds)": 2876,
+    "match_patch": "(1844106204,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-10-05T00:00:00.000Z",
+    "match_id": 1844228229,
+    "duration (seconds)": 2215,
+    "match_patch": "(1844228229,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-10-05T00:00:00.000Z",
+    "match_id": 1845577343,
+    "duration (seconds)": 2875,
+    "match_patch": "(1845577343,6.85)",
+    "Radiant Team": "G O L D E N B O Y S",
+    "radiant_score": 0,
+    "Dire Team": "Natus Vincere",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-10-05T00:00:00.000Z",
+    "match_id": 1845687707,
+    "duration (seconds)": 1889,
+    "match_patch": "(1845687707,6.85)",
+    "Radiant Team": "Natus Vincere",
+    "radiant_score": 0,
+    "Dire Team": "G O L D E N B O Y S",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

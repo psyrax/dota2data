@@ -1,38 +1,24 @@
 [
   {
+    "date": "2017-04-28T00:00:00.000Z",
     "match_id": 3144693981,
-    "avg": "2935.0000000000000000",
-    "count": 1,
-    "winrate": 0.5,
-    "winrate_wilson": 0.236589593615487,
-    "sum": 29350,
-    "min": 2935,
-    "max": 2935,
+    "duration (seconds)": 2935,
     "match_patch": "(3144693981,7.05)",
-    "radiant_team_id": 1732138,
-    "dire_team_id": 2663631,
-    "radiant_win": false,
+    "Radiant Team": "xRG Gaming",
     "radiant_score": 34,
+    "Dire Team": "4Merical E-Sports",
     "dire_score": 40,
-    "start_time": 1493386540,
-    "League": "ESL India Premiership - Season One"
+    "Winner": "Dire"
   },
   {
+    "date": "2017-04-28T00:00:00.000Z",
     "match_id": 3144704404,
-    "avg": "2421.0000000000000000",
-    "count": 1,
-    "winrate": 0.5,
-    "winrate_wilson": 0.236589593615487,
-    "sum": 24210,
-    "min": 2421,
-    "max": 2421,
+    "duration (seconds)": 2421,
     "match_patch": "(3144704404,7.05)",
-    "radiant_team_id": 699943,
-    "dire_team_id": 3343641,
-    "radiant_win": false,
+    "Radiant Team": "Kuroko no doto",
     "radiant_score": 19,
+    "Dire Team": "3 cheers 4 Divine Ascension",
     "dire_score": 25,
-    "start_time": 1493386867,
-    "League": "ESL India Premiership - Season One"
+    "Winner": "Dire"
   }
 ]

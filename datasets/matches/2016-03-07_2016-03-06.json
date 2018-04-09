@@ -1,0 +1,57 @@
+[
+  {
+    "date": "2016-03-06T00:00:00.000Z",
+    "match_id": 2203020505,
+    "duration (seconds)": 3118,
+    "match_patch": "(2203020505,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "SIN TALENTO [COMM]",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-03-06T00:00:00.000Z",
+    "match_id": 2203238887,
+    "duration (seconds)": 2072,
+    "match_patch": "(2203238887,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-03-06T00:00:00.000Z",
+    "match_id": 2203443774,
+    "duration (seconds)": 2490,
+    "match_patch": "(2203443774,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "TLC GAMING",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-03-06T00:00:00.000Z",
+    "match_id": 2203539406,
+    "duration (seconds)": 1768,
+    "match_patch": "(2203539406,6.86)",
+    "Radiant Team": "TLC GAMING",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-03-06T00:00:00.000Z",
+    "match_id": 2203601018,
+    "duration (seconds)": 2614,
+    "match_patch": "(2203601018,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

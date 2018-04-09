@@ -1,0 +1,90 @@
+[
+  {
+    "date": "2013-10-09T00:00:00.000Z",
+    "match_id": 338494251,
+    "duration (seconds)": 1395,
+    "match_patch": "(338494251,6.78)",
+    "Radiant Team": "Vici Gaming",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-10-09T00:00:00.000Z",
+    "match_id": 338526966,
+    "duration (seconds)": 1001,
+    "match_patch": "(338526966,6.78)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Vici Gaming",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-10-09T00:00:00.000Z",
+    "match_id": 338635147,
+    "duration (seconds)": 1453,
+    "match_patch": "(338635147,6.78)",
+    "Radiant Team": "RaTtLeSnAkE. CN GaMiNg",
+    "radiant_score": 0,
+    "Dire Team": "DK",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-10-09T00:00:00.000Z",
+    "match_id": 338694604,
+    "duration (seconds)": 2966,
+    "match_patch": "(338694604,6.78)",
+    "Radiant Team": "DK",
+    "radiant_score": 0,
+    "Dire Team": "RaTtLeSnAkE. CN GaMiNg",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-10-09T00:00:00.000Z",
+    "match_id": 339042578,
+    "duration (seconds)": 1475,
+    "match_patch": "(339042578,6.78)",
+    "Radiant Team": "Fnatic",
+    "radiant_score": 0,
+    "Dire Team": "davaydasvidaniaaa",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-10-09T00:00:00.000Z",
+    "match_id": 339092383,
+    "duration (seconds)": 1269,
+    "match_patch": "(339092383,6.78)",
+    "Radiant Team": "Fnatic",
+    "radiant_score": 0,
+    "Dire Team": "davaydasvidaniaaa",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-10-09T00:00:00.000Z",
+    "match_id": 339283581,
+    "duration (seconds)": 1673,
+    "match_patch": "(339283581,6.78)",
+    "Radiant Team": "Desir[e]",
+    "radiant_score": 0,
+    "Dire Team": "BlooX2",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-10-09T00:00:00.000Z",
+    "match_id": 339302571,
+    "duration (seconds)": 2988,
+    "match_patch": "(339302571,6.78)",
+    "Radiant Team": "Desir[e]",
+    "radiant_score": 0,
+    "Dire Team": "BlooX2",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

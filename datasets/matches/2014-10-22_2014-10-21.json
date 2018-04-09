@@ -1,0 +1,24 @@
+[
+  {
+    "date": "2014-10-21T00:00:00.000Z",
+    "match_id": 975305958,
+    "duration (seconds)": 1875,
+    "match_patch": "(975305958,6.82)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-10-21T00:00:00.000Z",
+    "match_id": 975333957,
+    "duration (seconds)": 2518,
+    "match_patch": "(975333957,6.82)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

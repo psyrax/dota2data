@@ -1,0 +1,211 @@
+[
+  {
+    "date": "2015-03-03T00:00:00.000Z",
+    "match_id": 1290485453,
+    "duration (seconds)": 2069,
+    "match_patch": "(1290485453,6.83)",
+    "Radiant Team": "Sad Voids",
+    "radiant_score": 0,
+    "Dire Team": "CNB HyperX",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-03-03T00:00:00.000Z",
+    "match_id": 1290488922,
+    "duration (seconds)": 2551,
+    "match_patch": "(1290488922,6.83)",
+    "Radiant Team": "paiN Gaming",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-03-03T00:00:00.000Z",
+    "match_id": 1290516616,
+    "duration (seconds)": 3670,
+    "match_patch": "(1290516616,6.83)",
+    "Radiant Team": "We Actually Did Lose",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-03-03T00:00:00.000Z",
+    "match_id": 1290534175,
+    "duration (seconds)": 2132,
+    "match_patch": "(1290534175,6.83)",
+    "Radiant Team": "Black Sheep!",
+    "radiant_score": 0,
+    "Dire Team": "Wheel Whreck While Whistling",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-03-03T00:00:00.000Z",
+    "match_id": 1290547895,
+    "duration (seconds)": 2972,
+    "match_patch": "(1290547895,6.83)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "paiN Gaming",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-03-03T00:00:00.000Z",
+    "match_id": 1290548055,
+    "duration (seconds)": 2602,
+    "match_patch": "(1290548055,6.83)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Sad Voids",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-03-03T00:00:00.000Z",
+    "match_id": 1290586634,
+    "duration (seconds)": 3196,
+    "match_patch": "(1290586634,6.83)",
+    "Radiant Team": "Wheel Whreck While Whistling",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-03-03T00:00:00.000Z",
+    "match_id": 1290612514,
+    "duration (seconds)": 2974,
+    "match_patch": "(1290612514,6.83)",
+    "Radiant Team": "paiN Gaming",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-03-03T00:00:00.000Z",
+    "match_id": 1290674267,
+    "duration (seconds)": 1959,
+    "match_patch": "(1290674267,6.83)",
+    "Radiant Team": "Black Sheep!",
+    "radiant_score": 0,
+    "Dire Team": "Wheel Whreck While Whistling",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-03-03T00:00:00.000Z",
+    "match_id": 1292013750,
+    "duration (seconds)": 1340,
+    "match_patch": "(1292013750,6.83)",
+    "Radiant Team": "Alliance",
+    "radiant_score": 0,
+    "Dire Team": "Vega Squadron",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-03-03T00:00:00.000Z",
+    "match_id": 1292118911,
+    "duration (seconds)": 2325,
+    "match_patch": "(1292118911,6.83)",
+    "Radiant Team": "Vega Squadron",
+    "radiant_score": 0,
+    "Dire Team": "Alliance",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-03-03T00:00:00.000Z",
+    "match_id": 1292207383,
+    "duration (seconds)": 1625,
+    "match_patch": "(1292207383,6.83)",
+    "Radiant Team": "MAX COBRAS SUPER PUSH",
+    "radiant_score": 0,
+    "Dire Team": "Out of our League.",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-03-03T00:00:00.000Z",
+    "match_id": 1292295856,
+    "duration (seconds)": 4568,
+    "match_patch": "(1292295856,6.83)",
+    "Radiant Team": "Out of our League.",
+    "radiant_score": 0,
+    "Dire Team": "MAX COBRAS SUPER PUSH",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-03-03T00:00:00.000Z",
+    "match_id": 1292425548,
+    "duration (seconds)": 3214,
+    "match_patch": "(1292425548,6.83)",
+    "Radiant Team": "STARK.gg",
+    "radiant_score": 0,
+    "Dire Team": "Virtus.pro",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-03-03T00:00:00.000Z",
+    "match_id": 1292428833,
+    "duration (seconds)": 1720,
+    "match_patch": "(1292428833,6.83)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "-Ninjas-in-Pyjamas-",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-03-03T00:00:00.000Z",
+    "match_id": 1292456270,
+    "duration (seconds)": 2046,
+    "match_patch": "(1292456270,6.83)",
+    "Radiant Team": "Elysium!",
+    "radiant_score": 0,
+    "Dire Team": "rizeGaming International",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-03-03T00:00:00.000Z",
+    "match_id": 1292496561,
+    "duration (seconds)": 2038,
+    "match_patch": "(1292496561,6.83)",
+    "Radiant Team": "-Ninjas-in-Pyjamas-",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-03-03T00:00:00.000Z",
+    "match_id": 1292520063,
+    "duration (seconds)": 2282,
+    "match_patch": "(1292520063,6.83)",
+    "Radiant Team": "Heidenheimer Dota-Horde",
+    "radiant_score": 0,
+    "Dire Team": "European Allstars",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-03-03T00:00:00.000Z",
+    "match_id": 1292566989,
+    "duration (seconds)": 3962,
+    "match_patch": "(1292566989,6.83)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Heidenheimer Dota-Horde",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

@@ -1,0 +1,156 @@
+[
+  {
+    "date": "2014-01-19T00:00:00.000Z",
+    "match_id": 474881551,
+    "duration (seconds)": 1794,
+    "match_patch": "(474881551,6.79)",
+    "Radiant Team": "Invictus Gaming",
+    "radiant_score": 0,
+    "Dire Team": "DK",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-01-19T00:00:00.000Z",
+    "match_id": 474948455,
+    "duration (seconds)": 3086,
+    "match_patch": "(474948455,6.79)",
+    "Radiant Team": "DK",
+    "radiant_score": 0,
+    "Dire Team": "Invictus Gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-01-19T00:00:00.000Z",
+    "match_id": 474968944,
+    "duration (seconds)": 1646,
+    "match_patch": "(474968944,6.79)",
+    "Radiant Team": "zRAGE`",
+    "radiant_score": 0,
+    "Dire Team": "Rock~n~Roll",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-01-19T00:00:00.000Z",
+    "match_id": 474978484,
+    "duration (seconds)": 1834,
+    "match_patch": "(474978484,6.79)",
+    "Radiant Team": "afera",
+    "radiant_score": 0,
+    "Dire Team": "TEMPO",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-01-19T00:00:00.000Z",
+    "match_id": 475008935,
+    "duration (seconds)": 1226,
+    "match_patch": "(475008935,6.79)",
+    "Radiant Team": "WOND5.",
+    "radiant_score": 0,
+    "Dire Team": "Nerve of individual defence",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-01-19T00:00:00.000Z",
+    "match_id": 475044780,
+    "duration (seconds)": 1594,
+    "match_patch": "(475044780,6.79)",
+    "Radiant Team": "Invictus Gaming",
+    "radiant_score": 0,
+    "Dire Team": "DK",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-01-19T00:00:00.000Z",
+    "match_id": 475066523,
+    "duration (seconds)": 1393,
+    "match_patch": "(475066523,6.79)",
+    "Radiant Team": "zRAGE`",
+    "radiant_score": 0,
+    "Dire Team": "Revival Dragons.",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-01-19T00:00:00.000Z",
+    "match_id": 475088844,
+    "duration (seconds)": 827,
+    "match_patch": "(475088844,6.79)",
+    "Radiant Team": "WOND5.",
+    "radiant_score": 0,
+    "Dire Team": "Team-ASC",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-01-19T00:00:00.000Z",
+    "match_id": 475101901,
+    "duration (seconds)": 903,
+    "match_patch": "(475101901,6.79)",
+    "Radiant Team": "XZFCAXFAS",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-01-19T00:00:00.000Z",
+    "match_id": 475129605,
+    "duration (seconds)": 1461,
+    "match_patch": "(475129605,6.79)",
+    "Radiant Team": "Rock~n~Roll",
+    "radiant_score": 0,
+    "Dire Team": "TEMPO",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-01-19T00:00:00.000Z",
+    "match_id": 475201082,
+    "duration (seconds)": 1839,
+    "match_patch": "(475201082,6.79)",
+    "Radiant Team": "ThePuck!",
+    "radiant_score": 0,
+    "Dire Team": "afera",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-01-19T00:00:00.000Z",
+    "match_id": 475249842,
+    "duration (seconds)": 2680,
+    "match_patch": "(475249842,6.79)",
+    "Radiant Team": "Team-ASC",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-01-19T00:00:00.000Z",
+    "match_id": 475257503,
+    "duration (seconds)": 1850,
+    "match_patch": "(475257503,6.79)",
+    "Radiant Team": "XZFCAXFAS",
+    "radiant_score": 0,
+    "Dire Team": "Nerve of individual defence",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-01-19T00:00:00.000Z",
+    "match_id": 475275952,
+    "duration (seconds)": 2377,
+    "match_patch": "(475275952,6.79)",
+    "Radiant Team": "ThePuck!",
+    "radiant_score": 0,
+    "Dire Team": "TEMPO",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

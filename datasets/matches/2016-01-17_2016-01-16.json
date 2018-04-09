@@ -1,0 +1,112 @@
+[
+  {
+    "date": "2016-01-16T00:00:00.000Z",
+    "match_id": 2081269818,
+    "duration (seconds)": 2180,
+    "match_patch": "(2081269818,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Team Archon",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-01-16T00:00:00.000Z",
+    "match_id": 2081336560,
+    "duration (seconds)": 1522,
+    "match_patch": "(2081336560,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Team Archon",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-01-16T00:00:00.000Z",
+    "match_id": 2081392598,
+    "duration (seconds)": 2083,
+    "match_patch": "(2081392598,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Team Archon",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-01-16T00:00:00.000Z",
+    "match_id": 2083383779,
+    "duration (seconds)": 1365,
+    "match_patch": "(2083383779,6.86)",
+    "Radiant Team": "Yellow Submarine!",
+    "radiant_score": 0,
+    "Dire Team": "Noo Logic Gaming",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-01-16T00:00:00.000Z",
+    "match_id": 2083513736,
+    "duration (seconds)": 2079,
+    "match_patch": "(2083513736,6.86)",
+    "Radiant Team": "Yellow Submarine!",
+    "radiant_score": 0,
+    "Dire Team": "Noo Logic Gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-01-16T00:00:00.000Z",
+    "match_id": 2083623872,
+    "duration (seconds)": 2842,
+    "match_patch": "(2083623872,6.86)",
+    "Radiant Team": "Noo Logic Gaming",
+    "radiant_score": 0,
+    "Dire Team": "Yellow Submarine!",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-01-16T00:00:00.000Z",
+    "match_id": 2083747882,
+    "duration (seconds)": 2450,
+    "match_patch": "(2083747882,6.86)",
+    "Radiant Team": "4FAT",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-01-16T00:00:00.000Z",
+    "match_id": 2083839192,
+    "duration (seconds)": 1504,
+    "match_patch": "(2083839192,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "4FAT",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-01-16T00:00:00.000Z",
+    "match_id": 2083921706,
+    "duration (seconds)": 3635,
+    "match_patch": "(2083921706,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-01-16T00:00:00.000Z",
+    "match_id": 2083929593,
+    "duration (seconds)": 2047,
+    "match_patch": "(2083929593,6.86)",
+    "Radiant Team": "SwaG",
+    "radiant_score": 0,
+    "Dire Team": "Jayce.NG",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "date": "2015-03-28T00:00:00.000Z",
+    "match_id": 1354745638,
+    "duration (seconds)": 1557,
+    "match_patch": "(1354745638,6.83)",
+    "Radiant Team": "Trust",
+    "radiant_score": 0,
+    "Dire Team": "Arcanys Gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-03-28T00:00:00.000Z",
+    "match_id": 1354846665,
+    "duration (seconds)": 1317,
+    "match_patch": "(1354846665,6.83)",
+    "Radiant Team": "Arcanys Gaming",
+    "radiant_score": 0,
+    "Dire Team": "Trust",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-03-28T00:00:00.000Z",
+    "match_id": 1354947980,
+    "duration (seconds)": 1694,
+    "match_patch": "(1354947980,6.83)",
+    "Radiant Team": "Trust",
+    "radiant_score": 0,
+    "Dire Team": "Arcanys Gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-03-28T00:00:00.000Z",
+    "match_id": 1355376531,
+    "duration (seconds)": 901,
+    "match_patch": "(1355376531,6.83)",
+    "Radiant Team": "malang 5",
+    "radiant_score": 0,
+    "Dire Team": "Death_Squad",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-03-28T00:00:00.000Z",
+    "match_id": 1355458577,
+    "duration (seconds)": 2881,
+    "match_patch": "(1355458577,6.83)",
+    "Radiant Team": "Death_Squad",
+    "radiant_score": 0,
+    "Dire Team": "malang 5",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-03-28T00:00:00.000Z",
+    "match_id": 1355620965,
+    "duration (seconds)": 2220,
+    "match_patch": "(1355620965,6.83)",
+    "Radiant Team": "malang 5",
+    "radiant_score": 0,
+    "Dire Team": "Death_Squad",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-03-28T00:00:00.000Z",
+    "match_id": 1356039738,
+    "duration (seconds)": 1688,
+    "match_patch": "(1356039738,6.83)",
+    "Radiant Team": "Can't Say Wips",
+    "radiant_score": 0,
+    "Dire Team": "Mineski.亿鼎博",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-03-28T00:00:00.000Z",
+    "match_id": 1356232544,
+    "duration (seconds)": 2905,
+    "match_patch": "(1356232544,6.83)",
+    "Radiant Team": "Mineski.亿鼎博",
+    "radiant_score": 0,
+    "Dire Team": "Can't Say Wips",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-03-28T00:00:00.000Z",
+    "match_id": 1356445550,
+    "duration (seconds)": 2236,
+    "match_patch": "(1356445550,6.83)",
+    "Radiant Team": "Can't Say Wips",
+    "radiant_score": 0,
+    "Dire Team": "Mineski.亿鼎博",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

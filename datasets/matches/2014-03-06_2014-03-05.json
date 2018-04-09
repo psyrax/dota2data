@@ -1,0 +1,145 @@
+[
+  {
+    "date": "2014-03-05T00:00:00.000Z",
+    "match_id": 548722425,
+    "duration (seconds)": 2609,
+    "match_patch": "(548722425,6.80)",
+    "Radiant Team": "NO! Earthspirit",
+    "radiant_score": 0,
+    "Dire Team": "Xenodochial",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-03-05T00:00:00.000Z",
+    "match_id": 548743731,
+    "duration (seconds)": 1956,
+    "match_patch": "(548743731,6.80)",
+    "Radiant Team": "Cruzin' 4 Dudes",
+    "radiant_score": 0,
+    "Dire Team": "2chuanz",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-03-05T00:00:00.000Z",
+    "match_id": 548747174,
+    "duration (seconds)": 2554,
+    "match_patch": "(548747174,6.80)",
+    "Radiant Team": "Xenodochial",
+    "radiant_score": 0,
+    "Dire Team": "NO! Earthspirit",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-03-05T00:00:00.000Z",
+    "match_id": 548772510,
+    "duration (seconds)": 2159,
+    "match_patch": "(548772510,6.80)",
+    "Radiant Team": "Cruzin' 4 Dudes",
+    "radiant_score": 0,
+    "Dire Team": "2chuanz",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-03-05T00:00:00.000Z",
+    "match_id": 549380875,
+    "duration (seconds)": 994,
+    "match_patch": "(549380875,6.80)",
+    "Radiant Team": "Nvidia.ArrowGaming.AVF",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-03-05T00:00:00.000Z",
+    "match_id": 549430954,
+    "duration (seconds)": 1036,
+    "match_patch": "(549430954,6.80)",
+    "Radiant Team": "LGD-GAMING",
+    "radiant_score": 0,
+    "Dire Team": "Titan",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-03-05T00:00:00.000Z",
+    "match_id": 549445842,
+    "duration (seconds)": 2504,
+    "match_patch": "(549445842,6.80)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Nvidia.ArrowGaming.AVF",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-03-05T00:00:00.000Z",
+    "match_id": 549697935,
+    "duration (seconds)": 807,
+    "match_patch": "(549697935,6.80)",
+    "Radiant Team": "Kawaii^",
+    "radiant_score": 0,
+    "Dire Team": "FlipSideTactics",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-03-05T00:00:00.000Z",
+    "match_id": 549735130,
+    "duration (seconds)": 2878,
+    "match_patch": "(549735130,6.80)",
+    "Radiant Team": "FlipSideTactics",
+    "radiant_score": 0,
+    "Dire Team": "Kawaii^",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-03-05T00:00:00.000Z",
+    "match_id": 549763174,
+    "duration (seconds)": 2458,
+    "match_patch": "(549763174,6.80)",
+    "Radiant Team": "Team Empire",
+    "radiant_score": 0,
+    "Dire Team": "Radical Online X-tremists",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-03-05T00:00:00.000Z",
+    "match_id": 549821588,
+    "duration (seconds)": 1716,
+    "match_patch": "(549821588,6.80)",
+    "Radiant Team": "Radical Online X-tremists",
+    "radiant_score": 0,
+    "Dire Team": "Team Empire",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-03-05T00:00:00.000Z",
+    "match_id": 549871145,
+    "duration (seconds)": 1737,
+    "match_patch": "(549871145,6.80)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Team Liquid",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-03-05T00:00:00.000Z",
+    "match_id": 549905033,
+    "duration (seconds)": 1131,
+    "match_patch": "(549905033,6.80)",
+    "Radiant Team": "Team Liquid",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

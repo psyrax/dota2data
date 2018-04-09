@@ -1,0 +1,101 @@
+[
+  {
+    "date": "2013-05-06T00:00:00.000Z",
+    "match_id": 189277586,
+    "duration (seconds)": 2462,
+    "match_patch": "(189277586,6.77)",
+    "Radiant Team": "DustGaming",
+    "radiant_score": 0,
+    "Dire Team": "Revenge-",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-05-06T00:00:00.000Z",
+    "match_id": 189294152,
+    "duration (seconds)": 2075,
+    "match_patch": "(189294152,6.77)",
+    "Radiant Team": "Revenge-",
+    "radiant_score": 0,
+    "Dire Team": "DustGaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-05-06T00:00:00.000Z",
+    "match_id": 189308597,
+    "duration (seconds)": 2701,
+    "match_patch": "(189308597,6.77)",
+    "Radiant Team": "DustGaming",
+    "radiant_score": 0,
+    "Dire Team": "Revenge-",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-05-06T00:00:00.000Z",
+    "match_id": 189498380,
+    "duration (seconds)": 1595,
+    "match_patch": "(189498380,6.77)",
+    "Radiant Team": "Invasion eSports",
+    "radiant_score": 0,
+    "Dire Team": "MalayAllStar",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-05-06T00:00:00.000Z",
+    "match_id": 189505939,
+    "duration (seconds)": 2050,
+    "match_patch": "(189505939,6.77)",
+    "Radiant Team": "Sunny side up",
+    "radiant_score": 0,
+    "Dire Team": "Gameware",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-05-06T00:00:00.000Z",
+    "match_id": 189552096,
+    "duration (seconds)": 2092,
+    "match_patch": "(189552096,6.77)",
+    "Radiant Team": "Insidious Gaming Int",
+    "radiant_score": 0,
+    "Dire Team": "INMEMORYoFAKMA",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-05-06T00:00:00.000Z",
+    "match_id": 189564671,
+    "duration (seconds)": 3093,
+    "match_patch": "(189564671,6.77)",
+    "Radiant Team": "Tell Me Why",
+    "radiant_score": 0,
+    "Dire Team": "The-Net.Com Gaming",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-05-06T00:00:00.000Z",
+    "match_id": 189613030,
+    "duration (seconds)": 2427,
+    "match_patch": "(189613030,6.77)",
+    "Radiant Team": "**singStars.Gaming",
+    "radiant_score": 0,
+    "Dire Team": "AmgD.First Departure",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-05-06T00:00:00.000Z",
+    "match_id": 189626628,
+    "duration (seconds)": 3127,
+    "match_patch": "(189626628,6.77)",
+    "Radiant Team": "Joe Net Phenomenon",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

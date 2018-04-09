@@ -1,0 +1,222 @@
+[
+  {
+    "date": "2014-03-27T00:00:00.000Z",
+    "match_id": 580976358,
+    "duration (seconds)": 1500,
+    "match_patch": "(580976358,6.80)",
+    "Radiant Team": "Team Vas'Avi",
+    "radiant_score": 0,
+    "Dire Team": "2 chuanz",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-03-27T00:00:00.000Z",
+    "match_id": 581003968,
+    "duration (seconds)": 940,
+    "match_patch": "(581003968,6.80)",
+    "Radiant Team": "2 chuanz",
+    "radiant_score": 0,
+    "Dire Team": "Team Vas'Avi",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-03-27T00:00:00.000Z",
+    "match_id": 581707394,
+    "duration (seconds)": 2826,
+    "match_patch": "(581707394,6.80)",
+    "Radiant Team": "Titan",
+    "radiant_score": 0,
+    "Dire Team": "Rex Regum QEON",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-03-27T00:00:00.000Z",
+    "match_id": 581738019,
+    "duration (seconds)": 2380,
+    "match_patch": "(581738019,6.80)",
+    "Radiant Team": "First Departure",
+    "radiant_score": 0,
+    "Dire Team": "Scythe.SG-",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-03-27T00:00:00.000Z",
+    "match_id": 581817104,
+    "duration (seconds)": 2694,
+    "match_patch": "(581817104,6.80)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "EXECRATION1",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-03-27T00:00:00.000Z",
+    "match_id": 581828793,
+    "duration (seconds)": 2663,
+    "match_patch": "(581828793,6.80)",
+    "Radiant Team": "Rex Regum QEON",
+    "radiant_score": 0,
+    "Dire Team": "Titan",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-03-27T00:00:00.000Z",
+    "match_id": 581857825,
+    "duration (seconds)": 1705,
+    "match_patch": "(581857825,6.80)",
+    "Radiant Team": "Scythe.SG-",
+    "radiant_score": 0,
+    "Dire Team": "First Departure",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-03-27T00:00:00.000Z",
+    "match_id": 581886134,
+    "duration (seconds)": 1313,
+    "match_patch": "(581886134,6.80)",
+    "Radiant Team": "Radical Online X-tremists",
+    "radiant_score": 0,
+    "Dire Team": "Fnatic",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-03-27T00:00:00.000Z",
+    "match_id": 581937902,
+    "duration (seconds)": 2405,
+    "match_patch": "(581937902,6.80)",
+    "Radiant Team": "EXECRATION1",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-03-27T00:00:00.000Z",
+    "match_id": 581948750,
+    "duration (seconds)": 2876,
+    "match_patch": "(581948750,6.80)",
+    "Radiant Team": "Fnatic",
+    "radiant_score": 0,
+    "Dire Team": "Radical Online X-tremists",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-03-27T00:00:00.000Z",
+    "match_id": 582151406,
+    "duration (seconds)": 1886,
+    "match_patch": "(582151406,6.80)",
+    "Radiant Team": "AncientWarriorsGaming",
+    "radiant_score": 0,
+    "Dire Team": "TeamCoast",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-03-27T00:00:00.000Z",
+    "match_id": 582248086,
+    "duration (seconds)": 965,
+    "match_patch": "(582248086,6.80)",
+    "Radiant Team": "TheRerereTRY",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-03-27T00:00:00.000Z",
+    "match_id": 582283929,
+    "duration (seconds)": 848,
+    "match_patch": "(582283929,6.80)",
+    "Radiant Team": "TheRerereTRY",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-03-27T00:00:00.000Z",
+    "match_id": 582287232,
+    "duration (seconds)": 2381,
+    "match_patch": "(582287232,6.80)",
+    "Radiant Team": "TheRerereTRY",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-03-27T00:00:00.000Z",
+    "match_id": 582298511,
+    "duration (seconds)": 5131,
+    "match_patch": "(582298511,6.80)",
+    "Radiant Team": "Born Incomplete",
+    "radiant_score": 0,
+    "Dire Team": "Simple 5.",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-03-27T00:00:00.000Z",
+    "match_id": 582302001,
+    "duration (seconds)": 2322,
+    "match_patch": "(582302001,6.80)",
+    "Radiant Team": "Turtlemasters",
+    "radiant_score": 0,
+    "Dire Team": "4 Friends + Chrillee",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-03-27T00:00:00.000Z",
+    "match_id": 582316591,
+    "duration (seconds)": 1868,
+    "match_patch": "(582316591,6.80)",
+    "Radiant Team": "",
+    "radiant_score": 0,
+    "Dire Team": "Team Liquid",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-03-27T00:00:00.000Z",
+    "match_id": 582326666,
+    "duration (seconds)": 2481,
+    "match_patch": "(582326666,6.80)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "TheRerereTRY",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-03-27T00:00:00.000Z",
+    "match_id": 582368354,
+    "duration (seconds)": 1926,
+    "match_patch": "(582368354,6.80)",
+    "Radiant Team": "Team Liquid",
+    "radiant_score": 0,
+    "Dire Team": "",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-03-27T00:00:00.000Z",
+    "match_id": 582410800,
+    "duration (seconds)": 2798,
+    "match_patch": "(582410800,6.80)",
+    "Radiant Team": "Team Liquid",
+    "radiant_score": 0,
+    "Dire Team": "",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

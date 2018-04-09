@@ -1,0 +1,167 @@
+[
+  {
+    "date": "2015-09-15T00:00:00.000Z",
+    "match_id": 1794473785,
+    "duration (seconds)": 2784,
+    "match_patch": "(1794473785,6.84)",
+    "Radiant Team": "Mysterious##",
+    "radiant_score": 0,
+    "Dire Team": "Ez katka!!",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-09-15T00:00:00.000Z",
+    "match_id": 1794508373,
+    "duration (seconds)": 1363,
+    "match_patch": "(1794508373,6.84)",
+    "Radiant Team": "Battle Of Kings",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-09-15T00:00:00.000Z",
+    "match_id": 1794548946,
+    "duration (seconds)": 1747,
+    "match_patch": "(1794548946,6.84)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-09-15T00:00:00.000Z",
+    "match_id": 1794831156,
+    "duration (seconds)": 2007,
+    "match_patch": "(1794831156,6.84)",
+    "Radiant Team": "No Snake Allowed",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-09-15T00:00:00.000Z",
+    "match_id": 1795065610,
+    "duration (seconds)": 3238,
+    "match_patch": "(1795065610,6.84)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-09-15T00:00:00.000Z",
+    "match_id": 1795215473,
+    "duration (seconds)": 3024,
+    "match_patch": "(1795215473,6.84)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-09-15T00:00:00.000Z",
+    "match_id": 1795441330,
+    "duration (seconds)": 3255,
+    "match_patch": "(1795441330,6.84)",
+    "Radiant Team": "TrackMate.TRIC",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-09-15T00:00:00.000Z",
+    "match_id": 1795674094,
+    "duration (seconds)": 3219,
+    "match_patch": "(1795674094,6.84)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "TrackMate.TRIC",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-09-15T00:00:00.000Z",
+    "match_id": 1795877081,
+    "duration (seconds)": 2381,
+    "match_patch": "(1795877081,6.84)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "TrackMate.TRIC",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-09-15T00:00:00.000Z",
+    "match_id": 1796439626,
+    "duration (seconds)": 2807,
+    "match_patch": "(1796439626,6.84)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-09-15T00:00:00.000Z",
+    "match_id": 1796442279,
+    "duration (seconds)": 3637,
+    "match_patch": "(1796442279,6.84)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-09-15T00:00:00.000Z",
+    "match_id": 1796515650,
+    "duration (seconds)": 2461,
+    "match_patch": "(1796515650,6.84)",
+    "Radiant Team": "Cool Kids",
+    "radiant_score": 0,
+    "Dire Team": "Storm + 4",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-09-15T00:00:00.000Z",
+    "match_id": 1796517772,
+    "duration (seconds)": 2151,
+    "match_patch": "(1796517772,6.84)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-09-15T00:00:00.000Z",
+    "match_id": 1796608145,
+    "duration (seconds)": 1623,
+    "match_patch": "(1796608145,6.84)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-09-15T00:00:00.000Z",
+    "match_id": 1796612150,
+    "duration (seconds)": 2048,
+    "match_patch": "(1796612150,6.84)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

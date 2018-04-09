@@ -1,0 +1,178 @@
+[
+  {
+    "date": "2013-05-18T00:00:00.000Z",
+    "match_id": 197761255,
+    "duration (seconds)": 1892,
+    "match_patch": "(197761255,6.77)",
+    "Radiant Team": "Invictus Gaming",
+    "radiant_score": 0,
+    "Dire Team": "ViCi Gaming__",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-05-18T00:00:00.000Z",
+    "match_id": 197787672,
+    "duration (seconds)": 2343,
+    "match_patch": "(197787672,6.77)",
+    "Radiant Team": "ViCi Gaming__",
+    "radiant_score": 0,
+    "Dire Team": "Invictus Gaming",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-05-18T00:00:00.000Z",
+    "match_id": 197975626,
+    "duration (seconds)": 3795,
+    "match_patch": "(197975626,6.77)",
+    "Radiant Team": "LGD-GAMING",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-05-18T00:00:00.000Z",
+    "match_id": 197978709,
+    "duration (seconds)": 2923,
+    "match_patch": "(197978709,6.77)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Zenith",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-05-18T00:00:00.000Z",
+    "match_id": 198047460,
+    "duration (seconds)": 3544,
+    "match_patch": "(198047460,6.77)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "LGD-GAMING",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-05-18T00:00:00.000Z",
+    "match_id": 198050855,
+    "duration (seconds)": 1580,
+    "match_patch": "(198050855,6.77)",
+    "Radiant Team": "RaTtLeSnAkE. CN GaMiNg",
+    "radiant_score": 0,
+    "Dire Team": "**singStars.Gaming",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-05-18T00:00:00.000Z",
+    "match_id": 198108868,
+    "duration (seconds)": 2353,
+    "match_patch": "(198108868,6.77)",
+    "Radiant Team": "Neolution E-Sport International",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-05-18T00:00:00.000Z",
+    "match_id": 198109269,
+    "duration (seconds)": 3312,
+    "match_patch": "(198109269,6.77)",
+    "Radiant Team": "LGD-GAMING",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-05-18T00:00:00.000Z",
+    "match_id": 198156633,
+    "duration (seconds)": 2291,
+    "match_patch": "(198156633,6.77)",
+    "Radiant Team": "Radical Online X-tremists",
+    "radiant_score": 0,
+    "Dire Team": "davaydasvidaniaaa",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-05-18T00:00:00.000Z",
+    "match_id": 198203455,
+    "duration (seconds)": 2604,
+    "match_patch": "(198203455,6.77)",
+    "Radiant Team": "davaydasvidaniaaa",
+    "radiant_score": 0,
+    "Dire Team": "Radical Online X-tremists",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-05-18T00:00:00.000Z",
+    "match_id": 198288442,
+    "duration (seconds)": 2416,
+    "match_patch": "(198288442,6.77)",
+    "Radiant Team": "davaydasvidaniaaa",
+    "radiant_score": 0,
+    "Dire Team": "Radical Online X-tremists",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-05-18T00:00:00.000Z",
+    "match_id": 198336982,
+    "duration (seconds)": 1106,
+    "match_patch": "(198336982,6.77)",
+    "Radiant Team": "Radical Online X-tremists",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-05-18T00:00:00.000Z",
+    "match_id": 198361612,
+    "duration (seconds)": 1611,
+    "match_patch": "(198361612,6.77)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Radical Online X-tremists",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-05-18T00:00:00.000Z",
+    "match_id": 198385926,
+    "duration (seconds)": 2385,
+    "match_patch": "(198385926,6.77)",
+    "Radiant Team": "Team Dignitas",
+    "radiant_score": 0,
+    "Dire Team": "Team Liquid",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-05-18T00:00:00.000Z",
+    "match_id": 198422947,
+    "duration (seconds)": 1188,
+    "match_patch": "(198422947,6.77)",
+    "Radiant Team": "Team Dignitas",
+    "radiant_score": 0,
+    "Dire Team": "Radical Online X-tremists",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-05-18T00:00:00.000Z",
+    "match_id": 198437547,
+    "duration (seconds)": 3321,
+    "match_patch": "(198437547,6.77)",
+    "Radiant Team": "Radical Online X-tremists",
+    "radiant_score": 0,
+    "Dire Team": "Team Dignitas",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

@@ -1,0 +1,189 @@
+[
+  {
+    "date": "2015-11-23T00:00:00.000Z",
+    "match_id": 1953805782,
+    "duration (seconds)": 2202,
+    "match_patch": "(1953805782,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Jayce N.G",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-11-23T00:00:00.000Z",
+    "match_id": 1953846530,
+    "duration (seconds)": 4010,
+    "match_patch": "(1953846530,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-11-23T00:00:00.000Z",
+    "match_id": 1953944945,
+    "duration (seconds)": 1848,
+    "match_patch": "(1953944945,6.85)",
+    "Radiant Team": ".Infinity e-Sports",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-11-23T00:00:00.000Z",
+    "match_id": 1954221009,
+    "duration (seconds)": 1125,
+    "match_patch": "(1954221009,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-11-23T00:00:00.000Z",
+    "match_id": 1954276467,
+    "duration (seconds)": 1492,
+    "match_patch": "(1954276467,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-11-23T00:00:00.000Z",
+    "match_id": 1954456813,
+    "duration (seconds)": 1314,
+    "match_patch": "(1954456813,6.85)",
+    "Radiant Team": "Team Braveheart",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-11-23T00:00:00.000Z",
+    "match_id": 1954487890,
+    "duration (seconds)": 1552,
+    "match_patch": "(1954487890,6.85)",
+    "Radiant Team": "Newbee.Young",
+    "radiant_score": 0,
+    "Dire Team": "the wings gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-11-23T00:00:00.000Z",
+    "match_id": 1954533565,
+    "duration (seconds)": 1818,
+    "match_patch": "(1954533565,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Team Braveheart",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-11-23T00:00:00.000Z",
+    "match_id": 1954560296,
+    "duration (seconds)": 2217,
+    "match_patch": "(1954560296,6.85)",
+    "Radiant Team": "the wings gaming",
+    "radiant_score": 0,
+    "Dire Team": "Newbee.Young",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-11-23T00:00:00.000Z",
+    "match_id": 1955171278,
+    "duration (seconds)": 1692,
+    "match_patch": "(1955171278,6.85)",
+    "Radiant Team": "Noo Logic Gaming",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-11-23T00:00:00.000Z",
+    "match_id": 1955308858,
+    "duration (seconds)": 1926,
+    "match_patch": "(1955308858,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Noo Logic Gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-11-23T00:00:00.000Z",
+    "match_id": 1955500899,
+    "duration (seconds)": 3170,
+    "match_patch": "(1955500899,6.85)",
+    "Radiant Team": "_PowerRangers",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-11-23T00:00:00.000Z",
+    "match_id": 1955590443,
+    "duration (seconds)": 1633,
+    "match_patch": "(1955590443,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "_PowerRangers",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-11-23T00:00:00.000Z",
+    "match_id": 1955653337,
+    "duration (seconds)": 3013,
+    "match_patch": "(1955653337,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "_PowerRangers",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-11-23T00:00:00.000Z",
+    "match_id": 1955712182,
+    "duration (seconds)": 669,
+    "match_patch": "(1955712182,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "paiN Gaming",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-11-23T00:00:00.000Z",
+    "match_id": 1955721321,
+    "duration (seconds)": 1900,
+    "match_patch": "(1955721321,6.85)",
+    "Radiant Team": "_PowerRangers",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-11-23T00:00:00.000Z",
+    "match_id": 1955737631,
+    "duration (seconds)": 1970,
+    "match_patch": "(1955737631,6.85)",
+    "Radiant Team": "paiN Gaming",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

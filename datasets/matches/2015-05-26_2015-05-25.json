@@ -1,0 +1,156 @@
+[
+  {
+    "date": "2015-05-25T00:00:00.000Z",
+    "match_id": 1499518274,
+    "duration (seconds)": 2278,
+    "match_patch": "(1499518274,6.84)",
+    "Radiant Team": "VolcaniaGaming",
+    "radiant_score": 0,
+    "Dire Team": "Battle Zone-",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-05-25T00:00:00.000Z",
+    "match_id": 1499581041,
+    "duration (seconds)": 828,
+    "match_patch": "(1499581041,6.84)",
+    "Radiant Team": "Battle Zone-",
+    "radiant_score": 0,
+    "Dire Team": "VolcaniaGaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-05-25T00:00:00.000Z",
+    "match_id": 1500590090,
+    "duration (seconds)": 1780,
+    "match_patch": "(1500590090,6.84)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-05-25T00:00:00.000Z",
+    "match_id": 1500983620,
+    "duration (seconds)": 796,
+    "match_patch": "(1500983620,6.84)",
+    "Radiant Team": "LEGIO VICTRIX !",
+    "radiant_score": 0,
+    "Dire Team": "C~4",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-05-25T00:00:00.000Z",
+    "match_id": 1501058191,
+    "duration (seconds)": 1557,
+    "match_patch": "(1501058191,6.84)",
+    "Radiant Team": "C~4",
+    "radiant_score": 0,
+    "Dire Team": "LEGIO VICTRIX !",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-05-25T00:00:00.000Z",
+    "match_id": 1501107729,
+    "duration (seconds)": 2599,
+    "match_patch": "(1501107729,6.84)",
+    "Radiant Team": "SCARYFACEZZZZZZZ",
+    "radiant_score": 0,
+    "Dire Team": "Vega Squadron",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-05-25T00:00:00.000Z",
+    "match_id": 1501245050,
+    "duration (seconds)": 3113,
+    "match_patch": "(1501245050,6.84)",
+    "Radiant Team": "Vega Squadron",
+    "radiant_score": 0,
+    "Dire Team": "SCARYFACEZZZZZZZ",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-05-25T00:00:00.000Z",
+    "match_id": 1501269147,
+    "duration (seconds)": 2165,
+    "match_patch": "(1501269147,6.84)",
+    "Radiant Team": "FIuorescent Adolescent",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-05-25T00:00:00.000Z",
+    "match_id": 1501379366,
+    "duration (seconds)": 1637,
+    "match_patch": "(1501379366,6.84)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "FIuorescent Adolescent",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-05-25T00:00:00.000Z",
+    "match_id": 1501409889,
+    "duration (seconds)": 2038,
+    "match_patch": "(1501409889,6.84)",
+    "Radiant Team": "Lemondogs.Dota2",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-05-25T00:00:00.000Z",
+    "match_id": 1501448820,
+    "duration (seconds)": 1200,
+    "match_patch": "(1501448820,6.84)",
+    "Radiant Team": "FIuorescent Adolescent",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-05-25T00:00:00.000Z",
+    "match_id": 1501547414,
+    "duration (seconds)": 3583,
+    "match_patch": "(1501547414,6.84)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Lemondogs.Dota2",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-05-25T00:00:00.000Z",
+    "match_id": 1501637556,
+    "duration (seconds)": 3381,
+    "match_patch": "(1501637556,6.84)",
+    "Radiant Team": "Lemondogs.Dota2",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-05-25T00:00:00.000Z",
+    "match_id": 1501746895,
+    "duration (seconds)": 2019,
+    "match_patch": "(1501746895,6.84)",
+    "Radiant Team": "Olimpo E-Sport",
+    "radiant_score": 0,
+    "Dire Team": "Battle Fury Gaming",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

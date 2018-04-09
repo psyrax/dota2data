@@ -1,0 +1,35 @@
+[
+  {
+    "date": "2016-01-11T00:00:00.000Z",
+    "match_id": 2071257683,
+    "duration (seconds)": 2922,
+    "match_patch": "(2071257683,6.86)",
+    "Radiant Team": "Execration.安博电竞",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-01-11T00:00:00.000Z",
+    "match_id": 2072033653,
+    "duration (seconds)": 2550,
+    "match_patch": "(2072033653,6.86)",
+    "Radiant Team": "COOKISS",
+    "radiant_score": 0,
+    "Dire Team": "Team Alternate Attax",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-01-11T00:00:00.000Z",
+    "match_id": 2072130070,
+    "duration (seconds)": 1276,
+    "match_patch": "(2072130070,6.86)",
+    "Radiant Team": "Team Alternate Attax",
+    "radiant_score": 0,
+    "Dire Team": "COOKISS",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

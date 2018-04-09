@@ -1,0 +1,156 @@
+[
+  {
+    "date": "2015-06-12T00:00:00.000Z",
+    "match_id": 1546466497,
+    "duration (seconds)": 2589,
+    "match_patch": "(1546466497,6.84)",
+    "Radiant Team": "Fever Dota",
+    "radiant_score": 0,
+    "Dire Team": "Made in NIS",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-06-12T00:00:00.000Z",
+    "match_id": 1546632446,
+    "duration (seconds)": 2090,
+    "match_patch": "(1546632446,6.84)",
+    "Radiant Team": "Made in NIS",
+    "radiant_score": 0,
+    "Dire Team": "Fever Dota",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-06-12T00:00:00.000Z",
+    "match_id": 1546920034,
+    "duration (seconds)": 1773,
+    "match_patch": "(1546920034,6.84)",
+    "Radiant Team": "London Conspiracy Dota2",
+    "radiant_score": 0,
+    "Dire Team": "Lemondogs.Dota2",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-06-12T00:00:00.000Z",
+    "match_id": 1546927631,
+    "duration (seconds)": 1472,
+    "match_patch": "(1546927631,6.84)",
+    "Radiant Team": "TELL WHY_ANIME?",
+    "radiant_score": 0,
+    "Dire Team": "Meepo+Aghanim",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-06-12T00:00:00.000Z",
+    "match_id": 1546934429,
+    "duration (seconds)": 1013,
+    "match_patch": "(1546934429,6.84)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "JID DELAET MILO",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-06-12T00:00:00.000Z",
+    "match_id": 1547059360,
+    "duration (seconds)": 1911,
+    "match_patch": "(1547059360,6.84)",
+    "Radiant Team": "Lemondogs.Dota2",
+    "radiant_score": 0,
+    "Dire Team": "London Conspiracy Dota2",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-06-12T00:00:00.000Z",
+    "match_id": 1547079172,
+    "duration (seconds)": 1388,
+    "match_patch": "(1547079172,6.84)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-06-12T00:00:00.000Z",
+    "match_id": 1547215562,
+    "duration (seconds)": 2265,
+    "match_patch": "(1547215562,6.84)",
+    "Radiant Team": "CCyberFivee",
+    "radiant_score": 0,
+    "Dire Team": "KelvinSaveTheQueen",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-06-12T00:00:00.000Z",
+    "match_id": 1547240054,
+    "duration (seconds)": 1175,
+    "match_patch": "(1547240054,6.84)",
+    "Radiant Team": "LEGIO VICTRIX !",
+    "radiant_score": 0,
+    "Dire Team": "TELL WHY_ANIME?",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-06-12T00:00:00.000Z",
+    "match_id": 1547391962,
+    "duration (seconds)": 1348,
+    "match_patch": "(1547391962,6.84)",
+    "Radiant Team": "RAGEFOX",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-06-12T00:00:00.000Z",
+    "match_id": 1547488499,
+    "duration (seconds)": 1187,
+    "match_patch": "(1547488499,6.84)",
+    "Radiant Team": "London Conspiracy Dota2",
+    "radiant_score": 0,
+    "Dire Team": "Vega Squadron",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-06-12T00:00:00.000Z",
+    "match_id": 1547612116,
+    "duration (seconds)": 2346,
+    "match_patch": "(1547612116,6.84)",
+    "Radiant Team": "Vega Squadron",
+    "radiant_score": 0,
+    "Dire Team": "London Conspiracy Dota2",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-06-12T00:00:00.000Z",
+    "match_id": 1547704600,
+    "duration (seconds)": 1787,
+    "match_patch": "(1547704600,6.84)",
+    "Radiant Team": "London Conspiracy Dota2",
+    "radiant_score": 0,
+    "Dire Team": "Vega Squadron",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-06-12T00:00:00.000Z",
+    "match_id": 1548063733,
+    "duration (seconds)": 1650,
+    "match_patch": "(1548063733,6.84)",
+    "Radiant Team": "paiN Gaming",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

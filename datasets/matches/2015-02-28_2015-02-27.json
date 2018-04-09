@@ -1,0 +1,68 @@
+[
+  {
+    "date": "2015-02-27T00:00:00.000Z",
+    "match_id": 1277895044,
+    "duration (seconds)": 2661,
+    "match_patch": "(1277895044,6.83)",
+    "Radiant Team": "compLexity Gaming",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-02-27T00:00:00.000Z",
+    "match_id": 1277960893,
+    "duration (seconds)": 2255,
+    "match_patch": "(1277960893,6.83)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "compLexity Gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-02-27T00:00:00.000Z",
+    "match_id": 1279280803,
+    "duration (seconds)": 2382,
+    "match_patch": "(1279280803,6.83)",
+    "Radiant Team": "Volan Turtures",
+    "radiant_score": 0,
+    "Dire Team": "Mysterious Player",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-02-27T00:00:00.000Z",
+    "match_id": 1279508576,
+    "duration (seconds)": 882,
+    "match_patch": "(1279508576,6.83)",
+    "Radiant Team": "Mysterious Player",
+    "radiant_score": 0,
+    "Dire Team": "Volan Turtures",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-02-27T00:00:00.000Z",
+    "match_id": 1279837909,
+    "duration (seconds)": 1185,
+    "match_patch": "(1279837909,6.83)",
+    "Radiant Team": "Red Viperz Gaming",
+    "radiant_score": 0,
+    "Dire Team": "First Departure",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-02-27T00:00:00.000Z",
+    "match_id": 1280037154,
+    "duration (seconds)": 2407,
+    "match_patch": "(1280037154,6.83)",
+    "Radiant Team": "First Departure",
+    "radiant_score": 0,
+    "Dire Team": "Red Viperz Gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

@@ -1,0 +1,123 @@
+[
+  {
+    "date": "2015-04-23T00:00:00.000Z",
+    "match_id": 1417483383,
+    "duration (seconds)": 1559,
+    "match_patch": "(1417483383,6.83)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-04-23T00:00:00.000Z",
+    "match_id": 1417819650,
+    "duration (seconds)": 1673,
+    "match_patch": "(1417819650,6.83)",
+    "Radiant Team": "Team Howick",
+    "radiant_score": 0,
+    "Dire Team": "Chakra Brah Force",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-04-23T00:00:00.000Z",
+    "match_id": 1418624315,
+    "duration (seconds)": 2395,
+    "match_patch": "(1418624315,6.83)",
+    "Radiant Team": "Vega Squadron",
+    "radiant_score": 0,
+    "Dire Team": "SCARYFACEZZZZZZZ",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-04-23T00:00:00.000Z",
+    "match_id": 1418765287,
+    "duration (seconds)": 2973,
+    "match_patch": "(1418765287,6.83)",
+    "Radiant Team": "SCARYFACEZZZZZZZ",
+    "radiant_score": 0,
+    "Dire Team": "Vega Squadron",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-04-23T00:00:00.000Z",
+    "match_id": 1418986539,
+    "duration (seconds)": 3355,
+    "match_patch": "(1418986539,6.83)",
+    "Radiant Team": "STARK.gg",
+    "radiant_score": 0,
+    "Dire Team": "Vega Squadron",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-04-23T00:00:00.000Z",
+    "match_id": 1419111727,
+    "duration (seconds)": 1225,
+    "match_patch": "(1419111727,6.83)",
+    "Radiant Team": "Vega Squadron",
+    "radiant_score": 0,
+    "Dire Team": "STARK.gg",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-04-23T00:00:00.000Z",
+    "match_id": 1419122185,
+    "duration (seconds)": 2597,
+    "match_patch": "(1419122185,6.83)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-04-23T00:00:00.000Z",
+    "match_id": 1419176877,
+    "duration (seconds)": 2524,
+    "match_patch": "(1419176877,6.83)",
+    "Radiant Team": "STARK.gg",
+    "radiant_score": 0,
+    "Dire Team": "Vega Squadron",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-04-23T00:00:00.000Z",
+    "match_id": 1419215025,
+    "duration (seconds)": 1772,
+    "match_patch": "(1419215025,6.83)",
+    "Radiant Team": "AncientWarriorsGaming",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-04-23T00:00:00.000Z",
+    "match_id": 1419264784,
+    "duration (seconds)": 2490,
+    "match_patch": "(1419264784,6.83)",
+    "Radiant Team": "Vega Squadron",
+    "radiant_score": 0,
+    "Dire Team": "STARK.gg",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-04-23T00:00:00.000Z",
+    "match_id": 1419440097,
+    "duration (seconds)": 3345,
+    "match_patch": "(1419440097,6.83)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "date": "2013-05-01T00:00:00.000Z",
+    "match_id": 185604130,
+    "duration (seconds)": 2011,
+    "match_patch": "(185604130,6.77)",
+    "Radiant Team": "FXOpen E-Sports",
+    "radiant_score": 0,
+    "Dire Team": "zExBinGo",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-05-01T00:00:00.000Z",
+    "match_id": 185954339,
+    "duration (seconds)": 3288,
+    "match_patch": "(185954339,6.77)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Typical Mistakes",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

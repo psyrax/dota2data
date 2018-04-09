@@ -1,0 +1,68 @@
+[
+  {
+    "date": "2014-07-26T00:00:00.000Z",
+    "match_id": 799384822,
+    "duration (seconds)": 2269,
+    "match_patch": "(799384822,6.81)",
+    "Radiant Team": "Infs",
+    "radiant_score": 0,
+    "Dire Team": "BRONZEDOTA",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-07-26T00:00:00.000Z",
+    "match_id": 799403450,
+    "duration (seconds)": 697,
+    "match_patch": "(799403450,6.81)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Talanted Individuals",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-07-26T00:00:00.000Z",
+    "match_id": 799445161,
+    "duration (seconds)": 1520,
+    "match_patch": "(799445161,6.81)",
+    "Radiant Team": "Talanted Individuals",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-07-26T00:00:00.000Z",
+    "match_id": 799483197,
+    "duration (seconds)": 3052,
+    "match_patch": "(799483197,6.81)",
+    "Radiant Team": "BRONZEDOTA",
+    "radiant_score": 0,
+    "Dire Team": "Infs",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-07-26T00:00:00.000Z",
+    "match_id": 799603237,
+    "duration (seconds)": 1518,
+    "match_patch": "(799603237,6.81)",
+    "Radiant Team": "TEAM XENEX",
+    "radiant_score": 0,
+    "Dire Team": "Not Good Gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-07-26T00:00:00.000Z",
+    "match_id": 799665360,
+    "duration (seconds)": 586,
+    "match_patch": "(799665360,6.81)",
+    "Radiant Team": "Not Good Gaming",
+    "radiant_score": 0,
+    "Dire Team": "TEAM XENEX",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

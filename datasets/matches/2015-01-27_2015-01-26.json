@@ -1,0 +1,134 @@
+[
+  {
+    "date": "2015-01-26T00:00:00.000Z",
+    "match_id": 1189034215,
+    "duration (seconds)": 2857,
+    "match_patch": "(1189034215,6.83)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Team_eHug",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-01-26T00:00:00.000Z",
+    "match_id": 1189084600,
+    "duration (seconds)": 1452,
+    "match_patch": "(1189084600,6.83)",
+    "Radiant Team": "Team_eHug",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-01-26T00:00:00.000Z",
+    "match_id": 1189119255,
+    "duration (seconds)": 1527,
+    "match_patch": "(1189119255,6.83)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Team_eHug",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-01-26T00:00:00.000Z",
+    "match_id": 1189121576,
+    "duration (seconds)": 1520,
+    "match_patch": "(1189121576,6.83)",
+    "Radiant Team": "Forsaken eSports",
+    "radiant_score": 0,
+    "Dire Team": "Skadi Doesn't Know!",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-01-26T00:00:00.000Z",
+    "match_id": 1189696584,
+    "duration (seconds)": 2089,
+    "match_patch": "(1189696584,6.83)",
+    "Radiant Team": "Can't Say Wips",
+    "radiant_score": 0,
+    "Dire Team": "Aces.VN",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-01-26T00:00:00.000Z",
+    "match_id": 1189821640,
+    "duration (seconds)": 2101,
+    "match_patch": "(1189821640,6.83)",
+    "Radiant Team": "Mineski.亿鼎博",
+    "radiant_score": 0,
+    "Dire Team": "Invasion eSports",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-01-26T00:00:00.000Z",
+    "match_id": 1189988154,
+    "duration (seconds)": 2446,
+    "match_patch": "(1189988154,6.83)",
+    "Radiant Team": "Trust",
+    "radiant_score": 0,
+    "Dire Team": "insidiousidol",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-01-26T00:00:00.000Z",
+    "match_id": 1190044868,
+    "duration (seconds)": 1974,
+    "match_patch": "(1190044868,6.83)",
+    "Radiant Team": "xant!c",
+    "radiant_score": 0,
+    "Dire Team": "xGame.kz",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-01-26T00:00:00.000Z",
+    "match_id": 1190155165,
+    "duration (seconds)": 2895,
+    "match_patch": "(1190155165,6.83)",
+    "Radiant Team": "Aces.VN",
+    "radiant_score": 0,
+    "Dire Team": "First Departure",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-01-26T00:00:00.000Z",
+    "match_id": 1190194995,
+    "duration (seconds)": 537,
+    "match_patch": "(1190194995,6.83)",
+    "Radiant Team": "xGame.kz",
+    "radiant_score": 0,
+    "Dire Team": "xant!c",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-01-26T00:00:00.000Z",
+    "match_id": 1190586573,
+    "duration (seconds)": 1251,
+    "match_patch": "(1190586573,6.83)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "PleaseShowYourSkill",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-01-26T00:00:00.000Z",
+    "match_id": 1190659640,
+    "duration (seconds)": 2856,
+    "match_patch": "(1190659640,6.83)",
+    "Radiant Team": "PleaseShowYourSkill",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

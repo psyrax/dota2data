@@ -1,0 +1,200 @@
+[
+  {
+    "date": "2013-06-27T00:00:00.000Z",
+    "match_id": 228947757,
+    "duration (seconds)": 526,
+    "match_patch": "(228947757,6.78)",
+    "Radiant Team": "Smeagol",
+    "radiant_score": 0,
+    "Dire Team": "Team Liquid",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-06-27T00:00:00.000Z",
+    "match_id": 228957762,
+    "duration (seconds)": 639,
+    "match_patch": "(228957762,6.78)",
+    "Radiant Team": "Smeagol",
+    "radiant_score": 0,
+    "Dire Team": "Team Dignitas",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-06-27T00:00:00.000Z",
+    "match_id": 228968937,
+    "duration (seconds)": 1905,
+    "match_patch": "(228968937,6.78)",
+    "Radiant Team": "Smeagol",
+    "radiant_score": 0,
+    "Dire Team": "Evil Geniuses",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-06-27T00:00:00.000Z",
+    "match_id": 229147551,
+    "duration (seconds)": 2112,
+    "match_patch": "(229147551,6.78)",
+    "Radiant Team": "LGD-GAMING",
+    "radiant_score": 0,
+    "Dire Team": "DK",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-06-27T00:00:00.000Z",
+    "match_id": 229151139,
+    "duration (seconds)": 677,
+    "match_patch": "(229151139,6.78)",
+    "Radiant Team": "wHut",
+    "radiant_score": 0,
+    "Dire Team": "God Of Sun",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-06-27T00:00:00.000Z",
+    "match_id": 229165642,
+    "duration (seconds)": 1021,
+    "match_patch": "(229165642,6.78)",
+    "Radiant Team": "God Of Sun",
+    "radiant_score": 0,
+    "Dire Team": "wHut",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-06-27T00:00:00.000Z",
+    "match_id": 229181336,
+    "duration (seconds)": 2851,
+    "match_patch": "(229181336,6.78)",
+    "Radiant Team": "DK",
+    "radiant_score": 0,
+    "Dire Team": "LGD-GAMING",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-06-27T00:00:00.000Z",
+    "match_id": 229245051,
+    "duration (seconds)": 2046,
+    "match_patch": "(229245051,6.78)",
+    "Radiant Team": "LGD-GAMING",
+    "radiant_score": 0,
+    "Dire Team": "DK",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-06-27T00:00:00.000Z",
+    "match_id": 229245235,
+    "duration (seconds)": 1424,
+    "match_patch": "(229245235,6.78)",
+    "Radiant Team": "RaTtLeSnAkE. CN GaMiNg",
+    "radiant_score": 0,
+    "Dire Team": "OguraYui",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-06-27T00:00:00.000Z",
+    "match_id": 229271150,
+    "duration (seconds)": 2059,
+    "match_patch": "(229271150,6.78)",
+    "Radiant Team": "OguraYui",
+    "radiant_score": 0,
+    "Dire Team": "RaTtLeSnAkE. CN GaMiNg",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-06-27T00:00:00.000Z",
+    "match_id": 229286421,
+    "duration (seconds)": 3834,
+    "match_patch": "(229286421,6.78)",
+    "Radiant Team": "DK",
+    "radiant_score": 0,
+    "Dire Team": "LGD-GAMING",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-06-27T00:00:00.000Z",
+    "match_id": 229447790,
+    "duration (seconds)": 1907,
+    "match_patch": "(229447790,6.78)",
+    "Radiant Team": "Fnatic",
+    "radiant_score": 0,
+    "Dire Team": "Virtus.pro",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-06-27T00:00:00.000Z",
+    "match_id": 229489731,
+    "duration (seconds)": 1970,
+    "match_patch": "(229489731,6.78)",
+    "Radiant Team": "Virtus.pro",
+    "radiant_score": 0,
+    "Dire Team": "Fnatic",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-06-27T00:00:00.000Z",
+    "match_id": 229533310,
+    "duration (seconds)": 2055,
+    "match_patch": "(229533310,6.78)",
+    "Radiant Team": "Fnatic",
+    "radiant_score": 0,
+    "Dire Team": "Virtus.pro",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-06-27T00:00:00.000Z",
+    "match_id": 229579943,
+    "duration (seconds)": 1917,
+    "match_patch": "(229579943,6.78)",
+    "Radiant Team": "Alliance",
+    "radiant_score": 0,
+    "Dire Team": "Virtus.pro",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-06-27T00:00:00.000Z",
+    "match_id": 229618751,
+    "duration (seconds)": 2113,
+    "match_patch": "(229618751,6.78)",
+    "Radiant Team": "Virtus.pro",
+    "radiant_score": 0,
+    "Dire Team": "Alliance",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-06-27T00:00:00.000Z",
+    "match_id": 229650565,
+    "duration (seconds)": 3112,
+    "match_patch": "(229650565,6.78)",
+    "Radiant Team": "Alliance",
+    "radiant_score": 0,
+    "Dire Team": "Virtus.pro",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-06-27T00:00:00.000Z",
+    "match_id": 229685670,
+    "duration (seconds)": 2663,
+    "match_patch": "(229685670,6.78)",
+    "Radiant Team": "Fnatic",
+    "radiant_score": 0,
+    "Dire Team": "Alliance",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

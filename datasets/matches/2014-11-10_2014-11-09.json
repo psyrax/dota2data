@@ -1,0 +1,167 @@
+[
+  {
+    "date": "2014-11-09T00:00:00.000Z",
+    "match_id": 1014694501,
+    "duration (seconds)": 2825,
+    "match_patch": "(1014694501,6.82)",
+    "Radiant Team": "Veyron.International",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-11-09T00:00:00.000Z",
+    "match_id": 1014864985,
+    "duration (seconds)": 1756,
+    "match_patch": "(1014864985,6.82)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Veyron.International",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-11-09T00:00:00.000Z",
+    "match_id": 1014986711,
+    "duration (seconds)": 2704,
+    "match_patch": "(1014986711,6.82)",
+    "Radiant Team": "Veyron.International",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-11-09T00:00:00.000Z",
+    "match_id": 1015189406,
+    "duration (seconds)": 2221,
+    "match_patch": "(1015189406,6.82)",
+    "Radiant Team": "TheBlingEmpire",
+    "radiant_score": 0,
+    "Dire Team": "FLAG TEST",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-11-09T00:00:00.000Z",
+    "match_id": 1015318588,
+    "duration (seconds)": 1435,
+    "match_patch": "(1015318588,6.82)",
+    "Radiant Team": "FLAG TEST",
+    "radiant_score": 0,
+    "Dire Team": "TheBlingEmpire",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-11-09T00:00:00.000Z",
+    "match_id": 1015444371,
+    "duration (seconds)": 1366,
+    "match_patch": "(1015444371,6.82)",
+    "Radiant Team": "Ro.eVolution!",
+    "radiant_score": 0,
+    "Dire Team": "Balderdash-Gaming",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-11-09T00:00:00.000Z",
+    "match_id": 1015450538,
+    "duration (seconds)": 2016,
+    "match_patch": "(1015450538,6.82)",
+    "Radiant Team": "NorthernLions",
+    "radiant_score": 0,
+    "Dire Team": "Hey Birds",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-11-09T00:00:00.000Z",
+    "match_id": 1015473048,
+    "duration (seconds)": 968,
+    "match_patch": "(1015473048,6.82)",
+    "Radiant Team": "0 + 4 =",
+    "radiant_score": 0,
+    "Dire Team": "smash it",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-11-09T00:00:00.000Z",
+    "match_id": 1015534217,
+    "duration (seconds)": 1321,
+    "match_patch": "(1015534217,6.82)",
+    "Radiant Team": "Balderdash-Gaming",
+    "radiant_score": 0,
+    "Dire Team": "Ro.eVolution!",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-11-09T00:00:00.000Z",
+    "match_id": 1015554986,
+    "duration (seconds)": 1889,
+    "match_patch": "(1015554986,6.82)",
+    "Radiant Team": "smash it",
+    "radiant_score": 0,
+    "Dire Team": "0 + 4 =",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-11-09T00:00:00.000Z",
+    "match_id": 1015567747,
+    "duration (seconds)": 2751,
+    "match_patch": "(1015567747,6.82)",
+    "Radiant Team": "Hey Birds",
+    "radiant_score": 0,
+    "Dire Team": "NorthernLions",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-11-09T00:00:00.000Z",
+    "match_id": 1015786068,
+    "duration (seconds)": 2952,
+    "match_patch": "(1015786068,6.82)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-11-09T00:00:00.000Z",
+    "match_id": 1015818348,
+    "duration (seconds)": 3414,
+    "match_patch": "(1015818348,6.82)",
+    "Radiant Team": "TeamArena",
+    "radiant_score": 0,
+    "Dire Team": "Senseye Esports",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-11-09T00:00:00.000Z",
+    "match_id": 1015908020,
+    "duration (seconds)": 3744,
+    "match_patch": "(1015908020,6.82)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-11-09T00:00:00.000Z",
+    "match_id": 1015928937,
+    "duration (seconds)": 1542,
+    "match_patch": "(1015928937,6.82)",
+    "Radiant Team": "Senseye Esports",
+    "radiant_score": 0,
+    "Dire Team": "TeamArena",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

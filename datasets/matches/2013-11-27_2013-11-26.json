@@ -1,0 +1,123 @@
+[
+  {
+    "date": "2013-11-26T00:00:00.000Z",
+    "match_id": 400050414,
+    "duration (seconds)": 1790,
+    "match_patch": "(400050414,6.79)",
+    "Radiant Team": "Dream time.",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-11-26T00:00:00.000Z",
+    "match_id": 400080919,
+    "duration (seconds)": 2350,
+    "match_patch": "(400080919,6.79)",
+    "Radiant Team": "Venum Gaming AU",
+    "radiant_score": 0,
+    "Dire Team": "Lax/HB",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-11-26T00:00:00.000Z",
+    "match_id": 400089596,
+    "duration (seconds)": 1204,
+    "match_patch": "(400089596,6.79)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Dream time.",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-11-26T00:00:00.000Z",
+    "match_id": 400118947,
+    "duration (seconds)": 1620,
+    "match_patch": "(400118947,6.79)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Dream time.",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-11-26T00:00:00.000Z",
+    "match_id": 400137572,
+    "duration (seconds)": 3514,
+    "match_patch": "(400137572,6.79)",
+    "Radiant Team": "Lax/HB",
+    "radiant_score": 0,
+    "Dire Team": "Venum Gaming AU",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-11-26T00:00:00.000Z",
+    "match_id": 400157794,
+    "duration (seconds)": 2033,
+    "match_patch": "(400157794,6.79)",
+    "Radiant Team": "LGD-GAMING.int",
+    "radiant_score": 0,
+    "Dire Team": "TongFu.WanZhou",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-11-26T00:00:00.000Z",
+    "match_id": 400213080,
+    "duration (seconds)": 1563,
+    "match_patch": "(400213080,6.79)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "H2K GAMING G2X",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-11-26T00:00:00.000Z",
+    "match_id": 400216654,
+    "duration (seconds)": 2297,
+    "match_patch": "(400216654,6.79)",
+    "Radiant Team": "TongFu.WanZhou",
+    "radiant_score": 0,
+    "Dire Team": "LGD-GAMING.int",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-11-26T00:00:00.000Z",
+    "match_id": 400277237,
+    "duration (seconds)": 1851,
+    "match_patch": "(400277237,6.79)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-11-26T00:00:00.000Z",
+    "match_id": 400603298,
+    "duration (seconds)": 2061,
+    "match_patch": "(400603298,6.79)",
+    "Radiant Team": "Team Empire",
+    "radiant_score": 0,
+    "Dire Team": "Radical Online X-tremists",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-11-26T00:00:00.000Z",
+    "match_id": 400649837,
+    "duration (seconds)": 3180,
+    "match_patch": "(400649837,6.79)",
+    "Radiant Team": "Radical Online X-tremists",
+    "radiant_score": 0,
+    "Dire Team": "Team Empire",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

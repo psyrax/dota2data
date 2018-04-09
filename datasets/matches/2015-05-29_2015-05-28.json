@@ -1,0 +1,79 @@
+[
+  {
+    "date": "2015-05-28T00:00:00.000Z",
+    "match_id": 1506739208,
+    "duration (seconds)": 4286,
+    "match_patch": "(1506739208,6.84)",
+    "Radiant Team": "Troll Masters Z",
+    "radiant_score": 0,
+    "Dire Team": "Zona Gaming",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-05-28T00:00:00.000Z",
+    "match_id": 1506857565,
+    "duration (seconds)": 1665,
+    "match_patch": "(1506857565,6.84)",
+    "Radiant Team": "Zona Gaming",
+    "radiant_score": 0,
+    "Dire Team": "Troll Masters Z",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-05-28T00:00:00.000Z",
+    "match_id": 1508774787,
+    "duration (seconds)": 1817,
+    "match_patch": "(1508774787,6.84)",
+    "Radiant Team": "Kingsguard",
+    "radiant_score": 0,
+    "Dire Team": "Dread's Corner Shop Crew",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-05-28T00:00:00.000Z",
+    "match_id": 1508847473,
+    "duration (seconds)": 2981,
+    "match_patch": "(1508847473,6.84)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Kingsguard",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-05-28T00:00:00.000Z",
+    "match_id": 1508977855,
+    "duration (seconds)": 1559,
+    "match_patch": "(1508977855,6.84)",
+    "Radiant Team": "Nullius in Verba",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-05-28T00:00:00.000Z",
+    "match_id": 1509030682,
+    "duration (seconds)": 1690,
+    "match_patch": "(1509030682,6.84)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Nullius in Verba",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-05-28T00:00:00.000Z",
+    "match_id": 1509054782,
+    "duration (seconds)": 2184,
+    "match_patch": "(1509054782,6.84)",
+    "Radiant Team": "THE CHIQUILITOS",
+    "radiant_score": 0,
+    "Dire Team": "INSIDE.BO",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

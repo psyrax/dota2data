@@ -1,0 +1,35 @@
+[
+  {
+    "date": "2015-12-31T00:00:00.000Z",
+    "match_id": 2042598820,
+    "duration (seconds)": 2910,
+    "match_patch": "(2042598820,6.86)",
+    "Radiant Team": "IQUITOS GAMING",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-12-31T00:00:00.000Z",
+    "match_id": 2044304667,
+    "duration (seconds)": 2212,
+    "match_patch": "(2044304667,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "4+sari",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-12-31T00:00:00.000Z",
+    "match_id": 2044451607,
+    "duration (seconds)": 2938,
+    "match_patch": "(2044451607,6.86)",
+    "Radiant Team": "4+sari",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

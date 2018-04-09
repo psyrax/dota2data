@@ -1,0 +1,90 @@
+[
+  {
+    "date": "2013-05-14T00:00:00.000Z",
+    "match_id": 195199796,
+    "duration (seconds)": 2331,
+    "match_patch": "(195199796,6.77)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "**singStars.Gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-05-14T00:00:00.000Z",
+    "match_id": 195243874,
+    "duration (seconds)": 2343,
+    "match_patch": "(195243874,6.77)",
+    "Radiant Team": "**singStars.Gaming",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-05-14T00:00:00.000Z",
+    "match_id": 195326414,
+    "duration (seconds)": 2461,
+    "match_patch": "(195326414,6.77)",
+    "Radiant Team": "Invasion MUFC",
+    "radiant_score": 0,
+    "Dire Team": "Zenith",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-05-14T00:00:00.000Z",
+    "match_id": 195379466,
+    "duration (seconds)": 1390,
+    "match_patch": "(195379466,6.77)",
+    "Radiant Team": "Radical Online X-tremists",
+    "radiant_score": 0,
+    "Dire Team": "Team Empire",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-05-14T00:00:00.000Z",
+    "match_id": 195381167,
+    "duration (seconds)": 2340,
+    "match_patch": "(195381167,6.77)",
+    "Radiant Team": "Zenith",
+    "radiant_score": 0,
+    "Dire Team": "Invasion MUFC",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-05-14T00:00:00.000Z",
+    "match_id": 195410340,
+    "duration (seconds)": 1708,
+    "match_patch": "(195410340,6.77)",
+    "Radiant Team": "Team Empire",
+    "radiant_score": 0,
+    "Dire Team": "Radical Online X-tremists",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-05-14T00:00:00.000Z",
+    "match_id": 195508041,
+    "duration (seconds)": 1678,
+    "match_patch": "(195508041,6.77)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Radical Online X-tremists",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-05-14T00:00:00.000Z",
+    "match_id": 195543986,
+    "duration (seconds)": 1473,
+    "match_patch": "(195543986,6.77)",
+    "Radiant Team": "Radical Online X-tremists",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

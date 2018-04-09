@@ -1,0 +1,90 @@
+[
+  {
+    "date": "2014-01-09T00:00:00.000Z",
+    "match_id": 460987719,
+    "duration (seconds)": 2384,
+    "match_patch": "(460987719,6.79)",
+    "Radiant Team": "Vici Gaming",
+    "radiant_score": 0,
+    "Dire Team": "Fnatic",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-01-09T00:00:00.000Z",
+    "match_id": 461034913,
+    "duration (seconds)": 1259,
+    "match_patch": "(461034913,6.79)",
+    "Radiant Team": "Fnatic",
+    "radiant_score": 0,
+    "Dire Team": "Vici Gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-01-09T00:00:00.000Z",
+    "match_id": 461059204,
+    "duration (seconds)": 2338,
+    "match_patch": "(461059204,6.79)",
+    "Radiant Team": "Vici Gaming",
+    "radiant_score": 0,
+    "Dire Team": "Fnatic",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-01-09T00:00:00.000Z",
+    "match_id": 461121550,
+    "duration (seconds)": 2912,
+    "match_patch": "(461121550,6.79)",
+    "Radiant Team": "LGD-GAMING",
+    "radiant_score": 0,
+    "Dire Team": "Fnatic",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-01-09T00:00:00.000Z",
+    "match_id": 461176478,
+    "duration (seconds)": 1961,
+    "match_patch": "(461176478,6.79)",
+    "Radiant Team": "Fnatic",
+    "radiant_score": 0,
+    "Dire Team": "LGD-GAMING",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-01-09T00:00:00.000Z",
+    "match_id": 461219543,
+    "duration (seconds)": 1539,
+    "match_patch": "(461219543,6.79)",
+    "Radiant Team": "LGD-GAMING",
+    "radiant_score": 0,
+    "Dire Team": "Fnatic",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-01-09T00:00:00.000Z",
+    "match_id": 461523458,
+    "duration (seconds)": 2986,
+    "match_patch": "(461523458,6.79)",
+    "Radiant Team": "insidiousidol",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-01-09T00:00:00.000Z",
+    "match_id": 461589027,
+    "duration (seconds)": 2258,
+    "match_patch": "(461589027,6.79)",
+    "Radiant Team": "EXECRATION1",
+    "radiant_score": 0,
+    "Dire Team": "Lowyat.net Esports",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

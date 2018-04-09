@@ -1,0 +1,101 @@
+[
+  {
+    "date": "2015-05-29T00:00:00.000Z",
+    "match_id": 1509095367,
+    "duration (seconds)": 1487,
+    "match_patch": "(1509095367,6.84)",
+    "Radiant Team": "Nullius in Verba",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-05-29T00:00:00.000Z",
+    "match_id": 1509127544,
+    "duration (seconds)": 2024,
+    "match_patch": "(1509127544,6.84)",
+    "Radiant Team": "INSIDE.BO",
+    "radiant_score": 0,
+    "Dire Team": "THE CHIQUILITOS",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-05-29T00:00:00.000Z",
+    "match_id": 1509137639,
+    "duration (seconds)": 2197,
+    "match_patch": "(1509137639,6.84)",
+    "Radiant Team": "Team.Tornadic",
+    "radiant_score": 0,
+    "Dire Team": "Veloxenium and the Treant Protec",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-05-29T00:00:00.000Z",
+    "match_id": 1509211270,
+    "duration (seconds)": 1944,
+    "match_patch": "(1509211270,6.84)",
+    "Radiant Team": "Veloxenium and the Treant Protec",
+    "radiant_score": 0,
+    "Dire Team": "Team.Tornadic",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-05-29T00:00:00.000Z",
+    "match_id": 1509214785,
+    "duration (seconds)": 1171,
+    "match_patch": "(1509214785,6.84)",
+    "Radiant Team": "Perfection vore",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-05-29T00:00:00.000Z",
+    "match_id": 1509275146,
+    "duration (seconds)": 3700,
+    "match_patch": "(1509275146,6.84)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Perfection vore",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-05-29T00:00:00.000Z",
+    "match_id": 1509419483,
+    "duration (seconds)": 2317,
+    "match_patch": "(1509419483,6.84)",
+    "Radiant Team": "Perfection vore",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-05-29T00:00:00.000Z",
+    "match_id": 1511757282,
+    "duration (seconds)": 1869,
+    "match_patch": "(1511757282,6.84)",
+    "Radiant Team": "GoodGameTm",
+    "radiant_score": 0,
+    "Dire Team": "Niu Tim",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-05-29T00:00:00.000Z",
+    "match_id": 1511831286,
+    "duration (seconds)": 2396,
+    "match_patch": "(1511831286,6.84)",
+    "Radiant Team": "Niu Tim",
+    "radiant_score": 0,
+    "Dire Team": "GoodGameTm",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

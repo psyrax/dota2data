@@ -1,0 +1,233 @@
+[
+  {
+    "date": "2014-02-27T00:00:00.000Z",
+    "match_id": 540249481,
+    "duration (seconds)": 1551,
+    "match_patch": "(540249481,6.80)",
+    "Radiant Team": "Team_eHug",
+    "radiant_score": 0,
+    "Dire Team": "Evil Geniuses",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-02-27T00:00:00.000Z",
+    "match_id": 540300353,
+    "duration (seconds)": 2159,
+    "match_patch": "(540300353,6.80)",
+    "Radiant Team": "team wild witch doctors",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-02-27T00:00:00.000Z",
+    "match_id": 540308803,
+    "duration (seconds)": 2377,
+    "match_patch": "(540308803,6.80)",
+    "Radiant Team": "Zulu Nation",
+    "radiant_score": 0,
+    "Dire Team": "Revenge-",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-02-27T00:00:00.000Z",
+    "match_id": 540327983,
+    "duration (seconds)": 1692,
+    "match_patch": "(540327983,6.80)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "team wild witch doctors",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-02-27T00:00:00.000Z",
+    "match_id": 540340753,
+    "duration (seconds)": 1231,
+    "match_patch": "(540340753,6.80)",
+    "Radiant Team": "Revenge-",
+    "radiant_score": 0,
+    "Dire Team": "Zulu Nation",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-02-27T00:00:00.000Z",
+    "match_id": 540356205,
+    "duration (seconds)": 1753,
+    "match_patch": "(540356205,6.80)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "team wild witch doctors",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-02-27T00:00:00.000Z",
+    "match_id": 540734779,
+    "duration (seconds)": 2839,
+    "match_patch": "(540734779,6.80)",
+    "Radiant Team": "EXECRATION1",
+    "radiant_score": 0,
+    "Dire Team": "SpiritGamingVN",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-02-27T00:00:00.000Z",
+    "match_id": 540799817,
+    "duration (seconds)": 1069,
+    "match_patch": "(540799817,6.80)",
+    "Radiant Team": "insidiousidol",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-02-27T00:00:00.000Z",
+    "match_id": 540833638,
+    "duration (seconds)": 1959,
+    "match_patch": "(540833638,6.80)",
+    "Radiant Team": "SpiritGamingVN",
+    "radiant_score": 0,
+    "Dire Team": "EXECRATION1",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-02-27T00:00:00.000Z",
+    "match_id": 540862981,
+    "duration (seconds)": 1175,
+    "match_patch": "(540862981,6.80)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "insidiousidol",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-02-27T00:00:00.000Z",
+    "match_id": 540962568,
+    "duration (seconds)": 424,
+    "match_patch": "(540962568,6.80)",
+    "Radiant Team": "Chui Niu Bi",
+    "radiant_score": 0,
+    "Dire Team": "Nvidia.ArrowGaming.AVF",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-02-27T00:00:00.000Z",
+    "match_id": 540970809,
+    "duration (seconds)": 2842,
+    "match_patch": "(540970809,6.80)",
+    "Radiant Team": "EoT Gaming Hammer Team",
+    "radiant_score": 0,
+    "Dire Team": "Kingdom-",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-02-27T00:00:00.000Z",
+    "match_id": 541141798,
+    "duration (seconds)": 2474,
+    "match_patch": "(541141798,6.80)",
+    "Radiant Team": "Relax, you are doing fine.",
+    "radiant_score": 0,
+    "Dire Team": "Radical Online X-tremists",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-02-27T00:00:00.000Z",
+    "match_id": 541223292,
+    "duration (seconds)": 957,
+    "match_patch": "(541223292,6.80)",
+    "Radiant Team": "Radical Online X-tremists",
+    "radiant_score": 0,
+    "Dire Team": "Relax, you are doing fine.",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-02-27T00:00:00.000Z",
+    "match_id": 541282942,
+    "duration (seconds)": 3599,
+    "match_patch": "(541282942,6.80)",
+    "Radiant Team": "AncientWarriorsGaming",
+    "radiant_score": 0,
+    "Dire Team": "euforia",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-02-27T00:00:00.000Z",
+    "match_id": 541387756,
+    "duration (seconds)": 1609,
+    "match_patch": "(541387756,6.80)",
+    "Radiant Team": "euforia",
+    "radiant_score": 0,
+    "Dire Team": "AncientWarriorsGaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-02-27T00:00:00.000Z",
+    "match_id": 541447580,
+    "duration (seconds)": 2052,
+    "match_patch": "(541447580,6.80)",
+    "Radiant Team": "Fnatic",
+    "radiant_score": 0,
+    "Dire Team": "Team Empire",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-02-27T00:00:00.000Z",
+    "match_id": 541452586,
+    "duration (seconds)": 1114,
+    "match_patch": "(541452586,6.80)",
+    "Radiant Team": "Revenge-",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-02-27T00:00:00.000Z",
+    "match_id": 541483074,
+    "duration (seconds)": 1763,
+    "match_patch": "(541483074,6.80)",
+    "Radiant Team": "Revenge-",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-02-27T00:00:00.000Z",
+    "match_id": 541486045,
+    "duration (seconds)": 1600,
+    "match_patch": "(541486045,6.80)",
+    "Radiant Team": "Team Empire",
+    "radiant_score": 0,
+    "Dire Team": "Fnatic",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-02-27T00:00:00.000Z",
+    "match_id": 541498871,
+    "duration (seconds)": 2358,
+    "match_patch": "(541498871,6.80)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Revenge-",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

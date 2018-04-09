@@ -1,0 +1,68 @@
+[
+  {
+    "date": "2014-03-25T00:00:00.000Z",
+    "match_id": 578918710,
+    "duration (seconds)": 2751,
+    "match_patch": "(578918710,6.80)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Orange Esports Dota",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-03-25T00:00:00.000Z",
+    "match_id": 579032105,
+    "duration (seconds)": 2712,
+    "match_patch": "(579032105,6.80)",
+    "Radiant Team": "Orange Esports Dota",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-03-25T00:00:00.000Z",
+    "match_id": 579167556,
+    "duration (seconds)": 1353,
+    "match_patch": "(579167556,6.80)",
+    "Radiant Team": "Team Liquid",
+    "radiant_score": 0,
+    "Dire Team": "Team_eHug",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-03-25T00:00:00.000Z",
+    "match_id": 579204706,
+    "duration (seconds)": 1463,
+    "match_patch": "(579204706,6.80)",
+    "Radiant Team": "Team_eHug",
+    "radiant_score": 0,
+    "Dire Team": "Team Liquid",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-03-25T00:00:00.000Z",
+    "match_id": 579382314,
+    "duration (seconds)": 1040,
+    "match_patch": "(579382314,6.80)",
+    "Radiant Team": "Isurus Gaming HyperX",
+    "radiant_score": 0,
+    "Dire Team": "Goes Like Punch",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-03-25T00:00:00.000Z",
+    "match_id": 579400129,
+    "duration (seconds)": 873,
+    "match_patch": "(579400129,6.80)",
+    "Radiant Team": "Goes Like Punch",
+    "radiant_score": 0,
+    "Dire Team": "Isurus Gaming HyperX",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

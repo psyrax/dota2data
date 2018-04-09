@@ -1,0 +1,112 @@
+[
+  {
+    "date": "2014-02-24T00:00:00.000Z",
+    "match_id": 536855284,
+    "duration (seconds)": 2500,
+    "match_patch": "(536855284,6.80)",
+    "Radiant Team": "Rex Regum QEON",
+    "radiant_score": 0,
+    "Dire Team": "Titan",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-02-24T00:00:00.000Z",
+    "match_id": 536946123,
+    "duration (seconds)": 1669,
+    "match_patch": "(536946123,6.80)",
+    "Radiant Team": "Titan",
+    "radiant_score": 0,
+    "Dire Team": "Rex Regum QEON",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-02-24T00:00:00.000Z",
+    "match_id": 537027265,
+    "duration (seconds)": 1045,
+    "match_patch": "(537027265,6.80)",
+    "Radiant Team": "Chui Niu Bi",
+    "radiant_score": 0,
+    "Dire Team": "Titan",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-02-24T00:00:00.000Z",
+    "match_id": 537110737,
+    "duration (seconds)": 1613,
+    "match_patch": "(537110737,6.80)",
+    "Radiant Team": "Titan",
+    "radiant_score": 0,
+    "Dire Team": "Chui Niu Bi",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-02-24T00:00:00.000Z",
+    "match_id": 537475520,
+    "duration (seconds)": 3250,
+    "match_patch": "(537475520,6.80)",
+    "Radiant Team": "SIGMA.int",
+    "radiant_score": 0,
+    "Dire Team": "",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-02-24T00:00:00.000Z",
+    "match_id": 537524963,
+    "duration (seconds)": 2693,
+    "match_patch": "(537524963,6.80)",
+    "Radiant Team": "Denial eSports'",
+    "radiant_score": 0,
+    "Dire Team": "Team_eHug",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-02-24T00:00:00.000Z",
+    "match_id": 537560870,
+    "duration (seconds)": 1971,
+    "match_patch": "(537560870,6.80)",
+    "Radiant Team": "",
+    "radiant_score": 0,
+    "Dire Team": "TEAM CASSIUS CLAY",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-02-24T00:00:00.000Z",
+    "match_id": 537576825,
+    "duration (seconds)": 2056,
+    "match_patch": "(537576825,6.80)",
+    "Radiant Team": "Team_eHug",
+    "radiant_score": 0,
+    "Dire Team": "Denial eSports'",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-02-24T00:00:00.000Z",
+    "match_id": 537609140,
+    "duration (seconds)": 2300,
+    "match_patch": "(537609140,6.80)",
+    "Radiant Team": "Revenge-",
+    "radiant_score": 0,
+    "Dire Team": "Cede.Nullis",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-02-24T00:00:00.000Z",
+    "match_id": 537642399,
+    "duration (seconds)": 1714,
+    "match_patch": "(537642399,6.80)",
+    "Radiant Team": "Cede.Nullis",
+    "radiant_score": 0,
+    "Dire Team": "Revenge-",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

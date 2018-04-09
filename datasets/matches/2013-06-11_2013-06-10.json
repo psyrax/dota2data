@@ -1,0 +1,233 @@
+[
+  {
+    "date": "2013-06-10T00:00:00.000Z",
+    "match_id": 215869986,
+    "duration (seconds)": 1774,
+    "match_patch": "(215869986,6.78)",
+    "Radiant Team": "Evil Geniuses",
+    "radiant_score": 0,
+    "Dire Team": "Kaipi",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-06-10T00:00:00.000Z",
+    "match_id": 216257366,
+    "duration (seconds)": 1970,
+    "match_patch": "(216257366,6.78)",
+    "Radiant Team": "Alliance",
+    "radiant_score": 0,
+    "Dire Team": "iCCup Team",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-06-10T00:00:00.000Z",
+    "match_id": 216304645,
+    "duration (seconds)": 1692,
+    "match_patch": "(216304645,6.78)",
+    "Radiant Team": "TCM-Gaming",
+    "radiant_score": 0,
+    "Dire Team": "Virtus.pro",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-06-10T00:00:00.000Z",
+    "match_id": 216309461,
+    "duration (seconds)": 1735,
+    "match_patch": "(216309461,6.78)",
+    "Radiant Team": "zRAGE",
+    "radiant_score": 0,
+    "Dire Team": "Alliance",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-06-10T00:00:00.000Z",
+    "match_id": 216345487,
+    "duration (seconds)": 1987,
+    "match_patch": "(216345487,6.78)",
+    "Radiant Team": "Alliance",
+    "radiant_score": 0,
+    "Dire Team": "zRAGE",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-06-10T00:00:00.000Z",
+    "match_id": 216355222,
+    "duration (seconds)": 2205,
+    "match_patch": "(216355222,6.78)",
+    "Radiant Team": "Fnatic",
+    "radiant_score": 0,
+    "Dire Team": "TCM-Gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-06-10T00:00:00.000Z",
+    "match_id": 216358622,
+    "duration (seconds)": 2177,
+    "match_patch": "(216358622,6.78)",
+    "Radiant Team": "Team Liquid",
+    "radiant_score": 0,
+    "Dire Team": "Virtus.pro",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-06-10T00:00:00.000Z",
+    "match_id": 216400291,
+    "duration (seconds)": 1291,
+    "match_patch": "(216400291,6.78)",
+    "Radiant Team": "uebelst-_-gamynG",
+    "radiant_score": 0,
+    "Dire Team": "EYES ON U",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-06-10T00:00:00.000Z",
+    "match_id": 216403260,
+    "duration (seconds)": 1643,
+    "match_patch": "(216403260,6.78)",
+    "Radiant Team": "Keita-Gaming",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-06-10T00:00:00.000Z",
+    "match_id": 216403545,
+    "duration (seconds)": 2123,
+    "match_patch": "(216403545,6.78)",
+    "Radiant Team": "Virtus.pro",
+    "radiant_score": 0,
+    "Dire Team": "Team Liquid",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-06-10T00:00:00.000Z",
+    "match_id": 216404742,
+    "duration (seconds)": 2361,
+    "match_patch": "(216404742,6.78)",
+    "Radiant Team": "Venom Gaming [A]",
+    "radiant_score": 0,
+    "Dire Team": "Alliance",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-06-10T00:00:00.000Z",
+    "match_id": 216405629,
+    "duration (seconds)": 2214,
+    "match_patch": "(216405629,6.78)",
+    "Radiant Team": "zRAGE",
+    "radiant_score": 0,
+    "Dire Team": "Raf Lobster",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-06-10T00:00:00.000Z",
+    "match_id": 216446200,
+    "duration (seconds)": 1718,
+    "match_patch": "(216446200,6.78)",
+    "Radiant Team": "Quantic|Gaming",
+    "radiant_score": 0,
+    "Dire Team": "uebelst-_-gamynG",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-06-10T00:00:00.000Z",
+    "match_id": 216447654,
+    "duration (seconds)": 2189,
+    "match_patch": "(216447654,6.78)",
+    "Radiant Team": "Fnatic",
+    "radiant_score": 0,
+    "Dire Team": "iCCup Team",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-06-10T00:00:00.000Z",
+    "match_id": 216452233,
+    "duration (seconds)": 1837,
+    "match_patch": "(216452233,6.78)",
+    "Radiant Team": "neggesgsdf",
+    "radiant_score": 0,
+    "Dire Team": "AllianceGG",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-06-10T00:00:00.000Z",
+    "match_id": 216471908,
+    "duration (seconds)": 2038,
+    "match_patch": "(216471908,6.78)",
+    "Radiant Team": ".RUSSIAN DOTO BEST DOTO.",
+    "radiant_score": 0,
+    "Dire Team": "Radical Online X-tremists",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-06-10T00:00:00.000Z",
+    "match_id": 216481346,
+    "duration (seconds)": 3319,
+    "match_patch": "(216481346,6.78)",
+    "Radiant Team": "Team prOperty",
+    "radiant_score": 0,
+    "Dire Team": "Imaginary Gaming",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-06-10T00:00:00.000Z",
+    "match_id": 216499176,
+    "duration (seconds)": 1421,
+    "match_patch": "(216499176,6.78)",
+    "Radiant Team": "Fnatic",
+    "radiant_score": 0,
+    "Dire Team": "AllianceGG",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-06-10T00:00:00.000Z",
+    "match_id": 216510540,
+    "duration (seconds)": 2359,
+    "match_patch": "(216510540,6.78)",
+    "Radiant Team": ".RUSSIAN DOTO BEST DOTO.",
+    "radiant_score": 0,
+    "Dire Team": "Keita-Gaming",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-06-10T00:00:00.000Z",
+    "match_id": 216519777,
+    "duration (seconds)": 1952,
+    "match_patch": "(216519777,6.78)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "iNfernity.rs",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-06-10T00:00:00.000Z",
+    "match_id": 216535316,
+    "duration (seconds)": 2338,
+    "match_patch": "(216535316,6.78)",
+    "Radiant Team": "Imaginary Gaming",
+    "radiant_score": 0,
+    "Dire Team": "Quantic|Gaming",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2015-08-07T00:00:00.000Z",
+    "match_id": 1692096549,
+    "duration (seconds)": 2326,
+    "match_patch": "(1692096549,6.84)",
+    "Radiant Team": "Arenales Net Gaming",
+    "radiant_score": 0,
+    "Dire Team": "KILLERS of DREAMS",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-08-07T00:00:00.000Z",
+    "match_id": 1692159524,
+    "duration (seconds)": 2378,
+    "match_patch": "(1692159524,6.84)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-08-07T00:00:00.000Z",
+    "match_id": 1692170232,
+    "duration (seconds)": 1463,
+    "match_patch": "(1692170232,6.84)",
+    "Radiant Team": "Universitario e Sports",
+    "radiant_score": 0,
+    "Dire Team": ".Skynet.",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-08-07T00:00:00.000Z",
+    "match_id": 1692186932,
+    "duration (seconds)": 3391,
+    "match_patch": "(1692186932,6.84)",
+    "Radiant Team": "Proo Style Gaming",
+    "radiant_score": 0,
+    "Dire Team": "Arenales Net Gaming",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

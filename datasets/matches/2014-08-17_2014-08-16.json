@@ -1,0 +1,123 @@
+[
+  {
+    "date": "2014-08-16T00:00:00.000Z",
+    "match_id": 837831595,
+    "duration (seconds)": 1294,
+    "match_patch": "(837831595,6.81)",
+    "Radiant Team": "Oracle Reborn",
+    "radiant_score": 0,
+    "Dire Team": "Silverpoint",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-08-16T00:00:00.000Z",
+    "match_id": 837954481,
+    "duration (seconds)": 2978,
+    "match_patch": "(837954481,6.81)",
+    "Radiant Team": "Garuda Infinity",
+    "radiant_score": 0,
+    "Dire Team": "BBUBU+4",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-08-16T00:00:00.000Z",
+    "match_id": 838060353,
+    "duration (seconds)": 3651,
+    "match_patch": "(838060353,6.81)",
+    "Radiant Team": "Oracle Reborn",
+    "radiant_score": 0,
+    "Dire Team": "Meow!",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-08-16T00:00:00.000Z",
+    "match_id": 838085102,
+    "duration (seconds)": 1472,
+    "match_patch": "(838085102,6.81)",
+    "Radiant Team": "Hit N Run Gaming",
+    "radiant_score": 0,
+    "Dire Team": "LittleBox",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-08-16T00:00:00.000Z",
+    "match_id": 838111162,
+    "duration (seconds)": 2420,
+    "match_patch": "(838111162,6.81)",
+    "Radiant Team": "nxl.GIGABYTE",
+    "radiant_score": 0,
+    "Dire Team": "Mahameru.ID",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-08-16T00:00:00.000Z",
+    "match_id": 838240395,
+    "duration (seconds)": 2153,
+    "match_patch": "(838240395,6.81)",
+    "Radiant Team": "Mahameru.ID",
+    "radiant_score": 0,
+    "Dire Team": "LittleBox",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-08-16T00:00:00.000Z",
+    "match_id": 838251890,
+    "duration (seconds)": 1301,
+    "match_patch": "(838251890,6.81)",
+    "Radiant Team": "The WOLF-",
+    "radiant_score": 0,
+    "Dire Team": "BBUBU+4",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-08-16T00:00:00.000Z",
+    "match_id": 838382152,
+    "duration (seconds)": 1273,
+    "match_patch": "(838382152,6.81)",
+    "Radiant Team": "BRENGSEKERS",
+    "radiant_score": 0,
+    "Dire Team": "NewBoys",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-08-16T00:00:00.000Z",
+    "match_id": 838481753,
+    "duration (seconds)": 1197,
+    "match_patch": "(838481753,6.81)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "BRENGSEKERS",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-08-16T00:00:00.000Z",
+    "match_id": 839296808,
+    "duration (seconds)": 2160,
+    "match_patch": "(839296808,6.81)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Kompas Gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-08-16T00:00:00.000Z",
+    "match_id": 839372376,
+    "duration (seconds)": 2207,
+    "match_patch": "(839372376,6.81)",
+    "Radiant Team": "Kompas Gaming",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

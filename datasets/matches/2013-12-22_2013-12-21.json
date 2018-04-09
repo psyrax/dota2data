@@ -1,0 +1,90 @@
+[
+  {
+    "date": "2013-12-21T00:00:00.000Z",
+    "match_id": 433044504,
+    "duration (seconds)": 1741,
+    "match_patch": "(433044504,6.79)",
+    "Radiant Team": "MVP HOTSIX",
+    "radiant_score": 0,
+    "Dire Team": "5 in QO",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-12-21T00:00:00.000Z",
+    "match_id": 433082915,
+    "duration (seconds)": 1799,
+    "match_patch": "(433082915,6.79)",
+    "Radiant Team": "5 in QO",
+    "radiant_score": 0,
+    "Dire Team": "MVP HOTSIX",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-12-21T00:00:00.000Z",
+    "match_id": 433137509,
+    "duration (seconds)": 2472,
+    "match_patch": "(433137509,6.79)",
+    "Radiant Team": "MVP HOTSIX",
+    "radiant_score": 0,
+    "Dire Team": "5 in QO",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-12-21T00:00:00.000Z",
+    "match_id": 433303224,
+    "duration (seconds)": 1327,
+    "match_patch": "(433303224,6.79)",
+    "Radiant Team": "LGD-GAMING.int",
+    "radiant_score": 0,
+    "Dire Team": "Vici Gaming",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-12-21T00:00:00.000Z",
+    "match_id": 433363471,
+    "duration (seconds)": 2088,
+    "match_patch": "(433363471,6.79)",
+    "Radiant Team": "Vici Gaming",
+    "radiant_score": 0,
+    "Dire Team": "LGD-GAMING.int",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-12-21T00:00:00.000Z",
+    "match_id": 433454016,
+    "duration (seconds)": 2127,
+    "match_patch": "(433454016,6.79)",
+    "Radiant Team": "LGD-GAMING.int",
+    "radiant_score": 0,
+    "Dire Team": "Vici Gaming",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-12-21T00:00:00.000Z",
+    "match_id": 433610507,
+    "duration (seconds)": 2023,
+    "match_patch": "(433610507,6.79)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Invasion eSports",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-12-21T00:00:00.000Z",
+    "match_id": 433703336,
+    "duration (seconds)": 1769,
+    "match_patch": "(433703336,6.79)",
+    "Radiant Team": "Invasion eSports",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

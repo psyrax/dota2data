@@ -1,0 +1,79 @@
+[
+  {
+    "date": "2016-02-27T00:00:00.000Z",
+    "match_id": 2183278970,
+    "duration (seconds)": 1344,
+    "match_patch": "(2183278970,6.86)",
+    "Radiant Team": "Wolfs Fine Team",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-02-27T00:00:00.000Z",
+    "match_id": 2183376413,
+    "duration (seconds)": 2460,
+    "match_patch": "(2183376413,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Wolfs Fine Team",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-02-27T00:00:00.000Z",
+    "match_id": 2183500588,
+    "duration (seconds)": 1641,
+    "match_patch": "(2183500588,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-02-27T00:00:00.000Z",
+    "match_id": 2183574981,
+    "duration (seconds)": 2165,
+    "match_patch": "(2183574981,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-02-27T00:00:00.000Z",
+    "match_id": 2183577879,
+    "duration (seconds)": 2177,
+    "match_patch": "(2183577879,6.86)",
+    "Radiant Team": "Luccini Gaming",
+    "radiant_score": 0,
+    "Dire Team": "Res Non Verba",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-02-27T00:00:00.000Z",
+    "match_id": 2183654271,
+    "duration (seconds)": 1413,
+    "match_patch": "(2183654271,6.86)",
+    "Radiant Team": "Res Non Verba",
+    "radiant_score": 0,
+    "Dire Team": "Luccini Gaming",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-02-27T00:00:00.000Z",
+    "match_id": 2183690050,
+    "duration (seconds)": 2479,
+    "match_patch": "(2183690050,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Surprise Motherfuck*r",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

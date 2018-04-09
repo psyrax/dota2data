@@ -1,0 +1,156 @@
+[
+  {
+    "date": "2014-04-02T00:00:00.000Z",
+    "match_id": 590722610,
+    "duration (seconds)": 2943,
+    "match_patch": "(590722610,6.80)",
+    "Radiant Team": "Team_eHug",
+    "radiant_score": 0,
+    "Dire Team": "Death By Snu Snu",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-04-02T00:00:00.000Z",
+    "match_id": 590754409,
+    "duration (seconds)": 1497,
+    "match_patch": "(590754409,6.80)",
+    "Radiant Team": "Death By Snu Snu",
+    "radiant_score": 0,
+    "Dire Team": "Team_eHug",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-04-02T00:00:00.000Z",
+    "match_id": 591462413,
+    "duration (seconds)": 980,
+    "match_patch": "(591462413,6.80)",
+    "Radiant Team": "First Departure",
+    "radiant_score": 0,
+    "Dire Team": "EXECRATION1",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-04-02T00:00:00.000Z",
+    "match_id": 591471858,
+    "duration (seconds)": 1367,
+    "match_patch": "(591471858,6.80)",
+    "Radiant Team": "Mineski.亿鼎博",
+    "radiant_score": 0,
+    "Dire Team": "Nvidia.ArrowGaming.AVF",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-04-02T00:00:00.000Z",
+    "match_id": 591540115,
+    "duration (seconds)": 1703,
+    "match_patch": "(591540115,6.80)",
+    "Radiant Team": "Nvidia.ArrowGaming.AVF",
+    "radiant_score": 0,
+    "Dire Team": "Mineski.亿鼎博",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-04-02T00:00:00.000Z",
+    "match_id": 591568779,
+    "duration (seconds)": 1570,
+    "match_patch": "(591568779,6.80)",
+    "Radiant Team": "Radical Online X-tremists",
+    "radiant_score": 0,
+    "Dire Team": "Team Empire",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-04-02T00:00:00.000Z",
+    "match_id": 591570575,
+    "duration (seconds)": 882,
+    "match_patch": "(591570575,6.80)",
+    "Radiant Team": "XYECOC GAMING",
+    "radiant_score": 0,
+    "Dire Team": "Relax, you are doing fine.",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-04-02T00:00:00.000Z",
+    "match_id": 591634068,
+    "duration (seconds)": 2030,
+    "match_patch": "(591634068,6.80)",
+    "Radiant Team": "XYECOC GAMING",
+    "radiant_score": 0,
+    "Dire Team": "Relax, you are doing fine.",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-04-02T00:00:00.000Z",
+    "match_id": 591649893,
+    "duration (seconds)": 1311,
+    "match_patch": "(591649893,6.80)",
+    "Radiant Team": "Revival Dragons.",
+    "radiant_score": 0,
+    "Dire Team": "Aware.Gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-04-02T00:00:00.000Z",
+    "match_id": 591737947,
+    "duration (seconds)": 2071,
+    "match_patch": "(591737947,6.80)",
+    "Radiant Team": "Revival Dragons.",
+    "radiant_score": 0,
+    "Dire Team": "Virtus.pro",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-04-02T00:00:00.000Z",
+    "match_id": 591797325,
+    "duration (seconds)": 2490,
+    "match_patch": "(591797325,6.80)",
+    "Radiant Team": "MaxFloPlayo",
+    "radiant_score": 0,
+    "Dire Team": "uebelst-_-gamynG",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-04-02T00:00:00.000Z",
+    "match_id": 591812659,
+    "duration (seconds)": 2120,
+    "match_patch": "(591812659,6.80)",
+    "Radiant Team": "Radical Online X-tremists",
+    "radiant_score": 0,
+    "Dire Team": "Team Empire",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-04-02T00:00:00.000Z",
+    "match_id": 591837762,
+    "duration (seconds)": 1213,
+    "match_patch": "(591837762,6.80)",
+    "Radiant Team": "Virtus.pro",
+    "radiant_score": 0,
+    "Dire Team": "_PowerRangers",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-04-02T00:00:00.000Z",
+    "match_id": 591870712,
+    "duration (seconds)": 3323,
+    "match_patch": "(591870712,6.80)",
+    "Radiant Team": "uebelst-_-gamynG",
+    "radiant_score": 0,
+    "Dire Team": "MaxFloPlayo",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

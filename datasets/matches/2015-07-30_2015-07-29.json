@@ -1,0 +1,35 @@
+[
+  {
+    "date": "2015-07-29T00:00:00.000Z",
+    "match_id": 1668628725,
+    "duration (seconds)": 2822,
+    "match_patch": "(1668628725,6.84)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "SouL Eater Players~",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-07-29T00:00:00.000Z",
+    "match_id": 1668730820,
+    "duration (seconds)": 2208,
+    "match_patch": "(1668730820,6.84)",
+    "Radiant Team": "MonteroGaming",
+    "radiant_score": 0,
+    "Dire Team": "Guekk's.pro",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-07-29T00:00:00.000Z",
+    "match_id": 1668744693,
+    "duration (seconds)": 4552,
+    "match_patch": "(1668744693,6.84)",
+    "Radiant Team": "Ode",
+    "radiant_score": 0,
+    "Dire Team": "Sua Empresa Aqui",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

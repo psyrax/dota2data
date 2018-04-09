@@ -1,0 +1,68 @@
+[
+  {
+    "date": "2014-10-26T00:00:00.000Z",
+    "match_id": 985272522,
+    "duration (seconds)": 1990,
+    "match_patch": "(985272522,6.82)",
+    "Radiant Team": "NorthernLions",
+    "radiant_score": 0,
+    "Dire Team": "Indie.Gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-10-26T00:00:00.000Z",
+    "match_id": 985296362,
+    "duration (seconds)": 2856,
+    "match_patch": "(985296362,6.82)",
+    "Radiant Team": "Balderdash-Gaming",
+    "radiant_score": 0,
+    "Dire Team": "Team Soy Sause",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-10-26T00:00:00.000Z",
+    "match_id": 985493044,
+    "duration (seconds)": 1155,
+    "match_patch": "(985493044,6.82)",
+    "Radiant Team": "NorthernLions",
+    "radiant_score": 0,
+    "Dire Team": "Balderdash-Gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-10-26T00:00:00.000Z",
+    "match_id": 985517775,
+    "duration (seconds)": 2624,
+    "match_patch": "(985517775,6.82)",
+    "Radiant Team": "Hehe United",
+    "radiant_score": 0,
+    "Dire Team": "GOOMBA Gamingg",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-10-26T00:00:00.000Z",
+    "match_id": 985658952,
+    "duration (seconds)": 2720,
+    "match_patch": "(985658952,6.82)",
+    "Radiant Team": "Indie.Gaming",
+    "radiant_score": 0,
+    "Dire Team": "Team Soy Sause",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-10-26T00:00:00.000Z",
+    "match_id": 985737386,
+    "duration (seconds)": 1195,
+    "match_patch": "(985737386,6.82)",
+    "Radiant Team": "Team Soy Sause",
+    "radiant_score": 0,
+    "Dire Team": "Indie.Gaming",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

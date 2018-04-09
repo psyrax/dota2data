@@ -1,0 +1,112 @@
+[
+  {
+    "date": "2015-11-10T00:00:00.000Z",
+    "match_id": 1926178536,
+    "duration (seconds)": 2332,
+    "match_patch": "(1926178536,6.85)",
+    "Radiant Team": "HAKU.NET GAMING",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-11-10T00:00:00.000Z",
+    "match_id": 1926238014,
+    "duration (seconds)": 3859,
+    "match_patch": "(1926238014,6.85)",
+    "Radiant Team": "The Rainbow side",
+    "radiant_score": 0,
+    "Dire Team": "New Star Com",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-11-10T00:00:00.000Z",
+    "match_id": 1926267164,
+    "duration (seconds)": 3211,
+    "match_patch": "(1926267164,6.85)",
+    "Radiant Team": "eXtreme GamerZ CR",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-11-10T00:00:00.000Z",
+    "match_id": 1926271362,
+    "duration (seconds)": 2201,
+    "match_patch": "(1926271362,6.85)",
+    "Radiant Team": "LaGrange Gaming",
+    "radiant_score": 0,
+    "Dire Team": "BLACKKNIGHT.COL",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-11-10T00:00:00.000Z",
+    "match_id": 1926309799,
+    "duration (seconds)": 668,
+    "match_patch": "(1926309799,6.85)",
+    "Radiant Team": "Team OvP.",
+    "radiant_score": 0,
+    "Dire Team": "DARKNEESS",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-11-10T00:00:00.000Z",
+    "match_id": 1926319398,
+    "duration (seconds)": 2456,
+    "match_patch": "(1926319398,6.85)",
+    "Radiant Team": "Tico Gamers",
+    "radiant_score": 0,
+    "Dire Team": "Redencion Ec",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-11-10T00:00:00.000Z",
+    "match_id": 1926322181,
+    "duration (seconds)": 1045,
+    "match_patch": "(1926322181,6.85)",
+    "Radiant Team": "BLACKKNIGHT.COL",
+    "radiant_score": 0,
+    "Dire Team": "LaGrange Gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-11-10T00:00:00.000Z",
+    "match_id": 1926336711,
+    "duration (seconds)": 2043,
+    "match_patch": "(1926336711,6.85)",
+    "Radiant Team": "-RAKUZAN-",
+    "radiant_score": 0,
+    "Dire Team": "Sewer Revenge",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-11-10T00:00:00.000Z",
+    "match_id": 1927712156,
+    "duration (seconds)": 1906,
+    "match_patch": "(1927712156,6.85)",
+    "Radiant Team": "Team Alternate Attax",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-11-10T00:00:00.000Z",
+    "match_id": 1927793797,
+    "duration (seconds)": 1614,
+    "match_patch": "(1927793797,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Team Alternate Attax",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

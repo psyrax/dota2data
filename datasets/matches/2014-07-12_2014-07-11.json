@@ -1,0 +1,35 @@
+[
+  {
+    "date": "2014-07-11T00:00:00.000Z",
+    "match_id": 769794644,
+    "duration (seconds)": 3305,
+    "match_patch": "(769794644,6.81)",
+    "Radiant Team": "In Memory of xMusiCa",
+    "radiant_score": 0,
+    "Dire Team": "Exile 5",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-07-11T00:00:00.000Z",
+    "match_id": 769927576,
+    "duration (seconds)": 1682,
+    "match_patch": "(769927576,6.81)",
+    "Radiant Team": "Exile 5",
+    "radiant_score": 0,
+    "Dire Team": "In Memory of xMusiCa",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-07-11T00:00:00.000Z",
+    "match_id": 769991390,
+    "duration (seconds)": 2772,
+    "match_patch": "(769991390,6.81)",
+    "Radiant Team": "In Memory of xMusiCa",
+    "radiant_score": 0,
+    "Dire Team": "Exile 5",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

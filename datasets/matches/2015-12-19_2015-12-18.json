@@ -1,0 +1,211 @@
+[
+  {
+    "date": "2015-12-18T00:00:00.000Z",
+    "match_id": 2010185950,
+    "duration (seconds)": 1744,
+    "match_patch": "(2010185950,6.86)",
+    "Radiant Team": "Megalodon Gaming.",
+    "radiant_score": 0,
+    "Dire Team": "paiN Gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-12-18T00:00:00.000Z",
+    "match_id": 2010188482,
+    "duration (seconds)": 1745,
+    "match_patch": "(2010188482,6.86)",
+    "Radiant Team": "Friendship, Dedication, Love2",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-12-18T00:00:00.000Z",
+    "match_id": 2010213052,
+    "duration (seconds)": 2143,
+    "match_patch": "(2010213052,6.86)",
+    "Radiant Team": "Team Archon",
+    "radiant_score": 0,
+    "Dire Team": "compLexity Gaming",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-12-18T00:00:00.000Z",
+    "match_id": 2010214235,
+    "duration (seconds)": 2717,
+    "match_patch": "(2010214235,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Kawaii Desu NEE",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-12-18T00:00:00.000Z",
+    "match_id": 2010221024,
+    "duration (seconds)": 1033,
+    "match_patch": "(2010221024,6.86)",
+    "Radiant Team": "ProStyleGAmingg",
+    "radiant_score": 0,
+    "Dire Team": "Jorge Solo Quiere Amigos",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-12-18T00:00:00.000Z",
+    "match_id": 2010235037,
+    "duration (seconds)": 2138,
+    "match_patch": "(2010235037,6.86)",
+    "Radiant Team": "Friendship, Dedication, Love2",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-12-18T00:00:00.000Z",
+    "match_id": 2010284412,
+    "duration (seconds)": 3023,
+    "match_patch": "(2010284412,6.86)",
+    "Radiant Team": "",
+    "radiant_score": 0,
+    "Dire Team": "compLexity Gaming",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-12-18T00:00:00.000Z",
+    "match_id": 2010295563,
+    "duration (seconds)": 983,
+    "match_patch": "(2010295563,6.86)",
+    "Radiant Team": "No Ban CK",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-12-18T00:00:00.000Z",
+    "match_id": 2010344782,
+    "duration (seconds)": 751,
+    "match_patch": "(2010344782,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "No Ban CK",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-12-18T00:00:00.000Z",
+    "match_id": 2011711306,
+    "duration (seconds)": 4140,
+    "match_patch": "(2011711306,6.86)",
+    "Radiant Team": "Elements Pro Gaming",
+    "radiant_score": 0,
+    "Dire Team": "STARK.gg",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-12-18T00:00:00.000Z",
+    "match_id": 2011946056,
+    "duration (seconds)": 2216,
+    "match_patch": "(2011946056,6.86)",
+    "Radiant Team": "STARK.gg",
+    "radiant_score": 0,
+    "Dire Team": "Elements Pro Gaming",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-12-18T00:00:00.000Z",
+    "match_id": 2012075019,
+    "duration (seconds)": 2680,
+    "match_patch": "(2012075019,6.86)",
+    "Radiant Team": "Elements Pro Gaming",
+    "radiant_score": 0,
+    "Dire Team": "STARK.gg",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-12-18T00:00:00.000Z",
+    "match_id": 2012371323,
+    "duration (seconds)": 2220,
+    "match_patch": "(2012371323,6.86)",
+    "Radiant Team": "Hehe United",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-12-18T00:00:00.000Z",
+    "match_id": 2012461007,
+    "duration (seconds)": 2596,
+    "match_patch": "(2012461007,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Hehe United",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-12-18T00:00:00.000Z",
+    "match_id": 2012502076,
+    "duration (seconds)": 2845,
+    "match_patch": "(2012502076,6.86)",
+    "Radiant Team": "Not Today",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-12-18T00:00:00.000Z",
+    "match_id": 2012576794,
+    "duration (seconds)": 1175,
+    "match_patch": "(2012576794,6.86)",
+    "Radiant Team": "TSHOW RISING",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-12-18T00:00:00.000Z",
+    "match_id": 2012604530,
+    "duration (seconds)": 1710,
+    "match_patch": "(2012604530,6.86)",
+    "Radiant Team": "Kawaii Desu NEE",
+    "radiant_score": 0,
+    "Dire Team": "RES NON VERBAA",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-12-18T00:00:00.000Z",
+    "match_id": 2012622468,
+    "duration (seconds)": 1648,
+    "match_patch": "(2012622468,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "TSHOW RISING",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-12-18T00:00:00.000Z",
+    "match_id": 2012638675,
+    "duration (seconds)": 2781,
+    "match_patch": "(2012638675,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

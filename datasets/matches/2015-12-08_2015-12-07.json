@@ -1,0 +1,112 @@
+[
+  {
+    "date": "2015-12-07T00:00:00.000Z",
+    "match_id": 1985137140,
+    "duration (seconds)": 3201,
+    "match_patch": "(1985137140,6.85)",
+    "Radiant Team": "paiN Gaming",
+    "radiant_score": 0,
+    "Dire Team": "Vivo Fibra KStars",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-12-07T00:00:00.000Z",
+    "match_id": 1986024234,
+    "duration (seconds)": 1767,
+    "match_patch": "(1986024234,6.85)",
+    "Radiant Team": "TwilightGaming",
+    "radiant_score": 0,
+    "Dire Team": "SAMBALADO",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-12-07T00:00:00.000Z",
+    "match_id": 1986156750,
+    "duration (seconds)": 1923,
+    "match_patch": "(1986156750,6.85)",
+    "Radiant Team": "INFAMOUSE~",
+    "radiant_score": 0,
+    "Dire Team": "Dota2IndonesiaTV",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-12-07T00:00:00.000Z",
+    "match_id": 1986319860,
+    "duration (seconds)": 996,
+    "match_patch": "(1986319860,6.85)",
+    "Radiant Team": "FIVES ELITE",
+    "radiant_score": 0,
+    "Dire Team": "Kanaya",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-12-07T00:00:00.000Z",
+    "match_id": 1986595180,
+    "duration (seconds)": 3041,
+    "match_patch": "(1986595180,6.85)",
+    "Radiant Team": "Team. Spirit",
+    "radiant_score": 0,
+    "Dire Team": "G00mba Gaming",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-12-07T00:00:00.000Z",
+    "match_id": 1986732619,
+    "duration (seconds)": 1430,
+    "match_patch": "(1986732619,6.85)",
+    "Radiant Team": "G00mba Gaming",
+    "radiant_score": 0,
+    "Dire Team": "Team. Spirit",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-12-07T00:00:00.000Z",
+    "match_id": 1986807888,
+    "duration (seconds)": 1294,
+    "match_patch": "(1986807888,6.85)",
+    "Radiant Team": "Team. Spirit",
+    "radiant_score": 0,
+    "Dire Team": "G00mba Gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-12-07T00:00:00.000Z",
+    "match_id": 1986883268,
+    "duration (seconds)": 2051,
+    "match_patch": "(1986883268,6.85)",
+    "Radiant Team": "Revival_Gaming",
+    "radiant_score": 0,
+    "Dire Team": "BearShark",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-12-07T00:00:00.000Z",
+    "match_id": 1986957851,
+    "duration (seconds)": 1603,
+    "match_patch": "(1986957851,6.85)",
+    "Radiant Team": "BearShark",
+    "radiant_score": 0,
+    "Dire Team": "Revival_Gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-12-07T00:00:00.000Z",
+    "match_id": 1987017368,
+    "duration (seconds)": 3082,
+    "match_patch": "(1987017368,6.85)",
+    "Radiant Team": "Revival_Gaming",
+    "radiant_score": 0,
+    "Dire Team": "BearShark",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

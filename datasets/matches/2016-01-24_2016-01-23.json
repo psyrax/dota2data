@@ -1,0 +1,134 @@
+[
+  {
+    "date": "2016-01-23T00:00:00.000Z",
+    "match_id": 2097695191,
+    "duration (seconds)": 2728,
+    "match_patch": "(2097695191,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-01-23T00:00:00.000Z",
+    "match_id": 2097758624,
+    "duration (seconds)": 1395,
+    "match_patch": "(2097758624,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-01-23T00:00:00.000Z",
+    "match_id": 2097815201,
+    "duration (seconds)": 1293,
+    "match_patch": "(2097815201,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-01-23T00:00:00.000Z",
+    "match_id": 2097868390,
+    "duration (seconds)": 2733,
+    "match_patch": "(2097868390,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-01-23T00:00:00.000Z",
+    "match_id": 2097877953,
+    "duration (seconds)": 1131,
+    "match_patch": "(2097877953,6.86)",
+    "Radiant Team": "AntiRoshan",
+    "radiant_score": 0,
+    "Dire Team": "TEAM SLC",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-01-23T00:00:00.000Z",
+    "match_id": 2097910425,
+    "duration (seconds)": 1840,
+    "match_patch": "(2097910425,6.86)",
+    "Radiant Team": "AntiRoshan",
+    "radiant_score": 0,
+    "Dire Team": "TEAM SLC",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-01-23T00:00:00.000Z",
+    "match_id": 2097980330,
+    "duration (seconds)": 1616,
+    "match_patch": "(2097980330,6.86)",
+    "Radiant Team": "TEAM SLC",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-01-23T00:00:00.000Z",
+    "match_id": 2100194136,
+    "duration (seconds)": 3530,
+    "match_patch": "(2100194136,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-01-23T00:00:00.000Z",
+    "match_id": 2100198729,
+    "duration (seconds)": 3077,
+    "match_patch": "(2100198729,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-01-23T00:00:00.000Z",
+    "match_id": 2100299118,
+    "duration (seconds)": 1750,
+    "match_patch": "(2100299118,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-01-23T00:00:00.000Z",
+    "match_id": 2100302290,
+    "duration (seconds)": 2435,
+    "match_patch": "(2100302290,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-01-23T00:00:00.000Z",
+    "match_id": 2100356131,
+    "duration (seconds)": 1868,
+    "match_patch": "(2100356131,6.86)",
+    "Radiant Team": "Kawaii Desu NEE",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

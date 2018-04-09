@@ -1,0 +1,24 @@
+[
+  {
+    "date": "2014-08-08T00:00:00.000Z",
+    "match_id": 823674110,
+    "duration (seconds)": 1486,
+    "match_patch": "(823674110,6.81)",
+    "Radiant Team": "Scythe.SG-",
+    "radiant_score": 0,
+    "Dire Team": "Nvidia.ArrowGaming.AVF",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-08-08T00:00:00.000Z",
+    "match_id": 823753754,
+    "duration (seconds)": 4917,
+    "match_patch": "(823753754,6.81)",
+    "Radiant Team": "Nvidia.ArrowGaming.AVF",
+    "radiant_score": 0,
+    "Dire Team": "Scythe.SG-",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

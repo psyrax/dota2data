@@ -1,0 +1,101 @@
+[
+  {
+    "date": "2016-01-28T00:00:00.000Z",
+    "match_id": 2109541411,
+    "duration (seconds)": 3061,
+    "match_patch": "(2109541411,6.86)",
+    "Radiant Team": "Team Freedom Dota 2",
+    "radiant_score": 0,
+    "Dire Team": "Leviathan'",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-01-28T00:00:00.000Z",
+    "match_id": 2109594004,
+    "duration (seconds)": 2425,
+    "match_patch": "(2109594004,6.86)",
+    "Radiant Team": "Leviathan'",
+    "radiant_score": 0,
+    "Dire Team": "Team Freedom Dota 2",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-01-28T00:00:00.000Z",
+    "match_id": 2110891283,
+    "duration (seconds)": 2125,
+    "match_patch": "(2110891283,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Yellow Submarine!",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-01-28T00:00:00.000Z",
+    "match_id": 2111036833,
+    "duration (seconds)": 3529,
+    "match_patch": "(2111036833,6.86)",
+    "Radiant Team": "Yellow Submarine!",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-01-28T00:00:00.000Z",
+    "match_id": 2111419294,
+    "duration (seconds)": 3334,
+    "match_patch": "(2111419294,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-01-28T00:00:00.000Z",
+    "match_id": 2111546317,
+    "duration (seconds)": 2467,
+    "match_patch": "(2111546317,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Fantastic Five",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-01-28T00:00:00.000Z",
+    "match_id": 2111558916,
+    "duration (seconds)": 1319,
+    "match_patch": "(2111558916,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Leviathan'",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-01-28T00:00:00.000Z",
+    "match_id": 2111614827,
+    "duration (seconds)": 1684,
+    "match_patch": "(2111614827,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Leviathan'",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-01-28T00:00:00.000Z",
+    "match_id": 2111661481,
+    "duration (seconds)": 3043,
+    "match_patch": "(2111661481,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Leviathan'",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

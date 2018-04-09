@@ -1,0 +1,90 @@
+[
+  {
+    "date": "2014-01-11T00:00:00.000Z",
+    "match_id": 464135474,
+    "duration (seconds)": 2324,
+    "match_patch": "(464135474,6.79)",
+    "Radiant Team": "Invasion eSports",
+    "radiant_score": 0,
+    "Dire Team": "First Departure",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-01-11T00:00:00.000Z",
+    "match_id": 464177901,
+    "duration (seconds)": 3744,
+    "match_patch": "(464177901,6.79)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "insidiousidol",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-01-11T00:00:00.000Z",
+    "match_id": 464201501,
+    "duration (seconds)": 1702,
+    "match_patch": "(464201501,6.79)",
+    "Radiant Team": "First Departure",
+    "radiant_score": 0,
+    "Dire Team": "Invasion eSports",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-01-11T00:00:00.000Z",
+    "match_id": 464331495,
+    "duration (seconds)": 1558,
+    "match_patch": "(464331495,6.79)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Invasion eSports",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-01-11T00:00:00.000Z",
+    "match_id": 464771519,
+    "duration (seconds)": 2403,
+    "match_patch": "(464771519,6.79)",
+    "Radiant Team": "Relax, you are doing fine.",
+    "radiant_score": 0,
+    "Dire Team": "Radical Online X-tremists",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-01-11T00:00:00.000Z",
+    "match_id": 464780305,
+    "duration (seconds)": 1868,
+    "match_patch": "(464780305,6.79)",
+    "Radiant Team": "Team Empire",
+    "radiant_score": 0,
+    "Dire Team": "TheRerereTRY",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-01-11T00:00:00.000Z",
+    "match_id": 464875012,
+    "duration (seconds)": 1256,
+    "match_patch": "(464875012,6.79)",
+    "Radiant Team": "Relax, you are doing fine.",
+    "radiant_score": 0,
+    "Dire Team": "Team Empire",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-01-11T00:00:00.000Z",
+    "match_id": 464930366,
+    "duration (seconds)": 2243,
+    "match_patch": "(464930366,6.79)",
+    "Radiant Team": "TheRerereTRY",
+    "radiant_score": 0,
+    "Dire Team": "Radical Online X-tremists",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

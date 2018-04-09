@@ -1,0 +1,156 @@
+[
+  {
+    "date": "2015-07-25T00:00:00.000Z",
+    "match_id": 1658631240,
+    "duration (seconds)": 1460,
+    "match_patch": "(1658631240,6.84)",
+    "Radiant Team": "Balboa Team",
+    "radiant_score": 0,
+    "Dire Team": "Jack Box",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-07-25T00:00:00.000Z",
+    "match_id": 1658650300,
+    "duration (seconds)": 1645,
+    "match_patch": "(1658650300,6.84)",
+    "Radiant Team": "Sua Empresa Aqui",
+    "radiant_score": 0,
+    "Dire Team": "No Tomorrow!",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-07-25T00:00:00.000Z",
+    "match_id": 1658654536,
+    "duration (seconds)": 3379,
+    "match_patch": "(1658654536,6.84)",
+    "Radiant Team": "MonteroGaming",
+    "radiant_score": 0,
+    "Dire Team": "5 Demons from Puno",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-07-25T00:00:00.000Z",
+    "match_id": 1658736852,
+    "duration (seconds)": 1569,
+    "match_patch": "(1658736852,6.84)",
+    "Radiant Team": "Ode",
+    "radiant_score": 0,
+    "Dire Team": "paiN Gaming",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-07-25T00:00:00.000Z",
+    "match_id": 1658772599,
+    "duration (seconds)": 3586,
+    "match_patch": "(1658772599,6.84)",
+    "Radiant Team": "try hard again",
+    "radiant_score": 0,
+    "Dire Team": "Megalodon Gaming.",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-07-25T00:00:00.000Z",
+    "match_id": 1658816930,
+    "duration (seconds)": 2863,
+    "match_patch": "(1658816930,6.84)",
+    "Radiant Team": "Newbee Sports Dota 2",
+    "radiant_score": 0,
+    "Dire Team": "our ultimate team ouT",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-07-25T00:00:00.000Z",
+    "match_id": 1659199066,
+    "duration (seconds)": 2586,
+    "match_patch": "(1659199066,6.84)",
+    "Radiant Team": "TwentyTwo",
+    "radiant_score": 0,
+    "Dire Team": ".Excelleration.",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-07-25T00:00:00.000Z",
+    "match_id": 1659343743,
+    "duration (seconds)": 2356,
+    "match_patch": "(1659343743,6.84)",
+    "Radiant Team": ".Excelleration.",
+    "radiant_score": 0,
+    "Dire Team": "TwentyTwo",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-07-25T00:00:00.000Z",
+    "match_id": 1660081931,
+    "duration (seconds)": 2425,
+    "match_patch": "(1660081931,6.84)",
+    "Radiant Team": "Anime Saikou",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-07-25T00:00:00.000Z",
+    "match_id": 1660281220,
+    "duration (seconds)": 2034,
+    "match_patch": "(1660281220,6.84)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Anime Saikou",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-07-25T00:00:00.000Z",
+    "match_id": 1660426422,
+    "duration (seconds)": 2643,
+    "match_patch": "(1660426422,6.84)",
+    "Radiant Team": "Anime Saikou",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-07-25T00:00:00.000Z",
+    "match_id": 1661223124,
+    "duration (seconds)": 3512,
+    "match_patch": "(1661223124,6.84)",
+    "Radiant Team": "Farm For Fame.",
+    "radiant_score": 0,
+    "Dire Team": "Dream.Warriors",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-07-25T00:00:00.000Z",
+    "match_id": 1661272582,
+    "duration (seconds)": 1837,
+    "match_patch": "(1661272582,6.84)",
+    "Radiant Team": "Team gondor.",
+    "radiant_score": 0,
+    "Dire Team": "our ultimate team ouT",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-07-25T00:00:00.000Z",
+    "match_id": 1661292970,
+    "duration (seconds)": 1242,
+    "match_patch": "(1661292970,6.84)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

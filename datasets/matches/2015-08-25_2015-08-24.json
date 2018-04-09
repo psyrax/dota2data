@@ -1,0 +1,68 @@
+[
+  {
+    "date": "2015-08-24T00:00:00.000Z",
+    "match_id": 1740873780,
+    "duration (seconds)": 3688,
+    "match_patch": "(1740873780,6.84)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "SCARYFACEZZZZZZZ",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-08-24T00:00:00.000Z",
+    "match_id": 1741088952,
+    "duration (seconds)": 3205,
+    "match_patch": "(1741088952,6.84)",
+    "Radiant Team": "SCARYFACEZZZZZZZ",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-08-24T00:00:00.000Z",
+    "match_id": 1741327849,
+    "duration (seconds)": 3252,
+    "match_patch": "(1741327849,6.84)",
+    "Radiant Team": "SCARYFACEZZZZZZZ",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-08-24T00:00:00.000Z",
+    "match_id": 1741473991,
+    "duration (seconds)": 3856,
+    "match_patch": "(1741473991,6.84)",
+    "Radiant Team": "Hehe United",
+    "radiant_score": 0,
+    "Dire Team": "sQreen's squad v2.0",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-08-24T00:00:00.000Z",
+    "match_id": 1741632778,
+    "duration (seconds)": 2983,
+    "match_patch": "(1741632778,6.84)",
+    "Radiant Team": "sQreen's squad v2.0",
+    "radiant_score": 0,
+    "Dire Team": "Hehe United",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-08-24T00:00:00.000Z",
+    "match_id": 1741856340,
+    "duration (seconds)": 2003,
+    "match_patch": "(1741856340,6.84)",
+    "Radiant Team": "Tubinet Gaming",
+    "radiant_score": 0,
+    "Dire Team": "Colmena Games",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

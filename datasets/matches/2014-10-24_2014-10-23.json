@@ -1,0 +1,57 @@
+[
+  {
+    "date": "2014-10-23T00:00:00.000Z",
+    "match_id": 977378022,
+    "duration (seconds)": 3769,
+    "match_patch": "(977378022,6.82)",
+    "Radiant Team": "Tengen Gaming",
+    "radiant_score": 0,
+    "Dire Team": "Leviathan'",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-10-23T00:00:00.000Z",
+    "match_id": 977452488,
+    "duration (seconds)": 1952,
+    "match_patch": "(977452488,6.82)",
+    "Radiant Team": "Leviathan'",
+    "radiant_score": 0,
+    "Dire Team": "Tengen Gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-10-23T00:00:00.000Z",
+    "match_id": 977515576,
+    "duration (seconds)": 2400,
+    "match_patch": "(977515576,6.82)",
+    "Radiant Team": "Leviathan'",
+    "radiant_score": 0,
+    "Dire Team": "Tengen Gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-10-23T00:00:00.000Z",
+    "match_id": 978909928,
+    "duration (seconds)": 3183,
+    "match_patch": "(978909928,6.82)",
+    "Radiant Team": "Virtus.pro",
+    "radiant_score": 0,
+    "Dire Team": "HellRaisers",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-10-23T00:00:00.000Z",
+    "match_id": 979007753,
+    "duration (seconds)": 2517,
+    "match_patch": "(979007753,6.82)",
+    "Radiant Team": "HellRaisers",
+    "radiant_score": 0,
+    "Dire Team": "Virtus.pro",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

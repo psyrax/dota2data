@@ -1,0 +1,200 @@
+[
+  {
+    "date": "2013-10-18T00:00:00.000Z",
+    "match_id": 349136807,
+    "duration (seconds)": 2041,
+    "match_patch": "(349136807,6.78)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "RaTtLeSnAkE. CN GaMiNg",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-10-18T00:00:00.000Z",
+    "match_id": 349184797,
+    "duration (seconds)": 3242,
+    "match_patch": "(349184797,6.78)",
+    "Radiant Team": "RaTtLeSnAkE. CN GaMiNg",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-10-18T00:00:00.000Z",
+    "match_id": 349299444,
+    "duration (seconds)": 1927,
+    "match_patch": "(349299444,6.78)",
+    "Radiant Team": "DK",
+    "radiant_score": 0,
+    "Dire Team": "LGD-GAMING.int",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-10-18T00:00:00.000Z",
+    "match_id": 349373435,
+    "duration (seconds)": 1568,
+    "match_patch": "(349373435,6.78)",
+    "Radiant Team": "LGD-GAMING.int",
+    "radiant_score": 0,
+    "Dire Team": "DK",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-10-18T00:00:00.000Z",
+    "match_id": 349568269,
+    "duration (seconds)": 2888,
+    "match_patch": "(349568269,6.78)",
+    "Radiant Team": "Team \"SEX\"",
+    "radiant_score": 0,
+    "Dire Team": "TheRerereTRY",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-10-18T00:00:00.000Z",
+    "match_id": 349666793,
+    "duration (seconds)": 2989,
+    "match_patch": "(349666793,6.78)",
+    "Radiant Team": "TheRerereTRY",
+    "radiant_score": 0,
+    "Dire Team": "Team \"SEX\"",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-10-18T00:00:00.000Z",
+    "match_id": 349705691,
+    "duration (seconds)": 3414,
+    "match_patch": "(349705691,6.78)",
+    "Radiant Team": "Evil Geniuses",
+    "radiant_score": 0,
+    "Dire Team": "Natus Vincere",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-10-18T00:00:00.000Z",
+    "match_id": 349759791,
+    "duration (seconds)": 744,
+    "match_patch": "(349759791,6.78)",
+    "Radiant Team": "E.C.",
+    "radiant_score": 0,
+    "Dire Team": "Kompas Team",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-10-18T00:00:00.000Z",
+    "match_id": 349799957,
+    "duration (seconds)": 2161,
+    "match_patch": "(349799957,6.78)",
+    "Radiant Team": "Typical Mistakes",
+    "radiant_score": 0,
+    "Dire Team": "Team Dignitas",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-10-18T00:00:00.000Z",
+    "match_id": 349804537,
+    "duration (seconds)": 3267,
+    "match_patch": "(349804537,6.78)",
+    "Radiant Team": "Natus Vincere",
+    "radiant_score": 0,
+    "Dire Team": "Evil Geniuses",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-10-18T00:00:00.000Z",
+    "match_id": 349804884,
+    "duration (seconds)": 2796,
+    "match_patch": "(349804884,6.78)",
+    "Radiant Team": "Kompas Team",
+    "radiant_score": 0,
+    "Dire Team": "E.C.",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-10-18T00:00:00.000Z",
+    "match_id": 349889085,
+    "duration (seconds)": 2607,
+    "match_patch": "(349889085,6.78)",
+    "Radiant Team": "The Joikernaut",
+    "radiant_score": 0,
+    "Dire Team": "Shadowfiend Eats Cake",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-10-18T00:00:00.000Z",
+    "match_id": 349893280,
+    "duration (seconds)": 2930,
+    "match_patch": "(349893280,6.78)",
+    "Radiant Team": "Team Empire",
+    "radiant_score": 0,
+    "Dire Team": "Speed Gaming International",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-10-18T00:00:00.000Z",
+    "match_id": 349975468,
+    "duration (seconds)": 1410,
+    "match_patch": "(349975468,6.78)",
+    "Radiant Team": "The Joikernaut",
+    "radiant_score": 0,
+    "Dire Team": "Team Dignitas",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-10-18T00:00:00.000Z",
+    "match_id": 349979765,
+    "duration (seconds)": 2292,
+    "match_patch": "(349979765,6.78)",
+    "Radiant Team": "Speed Gaming International",
+    "radiant_score": 0,
+    "Dire Team": "Team Empire",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-10-18T00:00:00.000Z",
+    "match_id": 350022949,
+    "duration (seconds)": 2116,
+    "match_patch": "(350022949,6.78)",
+    "Radiant Team": "Shadowfiend Eats Cake",
+    "radiant_score": 0,
+    "Dire Team": "Typical Mistakes",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-10-18T00:00:00.000Z",
+    "match_id": 350026348,
+    "duration (seconds)": 1441,
+    "match_patch": "(350026348,6.78)",
+    "Radiant Team": "Team Empire",
+    "radiant_score": 0,
+    "Dire Team": "Speed Gaming International",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-10-18T00:00:00.000Z",
+    "match_id": 350067532,
+    "duration (seconds)": 1818,
+    "match_patch": "(350067532,6.78)",
+    "Radiant Team": "The Joikernaut",
+    "radiant_score": 0,
+    "Dire Team": "Typical Mistakes",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

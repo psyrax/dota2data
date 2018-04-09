@@ -1,0 +1,24 @@
+[
+  {
+    "date": "2014-07-12T00:00:00.000Z",
+    "match_id": 771907481,
+    "duration (seconds)": 722,
+    "match_patch": "(771907481,6.81)",
+    "Radiant Team": "Noxious-Gaming",
+    "radiant_score": 0,
+    "Dire Team": "In Loving Memory of DCC",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-07-12T00:00:00.000Z",
+    "match_id": 771966409,
+    "duration (seconds)": 3896,
+    "match_patch": "(771966409,6.81)",
+    "Radiant Team": "In Loving Memory of DCC",
+    "radiant_score": 0,
+    "Dire Team": "Noxious-Gaming",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

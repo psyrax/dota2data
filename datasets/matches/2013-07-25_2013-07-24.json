@@ -1,0 +1,79 @@
+[
+  {
+    "date": "2013-07-24T00:00:00.000Z",
+    "match_id": 251774000,
+    "duration (seconds)": 2350,
+    "match_patch": "(251774000,6.78)",
+    "Radiant Team": "Kaipi",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-07-24T00:00:00.000Z",
+    "match_id": 251836324,
+    "duration (seconds)": 2220,
+    "match_patch": "(251836324,6.78)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Kaipi",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-07-24T00:00:00.000Z",
+    "match_id": 251882242,
+    "duration (seconds)": 1229,
+    "match_patch": "(251882242,6.78)",
+    "Radiant Team": "Kaipi",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-07-24T00:00:00.000Z",
+    "match_id": 251934426,
+    "duration (seconds)": 1655,
+    "match_patch": "(251934426,6.78)",
+    "Radiant Team": "Natus Vincere",
+    "radiant_score": 0,
+    "Dire Team": "Kaipi",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-07-24T00:00:00.000Z",
+    "match_id": 251977022,
+    "duration (seconds)": 1918,
+    "match_patch": "(251977022,6.78)",
+    "Radiant Team": "Kaipi",
+    "radiant_score": 0,
+    "Dire Team": "Natus Vincere",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-07-24T00:00:00.000Z",
+    "match_id": 252017313,
+    "duration (seconds)": 1443,
+    "match_patch": "(252017313,6.78)",
+    "Radiant Team": "Natus Vincere",
+    "radiant_score": 0,
+    "Dire Team": "Kaipi",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-07-24T00:00:00.000Z",
+    "match_id": 252045939,
+    "duration (seconds)": 1488,
+    "match_patch": "(252045939,6.78)",
+    "Radiant Team": "Kaipi",
+    "radiant_score": 0,
+    "Dire Team": "Natus Vincere",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

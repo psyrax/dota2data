@@ -1,0 +1,90 @@
+[
+  {
+    "date": "2015-04-02T00:00:00.000Z",
+    "match_id": 1368043292,
+    "duration (seconds)": 1869,
+    "match_patch": "(1368043292,6.83)",
+    "Radiant Team": "Trust",
+    "radiant_score": 0,
+    "Dire Team": "TeamMalaysia",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-04-02T00:00:00.000Z",
+    "match_id": 1368165068,
+    "duration (seconds)": 2974,
+    "match_patch": "(1368165068,6.83)",
+    "Radiant Team": "TeamMalaysia",
+    "radiant_score": 0,
+    "Dire Team": "Trust",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-04-02T00:00:00.000Z",
+    "match_id": 1368507262,
+    "duration (seconds)": 2254,
+    "match_patch": "(1368507262,6.83)",
+    "Radiant Team": "Invasion eSports",
+    "radiant_score": 0,
+    "Dire Team": "Can't Say Wips",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-04-02T00:00:00.000Z",
+    "match_id": 1368663644,
+    "duration (seconds)": 1900,
+    "match_patch": "(1368663644,6.83)",
+    "Radiant Team": "Can't Say Wips",
+    "radiant_score": 0,
+    "Dire Team": "Invasion eSports",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-04-02T00:00:00.000Z",
+    "match_id": 1368791469,
+    "duration (seconds)": 2791,
+    "match_patch": "(1368791469,6.83)",
+    "Radiant Team": "Invasion eSports",
+    "radiant_score": 0,
+    "Dire Team": "Can't Say Wips",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-04-02T00:00:00.000Z",
+    "match_id": 1369078939,
+    "duration (seconds)": 2028,
+    "match_patch": "(1369078939,6.83)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "The Sean Paul Experience",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-04-02T00:00:00.000Z",
+    "match_id": 1369185549,
+    "duration (seconds)": 2843,
+    "match_patch": "(1369185549,6.83)",
+    "Radiant Team": "The Sean Paul Experience",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-04-02T00:00:00.000Z",
+    "match_id": 1369294523,
+    "duration (seconds)": 5331,
+    "match_patch": "(1369294523,6.83)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "The Sean Paul Experience",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

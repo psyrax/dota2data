@@ -1,0 +1,189 @@
+[
+  {
+    "date": "2014-03-09T00:00:00.000Z",
+    "match_id": 555499932,
+    "duration (seconds)": 1620,
+    "match_patch": "(555499932,6.80)",
+    "Radiant Team": "MeetYourMakers.Dota2",
+    "radiant_score": 0,
+    "Dire Team": "Radical Online X-tremists",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-03-09T00:00:00.000Z",
+    "match_id": 555577578,
+    "duration (seconds)": 2391,
+    "match_patch": "(555577578,6.80)",
+    "Radiant Team": "Radical Online X-tremists",
+    "radiant_score": 0,
+    "Dire Team": "MeetYourMakers.Dota2",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-03-09T00:00:00.000Z",
+    "match_id": 555623624,
+    "duration (seconds)": 1455,
+    "match_patch": "(555623624,6.80)",
+    "Radiant Team": "Trent na rouminge",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-03-09T00:00:00.000Z",
+    "match_id": 555677492,
+    "duration (seconds)": 1610,
+    "match_patch": "(555677492,6.80)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Radical Online X-tremists",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-03-09T00:00:00.000Z",
+    "match_id": 555695962,
+    "duration (seconds)": 1580,
+    "match_patch": "(555695962,6.80)",
+    "Radiant Team": "Evil Geniuses",
+    "radiant_score": 0,
+    "Dire Team": "Team Liquid",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-03-09T00:00:00.000Z",
+    "match_id": 555703765,
+    "duration (seconds)": 2014,
+    "match_patch": "(555703765,6.80)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Trent na rouminge",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-03-09T00:00:00.000Z",
+    "match_id": 555743598,
+    "duration (seconds)": 2554,
+    "match_patch": "(555743598,6.80)",
+    "Radiant Team": "FUREUR MultiGaming",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-03-09T00:00:00.000Z",
+    "match_id": 555746327,
+    "duration (seconds)": 1931,
+    "match_patch": "(555746327,6.80)",
+    "Radiant Team": "Radical Online X-tremists",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-03-09T00:00:00.000Z",
+    "match_id": 555761459,
+    "duration (seconds)": 3160,
+    "match_patch": "(555761459,6.80)",
+    "Radiant Team": "Team Liquid",
+    "radiant_score": 0,
+    "Dire Team": "Evil Geniuses",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-03-09T00:00:00.000Z",
+    "match_id": 555828775,
+    "duration (seconds)": 1693,
+    "match_patch": "(555828775,6.80)",
+    "Radiant Team": "Radical Online X-tremists",
+    "radiant_score": 0,
+    "Dire Team": "Team Empire",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-03-09T00:00:00.000Z",
+    "match_id": 555841026,
+    "duration (seconds)": 2036,
+    "match_patch": "(555841026,6.80)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "FUREUR MultiGaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-03-09T00:00:00.000Z",
+    "match_id": 555844933,
+    "duration (seconds)": 1799,
+    "match_patch": "(555844933,6.80)",
+    "Radiant Team": "say a name",
+    "radiant_score": 0,
+    "Dire Team": "IGOR KILL ENEMY",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-03-09T00:00:00.000Z",
+    "match_id": 555882771,
+    "duration (seconds)": 2834,
+    "match_patch": "(555882771,6.80)",
+    "Radiant Team": "Team Empire",
+    "radiant_score": 0,
+    "Dire Team": "Radical Online X-tremists",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-03-09T00:00:00.000Z",
+    "match_id": 555897929,
+    "duration (seconds)": 690,
+    "match_patch": "(555897929,6.80)",
+    "Radiant Team": "wir lieben dich dennis",
+    "radiant_score": 0,
+    "Dire Team": "say a name",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-03-09T00:00:00.000Z",
+    "match_id": 555906951,
+    "duration (seconds)": 2967,
+    "match_patch": "(555906951,6.80)",
+    "Radiant Team": "",
+    "radiant_score": 0,
+    "Dire Team": "Evil Geniuses",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-03-09T00:00:00.000Z",
+    "match_id": 555997240,
+    "duration (seconds)": 2793,
+    "match_patch": "(555997240,6.80)",
+    "Radiant Team": "Evil Geniuses",
+    "radiant_score": 0,
+    "Dire Team": "",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-03-09T00:00:00.000Z",
+    "match_id": 556045765,
+    "duration (seconds)": 2403,
+    "match_patch": "(556045765,6.80)",
+    "Radiant Team": "",
+    "radiant_score": 0,
+    "Dire Team": "Evil Geniuses",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

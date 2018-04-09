@@ -1,0 +1,200 @@
+[
+  {
+    "date": "2015-10-30T00:00:00.000Z",
+    "match_id": 1901285046,
+    "duration (seconds)": 1773,
+    "match_patch": "(1901285046,6.85)",
+    "Radiant Team": "Jayce N.G",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-10-30T00:00:00.000Z",
+    "match_id": 1901296437,
+    "duration (seconds)": 2976,
+    "match_patch": "(1901296437,6.85)",
+    "Radiant Team": "Farm For Fame.",
+    "radiant_score": 0,
+    "Dire Team": "Proo Stylee Gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-10-30T00:00:00.000Z",
+    "match_id": 1901319698,
+    "duration (seconds)": 3896,
+    "match_patch": "(1901319698,6.85)",
+    "Radiant Team": "",
+    "radiant_score": 0,
+    "Dire Team": "G.G_Team",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-10-30T00:00:00.000Z",
+    "match_id": 1901326094,
+    "duration (seconds)": 1822,
+    "match_patch": "(1901326094,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Jugamos Poquito",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-10-30T00:00:00.000Z",
+    "match_id": 1901326997,
+    "duration (seconds)": 2078,
+    "match_patch": "(1901326997,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Jayce N.G",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-10-30T00:00:00.000Z",
+    "match_id": 1901373955,
+    "duration (seconds)": 1969,
+    "match_patch": "(1901373955,6.85)",
+    "Radiant Team": "Jugamos Poquito",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-10-30T00:00:00.000Z",
+    "match_id": 1901379055,
+    "duration (seconds)": 910,
+    "match_patch": "(1901379055,6.85)",
+    "Radiant Team": "Proo Stylee Gaming",
+    "radiant_score": 0,
+    "Dire Team": "Farm For Fame.",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-10-30T00:00:00.000Z",
+    "match_id": 1901925294,
+    "duration (seconds)": 2635,
+    "match_patch": "(1901925294,6.85)",
+    "Radiant Team": "FTD club a",
+    "radiant_score": 0,
+    "Dire Team": "E-Sports Dream",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-10-30T00:00:00.000Z",
+    "match_id": 1901933134,
+    "duration (seconds)": 1756,
+    "match_patch": "(1901933134,6.85)",
+    "Radiant Team": "Team VDuoBao",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-10-30T00:00:00.000Z",
+    "match_id": 1902008650,
+    "duration (seconds)": 2059,
+    "match_patch": "(1902008650,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Team Vanquisher",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-10-30T00:00:00.000Z",
+    "match_id": 1902017058,
+    "duration (seconds)": 1407,
+    "match_patch": "(1902017058,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Team VDuoBao",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-10-30T00:00:00.000Z",
+    "match_id": 1902027990,
+    "duration (seconds)": 1947,
+    "match_patch": "(1902027990,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "FASTLANE GAMING",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-10-30T00:00:00.000Z",
+    "match_id": 1902039646,
+    "duration (seconds)": 1585,
+    "match_patch": "(1902039646,6.85)",
+    "Radiant Team": "E-Sports Dream",
+    "radiant_score": 0,
+    "Dire Team": "FTD club a",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-10-30T00:00:00.000Z",
+    "match_id": 1902061434,
+    "duration (seconds)": 2145,
+    "match_patch": "(1902061434,6.85)",
+    "Radiant Team": "Brother never Gank",
+    "radiant_score": 0,
+    "Dire Team": "GantengGantengSquidward",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-10-30T00:00:00.000Z",
+    "match_id": 1902088955,
+    "duration (seconds)": 2469,
+    "match_patch": "(1902088955,6.85)",
+    "Radiant Team": "Standard Gamers",
+    "radiant_score": 0,
+    "Dire Team": "Zero Latitude",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-10-30T00:00:00.000Z",
+    "match_id": 1902493501,
+    "duration (seconds)": 2430,
+    "match_patch": "(1902493501,6.85)",
+    "Radiant Team": "TEAM.KAZAKHSTAN",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-10-30T00:00:00.000Z",
+    "match_id": 1902646410,
+    "duration (seconds)": 1835,
+    "match_patch": "(1902646410,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "TEAM.KAZAKHSTAN",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-10-30T00:00:00.000Z",
+    "match_id": 1902747626,
+    "duration (seconds)": 2776,
+    "match_patch": "(1902747626,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "TEAM.KAZAKHSTAN",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

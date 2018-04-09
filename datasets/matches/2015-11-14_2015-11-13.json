@@ -1,0 +1,79 @@
+[
+  {
+    "date": "2015-11-13T00:00:00.000Z",
+    "match_id": 1931987748,
+    "duration (seconds)": 924,
+    "match_patch": "(1931987748,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "HAKU.NET GAMING",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-11-13T00:00:00.000Z",
+    "match_id": 1932002343,
+    "duration (seconds)": 2758,
+    "match_patch": "(1932002343,6.85)",
+    "Radiant Team": "Perfection vore",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-11-13T00:00:00.000Z",
+    "match_id": 1932027730,
+    "duration (seconds)": 1513,
+    "match_patch": "(1932027730,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-11-13T00:00:00.000Z",
+    "match_id": 1932287664,
+    "duration (seconds)": 1782,
+    "match_patch": "(1932287664,6.85)",
+    "Radiant Team": "the wings gaming",
+    "radiant_score": 0,
+    "Dire Team": "DK",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-11-13T00:00:00.000Z",
+    "match_id": 1932348682,
+    "duration (seconds)": 2905,
+    "match_patch": "(1932348682,6.85)",
+    "Radiant Team": "DK",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-11-13T00:00:00.000Z",
+    "match_id": 1932560041,
+    "duration (seconds)": 2119,
+    "match_patch": "(1932560041,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "DK",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-11-13T00:00:00.000Z",
+    "match_id": 1932633902,
+    "duration (seconds)": 2153,
+    "match_patch": "(1932633902,6.85)",
+    "Radiant Team": "DK",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

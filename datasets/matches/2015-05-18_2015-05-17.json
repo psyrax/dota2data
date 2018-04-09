@@ -1,0 +1,68 @@
+[
+  {
+    "date": "2015-05-17T00:00:00.000Z",
+    "match_id": 1479292137,
+    "duration (seconds)": 1623,
+    "match_patch": "(1479292137,6.84)",
+    "Radiant Team": "Niu Tim",
+    "radiant_score": 0,
+    "Dire Team": "Dream.Warriors",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-05-17T00:00:00.000Z",
+    "match_id": 1479357063,
+    "duration (seconds)": 3995,
+    "match_patch": "(1479357063,6.84)",
+    "Radiant Team": "Olimpo E-Sport",
+    "radiant_score": 0,
+    "Dire Team": "Zona Gaming",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-05-17T00:00:00.000Z",
+    "match_id": 1480557856,
+    "duration (seconds)": 3202,
+    "match_patch": "(1480557856,6.84)",
+    "Radiant Team": "Can't Say Wips",
+    "radiant_score": 0,
+    "Dire Team": "G Guard Esports",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-05-17T00:00:00.000Z",
+    "match_id": 1480769317,
+    "duration (seconds)": 1824,
+    "match_patch": "(1480769317,6.84)",
+    "Radiant Team": "Can't Say Wips",
+    "radiant_score": 0,
+    "Dire Team": "G Guard Esports",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-05-17T00:00:00.000Z",
+    "match_id": 1481596895,
+    "duration (seconds)": 1593,
+    "match_patch": "(1481596895,6.84)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Falcons Guards",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-05-17T00:00:00.000Z",
+    "match_id": 1482030658,
+    "duration (seconds)": 1762,
+    "match_patch": "(1482030658,6.84)",
+    "Radiant Team": "Ab.Madness",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

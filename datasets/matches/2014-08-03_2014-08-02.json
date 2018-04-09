@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2014-08-02T00:00:00.000Z",
+    "match_id": 812365178,
+    "duration (seconds)": 1329,
+    "match_patch": "(812365178,6.81)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-08-02T00:00:00.000Z",
+    "match_id": 812444827,
+    "duration (seconds)": 1609,
+    "match_patch": "(812444827,6.81)",
+    "Radiant Team": "STARS DUST",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-08-02T00:00:00.000Z",
+    "match_id": 812555307,
+    "duration (seconds)": 1641,
+    "match_patch": "(812555307,6.81)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-08-02T00:00:00.000Z",
+    "match_id": 812707771,
+    "duration (seconds)": 663,
+    "match_patch": "(812707771,6.81)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

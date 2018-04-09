@@ -1,0 +1,167 @@
+[
+  {
+    "date": "2015-09-28T00:00:00.000Z",
+    "match_id": 1825615106,
+    "duration (seconds)": 2288,
+    "match_patch": "(1825615106,6.85)",
+    "Radiant Team": "Groovy.Gaming.co",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-09-28T00:00:00.000Z",
+    "match_id": 1825647190,
+    "duration (seconds)": 1565,
+    "match_patch": "(1825647190,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-09-28T00:00:00.000Z",
+    "match_id": 1825667825,
+    "duration (seconds)": 1240,
+    "match_patch": "(1825667825,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Groovy.Gaming.co",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-09-28T00:00:00.000Z",
+    "match_id": 1825689674,
+    "duration (seconds)": 2501,
+    "match_patch": "(1825689674,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-09-28T00:00:00.000Z",
+    "match_id": 1825753744,
+    "duration (seconds)": 2726,
+    "match_patch": "(1825753744,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-09-28T00:00:00.000Z",
+    "match_id": 1825952467,
+    "duration (seconds)": 2871,
+    "match_patch": "(1825952467,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-09-28T00:00:00.000Z",
+    "match_id": 1826041434,
+    "duration (seconds)": 2424,
+    "match_patch": "(1826041434,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-09-28T00:00:00.000Z",
+    "match_id": 1826131734,
+    "duration (seconds)": 1166,
+    "match_patch": "(1826131734,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-09-28T00:00:00.000Z",
+    "match_id": 1826188706,
+    "duration (seconds)": 2772,
+    "match_patch": "(1826188706,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-09-28T00:00:00.000Z",
+    "match_id": 1826298398,
+    "duration (seconds)": 2865,
+    "match_patch": "(1826298398,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-09-28T00:00:00.000Z",
+    "match_id": 1827011042,
+    "duration (seconds)": 1730,
+    "match_patch": "(1827011042,6.85)",
+    "Radiant Team": "KomandaMinus",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-09-28T00:00:00.000Z",
+    "match_id": 1827140767,
+    "duration (seconds)": 2342,
+    "match_patch": "(1827140767,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-09-28T00:00:00.000Z",
+    "match_id": 1827474160,
+    "duration (seconds)": 1450,
+    "match_patch": "(1827474160,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Kaipi",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-09-28T00:00:00.000Z",
+    "match_id": 1827579771,
+    "duration (seconds)": 2355,
+    "match_patch": "(1827579771,6.85)",
+    "Radiant Team": "Kaipi",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-09-28T00:00:00.000Z",
+    "match_id": 1827702764,
+    "duration (seconds)": 2653,
+    "match_patch": "(1827702764,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Kaipi",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

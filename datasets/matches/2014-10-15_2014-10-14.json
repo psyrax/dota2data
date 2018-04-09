@@ -1,0 +1,222 @@
+[
+  {
+    "date": "2014-10-14T00:00:00.000Z",
+    "match_id": 959362654,
+    "duration (seconds)": 1641,
+    "match_patch": "(959362654,6.82)",
+    "Radiant Team": "Too Fish",
+    "radiant_score": 0,
+    "Dire Team": "Leviathan'",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-10-14T00:00:00.000Z",
+    "match_id": 959397794,
+    "duration (seconds)": 2029,
+    "match_patch": "(959397794,6.82)",
+    "Radiant Team": "Leviathan'",
+    "radiant_score": 0,
+    "Dire Team": "Too Fish",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-10-14T00:00:00.000Z",
+    "match_id": 959639742,
+    "duration (seconds)": 2027,
+    "match_patch": "(959639742,6.82)",
+    "Radiant Team": "TeamMalaysia",
+    "radiant_score": 0,
+    "Dire Team": "Invasion eSports",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-10-14T00:00:00.000Z",
+    "match_id": 959703723,
+    "duration (seconds)": 2258,
+    "match_patch": "(959703723,6.82)",
+    "Radiant Team": "Invasion eSports",
+    "radiant_score": 0,
+    "Dire Team": "TeamMalaysia",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-10-14T00:00:00.000Z",
+    "match_id": 959795157,
+    "duration (seconds)": 2263,
+    "match_patch": "(959795157,6.82)",
+    "Radiant Team": "TeamMalaysia",
+    "radiant_score": 0,
+    "Dire Team": "Invasion eSports",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-10-14T00:00:00.000Z",
+    "match_id": 959951194,
+    "duration (seconds)": 2264,
+    "match_patch": "(959951194,6.82)",
+    "Radiant Team": "Mineski.亿鼎博",
+    "radiant_score": 0,
+    "Dire Team": "Invasion eSports",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-10-14T00:00:00.000Z",
+    "match_id": 960052387,
+    "duration (seconds)": 1973,
+    "match_patch": "(960052387,6.82)",
+    "Radiant Team": "Invasion eSports",
+    "radiant_score": 0,
+    "Dire Team": "Mineski.亿鼎博",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-10-14T00:00:00.000Z",
+    "match_id": 960077744,
+    "duration (seconds)": 3972,
+    "match_patch": "(960077744,6.82)",
+    "Radiant Team": "Team Underminer",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-10-14T00:00:00.000Z",
+    "match_id": 960286906,
+    "duration (seconds)": 1564,
+    "match_patch": "(960286906,6.82)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Team Underminer",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-10-14T00:00:00.000Z",
+    "match_id": 960399753,
+    "duration (seconds)": 1241,
+    "match_patch": "(960399753,6.82)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Team Underminer",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-10-14T00:00:00.000Z",
+    "match_id": 960404224,
+    "duration (seconds)": 2688,
+    "match_patch": "(960404224,6.82)",
+    "Radiant Team": "Inter Active Philippines",
+    "radiant_score": 0,
+    "Dire Team": "Nvidia.ArrowGaming.AVF",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-10-14T00:00:00.000Z",
+    "match_id": 960478547,
+    "duration (seconds)": 2374,
+    "match_patch": "(960478547,6.82)",
+    "Radiant Team": "Moscow Five RUS",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-10-14T00:00:00.000Z",
+    "match_id": 960549151,
+    "duration (seconds)": 2802,
+    "match_patch": "(960549151,6.82)",
+    "Radiant Team": "Nvidia.ArrowGaming.AVF",
+    "radiant_score": 0,
+    "Dire Team": "Inter Active Philippines",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-10-14T00:00:00.000Z",
+    "match_id": 960582384,
+    "duration (seconds)": 967,
+    "match_patch": "(960582384,6.82)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "HellRaisers",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-10-14T00:00:00.000Z",
+    "match_id": 960603469,
+    "duration (seconds)": 1227,
+    "match_patch": "(960603469,6.82)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Moscow Five RUS",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-10-14T00:00:00.000Z",
+    "match_id": 960645180,
+    "duration (seconds)": 936,
+    "match_patch": "(960645180,6.82)",
+    "Radiant Team": "HellRaisers",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-10-14T00:00:00.000Z",
+    "match_id": 960690643,
+    "duration (seconds)": 1885,
+    "match_patch": "(960690643,6.82)",
+    "Radiant Team": "Inter Active Philippines",
+    "radiant_score": 0,
+    "Dire Team": "Nvidia.ArrowGaming.AVF",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-10-14T00:00:00.000Z",
+    "match_id": 960763215,
+    "duration (seconds)": 3431,
+    "match_patch": "(960763215,6.82)",
+    "Radiant Team": "GOOMBA Gamingg",
+    "radiant_score": 0,
+    "Dire Team": "hArd Attack-",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-10-14T00:00:00.000Z",
+    "match_id": 960897621,
+    "duration (seconds)": 3060,
+    "match_patch": "(960897621,6.82)",
+    "Radiant Team": "hArd Attack-",
+    "radiant_score": 0,
+    "Dire Team": "GOOMBA Gamingg",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-10-14T00:00:00.000Z",
+    "match_id": 960971050,
+    "duration (seconds)": 2062,
+    "match_patch": "(960971050,6.82)",
+    "Radiant Team": "hArd Attack-",
+    "radiant_score": 0,
+    "Dire Team": "GOOMBA Gamingg",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

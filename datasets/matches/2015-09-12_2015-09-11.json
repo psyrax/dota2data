@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2015-09-11T00:00:00.000Z",
+    "match_id": 1786343609,
+    "duration (seconds)": 1669,
+    "match_patch": "(1786343609,6.84)",
+    "Radiant Team": "Ez katka!!",
+    "radiant_score": 0,
+    "Dire Team": "UNKNOWN #####",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-09-11T00:00:00.000Z",
+    "match_id": 1786427776,
+    "duration (seconds)": 3330,
+    "match_patch": "(1786427776,6.84)",
+    "Radiant Team": "UNKNOWN #####",
+    "radiant_score": 0,
+    "Dire Team": "Ez katka!!",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-09-11T00:00:00.000Z",
+    "match_id": 1786526756,
+    "duration (seconds)": 3132,
+    "match_patch": "(1786526756,6.84)",
+    "Radiant Team": "Ez katka!!",
+    "radiant_score": 0,
+    "Dire Team": "UNKNOWN #####",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-09-11T00:00:00.000Z",
+    "match_id": 1786567871,
+    "duration (seconds)": 1531,
+    "match_patch": "(1786567871,6.84)",
+    "Radiant Team": "Ez katka!!",
+    "radiant_score": 0,
+    "Dire Team": "UNKNOWN #####",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

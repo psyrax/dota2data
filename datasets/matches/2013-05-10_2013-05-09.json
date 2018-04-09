@@ -1,0 +1,57 @@
+[
+  {
+    "date": "2013-05-09T00:00:00.000Z",
+    "match_id": 191522154,
+    "duration (seconds)": 1952,
+    "match_patch": "(191522154,6.77)",
+    "Radiant Team": "RaTtLeSnAkE. CN GaMiNg",
+    "radiant_score": 0,
+    "Dire Team": "Zenith",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-05-09T00:00:00.000Z",
+    "match_id": 191550796,
+    "duration (seconds)": 4007,
+    "match_patch": "(191550796,6.77)",
+    "Radiant Team": "Zenith",
+    "radiant_score": 0,
+    "Dire Team": "RaTtLeSnAkE. CN GaMiNg",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-05-09T00:00:00.000Z",
+    "match_id": 191624607,
+    "duration (seconds)": 2237,
+    "match_patch": "(191624607,6.77)",
+    "Radiant Team": "RaTtLeSnAkE. CN GaMiNg",
+    "radiant_score": 0,
+    "Dire Team": "Zenith",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-05-09T00:00:00.000Z",
+    "match_id": 191675803,
+    "duration (seconds)": 1573,
+    "match_patch": "(191675803,6.77)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Invasion MUFC",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-05-09T00:00:00.000Z",
+    "match_id": 191706297,
+    "duration (seconds)": 2249,
+    "match_patch": "(191706297,6.77)",
+    "Radiant Team": "Invasion MUFC",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

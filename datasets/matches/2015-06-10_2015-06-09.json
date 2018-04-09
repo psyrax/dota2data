@@ -1,0 +1,90 @@
+[
+  {
+    "date": "2015-06-09T00:00:00.000Z",
+    "match_id": 1538289637,
+    "duration (seconds)": 2197,
+    "match_patch": "(1538289637,6.84)",
+    "Radiant Team": "Mr. Ando of the Woods",
+    "radiant_score": 0,
+    "Dire Team": "'Team Resilience",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-06-09T00:00:00.000Z",
+    "match_id": 1538298924,
+    "duration (seconds)": 1991,
+    "match_patch": "(1538298924,6.84)",
+    "Radiant Team": "Sad Voids",
+    "radiant_score": 0,
+    "Dire Team": "LUCCINI GAM1NG",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-06-09T00:00:00.000Z",
+    "match_id": 1538357657,
+    "duration (seconds)": 1808,
+    "match_patch": "(1538357657,6.84)",
+    "Radiant Team": "'Team Resilience",
+    "radiant_score": 0,
+    "Dire Team": "Mr. Ando of the Woods",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-06-09T00:00:00.000Z",
+    "match_id": 1540307191,
+    "duration (seconds)": 1541,
+    "match_patch": "(1540307191,6.84)",
+    "Radiant Team": "Dread's Corner Shop Crew",
+    "radiant_score": 0,
+    "Dire Team": "The Kappa Squad",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-06-09T00:00:00.000Z",
+    "match_id": 1540380068,
+    "duration (seconds)": 2384,
+    "match_patch": "(1540380068,6.84)",
+    "Radiant Team": "The Kappa Squad",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-06-09T00:00:00.000Z",
+    "match_id": 1540640577,
+    "duration (seconds)": 2088,
+    "match_patch": "(1540640577,6.84)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "LDeep",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-06-09T00:00:00.000Z",
+    "match_id": 1540693507,
+    "duration (seconds)": 3348,
+    "match_patch": "(1540693507,6.84)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-06-09T00:00:00.000Z",
+    "match_id": 1540702857,
+    "duration (seconds)": 2647,
+    "match_patch": "(1540702857,6.84)",
+    "Radiant Team": "Bleyd Skirmish",
+    "radiant_score": 0,
+    "Dire Team": "dancing blade",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

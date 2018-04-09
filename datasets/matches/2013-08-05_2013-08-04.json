@@ -1,0 +1,134 @@
+[
+  {
+    "date": "2013-08-04T00:00:00.000Z",
+    "match_id": 263098578,
+    "duration (seconds)": 1140,
+    "match_patch": "(263098578,6.78)",
+    "Radiant Team": "Saints of Legion",
+    "radiant_score": 0,
+    "Dire Team": "iCCup Team",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-08-04T00:00:00.000Z",
+    "match_id": 263113457,
+    "duration (seconds)": 504,
+    "match_patch": "(263113457,6.78)",
+    "Radiant Team": "Life.",
+    "radiant_score": 0,
+    "Dire Team": "GamersLeague",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-08-04T00:00:00.000Z",
+    "match_id": 263162299,
+    "duration (seconds)": 908,
+    "match_patch": "(263162299,6.78)",
+    "Radiant Team": "Life.",
+    "radiant_score": 0,
+    "Dire Team": "Maruchan",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-08-04T00:00:00.000Z",
+    "match_id": 263180625,
+    "duration (seconds)": 862,
+    "match_patch": "(263180625,6.78)",
+    "Radiant Team": "iCCup Team",
+    "radiant_score": 0,
+    "Dire Team": "Zip me Down",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-08-04T00:00:00.000Z",
+    "match_id": 263195628,
+    "duration (seconds)": 1212,
+    "match_patch": "(263195628,6.78)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Team Utopia",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-08-04T00:00:00.000Z",
+    "match_id": 263231958,
+    "duration (seconds)": 618,
+    "match_patch": "(263231958,6.78)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Life.",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-08-04T00:00:00.000Z",
+    "match_id": 263245739,
+    "duration (seconds)": 2408,
+    "match_patch": "(263245739,6.78)",
+    "Radiant Team": "XPG eSports",
+    "radiant_score": 0,
+    "Dire Team": "Stabilny Polski Disband",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-08-04T00:00:00.000Z",
+    "match_id": 263256839,
+    "duration (seconds)": 811,
+    "match_patch": "(263256839,6.78)",
+    "Radiant Team": "Life.",
+    "radiant_score": 0,
+    "Dire Team": "[TheAvengers]",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-08-04T00:00:00.000Z",
+    "match_id": 263279932,
+    "duration (seconds)": 1099,
+    "match_patch": "(263279932,6.78)",
+    "Radiant Team": "Gam.DotA",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-08-04T00:00:00.000Z",
+    "match_id": 263307561,
+    "duration (seconds)": 1829,
+    "match_patch": "(263307561,6.78)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Gam.DotA",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-08-04T00:00:00.000Z",
+    "match_id": 263312392,
+    "duration (seconds)": 2427,
+    "match_patch": "(263312392,6.78)",
+    "Radiant Team": "iCCup Team",
+    "radiant_score": 0,
+    "Dire Team": "Stabilny Polski Disband",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-08-04T00:00:00.000Z",
+    "match_id": 263359640,
+    "duration (seconds)": 803,
+    "match_patch": "(263359640,6.78)",
+    "Radiant Team": "Stabilny Polski Disband",
+    "radiant_score": 0,
+    "Dire Team": "iCCup Team",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

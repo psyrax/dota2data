@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2015-01-29T00:00:00.000Z",
+    "match_id": 1195739838,
+    "duration (seconds)": 2220,
+    "match_patch": "(1195739838,6.83)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-01-29T00:00:00.000Z",
+    "match_id": 1195822987,
+    "duration (seconds)": 1786,
+    "match_patch": "(1195822987,6.83)",
+    "Radiant Team": "Skadi Doesn't Know!",
+    "radiant_score": 0,
+    "Dire Team": "HOT HANDS HAND WARMERS",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-01-29T00:00:00.000Z",
+    "match_id": 1197184040,
+    "duration (seconds)": 2614,
+    "match_patch": "(1197184040,6.83)",
+    "Radiant Team": "Balkan Bears Corleone",
+    "radiant_score": 0,
+    "Dire Team": "Basically Unknown",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-01-29T00:00:00.000Z",
+    "match_id": 1197316631,
+    "duration (seconds)": 2200,
+    "match_patch": "(1197316631,6.83)",
+    "Radiant Team": "Basically Unknown",
+    "radiant_score": 0,
+    "Dire Team": "Balkan Bears Corleone",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

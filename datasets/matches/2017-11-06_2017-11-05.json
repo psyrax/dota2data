@@ -1,38 +1,24 @@
 [
   {
+    "date": "2017-11-05T00:00:00.000Z",
     "match_id": 3544437630,
-    "avg": "2486.0000000000000000",
-    "count": 1,
-    "winrate": 0.5,
-    "winrate_wilson": 0.236589593615487,
-    "sum": 24860,
-    "min": 2486,
-    "max": 2486,
+    "duration (seconds)": 2486,
     "match_patch": "(3544437630,7.07)",
-    "radiant_team_id": 4997871,
-    "dire_team_id": 5000254,
-    "radiant_win": false,
+    "Radiant Team": "Team Waooo",
     "radiant_score": 20,
+    "Dire Team": "ForTheDream",
     "dire_score": 44,
-    "start_time": 1509881303,
-    "League": "Dota 2 Professional League 2016"
+    "Winner": "Dire"
   },
   {
+    "date": "2017-11-05T00:00:00.000Z",
     "match_id": 3544571330,
-    "avg": "1811.0000000000000000",
-    "count": 1,
-    "winrate": 0.5,
-    "winrate_wilson": 0.236589593615487,
-    "sum": 18110,
-    "min": 1811,
-    "max": 1811,
+    "duration (seconds)": 1811,
     "match_patch": "(3544571330,7.07)",
-    "radiant_team_id": 4997871,
-    "dire_team_id": 5000254,
-    "radiant_win": false,
+    "Radiant Team": "Team Waooo",
     "radiant_score": 27,
+    "Dire Team": "ForTheDream",
     "dire_score": 42,
-    "start_time": 1509885015,
-    "League": "Dota 2 Professional League 2016"
+    "Winner": "Dire"
   }
 ]

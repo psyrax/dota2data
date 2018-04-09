@@ -1,0 +1,156 @@
+[
+  {
+    "date": "2015-12-15T00:00:00.000Z",
+    "match_id": 2004750948,
+    "duration (seconds)": 1573,
+    "match_patch": "(2004750948,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-12-15T00:00:00.000Z",
+    "match_id": 2004778900,
+    "duration (seconds)": 1805,
+    "match_patch": "(2004778900,6.85)",
+    "Radiant Team": "_PowerRangers",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-12-15T00:00:00.000Z",
+    "match_id": 2004873420,
+    "duration (seconds)": 1618,
+    "match_patch": "(2004873420,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Yellow Submarine!",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-12-15T00:00:00.000Z",
+    "match_id": 2004926026,
+    "duration (seconds)": 1378,
+    "match_patch": "(2004926026,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Enso",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-12-15T00:00:00.000Z",
+    "match_id": 2004961905,
+    "duration (seconds)": 2781,
+    "match_patch": "(2004961905,6.85)",
+    "Radiant Team": "Yellow Submarine!",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-12-15T00:00:00.000Z",
+    "match_id": 2005111473,
+    "duration (seconds)": 1223,
+    "match_patch": "(2005111473,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Yellow Submarine!",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-12-15T00:00:00.000Z",
+    "match_id": 2005172764,
+    "duration (seconds)": 3832,
+    "match_patch": "(2005172764,6.85)",
+    "Radiant Team": "Hehe United",
+    "radiant_score": 0,
+    "Dire Team": "COOKISS",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-12-15T00:00:00.000Z",
+    "match_id": 2005198502,
+    "duration (seconds)": 1792,
+    "match_patch": "(2005198502,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-12-15T00:00:00.000Z",
+    "match_id": 2005251299,
+    "duration (seconds)": 1122,
+    "match_patch": "(2005251299,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-12-15T00:00:00.000Z",
+    "match_id": 2005286781,
+    "duration (seconds)": 1657,
+    "match_patch": "(2005286781,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-12-15T00:00:00.000Z",
+    "match_id": 2005331304,
+    "duration (seconds)": 920,
+    "match_patch": "(2005331304,6.85)",
+    "Radiant Team": "World's End",
+    "radiant_score": 0,
+    "Dire Team": "Shazam~",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-12-15T00:00:00.000Z",
+    "match_id": 2005332710,
+    "duration (seconds)": 1618,
+    "match_patch": "(2005332710,6.85)",
+    "Radiant Team": "Vivo Fibra KStars",
+    "radiant_score": 0,
+    "Dire Team": "Jayce N.G",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-12-15T00:00:00.000Z",
+    "match_id": 2005364966,
+    "duration (seconds)": 1206,
+    "match_patch": "(2005364966,6.85)",
+    "Radiant Team": "Shazam~",
+    "radiant_score": 0,
+    "Dire Team": "World's End",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-12-15T00:00:00.000Z",
+    "match_id": 2005384563,
+    "duration (seconds)": 1545,
+    "match_patch": "(2005384563,6.85)",
+    "Radiant Team": "Jayce N.G",
+    "radiant_score": 0,
+    "Dire Team": "Vivo Fibra KStars",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "date": "2016-02-07T00:00:00.000Z",
+    "match_id": 2133779907,
+    "duration (seconds)": 2035,
+    "match_patch": "(2133779907,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-02-07T00:00:00.000Z",
+    "match_id": 2133876724,
+    "duration (seconds)": 4917,
+    "match_patch": "(2133876724,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Team Archon",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-02-07T00:00:00.000Z",
+    "match_id": 2134004538,
+    "duration (seconds)": 3951,
+    "match_patch": "(2134004538,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Team Archon",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-02-07T00:00:00.000Z",
+    "match_id": 2135463352,
+    "duration (seconds)": 800,
+    "match_patch": "(2135463352,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-02-07T00:00:00.000Z",
+    "match_id": 2135549097,
+    "duration (seconds)": 2663,
+    "match_patch": "(2135549097,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-02-07T00:00:00.000Z",
+    "match_id": 2135863375,
+    "duration (seconds)": 3343,
+    "match_patch": "(2135863375,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-02-07T00:00:00.000Z",
+    "match_id": 2136003285,
+    "duration (seconds)": 2307,
+    "match_patch": "(2136003285,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

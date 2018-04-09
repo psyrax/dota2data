@@ -1,0 +1,123 @@
+[
+  {
+    "date": "2016-02-01T00:00:00.000Z",
+    "match_id": 2119541501,
+    "duration (seconds)": 1492,
+    "match_patch": "(2119541501,6.86)",
+    "Radiant Team": "Come On Rude Boys",
+    "radiant_score": 0,
+    "Dire Team": "Jorge Solo Quiere Amigos",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-02-01T00:00:00.000Z",
+    "match_id": 2119580416,
+    "duration (seconds)": 2467,
+    "match_patch": "(2119580416,6.86)",
+    "Radiant Team": "Jorge Solo Quiere Amigos",
+    "radiant_score": 0,
+    "Dire Team": "Come On Rude Boys",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-02-01T00:00:00.000Z",
+    "match_id": 2119630852,
+    "duration (seconds)": 2711,
+    "match_patch": "(2119630852,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Boreal eSports",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-02-01T00:00:00.000Z",
+    "match_id": 2119698060,
+    "duration (seconds)": 1120,
+    "match_patch": "(2119698060,6.86)",
+    "Radiant Team": "Boreal eSports",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-02-01T00:00:00.000Z",
+    "match_id": 2121403644,
+    "duration (seconds)": 3103,
+    "match_patch": "(2121403644,6.86)",
+    "Radiant Team": "Noo Logic Gaming",
+    "radiant_score": 0,
+    "Dire Team": "Fantastic Five",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-02-01T00:00:00.000Z",
+    "match_id": 2121534597,
+    "duration (seconds)": 1725,
+    "match_patch": "(2121534597,6.86)",
+    "Radiant Team": "Fantastic Five",
+    "radiant_score": 0,
+    "Dire Team": "Noo Logic Gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-02-01T00:00:00.000Z",
+    "match_id": 2121616151,
+    "duration (seconds)": 1988,
+    "match_patch": "(2121616151,6.86)",
+    "Radiant Team": "Noo Logic Gaming",
+    "radiant_score": 0,
+    "Dire Team": "Fantastic Five",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-02-01T00:00:00.000Z",
+    "match_id": 2121698958,
+    "duration (seconds)": 1018,
+    "match_patch": "(2121698958,6.86)",
+    "Radiant Team": "Balrogs e-Sport",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-02-01T00:00:00.000Z",
+    "match_id": 2121745527,
+    "duration (seconds)": 820,
+    "match_patch": "(2121745527,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Balrogs e-Sport",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-02-01T00:00:00.000Z",
+    "match_id": 2121814860,
+    "duration (seconds)": 2650,
+    "match_patch": "(2121814860,6.86)",
+    "Radiant Team": "Team Freedom Dota 2",
+    "radiant_score": 0,
+    "Dire Team": "Leviathan'",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-02-01T00:00:00.000Z",
+    "match_id": 2121817041,
+    "duration (seconds)": 2152,
+    "match_patch": "(2121817041,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

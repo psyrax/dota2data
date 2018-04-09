@@ -1,0 +1,134 @@
+[
+  {
+    "date": "2015-07-22T00:00:00.000Z",
+    "match_id": 1651045612,
+    "duration (seconds)": 1873,
+    "match_patch": "(1651045612,6.84)",
+    "Radiant Team": "Tamo ai na strada",
+    "radiant_score": 0,
+    "Dire Team": "SoulOfDota",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-07-22T00:00:00.000Z",
+    "match_id": 1651131576,
+    "duration (seconds)": 1009,
+    "match_patch": "(1651131576,6.84)",
+    "Radiant Team": "Wisp stole my Aquila",
+    "radiant_score": 0,
+    "Dire Team": "paiN Gaming",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-07-22T00:00:00.000Z",
+    "match_id": 1651152519,
+    "duration (seconds)": 2563,
+    "match_patch": "(1651152519,6.84)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "venom9x",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-07-22T00:00:00.000Z",
+    "match_id": 1651160243,
+    "duration (seconds)": 1681,
+    "match_patch": "(1651160243,6.84)",
+    "Radiant Team": "Megalodon Gaming.",
+    "radiant_score": 0,
+    "Dire Team": "SouL Eater Players~",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-07-22T00:00:00.000Z",
+    "match_id": 1651172398,
+    "duration (seconds)": 1356,
+    "match_patch": "(1651172398,6.84)",
+    "Radiant Team": "FAKE eSports",
+    "radiant_score": 0,
+    "Dire Team": "",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-07-22T00:00:00.000Z",
+    "match_id": 1651858650,
+    "duration (seconds)": 1904,
+    "match_patch": "(1651858650,6.84)",
+    "Radiant Team": "Too Fast Too Furion",
+    "radiant_score": 0,
+    "Dire Team": "TwentyTwo",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-07-22T00:00:00.000Z",
+    "match_id": 1652022929,
+    "duration (seconds)": 2913,
+    "match_patch": "(1652022929,6.84)",
+    "Radiant Team": "TwentyTwo",
+    "radiant_score": 0,
+    "Dire Team": "Too Fast Too Furion",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-07-22T00:00:00.000Z",
+    "match_id": 1652284931,
+    "duration (seconds)": 3919,
+    "match_patch": "(1652284931,6.84)",
+    "Radiant Team": "Newbee.Young",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-07-22T00:00:00.000Z",
+    "match_id": 1652513929,
+    "duration (seconds)": 2274,
+    "match_patch": "(1652513929,6.84)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Newbee.Young",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-07-22T00:00:00.000Z",
+    "match_id": 1653473309,
+    "duration (seconds)": 2779,
+    "match_patch": "(1653473309,6.84)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-07-22T00:00:00.000Z",
+    "match_id": 1653533815,
+    "duration (seconds)": 2953,
+    "match_patch": "(1653533815,6.84)",
+    "Radiant Team": "Venezuela Style",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-07-22T00:00:00.000Z",
+    "match_id": 1653590526,
+    "duration (seconds)": 2935,
+    "match_patch": "(1653590526,6.84)",
+    "Radiant Team": "RealG4LifeBby",
+    "radiant_score": 0,
+    "Dire Team": "Cool Kids",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

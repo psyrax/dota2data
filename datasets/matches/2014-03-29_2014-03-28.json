@@ -1,0 +1,112 @@
+[
+  {
+    "date": "2014-03-28T00:00:00.000Z",
+    "match_id": 583176652,
+    "duration (seconds)": 2807,
+    "match_patch": "(583176652,6.80)",
+    "Radiant Team": "LGD-GAMING",
+    "radiant_score": 0,
+    "Dire Team": "Invictus Gaming",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-03-28T00:00:00.000Z",
+    "match_id": 583274274,
+    "duration (seconds)": 1777,
+    "match_patch": "(583274274,6.80)",
+    "Radiant Team": "Invictus Gaming",
+    "radiant_score": 0,
+    "Dire Team": "LGD-GAMING",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-03-28T00:00:00.000Z",
+    "match_id": 583356629,
+    "duration (seconds)": 3185,
+    "match_patch": "(583356629,6.80)",
+    "Radiant Team": "LGD-GAMING",
+    "radiant_score": 0,
+    "Dire Team": "Invictus Gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-03-28T00:00:00.000Z",
+    "match_id": 583505883,
+    "duration (seconds)": 1893,
+    "match_patch": "(583505883,6.80)",
+    "Radiant Team": "Invictus Gaming",
+    "radiant_score": 0,
+    "Dire Team": "LGD-GAMING",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-03-28T00:00:00.000Z",
+    "match_id": 583565328,
+    "duration (seconds)": 2839,
+    "match_patch": "(583565328,6.80)",
+    "Radiant Team": "Mineski.亿鼎博",
+    "radiant_score": 0,
+    "Dire Team": "Orange Esports Dota",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-03-28T00:00:00.000Z",
+    "match_id": 583914336,
+    "duration (seconds)": 1064,
+    "match_patch": "(583914336,6.80)",
+    "Radiant Team": "SIGMA.int",
+    "radiant_score": 0,
+    "Dire Team": "xGame.kz",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-03-28T00:00:00.000Z",
+    "match_id": 583966367,
+    "duration (seconds)": 1106,
+    "match_patch": "(583966367,6.80)",
+    "Radiant Team": "xGame.kz",
+    "radiant_score": 0,
+    "Dire Team": "SIGMA.int",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-03-28T00:00:00.000Z",
+    "match_id": 584072133,
+    "duration (seconds)": 794,
+    "match_patch": "(584072133,6.80)",
+    "Radiant Team": "Team Liquid",
+    "radiant_score": 0,
+    "Dire Team": "Evil Geniuses",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-03-28T00:00:00.000Z",
+    "match_id": 584106752,
+    "duration (seconds)": 1502,
+    "match_patch": "(584106752,6.80)",
+    "Radiant Team": "Evil Geniuses",
+    "radiant_score": 0,
+    "Dire Team": "Team Liquid",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-03-28T00:00:00.000Z",
+    "match_id": 584148650,
+    "duration (seconds)": 1328,
+    "match_patch": "(584148650,6.80)",
+    "Radiant Team": "Team Liquid",
+    "radiant_score": 0,
+    "Dire Team": "Evil Geniuses",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

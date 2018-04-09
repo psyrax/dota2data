@@ -1,0 +1,200 @@
+[
+  {
+    "date": "2015-07-26T00:00:00.000Z",
+    "match_id": 1661318525,
+    "duration (seconds)": 2055,
+    "match_patch": "(1661318525,6.84)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Farm For Fame.",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-07-26T00:00:00.000Z",
+    "match_id": 1661372586,
+    "duration (seconds)": 2211,
+    "match_patch": "(1661372586,6.84)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-07-26T00:00:00.000Z",
+    "match_id": 1662233394,
+    "duration (seconds)": 1474,
+    "match_patch": "(1662233394,6.84)",
+    "Radiant Team": "too eazy peazy",
+    "radiant_score": 0,
+    "Dire Team": "Eniquity Katka",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-07-26T00:00:00.000Z",
+    "match_id": 1662342350,
+    "duration (seconds)": 1978,
+    "match_patch": "(1662342350,6.84)",
+    "Radiant Team": "Eniquity Katka",
+    "radiant_score": 0,
+    "Dire Team": "too eazy peazy",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-07-26T00:00:00.000Z",
+    "match_id": 1662456059,
+    "duration (seconds)": 2244,
+    "match_patch": "(1662456059,6.84)",
+    "Radiant Team": "too eazy peazy",
+    "radiant_score": 0,
+    "Dire Team": "Eniquity Katka",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-07-26T00:00:00.000Z",
+    "match_id": 1662583533,
+    "duration (seconds)": 3038,
+    "match_patch": "(1662583533,6.84)",
+    "Radiant Team": "Eniquity Katka",
+    "radiant_score": 0,
+    "Dire Team": "too eazy peazy",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-07-26T00:00:00.000Z",
+    "match_id": 1662798042,
+    "duration (seconds)": 3538,
+    "match_patch": "(1662798042,6.84)",
+    "Radiant Team": "too eazy peazy",
+    "radiant_score": 0,
+    "Dire Team": "Eniquity Katka",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-07-26T00:00:00.000Z",
+    "match_id": 1663433339,
+    "duration (seconds)": 2441,
+    "match_patch": "(1663433339,6.84)",
+    "Radiant Team": "_---_",
+    "radiant_score": 0,
+    "Dire Team": "Hazzard Reborn",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-07-26T00:00:00.000Z",
+    "match_id": 1663534503,
+    "duration (seconds)": 1971,
+    "match_patch": "(1663534503,6.84)",
+    "Radiant Team": "Hazzard Reborn",
+    "radiant_score": 0,
+    "Dire Team": "_---_",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-07-26T00:00:00.000Z",
+    "match_id": 1663617180,
+    "duration (seconds)": 1476,
+    "match_patch": "(1663617180,6.84)",
+    "Radiant Team": "_---_",
+    "radiant_score": 0,
+    "Dire Team": "Hazzard Reborn",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-07-26T00:00:00.000Z",
+    "match_id": 1663723855,
+    "duration (seconds)": 2664,
+    "match_patch": "(1663723855,6.84)",
+    "Radiant Team": "Hazzard Reborn",
+    "radiant_score": 0,
+    "Dire Team": "_---_",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-07-26T00:00:00.000Z",
+    "match_id": 1663741133,
+    "duration (seconds)": 2017,
+    "match_patch": "(1663741133,6.84)",
+    "Radiant Team": "Bleyd",
+    "radiant_score": 0,
+    "Dire Team": "Super Trash Brothers",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-07-26T00:00:00.000Z",
+    "match_id": 1663749703,
+    "duration (seconds)": 1513,
+    "match_patch": "(1663749703,6.84)",
+    "Radiant Team": "Thunder Awaken PE",
+    "radiant_score": 0,
+    "Dire Team": "War Is the AnsWeaR",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-07-26T00:00:00.000Z",
+    "match_id": 1663812008,
+    "duration (seconds)": 2569,
+    "match_patch": "(1663812008,6.84)",
+    "Radiant Team": "Super Trash Brothers",
+    "radiant_score": 0,
+    "Dire Team": "Bleyd",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-07-26T00:00:00.000Z",
+    "match_id": 1663816635,
+    "duration (seconds)": 3223,
+    "match_patch": "(1663816635,6.84)",
+    "Radiant Team": "_---_",
+    "radiant_score": 0,
+    "Dire Team": "Hazzard Reborn",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-07-26T00:00:00.000Z",
+    "match_id": 1663877083,
+    "duration (seconds)": 1649,
+    "match_patch": "(1663877083,6.84)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Throwing Pains",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-07-26T00:00:00.000Z",
+    "match_id": 1663878423,
+    "duration (seconds)": 3463,
+    "match_patch": "(1663878423,6.84)",
+    "Radiant Team": "Bleyd",
+    "radiant_score": 0,
+    "Dire Team": "Super Trash Brothers",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-07-26T00:00:00.000Z",
+    "match_id": 1663924309,
+    "duration (seconds)": 2387,
+    "match_patch": "(1663924309,6.84)",
+    "Radiant Team": "Throwing Pains",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

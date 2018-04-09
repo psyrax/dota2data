@@ -1,0 +1,101 @@
+[
+  {
+    "date": "2013-04-11T00:00:00.000Z",
+    "match_id": 170277787,
+    "duration (seconds)": 1722,
+    "match_patch": "(170277787,6.77)",
+    "Radiant Team": "Team Liquid",
+    "radiant_score": 0,
+    "Dire Team": "Team Dignitas",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-04-11T00:00:00.000Z",
+    "match_id": 170512028,
+    "duration (seconds)": 3400,
+    "match_patch": "(170512028,6.77)",
+    "Radiant Team": "Zenith",
+    "radiant_score": 0,
+    "Dire Team": "DK",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-04-11T00:00:00.000Z",
+    "match_id": 170576604,
+    "duration (seconds)": 2277,
+    "match_patch": "(170576604,6.77)",
+    "Radiant Team": "DK",
+    "radiant_score": 0,
+    "Dire Team": "Zenith",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-04-11T00:00:00.000Z",
+    "match_id": 170670101,
+    "duration (seconds)": 2986,
+    "match_patch": "(170670101,6.77)",
+    "Radiant Team": "QPAD Red Pandas",
+    "radiant_score": 0,
+    "Dire Team": "Fnatic",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-04-11T00:00:00.000Z",
+    "match_id": 170730920,
+    "duration (seconds)": 1017,
+    "match_patch": "(170730920,6.77)",
+    "Radiant Team": "Fnatic",
+    "radiant_score": 0,
+    "Dire Team": "QPAD Red Pandas",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-04-11T00:00:00.000Z",
+    "match_id": 170758610,
+    "duration (seconds)": 1672,
+    "match_patch": "(170758610,6.77)",
+    "Radiant Team": "QPAD Red Pandas",
+    "radiant_score": 0,
+    "Dire Team": "Fnatic",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-04-11T00:00:00.000Z",
+    "match_id": 170816424,
+    "duration (seconds)": 2422,
+    "match_patch": "(170816424,6.77)",
+    "Radiant Team": "Team Empire",
+    "radiant_score": 0,
+    "Dire Team": "Team Dignitas",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-04-11T00:00:00.000Z",
+    "match_id": 170865612,
+    "duration (seconds)": 1809,
+    "match_patch": "(170865612,6.77)",
+    "Radiant Team": "Team Dignitas",
+    "radiant_score": 0,
+    "Dire Team": "Team Empire",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-04-11T00:00:00.000Z",
+    "match_id": 170901445,
+    "duration (seconds)": 1734,
+    "match_patch": "(170901445,6.77)",
+    "Radiant Team": "Team Empire",
+    "radiant_score": 0,
+    "Dire Team": "Team Dignitas",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

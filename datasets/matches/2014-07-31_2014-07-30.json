@@ -1,0 +1,112 @@
+[
+  {
+    "date": "2014-07-30T00:00:00.000Z",
+    "match_id": 805770232,
+    "duration (seconds)": 1069,
+    "match_patch": "(805770232,6.81)",
+    "Radiant Team": "ROOT-gaming.com",
+    "radiant_score": 0,
+    "Dire Team": "Literally Gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-07-30T00:00:00.000Z",
+    "match_id": 805796631,
+    "duration (seconds)": 890,
+    "match_patch": "(805796631,6.81)",
+    "Radiant Team": "Literally Gaming",
+    "radiant_score": 0,
+    "Dire Team": "ROOT-gaming.com",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-07-30T00:00:00.000Z",
+    "match_id": 805879792,
+    "duration (seconds)": 2595,
+    "match_patch": "(805879792,6.81)",
+    "Radiant Team": "#teamDOPE",
+    "radiant_score": 0,
+    "Dire Team": "euph",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-07-30T00:00:00.000Z",
+    "match_id": 805891314,
+    "duration (seconds)": 3585,
+    "match_patch": "(805891314,6.81)",
+    "Radiant Team": "iDota Gaming-",
+    "radiant_score": 0,
+    "Dire Team": "Death By SnooSnoo:)",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-07-30T00:00:00.000Z",
+    "match_id": 805937635,
+    "duration (seconds)": 1090,
+    "match_patch": "(805937635,6.81)",
+    "Radiant Team": "#teamDOPE",
+    "radiant_score": 0,
+    "Dire Team": "euph",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-07-30T00:00:00.000Z",
+    "match_id": 805956687,
+    "duration (seconds)": 2954,
+    "match_patch": "(805956687,6.81)",
+    "Radiant Team": "Death By SnooSnoo:)",
+    "radiant_score": 0,
+    "Dire Team": "iDota Gaming-",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-07-30T00:00:00.000Z",
+    "match_id": 807176757,
+    "duration (seconds)": 1782,
+    "match_patch": "(807176757,6.81)",
+    "Radiant Team": "Natus Vincere US",
+    "radiant_score": 0,
+    "Dire Team": "Not Today",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-07-30T00:00:00.000Z",
+    "match_id": 807259104,
+    "duration (seconds)": 2339,
+    "match_patch": "(807259104,6.81)",
+    "Radiant Team": "Not Today",
+    "radiant_score": 0,
+    "Dire Team": "Natus Vincere US",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-07-30T00:00:00.000Z",
+    "match_id": 807348915,
+    "duration (seconds)": 738,
+    "match_patch": "(807348915,6.81)",
+    "Radiant Team": "Natus Vincere US",
+    "radiant_score": 0,
+    "Dire Team": "Not Today",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-07-30T00:00:00.000Z",
+    "match_id": 807658280,
+    "duration (seconds)": 2725,
+    "match_patch": "(807658280,6.81)",
+    "Radiant Team": "Flower Boys",
+    "radiant_score": 0,
+    "Dire Team": "Tengen Gaming",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

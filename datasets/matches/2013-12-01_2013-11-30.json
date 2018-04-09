@@ -1,0 +1,222 @@
+[
+  {
+    "date": "2013-11-30T00:00:00.000Z",
+    "match_id": 404317839,
+    "duration (seconds)": 2888,
+    "match_patch": "(404317839,6.79)",
+    "Radiant Team": "EoT Gaming Hammer Team",
+    "radiant_score": 0,
+    "Dire Team": "Virtual Throne Gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-11-30T00:00:00.000Z",
+    "match_id": 404364255,
+    "duration (seconds)": 1948,
+    "match_patch": "(404364255,6.79)",
+    "Radiant Team": "Virtual Throne Gaming",
+    "radiant_score": 0,
+    "Dire Team": "EoT Gaming Hammer Team",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-11-30T00:00:00.000Z",
+    "match_id": 404420813,
+    "duration (seconds)": 2060,
+    "match_patch": "(404420813,6.79)",
+    "Radiant Team": "MVP HOTSIX",
+    "radiant_score": 0,
+    "Dire Team": "Nonstop Dominate",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-11-30T00:00:00.000Z",
+    "match_id": 404476730,
+    "duration (seconds)": 1201,
+    "match_patch": "(404476730,6.79)",
+    "Radiant Team": "Nonstop Dominate",
+    "radiant_score": 0,
+    "Dire Team": "MVP HOTSIX",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-11-30T00:00:00.000Z",
+    "match_id": 404635835,
+    "duration (seconds)": 1828,
+    "match_patch": "(404635835,6.79)",
+    "Radiant Team": "Hans Reborn",
+    "radiant_score": 0,
+    "Dire Team": "SYF Gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-11-30T00:00:00.000Z",
+    "match_id": 404686396,
+    "duration (seconds)": 1871,
+    "match_patch": "(404686396,6.79)",
+    "Radiant Team": "Invictus Gaming",
+    "radiant_score": 0,
+    "Dire Team": "LGD-GAMING",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-11-30T00:00:00.000Z",
+    "match_id": 404744189,
+    "duration (seconds)": 2013,
+    "match_patch": "(404744189,6.79)",
+    "Radiant Team": "LGD-GAMING",
+    "radiant_score": 0,
+    "Dire Team": "Invictus Gaming",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-11-30T00:00:00.000Z",
+    "match_id": 404759489,
+    "duration (seconds)": 1526,
+    "match_patch": "(404759489,6.79)",
+    "Radiant Team": "Alliance",
+    "radiant_score": 0,
+    "Dire Team": "Natus Vincere",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-11-30T00:00:00.000Z",
+    "match_id": 404769825,
+    "duration (seconds)": 2455,
+    "match_patch": "(404769825,6.79)",
+    "Radiant Team": "Team Impervious",
+    "radiant_score": 0,
+    "Dire Team": "First Departure",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-11-30T00:00:00.000Z",
+    "match_id": 404807944,
+    "duration (seconds)": 973,
+    "match_patch": "(404807944,6.79)",
+    "Radiant Team": "Invictus Gaming",
+    "radiant_score": 0,
+    "Dire Team": "LGD-GAMING",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-11-30T00:00:00.000Z",
+    "match_id": 404832490,
+    "duration (seconds)": 1596,
+    "match_patch": "(404832490,6.79)",
+    "Radiant Team": "Natus Vincere",
+    "radiant_score": 0,
+    "Dire Team": "Alliance",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-11-30T00:00:00.000Z",
+    "match_id": 404854747,
+    "duration (seconds)": 3261,
+    "match_patch": "(404854747,6.79)",
+    "Radiant Team": "First Departure",
+    "radiant_score": 0,
+    "Dire Team": "Team Impervious",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-11-30T00:00:00.000Z",
+    "match_id": 404857465,
+    "duration (seconds)": 1015,
+    "match_patch": "(404857465,6.79)",
+    "Radiant Team": "LGD-GAMING.int",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-11-30T00:00:00.000Z",
+    "match_id": 404918131,
+    "duration (seconds)": 3396,
+    "match_patch": "(404918131,6.79)",
+    "Radiant Team": "Alliance",
+    "radiant_score": 0,
+    "Dire Team": "Natus Vincere",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-11-30T00:00:00.000Z",
+    "match_id": 405163089,
+    "duration (seconds)": 2431,
+    "match_patch": "(405163089,6.79)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Team Empire",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-11-30T00:00:00.000Z",
+    "match_id": 405227100,
+    "duration (seconds)": 2706,
+    "match_patch": "(405227100,6.79)",
+    "Radiant Team": "Team Empire",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-11-30T00:00:00.000Z",
+    "match_id": 405244270,
+    "duration (seconds)": 2258,
+    "match_patch": "(405244270,6.79)",
+    "Radiant Team": "Fnatic",
+    "radiant_score": 0,
+    "Dire Team": "Natus Vincere",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-11-30T00:00:00.000Z",
+    "match_id": 405315167,
+    "duration (seconds)": 1243,
+    "match_patch": "(405315167,6.79)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Team Empire",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-11-30T00:00:00.000Z",
+    "match_id": 405320803,
+    "duration (seconds)": 1542,
+    "match_patch": "(405320803,6.79)",
+    "Radiant Team": "Natus Vincere",
+    "radiant_score": 0,
+    "Dire Team": "Fnatic",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-11-30T00:00:00.000Z",
+    "match_id": 405383412,
+    "duration (seconds)": 1048,
+    "match_patch": "(405383412,6.79)",
+    "Radiant Team": "Fnatic",
+    "radiant_score": 0,
+    "Dire Team": "Natus Vincere",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

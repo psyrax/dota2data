@@ -1,0 +1,167 @@
+[
+  {
+    "date": "2016-01-24T00:00:00.000Z",
+    "match_id": 2100420654,
+    "duration (seconds)": 2765,
+    "match_patch": "(2100420654,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Kawaii Desu NEE",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-01-24T00:00:00.000Z",
+    "match_id": 2100484098,
+    "duration (seconds)": 1414,
+    "match_patch": "(2100484098,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Leviathan'",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-01-24T00:00:00.000Z",
+    "match_id": 2100535117,
+    "duration (seconds)": 1992,
+    "match_patch": "(2100535117,6.86)",
+    "Radiant Team": "Leviathan'",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-01-24T00:00:00.000Z",
+    "match_id": 2100605526,
+    "duration (seconds)": 2439,
+    "match_patch": "(2100605526,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Leviathan'",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-01-24T00:00:00.000Z",
+    "match_id": 2100691498,
+    "duration (seconds)": 1408,
+    "match_patch": "(2100691498,6.86)",
+    "Radiant Team": "Leviathan'",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-01-24T00:00:00.000Z",
+    "match_id": 2102167926,
+    "duration (seconds)": 2432,
+    "match_patch": "(2102167926,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-01-24T00:00:00.000Z",
+    "match_id": 2102185922,
+    "duration (seconds)": 1535,
+    "match_patch": "(2102185922,6.86)",
+    "Radiant Team": "TeamRomania",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-01-24T00:00:00.000Z",
+    "match_id": 2102297463,
+    "duration (seconds)": 2331,
+    "match_patch": "(2102297463,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Team Romania Nations Cup",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-01-24T00:00:00.000Z",
+    "match_id": 2102310435,
+    "duration (seconds)": 2118,
+    "match_patch": "(2102310435,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-01-24T00:00:00.000Z",
+    "match_id": 2102424101,
+    "duration (seconds)": 1300,
+    "match_patch": "(2102424101,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Team Romania Nations Cup",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-01-24T00:00:00.000Z",
+    "match_id": 2102551244,
+    "duration (seconds)": 2095,
+    "match_patch": "(2102551244,6.86)",
+    "Radiant Team": "Burden United",
+    "radiant_score": 0,
+    "Dire Team": "Yellow Submarine!",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-01-24T00:00:00.000Z",
+    "match_id": 2102679803,
+    "duration (seconds)": 1686,
+    "match_patch": "(2102679803,6.86)",
+    "Radiant Team": "Yellow Submarine!",
+    "radiant_score": 0,
+    "Dire Team": "Burden United",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-01-24T00:00:00.000Z",
+    "match_id": 2102764426,
+    "duration (seconds)": 1755,
+    "match_patch": "(2102764426,6.86)",
+    "Radiant Team": "Yellow Submarine!",
+    "radiant_score": 0,
+    "Dire Team": "Burden United",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-01-24T00:00:00.000Z",
+    "match_id": 2102840567,
+    "duration (seconds)": 862,
+    "match_patch": "(2102840567,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "TongFu North America",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-01-24T00:00:00.000Z",
+    "match_id": 2102891774,
+    "duration (seconds)": 2435,
+    "match_patch": "(2102891774,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "TongFu North America",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

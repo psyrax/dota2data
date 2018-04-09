@@ -1,0 +1,156 @@
+[
+  {
+    "date": "2014-03-18T00:00:00.000Z",
+    "match_id": 567192668,
+    "duration (seconds)": 2106,
+    "match_patch": "(567192668,6.80)",
+    "Radiant Team": "2 chuanz",
+    "radiant_score": 0,
+    "Dire Team": "timetoKill.",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-03-18T00:00:00.000Z",
+    "match_id": 567193968,
+    "duration (seconds)": 2602,
+    "match_patch": "(567193968,6.80)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "CNB HyperX",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-03-18T00:00:00.000Z",
+    "match_id": 567223823,
+    "duration (seconds)": 2320,
+    "match_patch": "(567223823,6.80)",
+    "Radiant Team": "CNB HyperX",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-03-18T00:00:00.000Z",
+    "match_id": 567223938,
+    "duration (seconds)": 3014,
+    "match_patch": "(567223938,6.80)",
+    "Radiant Team": "timetoKill.",
+    "radiant_score": 0,
+    "Dire Team": "2 chuanz",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-03-18T00:00:00.000Z",
+    "match_id": 567255883,
+    "duration (seconds)": 1884,
+    "match_patch": "(567255883,6.80)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "CNB HyperX",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-03-18T00:00:00.000Z",
+    "match_id": 567262498,
+    "duration (seconds)": 3333,
+    "match_patch": "(567262498,6.80)",
+    "Radiant Team": "2 chuanz",
+    "radiant_score": 0,
+    "Dire Team": "timetoKill.",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-03-18T00:00:00.000Z",
+    "match_id": 567830956,
+    "duration (seconds)": 1562,
+    "match_patch": "(567830956,6.80)",
+    "Radiant Team": "First Departure",
+    "radiant_score": 0,
+    "Dire Team": "Rex Regum QEON",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-03-18T00:00:00.000Z",
+    "match_id": 567903896,
+    "duration (seconds)": 3125,
+    "match_patch": "(567903896,6.80)",
+    "Radiant Team": "Rex Regum QEON",
+    "radiant_score": 0,
+    "Dire Team": "First Departure",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-03-18T00:00:00.000Z",
+    "match_id": 568234133,
+    "duration (seconds)": 1971,
+    "match_patch": "(568234133,6.80)",
+    "Radiant Team": "Fnatic",
+    "radiant_score": 0,
+    "Dire Team": "_PowerRangers",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-03-18T00:00:00.000Z",
+    "match_id": 568302716,
+    "duration (seconds)": 2370,
+    "match_patch": "(568302716,6.80)",
+    "Radiant Team": "_PowerRangers",
+    "radiant_score": 0,
+    "Dire Team": "Fnatic",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-03-18T00:00:00.000Z",
+    "match_id": 568305182,
+    "duration (seconds)": 2152,
+    "match_patch": "(568305182,6.80)",
+    "Radiant Team": "TeamCoast",
+    "radiant_score": 0,
+    "Dire Team": "TheRerereTRY",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-03-18T00:00:00.000Z",
+    "match_id": 568351054,
+    "duration (seconds)": 2703,
+    "match_patch": "(568351054,6.80)",
+    "Radiant Team": "TheRerereTRY",
+    "radiant_score": 0,
+    "Dire Team": "TeamCoast",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-03-18T00:00:00.000Z",
+    "match_id": 568360341,
+    "duration (seconds)": 4199,
+    "match_patch": "(568360341,6.80)",
+    "Radiant Team": "Radical Online X-tremists",
+    "radiant_score": 0,
+    "Dire Team": "_PowerRangers",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-03-18T00:00:00.000Z",
+    "match_id": 568438635,
+    "duration (seconds)": 2482,
+    "match_patch": "(568438635,6.80)",
+    "Radiant Team": "_PowerRangers",
+    "radiant_score": 0,
+    "Dire Team": "Radical Online X-tremists",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

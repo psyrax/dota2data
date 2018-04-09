@@ -1,0 +1,145 @@
+[
+  {
+    "date": "2015-05-27T00:00:00.000Z",
+    "match_id": 1504150574,
+    "duration (seconds)": 1546,
+    "match_patch": "(1504150574,6.84)",
+    "Radiant Team": "Ab.Madness",
+    "radiant_score": 0,
+    "Dire Team": "DeaD men's",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-05-27T00:00:00.000Z",
+    "match_id": 1505142466,
+    "duration (seconds)": 2710,
+    "match_patch": "(1505142466,6.84)",
+    "Radiant Team": "TrackMate.TRIC",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-05-27T00:00:00.000Z",
+    "match_id": 1505290206,
+    "duration (seconds)": 1262,
+    "match_patch": "(1505290206,6.84)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "TrackMate.TRIC",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-05-27T00:00:00.000Z",
+    "match_id": 1505630854,
+    "duration (seconds)": 2563,
+    "match_patch": "(1505630854,6.84)",
+    "Radiant Team": "TELL WHY_ANIME?",
+    "radiant_score": 0,
+    "Dire Team": "LEGIO VICTRIX !",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-05-27T00:00:00.000Z",
+    "match_id": 1505846341,
+    "duration (seconds)": 1701,
+    "match_patch": "(1505846341,6.84)",
+    "Radiant Team": "LEGIO VICTRIX !",
+    "radiant_score": 0,
+    "Dire Team": "TELL WHY_ANIME?",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-05-27T00:00:00.000Z",
+    "match_id": 1506047261,
+    "duration (seconds)": 1910,
+    "match_patch": "(1506047261,6.84)",
+    "Radiant Team": "London Conspiracy Dota2",
+    "radiant_score": 0,
+    "Dire Team": "_PowerRangers",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-05-27T00:00:00.000Z",
+    "match_id": 1506052961,
+    "duration (seconds)": 1436,
+    "match_patch": "(1506052961,6.84)",
+    "Radiant Team": "LEGIO VICTRIX !",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-05-27T00:00:00.000Z",
+    "match_id": 1506144800,
+    "duration (seconds)": 2511,
+    "match_patch": "(1506144800,6.84)",
+    "Radiant Team": "_PowerRangers",
+    "radiant_score": 0,
+    "Dire Team": "London Conspiracy Dota2",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-05-27T00:00:00.000Z",
+    "match_id": 1506193516,
+    "duration (seconds)": 2328,
+    "match_patch": "(1506193516,6.84)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "LEGIO VICTRIX !",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-05-27T00:00:00.000Z",
+    "match_id": 1506250951,
+    "duration (seconds)": 2195,
+    "match_patch": "(1506250951,6.84)",
+    "Radiant Team": "London Conspiracy Dota2",
+    "radiant_score": 0,
+    "Dire Team": "_PowerRangers",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-05-27T00:00:00.000Z",
+    "match_id": 1506281075,
+    "duration (seconds)": 4291,
+    "match_patch": "(1506281075,6.84)",
+    "Radiant Team": "LEGIO VICTRIX !",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-05-27T00:00:00.000Z",
+    "match_id": 1506419696,
+    "duration (seconds)": 1601,
+    "match_patch": "(1506419696,6.84)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "LEGIO VICTRIX !",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-05-27T00:00:00.000Z",
+    "match_id": 1506470992,
+    "duration (seconds)": 1778,
+    "match_patch": "(1506470992,6.84)",
+    "Radiant Team": "LEGIO VICTRIX !",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

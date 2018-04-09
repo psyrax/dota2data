@@ -1,0 +1,112 @@
+[
+  {
+    "date": "2015-07-27T00:00:00.000Z",
+    "match_id": 1663950917,
+    "duration (seconds)": 2130,
+    "match_patch": "(1663950917,6.84)",
+    "Radiant Team": "TODOPORELPOD",
+    "radiant_score": 0,
+    "Dire Team": "Dinasty Gaming PE",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-07-27T00:00:00.000Z",
+    "match_id": 1663957111,
+    "duration (seconds)": 2908,
+    "match_patch": "(1663957111,6.84)",
+    "Radiant Team": "Newbee Sports Dota 2",
+    "radiant_score": 0,
+    "Dire Team": "Eternal Energy",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-07-27T00:00:00.000Z",
+    "match_id": 1663957737,
+    "duration (seconds)": 3432,
+    "match_patch": "(1663957737,6.84)",
+    "Radiant Team": "Super Trash Brothers",
+    "radiant_score": 0,
+    "Dire Team": "Bleyd",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-07-27T00:00:00.000Z",
+    "match_id": 1663986219,
+    "duration (seconds)": 1659,
+    "match_patch": "(1663986219,6.84)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Throwing Pains",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-07-27T00:00:00.000Z",
+    "match_id": 1663999244,
+    "duration (seconds)": 1695,
+    "match_patch": "(1663999244,6.84)",
+    "Radiant Team": "Dinasty Gaming PE",
+    "radiant_score": 0,
+    "Dire Team": "TODOPORELPOD",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-07-27T00:00:00.000Z",
+    "match_id": 1664022196,
+    "duration (seconds)": 2074,
+    "match_patch": "(1664022196,6.84)",
+    "Radiant Team": "Eternal Energy",
+    "radiant_score": 0,
+    "Dire Team": "Team gondor.",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-07-27T00:00:00.000Z",
+    "match_id": 1664054219,
+    "duration (seconds)": 2985,
+    "match_patch": "(1664054219,6.84)",
+    "Radiant Team": "TODOPORELPOD",
+    "radiant_score": 0,
+    "Dire Team": "Dinasty Gaming PE",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-07-27T00:00:00.000Z",
+    "match_id": 1664137540,
+    "duration (seconds)": 3431,
+    "match_patch": "(1664137540,6.84)",
+    "Radiant Team": "Dinasty Gaming PE",
+    "radiant_score": 0,
+    "Dire Team": "TODOPORELPOD",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-07-27T00:00:00.000Z",
+    "match_id": 1665587993,
+    "duration (seconds)": 2730,
+    "match_patch": "(1665587993,6.84)",
+    "Radiant Team": "ultra trajharderi",
+    "radiant_score": 0,
+    "Dire Team": "Fever Dota",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-07-27T00:00:00.000Z",
+    "match_id": 1666231802,
+    "duration (seconds)": 1638,
+    "match_patch": "(1666231802,6.84)",
+    "Radiant Team": "Newbee Sports Dota 2",
+    "radiant_score": 0,
+    "Dire Team": "Team gondor.",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

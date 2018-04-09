@@ -1,0 +1,145 @@
+[
+  {
+    "date": "2015-12-08T00:00:00.000Z",
+    "match_id": 1987276632,
+    "duration (seconds)": 971,
+    "match_patch": "(1987276632,6.85)",
+    "Radiant Team": "Recall E-Sports 2.0",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-12-08T00:00:00.000Z",
+    "match_id": 1987304367,
+    "duration (seconds)": 2369,
+    "match_patch": "(1987304367,6.85)",
+    "Radiant Team": "Leviathan'",
+    "radiant_score": 0,
+    "Dire Team": "paiN Gaming",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-12-08T00:00:00.000Z",
+    "match_id": 1987318053,
+    "duration (seconds)": 1351,
+    "match_patch": "(1987318053,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Recall E-Sports 2.0",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-12-08T00:00:00.000Z",
+    "match_id": 1988290052,
+    "duration (seconds)": 1560,
+    "match_patch": "(1988290052,6.85)",
+    "Radiant Team": "GazaK-GiziK",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-12-08T00:00:00.000Z",
+    "match_id": 1988418351,
+    "duration (seconds)": 1173,
+    "match_patch": "(1988418351,6.85)",
+    "Radiant Team": "Brother never Gank",
+    "radiant_score": 0,
+    "Dire Team": "The X-Boy",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-12-08T00:00:00.000Z",
+    "match_id": 1988444126,
+    "duration (seconds)": 2705,
+    "match_patch": "(1988444126,6.85)",
+    "Radiant Team": "Benedizone",
+    "radiant_score": 0,
+    "Dire Team": "Bibir Iwet Gaming Esport",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-12-08T00:00:00.000Z",
+    "match_id": 1988776788,
+    "duration (seconds)": 2516,
+    "match_patch": "(1988776788,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-12-08T00:00:00.000Z",
+    "match_id": 1988907411,
+    "duration (seconds)": 2022,
+    "match_patch": "(1988907411,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-12-08T00:00:00.000Z",
+    "match_id": 1988981733,
+    "duration (seconds)": 2455,
+    "match_patch": "(1988981733,6.85)",
+    "Radiant Team": "London Conspiracy Dota2",
+    "radiant_score": 0,
+    "Dire Team": "HellRaisers",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-12-08T00:00:00.000Z",
+    "match_id": 1989003983,
+    "duration (seconds)": 1317,
+    "match_patch": "(1989003983,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-12-08T00:00:00.000Z",
+    "match_id": 1989039776,
+    "duration (seconds)": 2183,
+    "match_patch": "(1989039776,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-12-08T00:00:00.000Z",
+    "match_id": 1989131709,
+    "duration (seconds)": 3410,
+    "match_patch": "(1989131709,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-12-08T00:00:00.000Z",
+    "match_id": 1989243997,
+    "duration (seconds)": 2515,
+    "match_patch": "(1989243997,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

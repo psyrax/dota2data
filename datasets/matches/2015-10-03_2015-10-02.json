@@ -1,0 +1,90 @@
+[
+  {
+    "date": "2015-10-02T00:00:00.000Z",
+    "match_id": 1835586044,
+    "duration (seconds)": 1320,
+    "match_patch": "(1835586044,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "LUCCINI GAM1NG",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-10-02T00:00:00.000Z",
+    "match_id": 1835632178,
+    "duration (seconds)": 3659,
+    "match_patch": "(1835632178,6.85)",
+    "Radiant Team": "LUCCINI GAM1NG",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-10-02T00:00:00.000Z",
+    "match_id": 1837862564,
+    "duration (seconds)": 2776,
+    "match_patch": "(1837862564,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-10-02T00:00:00.000Z",
+    "match_id": 1837882700,
+    "duration (seconds)": 2563,
+    "match_patch": "(1837882700,6.85)",
+    "Radiant Team": "Noo Logic Gaming",
+    "radiant_score": 0,
+    "Dire Team": "$5JuNGz$",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-10-02T00:00:00.000Z",
+    "match_id": 1838015928,
+    "duration (seconds)": 1037,
+    "match_patch": "(1838015928,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-10-02T00:00:00.000Z",
+    "match_id": 1838021264,
+    "duration (seconds)": 1355,
+    "match_patch": "(1838021264,6.85)",
+    "Radiant Team": "$5JuNGz$",
+    "radiant_score": 0,
+    "Dire Team": "Noo Logic Gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-10-02T00:00:00.000Z",
+    "match_id": 1838139964,
+    "duration (seconds)": 2365,
+    "match_patch": "(1838139964,6.85)",
+    "Radiant Team": "UNKNOWN #####",
+    "radiant_score": 0,
+    "Dire Team": "Balrogs e-Sport",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-10-02T00:00:00.000Z",
+    "match_id": 1838230152,
+    "duration (seconds)": 1271,
+    "match_patch": "(1838230152,6.85)",
+    "Radiant Team": "Balrogs e-Sport",
+    "radiant_score": 0,
+    "Dire Team": "UNKNOWN #####",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

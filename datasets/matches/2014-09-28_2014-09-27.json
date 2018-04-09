@@ -1,0 +1,134 @@
+[
+  {
+    "date": "2014-09-27T00:00:00.000Z",
+    "match_id": 923116117,
+    "duration (seconds)": 2555,
+    "match_patch": "(923116117,6.82)",
+    "Radiant Team": "~Shadows of the Past~",
+    "radiant_score": 0,
+    "Dire Team": "Natus Vincere US",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-09-27T00:00:00.000Z",
+    "match_id": 923175051,
+    "duration (seconds)": 3031,
+    "match_patch": "(923175051,6.82)",
+    "Radiant Team": "Natus Vincere US",
+    "radiant_score": 0,
+    "Dire Team": "~Shadows of the Past~",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-09-27T00:00:00.000Z",
+    "match_id": 923255852,
+    "duration (seconds)": 1738,
+    "match_patch": "(923255852,6.82)",
+    "Radiant Team": "~Shadows of the Past~",
+    "radiant_score": 0,
+    "Dire Team": "Natus Vincere US",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-09-27T00:00:00.000Z",
+    "match_id": 923968661,
+    "duration (seconds)": 2149,
+    "match_patch": "(923968661,6.82)",
+    "Radiant Team": "big burden",
+    "radiant_score": 0,
+    "Dire Team": "No Kaer",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-09-27T00:00:00.000Z",
+    "match_id": 924093805,
+    "duration (seconds)": 1347,
+    "match_patch": "(924093805,6.82)",
+    "Radiant Team": "No Kaer",
+    "radiant_score": 0,
+    "Dire Team": "big burden",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-09-27T00:00:00.000Z",
+    "match_id": 924313813,
+    "duration (seconds)": 2853,
+    "match_patch": "(924313813,6.82)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "TOO FISH TOO FOOL",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-09-27T00:00:00.000Z",
+    "match_id": 924486806,
+    "duration (seconds)": 3061,
+    "match_patch": "(924486806,6.82)",
+    "Radiant Team": "TOO FISH TOO FOOL",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-09-27T00:00:00.000Z",
+    "match_id": 924819381,
+    "duration (seconds)": 2585,
+    "match_patch": "(924819381,6.82)",
+    "Radiant Team": "Duza Gaming.",
+    "radiant_score": 0,
+    "Dire Team": "sQreen's squad v2.0",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-09-27T00:00:00.000Z",
+    "match_id": 924966558,
+    "duration (seconds)": 2927,
+    "match_patch": "(924966558,6.82)",
+    "Radiant Team": "Balkan Bears Corleone",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-09-27T00:00:00.000Z",
+    "match_id": 924991456,
+    "duration (seconds)": 728,
+    "match_patch": "(924991456,6.82)",
+    "Radiant Team": "BUHLO RULIT",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-09-27T00:00:00.000Z",
+    "match_id": 925143661,
+    "duration (seconds)": 1714,
+    "match_patch": "(925143661,6.82)",
+    "Radiant Team": "#section80",
+    "radiant_score": 0,
+    "Dire Team": "NorthernLions",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-09-27T00:00:00.000Z",
+    "match_id": 925300269,
+    "duration (seconds)": 1487,
+    "match_patch": "(925300269,6.82)",
+    "Radiant Team": "Team-ASC",
+    "radiant_score": 0,
+    "Dire Team": "Moscow Five RUS",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

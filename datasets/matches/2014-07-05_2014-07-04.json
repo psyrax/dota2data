@@ -1,0 +1,101 @@
+[
+  {
+    "date": "2014-07-04T00:00:00.000Z",
+    "match_id": 756814090,
+    "duration (seconds)": 1586,
+    "match_patch": "(756814090,6.81)",
+    "Radiant Team": "CNB HyperX",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-07-04T00:00:00.000Z",
+    "match_id": 757479008,
+    "duration (seconds)": 2389,
+    "match_patch": "(757479008,6.81)",
+    "Radiant Team": "Imba Gaming Vietnam",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-07-04T00:00:00.000Z",
+    "match_id": 757612160,
+    "duration (seconds)": 2410,
+    "match_patch": "(757612160,6.81)",
+    "Radiant Team": "Invasion eSports",
+    "radiant_score": 0,
+    "Dire Team": "Titan",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-07-04T00:00:00.000Z",
+    "match_id": 757733266,
+    "duration (seconds)": 4231,
+    "match_patch": "(757733266,6.81)",
+    "Radiant Team": "Titan",
+    "radiant_score": 0,
+    "Dire Team": "Invasion eSports",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-07-04T00:00:00.000Z",
+    "match_id": 757878727,
+    "duration (seconds)": 3460,
+    "match_patch": "(757878727,6.81)",
+    "Radiant Team": "Osliki Gaming",
+    "radiant_score": 0,
+    "Dire Team": "GOOMBA Gamingg",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-07-04T00:00:00.000Z",
+    "match_id": 757884849,
+    "duration (seconds)": 892,
+    "match_patch": "(757884849,6.81)",
+    "Radiant Team": "UrsaStroitHramm",
+    "radiant_score": 0,
+    "Dire Team": "Turtlemasters",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-07-04T00:00:00.000Z",
+    "match_id": 757911460,
+    "duration (seconds)": 2401,
+    "match_patch": "(757911460,6.81)",
+    "Radiant Team": "Invasion eSports",
+    "radiant_score": 0,
+    "Dire Team": "Titan",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-07-04T00:00:00.000Z",
+    "match_id": 757944173,
+    "duration (seconds)": 1210,
+    "match_patch": "(757944173,6.81)",
+    "Radiant Team": "Turtlemasters",
+    "radiant_score": 0,
+    "Dire Team": "UrsaStroitHramm",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-07-04T00:00:00.000Z",
+    "match_id": 758016398,
+    "duration (seconds)": 2082,
+    "match_patch": "(758016398,6.81)",
+    "Radiant Team": "GOOMBA Gamingg",
+    "radiant_score": 0,
+    "Dire Team": "Osliki Gaming",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

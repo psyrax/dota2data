@@ -1,0 +1,90 @@
+[
+  {
+    "date": "2015-11-05T00:00:00.000Z",
+    "match_id": 1914914708,
+    "duration (seconds)": 2451,
+    "match_patch": "(1914914708,6.85)",
+    "Radiant Team": "Redencion Ec",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-11-05T00:00:00.000Z",
+    "match_id": 1914947618,
+    "duration (seconds)": 1252,
+    "match_patch": "(1914947618,6.85)",
+    "Radiant Team": "The Rainbow side",
+    "radiant_score": 0,
+    "Dire Team": "LUCCINI GAM1NG",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-11-05T00:00:00.000Z",
+    "match_id": 1915022062,
+    "duration (seconds)": 1999,
+    "match_patch": "(1915022062,6.85)",
+    "Radiant Team": "EkizX",
+    "radiant_score": 0,
+    "Dire Team": "eXtreme GamerZ CR",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-11-05T00:00:00.000Z",
+    "match_id": 1915807325,
+    "duration (seconds)": 1945,
+    "match_patch": "(1915807325,6.85)",
+    "Radiant Team": "Team Vanquisher",
+    "radiant_score": 0,
+    "Dire Team": "Zero Latitude",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-11-05T00:00:00.000Z",
+    "match_id": 1916463623,
+    "duration (seconds)": 1927,
+    "match_patch": "(1916463623,6.85)",
+    "Radiant Team": "Team Finland",
+    "radiant_score": 0,
+    "Dire Team": "Team Germany!",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-11-05T00:00:00.000Z",
+    "match_id": 1916555631,
+    "duration (seconds)": 2625,
+    "match_patch": "(1916555631,6.85)",
+    "Radiant Team": "Team Germany!",
+    "radiant_score": 0,
+    "Dire Team": "Team Finland",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-11-05T00:00:00.000Z",
+    "match_id": 1916659100,
+    "duration (seconds)": 2160,
+    "match_patch": "(1916659100,6.85)",
+    "Radiant Team": "G O L D E N B O Y S",
+    "radiant_score": 0,
+    "Dire Team": "HellRaisers",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-11-05T00:00:00.000Z",
+    "match_id": 1916750523,
+    "duration (seconds)": 1540,
+    "match_patch": "(1916750523,6.85)",
+    "Radiant Team": "HellRaisers",
+    "radiant_score": 0,
+    "Dire Team": "G O L D E N B O Y S",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

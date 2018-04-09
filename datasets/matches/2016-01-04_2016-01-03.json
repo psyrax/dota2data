@@ -1,0 +1,68 @@
+[
+  {
+    "date": "2016-01-03T00:00:00.000Z",
+    "match_id": 2050378506,
+    "duration (seconds)": 2212,
+    "match_patch": "(2050378506,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "LAN CENTER F&J -PRO",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-01-03T00:00:00.000Z",
+    "match_id": 2050432211,
+    "duration (seconds)": 1284,
+    "match_patch": "(2050432211,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-01-03T00:00:00.000Z",
+    "match_id": 2052521446,
+    "duration (seconds)": 1526,
+    "match_patch": "(2052521446,6.86)",
+    "Radiant Team": "Team. Spirit",
+    "radiant_score": 0,
+    "Dire Team": "Fantastic Five",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-01-03T00:00:00.000Z",
+    "match_id": 2052610024,
+    "duration (seconds)": 1448,
+    "match_patch": "(2052610024,6.86)",
+    "Radiant Team": "Fantastic Five",
+    "radiant_score": 0,
+    "Dire Team": "Team. Spirit",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-01-03T00:00:00.000Z",
+    "match_id": 2052676388,
+    "duration (seconds)": 1837,
+    "match_patch": "(2052676388,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-01-03T00:00:00.000Z",
+    "match_id": 2052748073,
+    "duration (seconds)": 2598,
+    "match_patch": "(2052748073,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

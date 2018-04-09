@@ -1,0 +1,101 @@
+[
+  {
+    "date": "2016-01-18T00:00:00.000Z",
+    "match_id": 2086513841,
+    "duration (seconds)": 2691,
+    "match_patch": "(2086513841,6.86)",
+    "Radiant Team": "\\/",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-01-18T00:00:00.000Z",
+    "match_id": 2086530541,
+    "duration (seconds)": 1820,
+    "match_patch": "(2086530541,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Jorge Solo Quiere Amigos",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-01-18T00:00:00.000Z",
+    "match_id": 2086532154,
+    "duration (seconds)": 1979,
+    "match_patch": "(2086532154,6.86)",
+    "Radiant Team": "Leviathan'",
+    "radiant_score": 0,
+    "Dire Team": "Shazam~",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-01-18T00:00:00.000Z",
+    "match_id": 2086566300,
+    "duration (seconds)": 1349,
+    "match_patch": "(2086566300,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "IQUITOS GAMING",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-01-18T00:00:00.000Z",
+    "match_id": 2086578768,
+    "duration (seconds)": 2123,
+    "match_patch": "(2086578768,6.86)",
+    "Radiant Team": "Shazam~",
+    "radiant_score": 0,
+    "Dire Team": "Leviathan'",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-01-18T00:00:00.000Z",
+    "match_id": 2086579160,
+    "duration (seconds)": 1203,
+    "match_patch": "(2086579160,6.86)",
+    "Radiant Team": "Jorge Solo Quiere Amigos",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2016-01-18T00:00:00.000Z",
+    "match_id": 2088382341,
+    "duration (seconds)": 2044,
+    "match_patch": "(2088382341,6.86)",
+    "Radiant Team": "Noo Logic Gaming",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-01-18T00:00:00.000Z",
+    "match_id": 2088464922,
+    "duration (seconds)": 1658,
+    "match_patch": "(2088464922,6.86)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Noo Logic Gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2016-01-18T00:00:00.000Z",
+    "match_id": 2088537519,
+    "duration (seconds)": 1087,
+    "match_patch": "(2088537519,6.86)",
+    "Radiant Team": "Noo Logic Gaming",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

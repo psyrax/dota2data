@@ -1,0 +1,178 @@
+[
+  {
+    "date": "2014-11-11T00:00:00.000Z",
+    "match_id": 1018715125,
+    "duration (seconds)": 1455,
+    "match_patch": "(1018715125,6.82)",
+    "Radiant Team": "BBUBU+4",
+    "radiant_score": 0,
+    "Dire Team": "FLAG TEST",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-11-11T00:00:00.000Z",
+    "match_id": 1018834907,
+    "duration (seconds)": 1977,
+    "match_patch": "(1018834907,6.82)",
+    "Radiant Team": "FLAG TEST",
+    "radiant_score": 0,
+    "Dire Team": "BBUBU+4",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-11-11T00:00:00.000Z",
+    "match_id": 1018939732,
+    "duration (seconds)": 3130,
+    "match_patch": "(1018939732,6.82)",
+    "Radiant Team": "Trust",
+    "radiant_score": 0,
+    "Dire Team": "Invasion eSports",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-11-11T00:00:00.000Z",
+    "match_id": 1019094051,
+    "duration (seconds)": 2311,
+    "match_patch": "(1019094051,6.82)",
+    "Radiant Team": "Veyron.International",
+    "radiant_score": 0,
+    "Dire Team": "Invasion eSports",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-11-11T00:00:00.000Z",
+    "match_id": 1019214133,
+    "duration (seconds)": 1353,
+    "match_patch": "(1019214133,6.82)",
+    "Radiant Team": "Invasion eSports",
+    "radiant_score": 0,
+    "Dire Team": "Veyron.International",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-11-11T00:00:00.000Z",
+    "match_id": 1019488543,
+    "duration (seconds)": 3287,
+    "match_patch": "(1019488543,6.82)",
+    "Radiant Team": "HellRaisers",
+    "radiant_score": 0,
+    "Dire Team": "AKG Acoustics",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-11-11T00:00:00.000Z",
+    "match_id": 1019549858,
+    "duration (seconds)": 1170,
+    "match_patch": "(1019549858,6.82)",
+    "Radiant Team": "AncientWarriorsGaming",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-11-11T00:00:00.000Z",
+    "match_id": 1019588763,
+    "duration (seconds)": 2557,
+    "match_patch": "(1019588763,6.82)",
+    "Radiant Team": "KomandaMinus",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-11-11T00:00:00.000Z",
+    "match_id": 1019680603,
+    "duration (seconds)": 905,
+    "match_patch": "(1019680603,6.82)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-11-11T00:00:00.000Z",
+    "match_id": 1019682408,
+    "duration (seconds)": 3074,
+    "match_patch": "(1019682408,6.82)",
+    "Radiant Team": "AncientWarriorsGaming",
+    "radiant_score": 0,
+    "Dire Team": "KomandaMinus",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-11-11T00:00:00.000Z",
+    "match_id": 1019720509,
+    "duration (seconds)": 2083,
+    "match_patch": "(1019720509,6.82)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-11-11T00:00:00.000Z",
+    "match_id": 1019782634,
+    "duration (seconds)": 2942,
+    "match_patch": "(1019782634,6.82)",
+    "Radiant Team": "KomandaMinus",
+    "radiant_score": 0,
+    "Dire Team": "AncientWarriorsGaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-11-11T00:00:00.000Z",
+    "match_id": 1019797974,
+    "duration (seconds)": 1455,
+    "match_patch": "(1019797974,6.82)",
+    "Radiant Team": "rebeldes",
+    "radiant_score": 0,
+    "Dire Team": "compLexity Gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-11-11T00:00:00.000Z",
+    "match_id": 1019804841,
+    "duration (seconds)": 2840,
+    "match_patch": "(1019804841,6.82)",
+    "Radiant Team": "The House is Down.",
+    "radiant_score": 0,
+    "Dire Team": "Leviathan'",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-11-11T00:00:00.000Z",
+    "match_id": 1019843660,
+    "duration (seconds)": 1543,
+    "match_patch": "(1019843660,6.82)",
+    "Radiant Team": "compLexity Gaming",
+    "radiant_score": 0,
+    "Dire Team": "rebeldes",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-11-11T00:00:00.000Z",
+    "match_id": 1019859397,
+    "duration (seconds)": 1307,
+    "match_patch": "(1019859397,6.82)",
+    "Radiant Team": "Leviathan'",
+    "radiant_score": 0,
+    "Dire Team": "The House is Down.",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

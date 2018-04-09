@@ -1,0 +1,68 @@
+[
+  {
+    "date": "2014-01-04T00:00:00.000Z",
+    "match_id": 453913976,
+    "duration (seconds)": 2152,
+    "match_patch": "(453913976,6.79)",
+    "Radiant Team": "DK",
+    "radiant_score": 0,
+    "Dire Team": "Invictus Gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-01-04T00:00:00.000Z",
+    "match_id": 453995551,
+    "duration (seconds)": 1925,
+    "match_patch": "(453995551,6.79)",
+    "Radiant Team": "Invictus Gaming",
+    "radiant_score": 0,
+    "Dire Team": "DK",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-01-04T00:00:00.000Z",
+    "match_id": 454182614,
+    "duration (seconds)": 2153,
+    "match_patch": "(454182614,6.79)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Invictus Gaming",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-01-04T00:00:00.000Z",
+    "match_id": 454287166,
+    "duration (seconds)": 4337,
+    "match_patch": "(454287166,6.79)",
+    "Radiant Team": "Invictus Gaming",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-01-04T00:00:00.000Z",
+    "match_id": 454523152,
+    "duration (seconds)": 1569,
+    "match_patch": "(454523152,6.79)",
+    "Radiant Team": "Invictus Gaming",
+    "radiant_score": 0,
+    "Dire Team": "Titan",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-01-04T00:00:00.000Z",
+    "match_id": 454610647,
+    "duration (seconds)": 2989,
+    "match_patch": "(454610647,6.79)",
+    "Radiant Team": "Titan",
+    "radiant_score": 0,
+    "Dire Team": "Invictus Gaming",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

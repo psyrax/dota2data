@@ -1,0 +1,68 @@
+[
+  {
+    "date": "2013-12-22T00:00:00.000Z",
+    "match_id": 435110887,
+    "duration (seconds)": 3015,
+    "match_patch": "(435110887,6.79)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "LGD-GAMING",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-12-22T00:00:00.000Z",
+    "match_id": 435214506,
+    "duration (seconds)": 1138,
+    "match_patch": "(435214506,6.79)",
+    "Radiant Team": "LGD-GAMING",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-12-22T00:00:00.000Z",
+    "match_id": 435299593,
+    "duration (seconds)": 1383,
+    "match_patch": "(435299593,6.79)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "LGD-GAMING",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-12-22T00:00:00.000Z",
+    "match_id": 435610930,
+    "duration (seconds)": 1736,
+    "match_patch": "(435610930,6.79)",
+    "Radiant Team": "DuskBin E-Sports",
+    "radiant_score": 0,
+    "Dire Team": "Orange Esports Dota",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-12-22T00:00:00.000Z",
+    "match_id": 435690282,
+    "duration (seconds)": 1471,
+    "match_patch": "(435690282,6.79)",
+    "Radiant Team": "Orange Esports Dota",
+    "radiant_score": 0,
+    "Dire Team": "DuskBin E-Sports",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-12-22T00:00:00.000Z",
+    "match_id": 435755402,
+    "duration (seconds)": 1288,
+    "match_patch": "(435755402,6.79)",
+    "Radiant Team": "DuskBin E-Sports",
+    "radiant_score": 0,
+    "Dire Team": "Orange Esports Dota",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

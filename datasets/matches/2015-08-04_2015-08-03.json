@@ -1,0 +1,24 @@
+[
+  {
+    "date": "2015-08-03T00:00:00.000Z",
+    "match_id": 1682143469,
+    "duration (seconds)": 3232,
+    "match_patch": "(1682143469,6.84)",
+    "Radiant Team": "Sad Voids",
+    "radiant_score": 0,
+    "Dire Team": "Battle Zone-",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-08-03T00:00:00.000Z",
+    "match_id": 1682212986,
+    "duration (seconds)": 2167,
+    "match_patch": "(1682212986,6.84)",
+    "Radiant Team": "Battle Zone-",
+    "radiant_score": 0,
+    "Dire Team": "Sad Voids",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "date": "2013-04-21T00:00:00.000Z",
+    "match_id": 178113850,
+    "duration (seconds)": 2164,
+    "match_patch": "(178113850,6.77)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Radical Online X-tremists",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-04-21T00:00:00.000Z",
+    "match_id": 178155209,
+    "duration (seconds)": 2061,
+    "match_patch": "(178155209,6.77)",
+    "Radiant Team": "Radical Online X-tremists",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-04-21T00:00:00.000Z",
+    "match_id": 178190299,
+    "duration (seconds)": 2130,
+    "match_patch": "(178190299,6.77)",
+    "Radiant Team": "Despicable Me 2",
+    "radiant_score": 0,
+    "Dire Team": "Invasion MUFC",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-04-21T00:00:00.000Z",
+    "match_id": 178234029,
+    "duration (seconds)": 1242,
+    "match_patch": "(178234029,6.77)",
+    "Radiant Team": "Invasion MUFC",
+    "radiant_score": 0,
+    "Dire Team": "Despicable Me 2",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-04-21T00:00:00.000Z",
+    "match_id": 178257509,
+    "duration (seconds)": 2353,
+    "match_patch": "(178257509,6.77)",
+    "Radiant Team": "Natus Vincere",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-04-21T00:00:00.000Z",
+    "match_id": 178270102,
+    "duration (seconds)": 1880,
+    "match_patch": "(178270102,6.77)",
+    "Radiant Team": "Despicable Me 2",
+    "radiant_score": 0,
+    "Dire Team": "Invasion MUFC",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-04-21T00:00:00.000Z",
+    "match_id": 178304078,
+    "duration (seconds)": 1890,
+    "match_patch": "(178304078,6.77)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Natus Vincere",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2013-04-21T00:00:00.000Z",
+    "match_id": 178398387,
+    "duration (seconds)": 1496,
+    "match_patch": "(178398387,6.77)",
+    "Radiant Team": "Radical Online X-tremists",
+    "radiant_score": 0,
+    "Dire Team": "Natus Vincere",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-04-21T00:00:00.000Z",
+    "match_id": 178430425,
+    "duration (seconds)": 2564,
+    "match_patch": "(178430425,6.77)",
+    "Radiant Team": "Natus Vincere",
+    "radiant_score": 0,
+    "Dire Team": "Radical Online X-tremists",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2013-04-21T00:00:00.000Z",
+    "match_id": 178480618,
+    "duration (seconds)": 1849,
+    "match_patch": "(178480618,6.77)",
+    "Radiant Team": "Radical Online X-tremists",
+    "radiant_score": 0,
+    "Dire Team": "Natus Vincere",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

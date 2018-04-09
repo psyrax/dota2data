@@ -1,0 +1,200 @@
+[
+  {
+    "date": "2014-04-03T00:00:00.000Z",
+    "match_id": 592092211,
+    "duration (seconds)": 1354,
+    "match_patch": "(592092211,6.80)",
+    "Radiant Team": "Zulu Nation",
+    "radiant_score": 0,
+    "Dire Team": "Team Bird's Nest",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-04-03T00:00:00.000Z",
+    "match_id": 592093855,
+    "duration (seconds)": 1269,
+    "match_patch": "(592093855,6.80)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Team Vas'Avi",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-04-03T00:00:00.000Z",
+    "match_id": 592114952,
+    "duration (seconds)": 2924,
+    "match_patch": "(592114952,6.80)",
+    "Radiant Team": "Zulu Nation",
+    "radiant_score": 0,
+    "Dire Team": "Team Bird's Nest",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-04-03T00:00:00.000Z",
+    "match_id": 592115619,
+    "duration (seconds)": 1413,
+    "match_patch": "(592115619,6.80)",
+    "Radiant Team": "Team Vas'Avi",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-04-03T00:00:00.000Z",
+    "match_id": 592155362,
+    "duration (seconds)": 2974,
+    "match_patch": "(592155362,6.80)",
+    "Radiant Team": "Zulu Nation",
+    "radiant_score": 0,
+    "Dire Team": "Team Bird's Nest",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-04-03T00:00:00.000Z",
+    "match_id": 592994026,
+    "duration (seconds)": 2190,
+    "match_patch": "(592994026,6.80)",
+    "Radiant Team": "Revival Dragons.",
+    "radiant_score": 0,
+    "Dire Team": "TheRerereTRY",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-04-03T00:00:00.000Z",
+    "match_id": 593014263,
+    "duration (seconds)": 1259,
+    "match_patch": "(593014263,6.80)",
+    "Radiant Team": "Team-ASC",
+    "radiant_score": 0,
+    "Dire Team": "Push it !",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-04-03T00:00:00.000Z",
+    "match_id": 593027587,
+    "duration (seconds)": 931,
+    "match_patch": "(593027587,6.80)",
+    "Radiant Team": "MELANCHOLIYA",
+    "radiant_score": 0,
+    "Dire Team": ".RUSSIAN DOTO BEST DOTO.",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-04-03T00:00:00.000Z",
+    "match_id": 593062179,
+    "duration (seconds)": 2490,
+    "match_patch": "(593062179,6.80)",
+    "Radiant Team": "Push it !",
+    "radiant_score": 0,
+    "Dire Team": "Team-ASC",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-04-03T00:00:00.000Z",
+    "match_id": 593062497,
+    "duration (seconds)": 1336,
+    "match_patch": "(593062497,6.80)",
+    "Radiant Team": "Simple 5.",
+    "radiant_score": 0,
+    "Dire Team": "4 Friends + Chrillee",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-04-03T00:00:00.000Z",
+    "match_id": 593068294,
+    "duration (seconds)": 2035,
+    "match_patch": "(593068294,6.80)",
+    "Radiant Team": "-Artificial Intelligence-",
+    "radiant_score": 0,
+    "Dire Team": "Born Incomplete",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-04-03T00:00:00.000Z",
+    "match_id": 593069276,
+    "duration (seconds)": 3195,
+    "match_patch": "(593069276,6.80)",
+    "Radiant Team": "Ahead.",
+    "radiant_score": 0,
+    "Dire Team": "Revival Dragons.",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-04-03T00:00:00.000Z",
+    "match_id": 593102993,
+    "duration (seconds)": 1861,
+    "match_patch": "(593102993,6.80)",
+    "Radiant Team": ".RUSSIAN DOTO BEST DOTO.",
+    "radiant_score": 0,
+    "Dire Team": "MELANCHOLIYA",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-04-03T00:00:00.000Z",
+    "match_id": 593209177,
+    "duration (seconds)": 1467,
+    "match_patch": "(593209177,6.80)",
+    "Radiant Team": "Turtlemasters",
+    "radiant_score": 0,
+    "Dire Team": "TeamCoast",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-04-03T00:00:00.000Z",
+    "match_id": 593212259,
+    "duration (seconds)": 4805,
+    "match_patch": "(593212259,6.80)",
+    "Radiant Team": "AncientWarriorsGaming",
+    "radiant_score": 0,
+    "Dire Team": "LucidLunatics",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-04-03T00:00:00.000Z",
+    "match_id": 593220311,
+    "duration (seconds)": 546,
+    "match_patch": "(593220311,6.80)",
+    "Radiant Team": "TEAM HYI",
+    "radiant_score": 0,
+    "Dire Team": "Sensei gaming.mtrx",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-04-03T00:00:00.000Z",
+    "match_id": 593246479,
+    "duration (seconds)": 1697,
+    "match_patch": "(593246479,6.80)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "TEAM HYI",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-04-03T00:00:00.000Z",
+    "match_id": 593255047,
+    "duration (seconds)": 2186,
+    "match_patch": "(593255047,6.80)",
+    "Radiant Team": "NO! Earthspirit",
+    "radiant_score": 0,
+    "Dire Team": "Cede.Nullis",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]

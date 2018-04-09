@@ -1,0 +1,222 @@
+[
+  {
+    "date": "2014-08-17T00:00:00.000Z",
+    "match_id": 839761527,
+    "duration (seconds)": 2408,
+    "match_patch": "(839761527,6.81)",
+    "Radiant Team": "Oracle Reborn",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-08-17T00:00:00.000Z",
+    "match_id": 839801496,
+    "duration (seconds)": 1358,
+    "match_patch": "(839801496,6.81)",
+    "Radiant Team": "BBUBU+4",
+    "radiant_score": 0,
+    "Dire Team": "Mahameru.ID",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-08-17T00:00:00.000Z",
+    "match_id": 839828769,
+    "duration (seconds)": 1512,
+    "match_patch": "(839828769,6.81)",
+    "Radiant Team": "MVP HOTSIX",
+    "radiant_score": 0,
+    "Dire Team": "BET BOYS",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-08-17T00:00:00.000Z",
+    "match_id": 839896642,
+    "duration (seconds)": 1745,
+    "match_patch": "(839896642,6.81)",
+    "Radiant Team": "Oracle Reborn",
+    "radiant_score": 0,
+    "Dire Team": "Mahameru.ID",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-08-17T00:00:00.000Z",
+    "match_id": 839902866,
+    "duration (seconds)": 2005,
+    "match_patch": "(839902866,6.81)",
+    "Radiant Team": "`Ardent Blaze",
+    "radiant_score": 0,
+    "Dire Team": "North Shore Gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-08-17T00:00:00.000Z",
+    "match_id": 839906845,
+    "duration (seconds)": 1813,
+    "match_patch": "(839906845,6.81)",
+    "Radiant Team": "ZephyrDota",
+    "radiant_score": 0,
+    "Dire Team": "Team Poker Face",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-08-17T00:00:00.000Z",
+    "match_id": 839975793,
+    "duration (seconds)": 2021,
+    "match_patch": "(839975793,6.81)",
+    "Radiant Team": "North Shore Gaming",
+    "radiant_score": 0,
+    "Dire Team": "`Ardent Blaze",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-08-17T00:00:00.000Z",
+    "match_id": 839991910,
+    "duration (seconds)": 1625,
+    "match_patch": "(839991910,6.81)",
+    "Radiant Team": "MVP Phoenix",
+    "radiant_score": 0,
+    "Dire Team": "Team Poker Face",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-08-17T00:00:00.000Z",
+    "match_id": 840065235,
+    "duration (seconds)": 2183,
+    "match_patch": "(840065235,6.81)",
+    "Radiant Team": "`Ardent Blaze",
+    "radiant_score": 0,
+    "Dire Team": "north shor gaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-08-17T00:00:00.000Z",
+    "match_id": 840162818,
+    "duration (seconds)": 1065,
+    "match_patch": "(840162818,6.81)",
+    "Radiant Team": "BBUBU+4",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-08-17T00:00:00.000Z",
+    "match_id": 840786357,
+    "duration (seconds)": 3093,
+    "match_patch": "(840786357,6.81)",
+    "Radiant Team": "Titan",
+    "radiant_score": 0,
+    "Dire Team": "Scythe.SG-",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-08-17T00:00:00.000Z",
+    "match_id": 840930711,
+    "duration (seconds)": 2517,
+    "match_patch": "(840930711,6.81)",
+    "Radiant Team": "Lion Soul",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-08-17T00:00:00.000Z",
+    "match_id": 840946184,
+    "duration (seconds)": 3687,
+    "match_patch": "(840946184,6.81)",
+    "Radiant Team": "Scythe.SG-",
+    "radiant_score": 0,
+    "Dire Team": "Titan",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-08-17T00:00:00.000Z",
+    "match_id": 841068085,
+    "duration (seconds)": 1807,
+    "match_patch": "(841068085,6.81)",
+    "Radiant Team": "Turtlemasters",
+    "radiant_score": 0,
+    "Dire Team": "AncientWarriorsGaming",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-08-17T00:00:00.000Z",
+    "match_id": 841081813,
+    "duration (seconds)": 4874,
+    "match_patch": "(841081813,6.81)",
+    "Radiant Team": "Scythe.SG-",
+    "radiant_score": 0,
+    "Dire Team": "Titan",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-08-17T00:00:00.000Z",
+    "match_id": 841095105,
+    "duration (seconds)": 1560,
+    "match_patch": "(841095105,6.81)",
+    "Radiant Team": "AftershockGaming Int.",
+    "radiant_score": 0,
+    "Dire Team": "Team.GO",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2014-08-17T00:00:00.000Z",
+    "match_id": 841255418,
+    "duration (seconds)": 1413,
+    "match_patch": "(841255418,6.81)",
+    "Radiant Team": "BIRAK",
+    "radiant_score": 0,
+    "Dire Team": "AftershockGaming Int.",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-08-17T00:00:00.000Z",
+    "match_id": 841262513,
+    "duration (seconds)": 2415,
+    "match_patch": "(841262513,6.81)",
+    "Radiant Team": "Tables Turned",
+    "radiant_score": 0,
+    "Dire Team": "Team.GO",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-08-17T00:00:00.000Z",
+    "match_id": 841291787,
+    "duration (seconds)": 3284,
+    "match_patch": "(841291787,6.81)",
+    "Radiant Team": "THE SACRED CLAN ONCE",
+    "radiant_score": 0,
+    "Dire Team": "Elysium Gaming.CMSTORM",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2014-08-17T00:00:00.000Z",
+    "match_id": 841390658,
+    "duration (seconds)": 1364,
+    "match_patch": "(841390658,6.81)",
+    "Radiant Team": "Elysium Gaming.CMSTORM",
+    "radiant_score": 0,
+    "Dire Team": "THE SACRED CLAN ONCE",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

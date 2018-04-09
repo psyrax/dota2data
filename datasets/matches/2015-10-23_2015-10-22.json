@@ -1,0 +1,101 @@
+[
+  {
+    "date": "2015-10-22T00:00:00.000Z",
+    "match_id": 1883076006,
+    "duration (seconds)": 1700,
+    "match_patch": "(1883076006,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "Jugamos Poquito",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-10-22T00:00:00.000Z",
+    "match_id": 1883252974,
+    "duration (seconds)": 1104,
+    "match_patch": "(1883252974,6.85)",
+    "Radiant Team": null,
+    "radiant_score": 0,
+    "Dire Team": "disney col",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-10-22T00:00:00.000Z",
+    "match_id": 1883304486,
+    "duration (seconds)": 2945,
+    "match_patch": "(1883304486,6.85)",
+    "Radiant Team": "disney col",
+    "radiant_score": 0,
+    "Dire Team": null,
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-10-22T00:00:00.000Z",
+    "match_id": 1884430839,
+    "duration (seconds)": 2242,
+    "match_patch": "(1884430839,6.85)",
+    "Radiant Team": "Noo Logic Gaming",
+    "radiant_score": 0,
+    "Dire Team": "Team Empire",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-10-22T00:00:00.000Z",
+    "match_id": 1884566440,
+    "duration (seconds)": 2240,
+    "match_patch": "(1884566440,6.85)",
+    "Radiant Team": "Team Empire",
+    "radiant_score": 0,
+    "Dire Team": "Noo Logic Gaming",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-10-22T00:00:00.000Z",
+    "match_id": 1884698507,
+    "duration (seconds)": 2089,
+    "match_patch": "(1884698507,6.85)",
+    "Radiant Team": "Noo Logic Gaming",
+    "radiant_score": 0,
+    "Dire Team": "Team Empire",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-10-22T00:00:00.000Z",
+    "match_id": 1884809485,
+    "duration (seconds)": 1764,
+    "match_patch": "(1884809485,6.85)",
+    "Radiant Team": "Mamas-Boys",
+    "radiant_score": 0,
+    "Dire Team": "Natus Vincere",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-10-22T00:00:00.000Z",
+    "match_id": 1884887055,
+    "duration (seconds)": 2003,
+    "match_patch": "(1884887055,6.85)",
+    "Radiant Team": "Natus Vincere",
+    "radiant_score": 0,
+    "Dire Team": "Mamas-Boys",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-10-22T00:00:00.000Z",
+    "match_id": 1884954947,
+    "duration (seconds)": 2248,
+    "match_patch": "(1884954947,6.85)",
+    "Radiant Team": "Mamas-Boys",
+    "radiant_score": 0,
+    "Dire Team": "Natus Vincere",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2015-06-18T00:00:00.000Z",
+    "match_id": 1562229591,
+    "duration (seconds)": 1737,
+    "match_patch": "(1562229591,6.84)",
+    "Radiant Team": "_PowerRangers",
+    "radiant_score": 0,
+    "Dire Team": "Vega Squadron",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-06-18T00:00:00.000Z",
+    "match_id": 1562391922,
+    "duration (seconds)": 1301,
+    "match_patch": "(1562391922,6.84)",
+    "Radiant Team": "Vega Squadron",
+    "radiant_score": 0,
+    "Dire Team": "_PowerRangers",
+    "dire_score": 0,
+    "Winner": "Radiant"
+  },
+  {
+    "date": "2015-06-18T00:00:00.000Z",
+    "match_id": 1562518368,
+    "duration (seconds)": 3009,
+    "match_patch": "(1562518368,6.84)",
+    "Radiant Team": "Vega Squadron",
+    "radiant_score": 0,
+    "Dire Team": "_PowerRangers",
+    "dire_score": 0,
+    "Winner": "Dire"
+  },
+  {
+    "date": "2015-06-18T00:00:00.000Z",
+    "match_id": 1562692288,
+    "duration (seconds)": 1692,
+    "match_patch": "(1562692288,6.84)",
+    "Radiant Team": "_PowerRangers",
+    "radiant_score": 0,
+    "Dire Team": "Vega Squadron",
+    "dire_score": 0,
+    "Winner": "Dire"
+  }
+]
