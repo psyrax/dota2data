@@ -1,0 +1,36 @@
+[
+  {
+    "match_id": 3351210114,
+    "avg": "2655.0000000000000000",
+    "count": 1,
+    "winrate": 0.5,
+    "winrate_wilson": 0.236589593615487,
+    "sum": 26550,
+    "min": 2655,
+    "max": 2655,
+    "match_patch": "(3351210114,7.06)",
+    "radiant_team_id": 4483681,
+    "dire_team_id": 4542817,
+    "radiant_win": false,
+    "radiant_score": 36,
+    "dire_score": 46,
+    "League": "AEF Season 2"
+  },
+  {
+    "match_id": 3351298199,
+    "avg": "1395.0000000000000000",
+    "count": 1,
+    "winrate": 0.5,
+    "winrate_wilson": 0.236589593615487,
+    "sum": 13950,
+    "min": 1395,
+    "max": 1395,
+    "match_patch": "(3351298199,7.06)",
+    "radiant_team_id": 4483681,
+    "dire_team_id": 4542817,
+    "radiant_win": false,
+    "radiant_score": 17,
+    "dire_score": 27,
+    "League": "AEF Season 2"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "match_id": 3462634109,
+    "avg": "2954.0000000000000000",
+    "count": 1,
+    "winrate": 0.5,
+    "winrate_wilson": 0.236589593615487,
+    "sum": 29540,
+    "min": 2954,
+    "max": 2954,
+    "match_patch": "(3462634109,7.06)",
+    "radiant_team_id": 3763318,
+    "dire_team_id": 2880140,
+    "radiant_win": false,
+    "radiant_score": 26,
+    "dire_score": 49,
+    "League": "ProDotA Cup by Azubu"
+  },
+  {
+    "match_id": 3462772314,
+    "avg": "2443.0000000000000000",
+    "count": 1,
+    "winrate": 0.5,
+    "winrate_wilson": 0.236589593615487,
+    "sum": 24430,
+    "min": 2443,
+    "max": 2443,
+    "match_patch": "(3462772314,7.06)",
+    "radiant_team_id": 3763318,
+    "dire_team_id": 2880140,
+    "radiant_win": true,
+    "radiant_score": 30,
+    "dire_score": 37,
+    "League": "ProDotA Cup by Azubu"
+  },
+  {
+    "match_id": 3462903399,
+    "avg": "2081.0000000000000000",
+    "count": 1,
+    "winrate": 0.5,
+    "winrate_wilson": 0.236589593615487,
+    "sum": 20810,
+    "min": 2081,
+    "max": 2081,
+    "match_patch": "(3462903399,7.06)",
+    "radiant_team_id": 3763318,
+    "dire_team_id": 2880140,
+    "radiant_win": false,
+    "radiant_score": 20,
+    "dire_score": 37,
+    "League": "ProDotA Cup by Azubu"
+  }
+]

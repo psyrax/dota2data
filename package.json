@@ -1,0 +1,19 @@
+{
+  "name": "dota2data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.3.2",
+    "jsonfile": "^4.0.0",
+    "moment": "^2.22.0",
+    "sleep": "^5.1.1",
+    "superagent": "^3.8.2",
+    "superagent-throttle": "^0.2.5"
+  }
+}

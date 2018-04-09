@@ -1,0 +1,53 @@
+[
+  {
+    "match_id": 3527037916,
+    "avg": "2170.0000000000000000",
+    "count": 1,
+    "winrate": 0.5,
+    "winrate_wilson": 0.236589593615487,
+    "sum": 21700,
+    "min": 2170,
+    "max": 2170,
+    "match_patch": "(3527037916,7.06)",
+    "radiant_team_id": 3927252,
+    "dire_team_id": 5067988,
+    "radiant_win": true,
+    "radiant_score": 31,
+    "dire_score": 20,
+    "League": "ESL India Premiership - Season One"
+  },
+  {
+    "match_id": 3528004616,
+    "avg": "2041.0000000000000000",
+    "count": 1,
+    "winrate": 0.5,
+    "winrate_wilson": 0.236589593615487,
+    "sum": 20410,
+    "min": 2041,
+    "max": 2041,
+    "match_patch": "(3528004616,7.06)",
+    "radiant_team_id": 4429098,
+    "dire_team_id": 3704482,
+    "radiant_win": false,
+    "radiant_score": 16,
+    "dire_score": 30,
+    "League": "D2CL Season 7"
+  },
+  {
+    "match_id": 3528114380,
+    "avg": "1460.0000000000000000",
+    "count": 1,
+    "winrate": 0.5,
+    "winrate_wilson": 0.236589593615487,
+    "sum": 14600,
+    "min": 1460,
+    "max": 1460,
+    "match_patch": "(3528114380,7.06)",
+    "radiant_team_id": 3704482,
+    "dire_team_id": 4429098,
+    "radiant_win": true,
+    "radiant_score": 26,
+    "dire_score": 17,
+    "League": "D2CL Season 7"
+  }
+]

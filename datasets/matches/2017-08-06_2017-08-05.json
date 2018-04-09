@@ -1,0 +1,19 @@
+[
+  {
+    "match_id": 3357211568,
+    "avg": "1073.0000000000000000",
+    "count": 1,
+    "winrate": 0.5,
+    "winrate_wilson": 0.236589593615487,
+    "sum": 10730,
+    "min": 1073,
+    "max": 1073,
+    "match_patch": "(3357211568,7.06)",
+    "radiant_team_id": 4963792,
+    "dire_team_id": 4819518,
+    "radiant_win": false,
+    "radiant_score": 7,
+    "dire_score": 25,
+    "League": "Polupro ladder league season 1"
+  }
+]

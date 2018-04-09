@@ -1,0 +1,36 @@
+[
+  {
+    "match_id": 3544437630,
+    "avg": "2486.0000000000000000",
+    "count": 1,
+    "winrate": 0.5,
+    "winrate_wilson": 0.236589593615487,
+    "sum": 24860,
+    "min": 2486,
+    "max": 2486,
+    "match_patch": "(3544437630,7.07)",
+    "radiant_team_id": 4997871,
+    "dire_team_id": 5000254,
+    "radiant_win": false,
+    "radiant_score": 20,
+    "dire_score": 44,
+    "League": "Dota 2 Professional League 2016"
+  },
+  {
+    "match_id": 3544571330,
+    "avg": "1811.0000000000000000",
+    "count": 1,
+    "winrate": 0.5,
+    "winrate_wilson": 0.236589593615487,
+    "sum": 18110,
+    "min": 1811,
+    "max": 1811,
+    "match_patch": "(3544571330,7.07)",
+    "radiant_team_id": 4997871,
+    "dire_team_id": 5000254,
+    "radiant_win": false,
+    "radiant_score": 27,
+    "dire_score": 42,
+    "League": "Dota 2 Professional League 2016"
+  }
+]

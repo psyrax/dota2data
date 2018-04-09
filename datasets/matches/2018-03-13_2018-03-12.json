@@ -1,0 +1,19 @@
+[
+  {
+    "match_id": 3777145560,
+    "avg": "2579.0000000000000000",
+    "count": 1,
+    "winrate": 0.5,
+    "winrate_wilson": 0.236589593615487,
+    "sum": 25790,
+    "min": 2579,
+    "max": 2579,
+    "match_patch": "(3777145560,7.10)",
+    "radiant_team_id": 350190,
+    "dire_team_id": 3785359,
+    "radiant_win": true,
+    "radiant_score": 28,
+    "dire_score": 17,
+    "League": "SL i-League Invitational Season 2"
+  }
+]

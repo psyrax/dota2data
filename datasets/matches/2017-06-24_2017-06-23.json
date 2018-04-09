@@ -1,0 +1,19 @@
+[
+  {
+    "match_id": 3267398228,
+    "avg": "1921.0000000000000000",
+    "count": 1,
+    "winrate": 0.5,
+    "winrate_wilson": 0.236589593615487,
+    "sum": 19210,
+    "min": 1921,
+    "max": 1921,
+    "match_patch": "(3267398228,7.06)",
+    "radiant_team_id": 1905619,
+    "dire_team_id": 3922738,
+    "radiant_win": false,
+    "radiant_score": 17,
+    "dire_score": 30,
+    "League": "ProDotA Cup Series by Azubu.tv"
+  }
+]

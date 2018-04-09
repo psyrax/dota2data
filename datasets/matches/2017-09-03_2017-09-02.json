@@ -1,0 +1,19 @@
+[
+  {
+    "match_id": 3420017776,
+    "avg": "2073.0000000000000000",
+    "count": 1,
+    "winrate": 0.5,
+    "winrate_wilson": 0.236589593615487,
+    "sum": 20730,
+    "min": 2073,
+    "max": 2073,
+    "match_patch": "(3420017776,7.06)",
+    "radiant_team_id": 4003354,
+    "dire_team_id": 3846296,
+    "radiant_win": false,
+    "radiant_score": 15,
+    "dire_score": 36,
+    "League": "ESL India Premiership - 2017 Edition"
+  }
+]

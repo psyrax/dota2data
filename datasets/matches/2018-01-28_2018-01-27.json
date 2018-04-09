@@ -1,0 +1,53 @@
+[
+  {
+    "match_id": 3703128605,
+    "avg": "1301.0000000000000000",
+    "count": 1,
+    "winrate": 0.5,
+    "winrate_wilson": 0.236589593615487,
+    "sum": 13010,
+    "min": 1301,
+    "max": 1301,
+    "match_patch": "(3703128605,7.07)",
+    "radiant_team_id": null,
+    "dire_team_id": null,
+    "radiant_win": false,
+    "radiant_score": 12,
+    "dire_score": 28,
+    "League": "D2CL Season 6"
+  },
+  {
+    "match_id": 3703053428,
+    "avg": "1043.0000000000000000",
+    "count": 1,
+    "winrate": 0.5,
+    "winrate_wilson": 0.236589593615487,
+    "sum": 10430,
+    "min": 1043,
+    "max": 1043,
+    "match_patch": "(3703053428,7.07)",
+    "radiant_team_id": null,
+    "dire_team_id": null,
+    "radiant_win": false,
+    "radiant_score": 4,
+    "dire_score": 24,
+    "League": "D2CL Season 6"
+  },
+  {
+    "match_id": 3703006019,
+    "avg": "775.0000000000000000",
+    "count": 1,
+    "winrate": 0.5,
+    "winrate_wilson": 0.236589593615487,
+    "sum": 7750,
+    "min": 775,
+    "max": 775,
+    "match_patch": "(3703006019,7.07)",
+    "radiant_team_id": 1832002,
+    "dire_team_id": null,
+    "radiant_win": true,
+    "radiant_score": 25,
+    "dire_score": 0,
+    "League": "D2CL Season 6"
+  }
+]

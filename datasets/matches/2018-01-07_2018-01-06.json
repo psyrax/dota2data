@@ -1,0 +1,53 @@
+[
+  {
+    "match_id": 3662935948,
+    "avg": "2480.0000000000000000",
+    "count": 1,
+    "winrate": 0.5,
+    "winrate_wilson": 0.236589593615487,
+    "sum": 24800,
+    "min": 2480,
+    "max": 2480,
+    "match_patch": "(3662935948,7.07)",
+    "radiant_team_id": null,
+    "dire_team_id": null,
+    "radiant_win": true,
+    "radiant_score": 49,
+    "dire_score": 33,
+    "League": "Polupro ladder league season 1"
+  },
+  {
+    "match_id": 3663028747,
+    "avg": "1950.0000000000000000",
+    "count": 1,
+    "winrate": 0.5,
+    "winrate_wilson": 0.236589593615487,
+    "sum": 19500,
+    "min": 1950,
+    "max": 1950,
+    "match_patch": "(3663028747,7.07)",
+    "radiant_team_id": 3586501,
+    "dire_team_id": 5095580,
+    "radiant_win": false,
+    "radiant_score": 22,
+    "dire_score": 49,
+    "League": "Polupro ladder league season 1"
+  },
+  {
+    "match_id": 3662981276,
+    "avg": "1356.0000000000000000",
+    "count": 1,
+    "winrate": 0.5,
+    "winrate_wilson": 0.236589593615487,
+    "sum": 13560,
+    "min": 1356,
+    "max": 1356,
+    "match_patch": "(3662981276,7.07)",
+    "radiant_team_id": null,
+    "dire_team_id": 3586501,
+    "radiant_win": false,
+    "radiant_score": 11,
+    "dire_score": 28,
+    "League": "Polupro ladder league season 1"
+  }
+]

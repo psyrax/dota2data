@@ -1,0 +1,36 @@
+[
+  {
+    "match_id": 3365540698,
+    "avg": "2639.0000000000000000",
+    "count": 1,
+    "winrate": 0.5,
+    "winrate_wilson": 0.236589593615487,
+    "sum": 26390,
+    "min": 2639,
+    "max": 2639,
+    "match_patch": "(3365540698,7.06)",
+    "radiant_team_id": 1732138,
+    "dire_team_id": 3846296,
+    "radiant_win": false,
+    "radiant_score": 16,
+    "dire_score": 39,
+    "League": "ESL India Premiership - 2017 Edition"
+  },
+  {
+    "match_id": 3365577076,
+    "avg": "828.0000000000000000",
+    "count": 1,
+    "winrate": 0.5,
+    "winrate_wilson": 0.236589593615487,
+    "sum": 8280,
+    "min": 828,
+    "max": 828,
+    "match_patch": "(3365577076,7.06)",
+    "radiant_team_id": 4003354,
+    "dire_team_id": 4426165,
+    "radiant_win": false,
+    "radiant_score": 5,
+    "dire_score": 27,
+    "League": "ESL India Premiership - 2017 Edition"
+  }
+]

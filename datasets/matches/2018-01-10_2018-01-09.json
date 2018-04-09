@@ -1,0 +1,19 @@
+[
+  {
+    "match_id": 3668956508,
+    "avg": "3383.0000000000000000",
+    "count": 1,
+    "winrate": 0.5,
+    "winrate_wilson": 0.236589593615487,
+    "sum": 33830,
+    "min": 3383,
+    "max": 3383,
+    "match_patch": "(3668956508,7.07)",
+    "radiant_team_id": 639722,
+    "dire_team_id": 2795329,
+    "radiant_win": false,
+    "radiant_score": 41,
+    "dire_score": 53,
+    "League": "Tecnolan 2015"
+  }
+]

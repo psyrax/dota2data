@@ -1,0 +1,53 @@
+[
+  {
+    "match_id": 3482967398,
+    "avg": "2807.0000000000000000",
+    "count": 1,
+    "winrate": 0.5,
+    "winrate_wilson": 0.236589593615487,
+    "sum": 28070,
+    "min": 2807,
+    "max": 2807,
+    "match_patch": "(3482967398,7.06)",
+    "radiant_team_id": 4541043,
+    "dire_team_id": 5011202,
+    "radiant_win": true,
+    "radiant_score": 45,
+    "dire_score": 26,
+    "League": "ProDotA Cup Series"
+  },
+  {
+    "match_id": 3483071699,
+    "avg": "2367.0000000000000000",
+    "count": 1,
+    "winrate": 0.5,
+    "winrate_wilson": 0.236589593615487,
+    "sum": 23670,
+    "min": 2367,
+    "max": 2367,
+    "match_patch": "(3483071699,7.06)",
+    "radiant_team_id": 4541043,
+    "dire_team_id": 5011202,
+    "radiant_win": false,
+    "radiant_score": 26,
+    "dire_score": 33,
+    "League": "ProDotA Cup Series"
+  },
+  {
+    "match_id": 3482902056,
+    "avg": "1208.0000000000000000",
+    "count": 1,
+    "winrate": 0.5,
+    "winrate_wilson": 0.236589593615487,
+    "sum": 12080,
+    "min": 1208,
+    "max": 1208,
+    "match_patch": "(3482902056,7.06)",
+    "radiant_team_id": 4541043,
+    "dire_team_id": 5011202,
+    "radiant_win": false,
+    "radiant_score": 5,
+    "dire_score": 22,
+    "League": "ProDotA Cup Series"
+  }
+]
